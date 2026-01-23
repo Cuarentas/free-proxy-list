@@ -54,34 +54,35 @@ Click on your preferred proxy type to get the latest list. These links always po
 
 <!-- BEGIN PROXY LIST -->
 
-Last Updated: 2026-01-23 12:42:57 UTC
+Last Updated: 2026-01-23 13:42:36 UTC
 
-**Total Proxies: 1935148**
+**Total Proxies: 1918864**
 
 Click on your preferred proxy type to get the latest list. These links always point to the most recently updated proxy files.
 
 | Protocol | Count | Download |
 |----------|-------|----------|
 | ANYTLS | 1 | https://raw.githubusercontent.com/wiki/gfpcom/free-proxy-list/lists/anytls.txt |
+| EYJHZGQIOIAIMTG4LJEXNC45NY4ZIIWGIMFPZCI6ICIWIIWGIMFSCG4IOIAIIIWGIMZWIJOGIIISICJOB3N0IJOGIMFMCMHTCZE2DI5IZXN0EHJHES5IDXP6IIWGIMLKIJOGIMY1ODRKZTE1LTIWMZQTNDE3MC1HNZIZLWY0OGMYYMFLNWUWZIISICJUZXQIOIAID3MILCAICGF0ACI6ICIVBGLUA3DZIIWGINBVCNQIOIAINDQZIIWGINNJESI6ICJHDXRVIIWGINNUASI6ICJHZNJOBXMXNNYUYMVZDHHYYXKUYNV6EIISICJ0BHMIOIAIDGXZIIWGINR5CGUIOIAIIIWGINYIOIAIMIISICJWCYI6ICJASG9WZV9OZXQTAM9PBI11CY1VBI1UZWXLZ3JHBSJ9VLESS | 1 | https://raw.githubusercontent.com/wiki/gfpcom/free-proxy-list/lists/eyjhzgqioiaimtg4ljexnc45ny4ziiwgimfpzci6iciwiiwgimfscg4ioiaiiiwgimzwijogiiisicjob3n0ijogimfmcmhtcze2di5izxn0ehjhes5idxp6iiwgimlkijogimy1odrkzte1ltiwmzqtnde3mc1hnzizlwy0ogmyymflnwuwziisicjuzxqioiaid3milcaicgf0aci6icivbglua3dziiwginbvcnqioiaindqziiwginnjesi6icjhdxrviiwginnuasi6icjhznjobxmxnnyuymvzdhhyyxkuynv6eiisicj0bhmioiaidgxziiwginr5cguioiaiiiwginyioiaimiisicjwcyi6icjasg9wzv9ozxqtam9pbi11cy1vbi1uzwxlz3jhbsj9vless.txt |
 | EYJHZGQIOII0NS44OC4XODMUMTG0IIWIYWLKIJOIMCISIMFSCG4IOIIILCJMCCI6IIISIMHVC3QIOIIILCJPZCI6IJUXODQ4YJJJLTGWMJYTNDEYZS05ZJA2LTLIMMI1ZWNKMTCWOCISIMLUC2VJDXJLIJOIMCISIM5LDCI6INDZIIWICGF0ACI6II8ILCJWB3J0IJOINDQZIIWICHMIOIJAVNBUTWFHBNWZIIWIC2N5IJOIYXV0BYISINNUASI6IIISINRSCYI6IIISINR5CGUIOIITLS0ILCJ2IJOIMIJ9VLESS | 1 | https://raw.githubusercontent.com/wiki/gfpcom/free-proxy-list/lists/eyjhzgqioii0ns44oc4xodmumtg0iiwiywlkijoimcisimfscg4ioiiilcjmcci6iiisimhvc3qioiiilcjpzci6ijuxodq4yjjjltgwmjytndeyzs05zja2ltlimmi1zwnkmtcwocisimluc2vjdxjlijoimcisim5ldci6indziiwicgf0aci6ii8ilcjwb3j0ijoindqziiwichmioijavnbutwfhbnwziiwic2n5ijoiyxv0byisinnuasi6iiisinrscyi6iiisinr5cguioiitls0ilcj2ijoimij9vless.txt |
 | EYJHZGQIOII1LJE2MC4XOTCUNZGILCJHAWQIOIIWIIWIYWXWBII6IIISIMZWIJOIY2HYB21LIIWIAG9ZDCI6IND3DY52YXJ6ZXNOMY5JB20ILCJPZCI6IMFHN2RKOTZIMGE3ZDGXZGIYZTCXNTUZYWJLMTKYNJIWIIWIBMV0IJOIDGNWIIWICGF0ACI6II8ILCJWB3J0IJOIMTC1NJQILCJWCYI6IVCFLLBARMFZDF8YCMF5IPCFKYJYS9IX2YJYSDMH2KFBJOKAJNIO24ZYTNIQ2LEILCJZY3KIOIJHDXRVIIWIC25PIJOIIIWIDGXZIJOIIIWIDHLWZSI6IMH0DHAILCJ2IJOIMIJ9VLESS | 1 | https://raw.githubusercontent.com/wiki/gfpcom/free-proxy-list/lists/eyjhzgqioii1lje2mc4xotcunzgilcjhawqioiiwiiwiywxwbii6iiisimzwijoiy2hyb21liiwiag9zdci6ind3dy52yxj6zxnomy5jb20ilcjpzci6imfhn2rkotzimge3zdgxzgiyztcxntuzywjlmtkynjiwiiwibmv0ijoidgnwiiwicgf0aci6ii8ilcjwb3j0ijoimtc1njqilcjwcyi6ivcfllbarmfzdf8ycmf5ipcfkyjys9ix2yjysdmh2kfbjokajnio24zytniq2leilcjzy3kioijhdxrviiwic25pijoiiiwidgxzijoiiiwidhlwzsi6imh0dhailcj2ijoimij9vless.txt |
 | EYJHZGQIOII4MS4XMI4ZMY4XODIILCJHAWQIOIIWIIWIYWXWBII6IIISIMZWIJOIIIWIAG9ZDCI6INBHCNNHYNIUY29TIIWIAWQIOIIXNMVIZTI1ZI02NTI0LTQ3OWITOGQWYY1LYTLKNZQ2OGNMYZKILCJUZXQIOIJ0Y3AILCJWYXROIJOIL2FWAS9YZWDPC3RLCI9UZXCVBMFTZS9KYXYVCMVZCG9UC2UVY21WMGFYSMXAQ0JVWLD4C2J5QM9IM2NNWVHKBELIBHZKU0IWYUDSEKLHBHPJRZE1SUC1BGR5QM9AV0ZRWLHJZ2QILCJWB3J0IJOIMJAYNCISINBZIJOIQEDVBGVZDGFUX1ZQTIATIPCFN6IILCJZY3KIOIJHDXRVIIWIC25PIJOIIIWIDGXZIJOIIIWIDHLWZSI6IMH0DHAILCJ2IJOIMIJ9VLESS | 1 | https://raw.githubusercontent.com/wiki/gfpcom/free-proxy-list/lists/eyjhzgqioii4ms4xmi4zmy4xodiilcjhawqioiiwiiwiywxwbii6iiisimzwijoiiiwiag9zdci6inbhcnnhyniuy29tiiwiawqioiixnmvizti1zi02nti0ltq3owitogqwyy1lytlknzq2ognmyzkilcjuzxqioij0y3ailcjwyxroijoil2fwas9yzwdpc3rlci9uzxcvbmftzs9kyxyvcmvzcg9uc2uvy21wmgfysmxaq0jvwld4c2j5qm9im2nnwvhkbelibhzku0iwyudseklhbhpjrze1suc1bgr5qm9av0zrwlhjz2qilcjwb3j0ijoimjayncisinbzijoiqedvbgvzdgfux1zqtiatipcfn6iilcjzy3kioijhdxrviiwic25pijoiiiwidgxzijoiiiwidhlwzsi6imh0dhailcj2ijoimij9vless.txt |
 | EYJHZGQIOII5MS4XMDCUMJE3LJIZNIISIMFPZCI6IJAILCJHBHBUIJOIIIWIZNAIOIIILCJOB3N0IJOIIIWIAWQIOIIXYMRJMWI4ZI0WYTIWLTRKYZGTOGY3MY1LMDA4ZJY0ZGE2NWUILCJUZXQIOIJ0Y3AILCJWYXROIJOIIIWICG9YDCI6IJIWODYILCJWCYI6IKBTZWXPX3BYB3H5EDIZ2LHZINIX2KFBJOKAJNIO24ZYTNIQ2LEILCJZY3KIOIJHDXRVIIWIC25PIJOIIIWIDGXZIJOIIIWIDHLWZSI6IM5VBMUILCJ2IJOIMIJ9SS | 1 | https://raw.githubusercontent.com/wiki/gfpcom/free-proxy-list/lists/eyjhzgqioii5ms4xmdcumje3ljizniisimfpzci6ijailcjhbhbuijoiiiwiznaioiiilcjob3n0ijoiiiwiawqioiixymrjmwi4zi0wytiwltrkyzgtogy3my1lmda4zjy0zge2nwuilcjuzxqioij0y3ailcjwyxroijoiiiwicg9ydci6ijiwodyilcjwcyi6ikbtzwxpx3byb3h5ediz2lhzinix2kfbjokajnio24zytniq2leilcjzy3kioijhdxrviiwic25pijoiiiwidgxzijoiiiwidhlwzsi6im5vbmuilcj2ijoimij9ss.txt |
 | EYJHZGQIOIIXODGUMZQUMTK0LJE2NSISIMFPZCI6IJAILCJHBHBUIJOIIIWIZNAIOIIILCJOB3N0IJOIIIWIAWQIOIJGAWX0ZXITU2HJYW4ILCJUZXQIOIJZCGXPDGH0DHAILCJWYXROIJOILYISINBVCNQIOIIYMDGZIIWICHMIOIJABWVSAV9WCM94EXNYS9IX2YJYSDIN24ZIGIZYQNUM2LTYQTIXIIWIC2N5IJOIYXV0BYISINNUASI6IIISINRSCYI6IIISINR5CGUIOIIILCJ2IJOIMIJ9SS | 1 | https://raw.githubusercontent.com/wiki/gfpcom/free-proxy-list/lists/eyjhzgqioiixodgumzqumtk0lje2nsisimfpzci6ijailcjhbhbuijoiiiwiznaioiiilcjob3n0ijoiiiwiawqioijgawx0zxitu2hjyw4ilcjuzxqioijzcgxpdgh0dhailcjwyxroijoilyisinbvcnqioiiymdgziiwichmioijabwvsav9wcm94exnys9ix2yjysdin24zigizyqnum2ltyqtixiiwic2n5ijoiyxv0byisinnuasi6iiisinrscyi6iiisinr5cguioiiilcj2ijoimij9ss.txt |
 | EYJHZGQIOIIYMDAXOMJJODOZMMQ3OJIWMTM6OJGILCJHAWQIOIIWIIWIYWXWBII6IIISIMZWIJOIIIWIAG9ZDCI6IND3DY5IAW5NLMNVBSISIMLKIJOIZTE3ODZKNDKTY2NIYS00NJZILWEWZGQTZTFHYJU5YMQ4M2JIIIWIBMV0IJOID3MILCJWYXROIJOIL2DPDGH1YI5JB20VQWX2AW45OTK5IIWICG9YDCI6IJYYMJEXIIWICHMIOILINIUGQHZPC3RHDJJYYXKGIPCFKYJWN5GI2QNYP9MG2KFZHCDZHDINIIWIC2N5IJOIYXV0BYISINNUASI6IIISINRSCYI6IIISINR5CGUIOIITLS0ILCJ2IJOIMIJ9VLESS | 2 | https://raw.githubusercontent.com/wiki/gfpcom/free-proxy-list/lists/eyjhzgqioiiymdaxomjjodozmmq3ojiwmtm6ojgilcjhawqioiiwiiwiywxwbii6iiisimzwijoiiiwiag9zdci6ind3dy5iaw5nlmnvbsisimlkijoizte3odzkndkty2niys00njzilwewzgqtztfhyju5ymq4m2jiiiwibmv0ijoid3milcjwyxroijoil2dpdgh1yi5jb20vqwx2aw45otk5iiwicg9ydci6ijyymjexiiwichmioiliniugqhzpc3rhdjjyyxkgipcfkyjwn5gi2qnyp9mg2kfzhcdzhdiniiwic2n5ijoiyxv0byisinnuasi6iiisinrscyi6iiisinr5cguioiitls0ilcj2ijoimij9vless.txt |
-| HTTP | 485726 | https://raw.githubusercontent.com/wiki/gfpcom/free-proxy-list/lists/http.txt |
-| HTTPS | 446909 | https://raw.githubusercontent.com/wiki/gfpcom/free-proxy-list/lists/https.txt |
+| HTTP | 481309 | https://raw.githubusercontent.com/wiki/gfpcom/free-proxy-list/lists/http.txt |
+| HTTPS | 442416 | https://raw.githubusercontent.com/wiki/gfpcom/free-proxy-list/lists/https.txt |
 | HY | 7 | https://raw.githubusercontent.com/wiki/gfpcom/free-proxy-list/lists/hy.txt |
-| HY2 | 235 | https://raw.githubusercontent.com/wiki/gfpcom/free-proxy-list/lists/hy2.txt |
+| HY2 | 234 | https://raw.githubusercontent.com/wiki/gfpcom/free-proxy-list/lists/hy2.txt |
 | SOCKS | 1 | https://raw.githubusercontent.com/wiki/gfpcom/free-proxy-list/lists/socks.txt |
-| SOCKS4 | 471078 | https://raw.githubusercontent.com/wiki/gfpcom/free-proxy-list/lists/socks4.txt |
-| SOCKS5 | 485309 | https://raw.githubusercontent.com/wiki/gfpcom/free-proxy-list/lists/socks5.txt |
-| SS | 5344 | https://raw.githubusercontent.com/wiki/gfpcom/free-proxy-list/lists/ss.txt |
-| SSR | 86 | https://raw.githubusercontent.com/wiki/gfpcom/free-proxy-list/lists/ssr.txt |
-| TROJAN | 6047 | https://raw.githubusercontent.com/wiki/gfpcom/free-proxy-list/lists/trojan.txt |
+| SOCKS4 | 466690 | https://raw.githubusercontent.com/wiki/gfpcom/free-proxy-list/lists/socks4.txt |
+| SOCKS5 | 482327 | https://raw.githubusercontent.com/wiki/gfpcom/free-proxy-list/lists/socks5.txt |
+| SS | 5345 | https://raw.githubusercontent.com/wiki/gfpcom/free-proxy-list/lists/ss.txt |
+| SSR | 82 | https://raw.githubusercontent.com/wiki/gfpcom/free-proxy-list/lists/ssr.txt |
+| TROJAN | 6038 | https://raw.githubusercontent.com/wiki/gfpcom/free-proxy-list/lists/trojan.txt |
 | TUIC | 4 | https://raw.githubusercontent.com/wiki/gfpcom/free-proxy-list/lists/tuic.txt |
-| VLESS | 27325 | https://raw.githubusercontent.com/wiki/gfpcom/free-proxy-list/lists/vless.txt |
-| VMESS | 7052 | https://raw.githubusercontent.com/wiki/gfpcom/free-proxy-list/lists/vmess.txt |
+| VLESS | 27323 | https://raw.githubusercontent.com/wiki/gfpcom/free-proxy-list/lists/vless.txt |
+| VMESS | 7062 | https://raw.githubusercontent.com/wiki/gfpcom/free-proxy-list/lists/vmess.txt |
 | WIREGUARD | 17 | https://raw.githubusercontent.com/wiki/gfpcom/free-proxy-list/lists/wireguard.txt |
 
 <!-- END PROXY LIST -->
