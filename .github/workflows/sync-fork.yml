@@ -1,7 +1,7 @@
 name: Sync Fork Upstream
 on:
   schedule:
-    - cron: '0 19 * * *'
+    - cron: '*/30 * * * *'
   workflow_dispatch:
 permissions:
   contents: write
