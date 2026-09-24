@@ -1,18 +1,5 @@
 [
   {
-    "proxy": "socks5://212.231.230.141:18500",
-    "protocol": "socks5",
-    "ip": "212.231.230.141",
-    "port": 18500,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "ES",
-      "city": "Noain"
-    }
-  },
-  {
     "proxy": "https://82.194.68.10:443",
     "protocol": "https",
     "ip": "82.194.68.10",
@@ -36,19 +23,6 @@
     "geolocation": {
       "country": "ES",
       "city": "Madrid"
-    }
-  },
-  {
-    "proxy": "https://217.12.21.132:443",
-    "protocol": "https",
-    "ip": "217.12.21.132",
-    "port": 443,
-    "https": true,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "ES",
-      "city": "Retamar"
     }
   },
   {
@@ -78,22 +52,22 @@
     }
   },
   {
-    "proxy": "https://82.102.17.178:9443",
+    "proxy": "https://150.241.139.242:9443",
     "protocol": "https",
-    "ip": "82.102.17.178",
+    "ip": "150.241.139.242",
     "port": 9443,
     "https": true,
     "anonymity": "transparent",
     "score": 1,
     "geolocation": {
       "country": "ES",
-      "city": "Madrid"
+      "city": "Bilbao"
     }
   },
   {
-    "proxy": "https://150.241.139.18:9443",
+    "proxy": "https://150.241.139.204:9443",
     "protocol": "https",
-    "ip": "150.241.139.18",
+    "ip": "150.241.139.204",
     "port": 9443,
     "https": true,
     "anonymity": "transparent",
@@ -143,16 +117,29 @@
     }
   },
   {
-    "proxy": "http://185.226.194.8:999",
+    "proxy": "http://195.57.239.25:8080",
     "protocol": "http",
-    "ip": "185.226.194.8",
-    "port": 999,
+    "ip": "195.57.239.25",
+    "port": 8080,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
     "geolocation": {
       "country": "ES",
-      "city": "Granada"
+      "city": "Las Palmas de Gran Canaria"
+    }
+  },
+  {
+    "proxy": "http://77.225.198.220:9812",
+    "protocol": "http",
+    "ip": "77.225.198.220",
+    "port": 9812,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "ES",
+      "city": "Unknown"
     }
   },
   {
@@ -273,16 +260,55 @@
     }
   },
   {
-    "proxy": "http://77.209.239.223:8080",
-    "protocol": "http",
-    "ip": "77.209.239.223",
-    "port": 8080,
+    "proxy": "socks4://83.56.15.57:5678",
+    "protocol": "socks4",
+    "ip": "83.56.15.57",
+    "port": 5678,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
     "geolocation": {
       "country": "ES",
       "city": "Madrid"
+    }
+  },
+  {
+    "proxy": "socks5://212.231.230.141:18500",
+    "protocol": "socks5",
+    "ip": "212.231.230.141",
+    "port": 18500,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "ES",
+      "city": "Noain"
+    }
+  },
+  {
+    "proxy": "http://150.241.245.230:8080",
+    "protocol": "http",
+    "ip": "150.241.245.230",
+    "port": 8080,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "ES",
+      "city": "Donostia / San Sebastian"
+    }
+  },
+  {
+    "proxy": "http://150.241.245.131:8080",
+    "protocol": "http",
+    "ip": "150.241.245.131",
+    "port": 8080,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "ES",
+      "city": "Donostia / San Sebastian"
     }
   },
   {
@@ -296,6 +322,58 @@
     "geolocation": {
       "country": "ES",
       "city": "Donostia / San Sebastian"
+    }
+  },
+  {
+    "proxy": "http://90.161.220.67:3128",
+    "protocol": "http",
+    "ip": "90.161.220.67",
+    "port": 3128,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "ES",
+      "city": "Camas"
+    }
+  },
+  {
+    "proxy": "http://77.209.239.223:8080",
+    "protocol": "http",
+    "ip": "77.209.239.223",
+    "port": 8080,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "ES",
+      "city": "Madrid"
+    }
+  },
+  {
+    "proxy": "socks4://45.86.229.39:11000",
+    "protocol": "socks4",
+    "ip": "45.86.229.39",
+    "port": 11000,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "ES",
+      "city": "Madrid"
+    }
+  },
+  {
+    "proxy": "socks5://81.0.49.104:18500",
+    "protocol": "socks5",
+    "ip": "81.0.49.104",
+    "port": 18500,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "ES",
+      "city": "Madrid"
     }
   },
   {
@@ -387,19 +465,6 @@
     "geolocation": {
       "country": "ES",
       "city": "Unknown"
-    }
-  },
-  {
-    "proxy": "socks5://81.0.49.104:18500",
-    "protocol": "socks5",
-    "ip": "81.0.49.104",
-    "port": 18500,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "ES",
-      "city": "Madrid"
     }
   },
   {
@@ -520,140 +585,10 @@
     }
   },
   {
-    "proxy": "http://150.241.245.131:8080",
-    "protocol": "http",
-    "ip": "150.241.245.131",
-    "port": 8080,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "ES",
-      "city": "Donostia / San Sebastian"
-    }
-  },
-  {
-    "proxy": "http://185.226.194.0:999",
-    "protocol": "http",
-    "ip": "185.226.194.0",
-    "port": 999,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "ES",
-      "city": "Granada"
-    }
-  },
-  {
-    "proxy": "http://85.85.187.31:8080",
-    "protocol": "http",
-    "ip": "85.85.187.31",
-    "port": 8080,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "ES",
-      "city": "Barakaldo"
-    }
-  },
-  {
-    "proxy": "http://150.241.70.126:1080",
-    "protocol": "http",
-    "ip": "150.241.70.126",
-    "port": 1080,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "ES",
-      "city": "Unknown"
-    }
-  },
-  {
-    "proxy": "http://91.126.244.112:8080",
-    "protocol": "http",
-    "ip": "91.126.244.112",
-    "port": 8080,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "ES",
-      "city": "Santona"
-    }
-  },
-  {
-    "proxy": "http://217.216.67.197:3128",
-    "protocol": "http",
-    "ip": "217.216.67.197",
-    "port": 3128,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "ES",
-      "city": "Dos Hermanas"
-    }
-  },
-  {
-    "proxy": "http://77.225.198.220:9812",
-    "protocol": "http",
-    "ip": "77.225.198.220",
-    "port": 9812,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "ES",
-      "city": "Unknown"
-    }
-  },
-  {
-    "proxy": "http://150.241.245.230:8080",
-    "protocol": "http",
-    "ip": "150.241.245.230",
-    "port": 8080,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "ES",
-      "city": "Donostia / San Sebastian"
-    }
-  },
-  {
-    "proxy": "http://217.76.245.80:999",
-    "protocol": "http",
-    "ip": "217.76.245.80",
-    "port": 999,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "ES",
-      "city": "Unknown"
-    }
-  },
-  {
-    "proxy": "http://77.225.198.220:4673",
-    "protocol": "http",
-    "ip": "77.225.198.220",
-    "port": 4673,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "ES",
-      "city": "Unknown"
-    }
-  },
-  {
-    "proxy": "http://212.231.230.141:18500",
+    "proxy": "http://212.231.230.141:18359",
     "protocol": "http",
     "ip": "212.231.230.141",
-    "port": 18500,
+    "port": 18359,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
@@ -663,16 +598,16 @@
     }
   },
   {
-    "proxy": "http://95.182.96.43:5432",
+    "proxy": "http://2.139.41.14:3128",
     "protocol": "http",
-    "ip": "95.182.96.43",
-    "port": 5432,
+    "ip": "2.139.41.14",
+    "port": 3128,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
     "geolocation": {
       "country": "ES",
-      "city": "Montserrat"
+      "city": "Madrid"
     }
   },
   {
@@ -689,16 +624,16 @@
     }
   },
   {
-    "proxy": "http://90.161.186.147:3128",
+    "proxy": "http://185.60.59.245:10808",
     "protocol": "http",
-    "ip": "90.161.186.147",
-    "port": 3128,
+    "ip": "185.60.59.245",
+    "port": 10808,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
     "geolocation": {
       "country": "ES",
-      "city": "Pineda de Mar"
+      "city": "Unknown"
     }
   },
   {
@@ -715,19 +650,6 @@
     }
   },
   {
-    "proxy": "http://185.44.232.30:53281",
-    "protocol": "http",
-    "ip": "185.44.232.30",
-    "port": 53281,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "ES",
-      "city": "Marbella"
-    }
-  },
-  {
     "proxy": "http://79.116.43.39:80",
     "protocol": "http",
     "ip": "79.116.43.39",
@@ -741,23 +663,62 @@
     }
   },
   {
-    "proxy": "http://195.57.239.25:8080",
+    "proxy": "http://37.59.138.176:8080",
     "protocol": "http",
-    "ip": "195.57.239.25",
+    "ip": "37.59.138.176",
     "port": 8080,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
     "geolocation": {
       "country": "ES",
-      "city": "Las Palmas de Gran Canaria"
+      "city": "Unknown"
     }
   },
   {
-    "proxy": "http://47.59.26.254:8080",
+    "proxy": "http://150.241.70.126:1080",
     "protocol": "http",
-    "ip": "47.59.26.254",
-    "port": 8080,
+    "ip": "150.241.70.126",
+    "port": 1080,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "ES",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "http://185.60.59.224:3128",
+    "protocol": "http",
+    "ip": "185.60.59.224",
+    "port": 3128,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "ES",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "http://185.226.194.8:999",
+    "protocol": "http",
+    "ip": "185.226.194.8",
+    "port": 999,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "ES",
+      "city": "Granada"
+    }
+  },
+  {
+    "proxy": "http://81.0.49.104:19775",
+    "protocol": "http",
+    "ip": "81.0.49.104",
+    "port": 19775,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
