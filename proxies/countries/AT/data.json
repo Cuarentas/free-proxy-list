@@ -13,6 +13,19 @@
     }
   },
   {
+    "proxy": "socks4://178.189.56.158:4153",
+    "protocol": "socks4",
+    "ip": "178.189.56.158",
+    "port": 4153,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "AT",
+      "city": "Ramsau am Dachstein"
+    }
+  },
+  {
     "proxy": "https://195.192.209.130:443",
     "protocol": "https",
     "ip": "195.192.209.130",
@@ -130,42 +143,16 @@
     }
   },
   {
-    "proxy": "http://193.233.233.62:21840",
-    "protocol": "http",
+    "proxy": "socks5://193.233.233.62:56736",
+    "protocol": "socks5",
     "ip": "193.233.233.62",
-    "port": 21840,
+    "port": 56736,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
     "geolocation": {
       "country": "AT",
       "city": "Vienna"
-    }
-  },
-  {
-    "proxy": "socks5://152.53.183.107:8081",
-    "protocol": "socks5",
-    "ip": "152.53.183.107",
-    "port": 8081,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "AT",
-      "city": "Unknown"
-    }
-  },
-  {
-    "proxy": "http://152.53.183.107:8081",
-    "protocol": "http",
-    "ip": "152.53.183.107",
-    "port": 8081,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "AT",
-      "city": "Unknown"
     }
   },
   {
@@ -182,23 +169,49 @@
     }
   },
   {
-    "proxy": "socks5://185.175.58.225:18889",
-    "protocol": "socks5",
-    "ip": "185.175.58.225",
-    "port": 18889,
+    "proxy": "http://152.53.183.107:8082",
+    "protocol": "http",
+    "ip": "152.53.183.107",
+    "port": 8082,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
     "geolocation": {
       "country": "AT",
-      "city": "Vienna"
+      "city": "Unknown"
     }
   },
   {
-    "proxy": "socks5://193.233.233.62:56736",
+    "proxy": "http://90.146.196.18:8080",
+    "protocol": "http",
+    "ip": "90.146.196.18",
+    "port": 8080,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "AT",
+      "city": "Pasching"
+    }
+  },
+  {
+    "proxy": "socks5://152.53.183.107:8081",
     "protocol": "socks5",
-    "ip": "193.233.233.62",
-    "port": 56736,
+    "ip": "152.53.183.107",
+    "port": 8081,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "AT",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "socks5://185.175.58.225:18889",
+    "protocol": "socks5",
+    "ip": "185.175.58.225",
+    "port": 18889,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
@@ -234,6 +247,45 @@
     }
   },
   {
+    "proxy": "http://89.185.127.253:8080",
+    "protocol": "http",
+    "ip": "89.185.127.253",
+    "port": 8080,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "AT",
+      "city": "Bad Voeslau"
+    }
+  },
+  {
+    "proxy": "http://193.233.233.62:21840",
+    "protocol": "http",
+    "ip": "193.233.233.62",
+    "port": 21840,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "AT",
+      "city": "Vienna"
+    }
+  },
+  {
+    "proxy": "http://152.53.183.107:8081",
+    "protocol": "http",
+    "ip": "152.53.183.107",
+    "port": 8081,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "AT",
+      "city": "Unknown"
+    }
+  },
+  {
     "proxy": "http://193.233.233.62:56736",
     "protocol": "http",
     "ip": "193.233.233.62",
@@ -247,16 +299,29 @@
     }
   },
   {
-    "proxy": "http://152.53.183.107:8082",
+    "proxy": "http://80.64.140.192:31337",
     "protocol": "http",
-    "ip": "152.53.183.107",
-    "port": 8082,
+    "ip": "80.64.140.192",
+    "port": 31337,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
     "geolocation": {
       "country": "AT",
-      "city": "Unknown"
+      "city": "Sankt Florian"
+    }
+  },
+  {
+    "proxy": "http://185.175.58.225:18889",
+    "protocol": "http",
+    "ip": "185.175.58.225",
+    "port": 18889,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "AT",
+      "city": "Vienna"
     }
   },
   {
@@ -273,23 +338,36 @@
     }
   },
   {
-    "proxy": "http://90.146.196.18:8080",
+    "proxy": "http://83.215.25.66:9050",
     "protocol": "http",
-    "ip": "90.146.196.18",
-    "port": 8080,
+    "ip": "83.215.25.66",
+    "port": 9050,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
     "geolocation": {
       "country": "AT",
-      "city": "Pasching"
+      "city": "Zell am See"
     }
   },
   {
-    "proxy": "http://152.53.228.24:19150",
+    "proxy": "http://152.53.194.105:1080",
     "protocol": "http",
-    "ip": "152.53.228.24",
-    "port": 19150,
+    "ip": "152.53.194.105",
+    "port": 1080,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "AT",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "http://83.218.186.22:5678",
+    "protocol": "http",
+    "ip": "83.218.186.22",
+    "port": 5678,
     "https": false,
     "anonymity": "transparent",
     "score": 1,

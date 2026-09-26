@@ -585,19 +585,6 @@
     }
   },
   {
-    "proxy": "http://94.102.193.91:8080",
-    "protocol": "http",
-    "ip": "94.102.193.91",
-    "port": 8080,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "IE",
-      "city": "Dublin"
-    }
-  },
-  {
     "proxy": "socks5://171.22.182.164:1080",
     "protocol": "socks5",
     "ip": "171.22.182.164",
@@ -637,55 +624,29 @@
     }
   },
   {
-    "proxy": "http://5.83.244.1:8080",
-    "protocol": "http",
-    "ip": "5.83.244.1",
-    "port": 8080,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "IE",
-      "city": "Roscommon"
-    }
-  },
-  {
-    "proxy": "http://5.83.244.250:8080",
-    "protocol": "http",
-    "ip": "5.83.244.250",
-    "port": 8080,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "IE",
-      "city": "Roscommon"
-    }
-  },
-  {
-    "proxy": "http://5.83.248.1:8080",
-    "protocol": "http",
-    "ip": "5.83.248.1",
-    "port": 8080,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "IE",
-      "city": "Roscommon"
-    }
-  },
-  {
-    "proxy": "http://87.192.231.122:3129",
+    "proxy": "http://87.192.231.122:3128",
     "protocol": "http",
     "ip": "87.192.231.122",
-    "port": 3129,
+    "port": 3128,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
     "geolocation": {
       "country": "IE",
       "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "http://171.22.182.164:1080",
+    "protocol": "http",
+    "ip": "171.22.182.164",
+    "port": 1080,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "IE",
+      "city": "Dublin"
     }
   }
 ]
