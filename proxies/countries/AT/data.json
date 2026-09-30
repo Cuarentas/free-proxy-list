@@ -130,16 +130,16 @@
     }
   },
   {
-    "proxy": "socks5://78.153.130.53:9050",
-    "protocol": "socks5",
-    "ip": "78.153.130.53",
-    "port": 9050,
+    "proxy": "http://152.53.183.107:8082",
+    "protocol": "http",
+    "ip": "152.53.183.107",
+    "port": 8082,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
     "geolocation": {
       "country": "AT",
-      "city": "Vienna"
+      "city": "Unknown"
     }
   },
   {
@@ -156,8 +156,8 @@
     }
   },
   {
-    "proxy": "http://152.53.183.107:8081",
-    "protocol": "http",
+    "proxy": "socks5://152.53.183.107:8081",
+    "protocol": "socks5",
     "ip": "152.53.183.107",
     "port": 8081,
     "https": false,
@@ -166,6 +166,19 @@
     "geolocation": {
       "country": "AT",
       "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "socks5://78.153.130.53:9050",
+    "protocol": "socks5",
+    "ip": "78.153.130.53",
+    "port": 9050,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "AT",
+      "city": "Vienna"
     }
   },
   {
@@ -179,19 +192,6 @@
     "geolocation": {
       "country": "AT",
       "city": "Vienna"
-    }
-  },
-  {
-    "proxy": "socks5://152.53.183.107:8081",
-    "protocol": "socks5",
-    "ip": "152.53.183.107",
-    "port": 8081,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "AT",
-      "city": "Unknown"
     }
   },
   {
@@ -221,23 +221,10 @@
     }
   },
   {
-    "proxy": "http://83.215.25.66:9050",
+    "proxy": "http://152.53.183.107:8081",
     "protocol": "http",
-    "ip": "83.215.25.66",
-    "port": 9050,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "AT",
-      "city": "Zell am See"
-    }
-  },
-  {
-    "proxy": "http://152.53.137.180:1081",
-    "protocol": "http",
-    "ip": "152.53.137.180",
-    "port": 1081,
+    "ip": "152.53.183.107",
+    "port": 8081,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
@@ -260,10 +247,10 @@
     }
   },
   {
-    "proxy": "http://78.153.130.53:9050",
+    "proxy": "http://194.182.187.78:3128",
     "protocol": "http",
-    "ip": "78.153.130.53",
-    "port": 9050,
+    "ip": "194.182.187.78",
+    "port": 3128,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
@@ -273,16 +260,29 @@
     }
   },
   {
-    "proxy": "http://152.53.183.107:8082",
+    "proxy": "http://80.64.140.192:31337",
     "protocol": "http",
-    "ip": "152.53.183.107",
-    "port": 8082,
+    "ip": "80.64.140.192",
+    "port": 31337,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
     "geolocation": {
       "country": "AT",
-      "city": "Unknown"
+      "city": "Sankt Florian"
+    }
+  },
+  {
+    "proxy": "http://83.215.25.66:9050",
+    "protocol": "http",
+    "ip": "83.215.25.66",
+    "port": 9050,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "AT",
+      "city": "Zell am See"
     }
   }
 ]
