@@ -26,9 +26,9 @@
     }
   },
   {
-    "proxy": "http://94.102.224.138:32650",
+    "proxy": "http://94.102.224.132:32650",
     "protocol": "http",
-    "ip": "94.102.224.138",
+    "ip": "94.102.224.132",
     "port": 32650,
     "https": false,
     "anonymity": "transparent",

@@ -13,16 +13,29 @@
     }
   },
   {
-    "proxy": "http://41.189.171.186:8080",
+    "proxy": "http://41.74.91.244:80",
     "protocol": "http",
-    "ip": "41.189.171.186",
-    "port": 8080,
+    "ip": "41.74.91.244",
+    "port": 80,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
     "geolocation": {
       "country": "GH",
-      "city": "Takwa"
+      "city": "Accra"
+    }
+  },
+  {
+    "proxy": "http://197.255.126.69:80",
+    "protocol": "http",
+    "ip": "197.255.126.69",
+    "port": 80,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "GH",
+      "city": "Accra"
     }
   },
   {
@@ -36,19 +49,6 @@
     "geolocation": {
       "country": "GH",
       "city": "Cape Coast"
-    }
-  },
-  {
-    "proxy": "http://41.74.91.244:80",
-    "protocol": "http",
-    "ip": "41.74.91.244",
-    "port": 80,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "GH",
-      "city": "Accra"
     }
   },
   {

@@ -13,9 +13,9 @@
     }
   },
   {
-    "proxy": "http://138.118.107.29:999",
+    "proxy": "http://181.119.111.239:999",
     "protocol": "http",
-    "ip": "138.118.107.29",
+    "ip": "181.119.111.239",
     "port": 999,
     "https": false,
     "anonymity": "transparent",
@@ -39,19 +39,6 @@
     }
   },
   {
-    "proxy": "http://200.35.176.154:999",
-    "protocol": "http",
-    "ip": "200.35.176.154",
-    "port": 999,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "GT",
-      "city": "Unknown"
-    }
-  },
-  {
     "proxy": "http://24.152.53.68:999",
     "protocol": "http",
     "ip": "24.152.53.68",
@@ -62,6 +49,19 @@
     "geolocation": {
       "country": "GT",
       "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "http://45.5.119.17:999",
+    "protocol": "http",
+    "ip": "45.5.119.17",
+    "port": 999,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "GT",
+      "city": "Guatemala City"
     }
   }
 ]
