@@ -13,42 +13,16 @@
     }
   },
   {
-    "proxy": "socks4://186.216.195.1:4153",
+    "proxy": "socks4://189.50.138.10:5678",
     "protocol": "socks4",
-    "ip": "186.216.195.1",
-    "port": 4153,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "BR",
-      "city": "Itaguai"
-    }
-  },
-  {
-    "proxy": "socks4://143.208.130.155:5678",
-    "protocol": "socks4",
-    "ip": "143.208.130.155",
+    "ip": "189.50.138.10",
     "port": 5678,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
     "geolocation": {
       "country": "BR",
-      "city": "Paulista"
-    }
-  },
-  {
-    "proxy": "socks4://200.14.57.4:4153",
-    "protocol": "socks4",
-    "ip": "200.14.57.4",
-    "port": 4153,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "BR",
-      "city": "Paulo Ramos"
+      "city": "Sao Jose do Rio Preto"
     }
   },
   {
@@ -65,16 +39,29 @@
     }
   },
   {
-    "proxy": "socks4://200.188.246.122:60606",
+    "proxy": "socks4://45.228.151.157:1088",
     "protocol": "socks4",
-    "ip": "200.188.246.122",
-    "port": 60606,
+    "ip": "45.228.151.157",
+    "port": 1088,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
     "geolocation": {
       "country": "BR",
-      "city": "Florianópolis"
+      "city": "Cuiabá"
+    }
+  },
+  {
+    "proxy": "socks4://167.250.137.129:1080",
+    "protocol": "socks4",
+    "ip": "167.250.137.129",
+    "port": 1080,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "BR",
+      "city": "Fortaleza"
     }
   },
   {
@@ -91,94 +78,16 @@
     }
   },
   {
-    "proxy": "socks4://170.150.1.253:4145",
+    "proxy": "socks4://181.233.94.101:1080",
     "protocol": "socks4",
-    "ip": "170.150.1.253",
-    "port": 4145,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "BR",
-      "city": "Lages"
-    }
-  },
-  {
-    "proxy": "socks4://177.125.144.94:1080",
-    "protocol": "socks4",
-    "ip": "177.125.144.94",
+    "ip": "181.233.94.101",
     "port": 1080,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
     "geolocation": {
       "country": "BR",
-      "city": "Brejetuba"
-    }
-  },
-  {
-    "proxy": "socks4://179.189.248.129:5432",
-    "protocol": "socks4",
-    "ip": "179.189.248.129",
-    "port": 5432,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "BR",
-      "city": "Agua Preta"
-    }
-  },
-  {
-    "proxy": "socks4://200.71.123.77:60606",
-    "protocol": "socks4",
-    "ip": "200.71.123.77",
-    "port": 60606,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "BR",
-      "city": "Constantina"
-    }
-  },
-  {
-    "proxy": "socks4://187.19.127.180:4153",
-    "protocol": "socks4",
-    "ip": "187.19.127.180",
-    "port": 4153,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "BR",
-      "city": "Itabaiana"
-    }
-  },
-  {
-    "proxy": "socks4://131.161.68.41:35944",
-    "protocol": "socks4",
-    "ip": "131.161.68.41",
-    "port": 35944,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "BR",
-      "city": "Rio de Janeiro"
-    }
-  },
-  {
-    "proxy": "socks4://168.194.226.178:4153",
-    "protocol": "socks4",
-    "ip": "168.194.226.178",
-    "port": 4153,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "BR",
-      "city": "Ibiraci"
+      "city": "Ananindeua"
     }
   },
   {
@@ -195,42 +104,16 @@
     }
   },
   {
-    "proxy": "socks4://179.189.249.249:5432",
+    "proxy": "socks4://187.62.193.152:5678",
     "protocol": "socks4",
-    "ip": "179.189.249.249",
-    "port": 5432,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "BR",
-      "city": "Agua Preta"
-    }
-  },
-  {
-    "proxy": "socks4://179.189.248.109:5432",
-    "protocol": "socks4",
-    "ip": "179.189.248.109",
-    "port": 5432,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "BR",
-      "city": "Agua Preta"
-    }
-  },
-  {
-    "proxy": "socks4://170.246.199.114:5678",
-    "protocol": "socks4",
-    "ip": "170.246.199.114",
+    "ip": "187.62.193.152",
     "port": 5678,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
     "geolocation": {
       "country": "BR",
-      "city": "Brumado"
+      "city": "Montes Claros"
     }
   },
   {
@@ -338,10 +221,10 @@
     }
   },
   {
-    "proxy": "https://18.228.228.159:49030",
+    "proxy": "https://18.231.214.206:38945",
     "protocol": "https",
-    "ip": "18.228.228.159",
-    "port": 49030,
+    "ip": "18.231.214.206",
+    "port": 38945,
     "https": true,
     "anonymity": "transparent",
     "score": 1,
@@ -351,23 +234,10 @@
     }
   },
   {
-    "proxy": "https://18.231.126.121:961",
-    "protocol": "https",
-    "ip": "18.231.126.121",
-    "port": 961,
-    "https": true,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "BR",
-      "city": "São Paulo"
-    }
-  },
-  {
-    "proxy": "https://18.230.23.72:12050",
+    "proxy": "https://18.230.23.72:18009",
     "protocol": "https",
     "ip": "18.230.23.72",
-    "port": 12050,
+    "port": 18009,
     "https": true,
     "anonymity": "transparent",
     "score": 1,
@@ -377,16 +247,42 @@
     }
   },
   {
-    "proxy": "http://186.235.123.3:8080",
+    "proxy": "http://167.250.141.73:8080",
     "protocol": "http",
-    "ip": "186.235.123.3",
+    "ip": "167.250.141.73",
     "port": 8080,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
     "geolocation": {
       "country": "BR",
-      "city": "Unknown"
+      "city": "Caico"
+    }
+  },
+  {
+    "proxy": "http://179.48.25.1:8095",
+    "protocol": "http",
+    "ip": "179.48.25.1",
+    "port": 8095,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "BR",
+      "city": "Timon"
+    }
+  },
+  {
+    "proxy": "http://191.44.125.13:8080",
+    "protocol": "http",
+    "ip": "191.44.125.13",
+    "port": 8080,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "BR",
+      "city": "Fortaleza"
     }
   },
   {
@@ -403,9 +299,9 @@
     }
   },
   {
-    "proxy": "http://201.7.31.181:8080",
+    "proxy": "http://201.7.31.170:8080",
     "protocol": "http",
-    "ip": "201.7.31.181",
+    "ip": "201.7.31.170",
     "port": 8080,
     "https": false,
     "anonymity": "transparent",
@@ -416,42 +312,42 @@
     }
   },
   {
-    "proxy": "http://201.4.64.37:8080",
+    "proxy": "http://201.91.248.67:20183",
     "protocol": "http",
-    "ip": "201.4.64.37",
+    "ip": "201.91.248.67",
+    "port": 20183,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "BR",
+      "city": "Piedade"
+    }
+  },
+  {
+    "proxy": "http://177.10.202.115:35452",
+    "protocol": "http",
+    "ip": "177.10.202.115",
+    "port": 35452,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "BR",
+      "city": "Campina Grande"
+    }
+  },
+  {
+    "proxy": "http://201.7.31.43:8080",
+    "protocol": "http",
+    "ip": "201.7.31.43",
     "port": 8080,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
     "geolocation": {
       "country": "BR",
-      "city": "Sete Lagoas"
-    }
-  },
-  {
-    "proxy": "http://201.4.65.190:8080",
-    "protocol": "http",
-    "ip": "201.4.65.190",
-    "port": 8080,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "BR",
-      "city": "Sete Lagoas"
-    }
-  },
-  {
-    "proxy": "http://191.252.205.45:8889",
-    "protocol": "http",
-    "ip": "191.252.205.45",
-    "port": 8889,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "BR",
-      "city": "Unknown"
+      "city": "Aparecida de Goiania"
     }
   },
   {
@@ -481,107 +377,29 @@
     }
   },
   {
-    "proxy": "socks4://177.54.239.13:4145",
+    "proxy": "socks4://190.109.72.224:33633",
     "protocol": "socks4",
-    "ip": "177.54.239.13",
-    "port": 4145,
+    "ip": "190.109.72.224",
+    "port": 33633,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
     "geolocation": {
       "country": "BR",
-      "city": "Araguaína"
+      "city": "Sao Geraldo do Araguaia"
     }
   },
   {
-    "proxy": "http://177.37.167.172:3900",
-    "protocol": "http",
-    "ip": "177.37.167.172",
-    "port": 3900,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "BR",
-      "city": "Bezerros"
-    }
-  },
-  {
-    "proxy": "socks4://190.89.104.48:5432",
+    "proxy": "socks4://189.39.118.210:5678",
     "protocol": "socks4",
-    "ip": "190.89.104.48",
-    "port": 5432,
+    "ip": "189.39.118.210",
+    "port": 5678,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
     "geolocation": {
       "country": "BR",
-      "city": "Curitiba"
-    }
-  },
-  {
-    "proxy": "http://192.141.74.246:3129",
-    "protocol": "http",
-    "ip": "192.141.74.246",
-    "port": 3129,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "BR",
-      "city": "Duque de Caxias"
-    }
-  },
-  {
-    "proxy": "http://201.7.31.253:8080",
-    "protocol": "http",
-    "ip": "201.7.31.253",
-    "port": 8080,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "BR",
-      "city": "Aparecida de Goiania"
-    }
-  },
-  {
-    "proxy": "http://186.235.255.220:8080",
-    "protocol": "http",
-    "ip": "186.235.255.220",
-    "port": 8080,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "BR",
-      "city": "Tijucas"
-    }
-  },
-  {
-    "proxy": "socks4://179.189.249.137:5432",
-    "protocol": "socks4",
-    "ip": "179.189.249.137",
-    "port": 5432,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "BR",
-      "city": "Agua Preta"
-    }
-  },
-  {
-    "proxy": "socks4://186.194.127.41:4153",
-    "protocol": "socks4",
-    "ip": "186.194.127.41",
-    "port": 4153,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "BR",
-      "city": "Petrolina"
+      "city": "Paulista"
     }
   },
   {
@@ -598,29 +416,172 @@
     }
   },
   {
-    "proxy": "http://187.94.16.59:39665",
-    "protocol": "http",
-    "ip": "187.94.16.59",
-    "port": 39665,
+    "proxy": "socks4://179.189.248.125:5432",
+    "protocol": "socks4",
+    "ip": "179.189.248.125",
+    "port": 5432,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
     "geolocation": {
       "country": "BR",
-      "city": "Irece"
+      "city": "Agua Preta"
     }
   },
   {
-    "proxy": "http://170.81.131.70:3128",
+    "proxy": "socks4://179.189.242.5:5432",
+    "protocol": "socks4",
+    "ip": "179.189.242.5",
+    "port": 5432,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "BR",
+      "city": "Recife"
+    }
+  },
+  {
+    "proxy": "socks4://179.189.249.137:5432",
+    "protocol": "socks4",
+    "ip": "179.189.249.137",
+    "port": 5432,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "BR",
+      "city": "Agua Preta"
+    }
+  },
+  {
+    "proxy": "http://186.226.167.191:3128",
     "protocol": "http",
-    "ip": "170.81.131.70",
+    "ip": "186.226.167.191",
     "port": 3128,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
     "geolocation": {
       "country": "BR",
-      "city": "Ribeirão Preto"
+      "city": "Eunapolis"
+    }
+  },
+  {
+    "proxy": "socks4://190.89.104.76:5432",
+    "protocol": "socks4",
+    "ip": "190.89.104.76",
+    "port": 5432,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "BR",
+      "city": "Curitiba"
+    }
+  },
+  {
+    "proxy": "socks4://190.89.104.48:5432",
+    "protocol": "socks4",
+    "ip": "190.89.104.48",
+    "port": 5432,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "BR",
+      "city": "Curitiba"
+    }
+  },
+  {
+    "proxy": "socks4://179.189.243.245:5432",
+    "protocol": "socks4",
+    "ip": "179.189.243.245",
+    "port": 5432,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "BR",
+      "city": "Recife"
+    }
+  },
+  {
+    "proxy": "socks4://187.62.150.169:1080",
+    "protocol": "socks4",
+    "ip": "187.62.150.169",
+    "port": 1080,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "BR",
+      "city": "Esperanca"
+    }
+  },
+  {
+    "proxy": "socks4://177.26.112.65:5678",
+    "protocol": "socks4",
+    "ip": "177.26.112.65",
+    "port": 5678,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "BR",
+      "city": "São Paulo"
+    }
+  },
+  {
+    "proxy": "http://177.19.167.242:80",
+    "protocol": "http",
+    "ip": "177.19.167.242",
+    "port": 80,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "BR",
+      "city": "Porto Alegre"
+    }
+  },
+  {
+    "proxy": "http://138.204.95.193:8989",
+    "protocol": "http",
+    "ip": "138.204.95.193",
+    "port": 8989,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "BR",
+      "city": "Caieiras"
+    }
+  },
+  {
+    "proxy": "socks5://179.255.188.140:1080",
+    "protocol": "socks5",
+    "ip": "179.255.188.140",
+    "port": 1080,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "BR",
+      "city": "Goiânia"
+    }
+  },
+  {
+    "proxy": "http://201.20.42.46:3127",
+    "protocol": "http",
+    "ip": "201.20.42.46",
+    "port": 3127,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "BR",
+      "city": "São Paulo"
     }
   },
   {
@@ -637,146 +598,120 @@
     }
   },
   {
-    "proxy": "socks4://190.89.104.88:5432",
+    "proxy": "http://189.124.91.145:7171",
+    "protocol": "http",
+    "ip": "189.124.91.145",
+    "port": 7171,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "BR",
+      "city": "Regente Feijo"
+    }
+  },
+  {
+    "proxy": "socks4://186.194.127.41:4153",
     "protocol": "socks4",
-    "ip": "190.89.104.88",
-    "port": 5432,
+    "ip": "186.194.127.41",
+    "port": 4153,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
     "geolocation": {
       "country": "BR",
-      "city": "Curitiba"
+      "city": "Petrolina"
     }
   },
   {
-    "proxy": "http://177.136.44.194:54443",
+    "proxy": "http://168.197.104.45:8080",
     "protocol": "http",
-    "ip": "177.136.44.194",
-    "port": 54443,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "BR",
-      "city": "Lauro de Freitas"
-    }
-  },
-  {
-    "proxy": "http://201.4.68.106:8080",
-    "protocol": "http",
-    "ip": "201.4.68.106",
+    "ip": "168.197.104.45",
     "port": 8080,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
     "geolocation": {
       "country": "BR",
-      "city": "Sete Lagoas"
+      "city": "Guaratuba"
     }
   },
   {
-    "proxy": "socks4://190.109.72.17:33633",
-    "protocol": "socks4",
-    "ip": "190.109.72.17",
-    "port": 33633,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "BR",
-      "city": "Sao Geraldo do Araguaia"
-    }
-  },
-  {
-    "proxy": "http://179.136.111.46:8080",
+    "proxy": "http://38.252.145.15:999",
     "protocol": "http",
-    "ip": "179.136.111.46",
-    "port": 8080,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "BR",
-      "city": "Unknown"
-    }
-  },
-  {
-    "proxy": "http://177.222.248.54:9191",
-    "protocol": "http",
-    "ip": "177.222.248.54",
-    "port": 9191,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "BR",
-      "city": "Timoteo"
-    }
-  },
-  {
-    "proxy": "http://191.241.184.5:8080",
-    "protocol": "http",
-    "ip": "191.241.184.5",
-    "port": 8080,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "BR",
-      "city": "Nossa Senhora da Gloria"
-    }
-  },
-  {
-    "proxy": "http://200.95.192.61:9292",
-    "protocol": "http",
-    "ip": "200.95.192.61",
-    "port": 9292,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "BR",
-      "city": "Sao Jose do Rio Preto"
-    }
-  },
-  {
-    "proxy": "socks4://190.89.4.182:1080",
-    "protocol": "socks4",
-    "ip": "190.89.4.182",
-    "port": 1080,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "BR",
-      "city": "Itanhem"
-    }
-  },
-  {
-    "proxy": "http://189.124.85.77:33333",
-    "protocol": "http",
-    "ip": "189.124.85.77",
-    "port": 33333,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "BR",
-      "city": "Santo Anastacio"
-    }
-  },
-  {
-    "proxy": "http://38.255.121.1:999",
-    "protocol": "http",
-    "ip": "38.255.121.1",
+    "ip": "38.252.145.15",
     "port": 999,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
     "geolocation": {
       "country": "BR",
-      "city": "Centro"
+      "city": "Londrina"
+    }
+  },
+  {
+    "proxy": "http://177.54.239.5:2138",
+    "protocol": "http",
+    "ip": "177.54.239.5",
+    "port": 2138,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "BR",
+      "city": "Araguaína"
+    }
+  },
+  {
+    "proxy": "socks5://179.255.188.138:1080",
+    "protocol": "socks5",
+    "ip": "179.255.188.138",
+    "port": 1080,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "BR",
+      "city": "Goiânia"
+    }
+  },
+  {
+    "proxy": "socks5://146.19.143.200:1080",
+    "protocol": "socks5",
+    "ip": "146.19.143.200",
+    "port": 1080,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "BR",
+      "city": "Brasília"
+    }
+  },
+  {
+    "proxy": "socks5://179.255.188.139:1080",
+    "protocol": "socks5",
+    "ip": "179.255.188.139",
+    "port": 1080,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "BR",
+      "city": "Goiânia"
+    }
+  },
+  {
+    "proxy": "socks5://134.65.245.71:9050",
+    "protocol": "socks5",
+    "ip": "134.65.245.71",
+    "port": 9050,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "BR",
+      "city": "Vinhedo"
     }
   },
   {
@@ -832,45 +767,6 @@
     }
   },
   {
-    "proxy": "socks5://179.255.188.140:1080",
-    "protocol": "socks5",
-    "ip": "179.255.188.140",
-    "port": 1080,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "BR",
-      "city": "Goiânia"
-    }
-  },
-  {
-    "proxy": "socks5://146.19.143.200:1080",
-    "protocol": "socks5",
-    "ip": "146.19.143.200",
-    "port": 1080,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "BR",
-      "city": "Brasília"
-    }
-  },
-  {
-    "proxy": "socks5://179.255.188.139:1080",
-    "protocol": "socks5",
-    "ip": "179.255.188.139",
-    "port": 1080,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "BR",
-      "city": "Goiânia"
-    }
-  },
-  {
     "proxy": "socks5://177.201.224.186:8888",
     "protocol": "socks5",
     "ip": "177.201.224.186",
@@ -894,19 +790,6 @@
     "geolocation": {
       "country": "BR",
       "city": "Brasília"
-    }
-  },
-  {
-    "proxy": "socks5://134.65.245.71:9050",
-    "protocol": "socks5",
-    "ip": "134.65.245.71",
-    "port": 9050,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "BR",
-      "city": "Vinhedo"
     }
   },
   {
@@ -985,19 +868,6 @@
     "geolocation": {
       "country": "BR",
       "city": "Unknown"
-    }
-  },
-  {
-    "proxy": "socks5://179.255.188.138:1080",
-    "protocol": "socks5",
-    "ip": "179.255.188.138",
-    "port": 1080,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "BR",
-      "city": "Goiânia"
     }
   },
   {
@@ -1183,1959 +1053,9 @@
     }
   },
   {
-    "proxy": "http://201.4.68.113:8080",
-    "protocol": "http",
-    "ip": "201.4.68.113",
-    "port": 8080,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "BR",
-      "city": "Sete Lagoas"
-    }
-  },
-  {
-    "proxy": "http://167.250.23.13:9090",
-    "protocol": "http",
-    "ip": "167.250.23.13",
-    "port": 9090,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "BR",
-      "city": "Unknown"
-    }
-  },
-  {
-    "proxy": "http://201.4.69.92:8080",
-    "protocol": "http",
-    "ip": "201.4.69.92",
-    "port": 8080,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "BR",
-      "city": "Sete Lagoas"
-    }
-  },
-  {
-    "proxy": "http://179.184.163.133:44443",
-    "protocol": "http",
-    "ip": "179.184.163.133",
-    "port": 44443,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "BR",
-      "city": "Belo Horizonte"
-    }
-  },
-  {
-    "proxy": "http://201.4.65.101:8080",
-    "protocol": "http",
-    "ip": "201.4.65.101",
-    "port": 8080,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "BR",
-      "city": "Sete Lagoas"
-    }
-  },
-  {
-    "proxy": "http://201.4.68.250:8080",
-    "protocol": "http",
-    "ip": "201.4.68.250",
-    "port": 8080,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "BR",
-      "city": "Sete Lagoas"
-    }
-  },
-  {
-    "proxy": "http://45.227.195.121:8082",
-    "protocol": "http",
-    "ip": "45.227.195.121",
-    "port": 8082,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "BR",
-      "city": "Erval Velho"
-    }
-  },
-  {
-    "proxy": "http://138.94.236.71:8080",
-    "protocol": "http",
-    "ip": "138.94.236.71",
-    "port": 8080,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "BR",
-      "city": "Novo Progresso"
-    }
-  },
-  {
-    "proxy": "http://201.150.148.226:8080",
-    "protocol": "http",
-    "ip": "201.150.148.226",
-    "port": 8080,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "BR",
-      "city": "Salinopolis"
-    }
-  },
-  {
-    "proxy": "http://128.201.29.6:8666",
-    "protocol": "http",
-    "ip": "128.201.29.6",
-    "port": 8666,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "BR",
-      "city": "Salvador"
-    }
-  },
-  {
-    "proxy": "http://206.42.12.58:3132",
-    "protocol": "http",
-    "ip": "206.42.12.58",
-    "port": 3132,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "BR",
-      "city": "Pereiro"
-    }
-  },
-  {
-    "proxy": "http://201.20.42.46:3127",
-    "protocol": "http",
-    "ip": "201.20.42.46",
-    "port": 3127,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "BR",
-      "city": "São Paulo"
-    }
-  },
-  {
-    "proxy": "http://201.7.28.126:8080",
-    "protocol": "http",
-    "ip": "201.7.28.126",
-    "port": 8080,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "BR",
-      "city": "Aparecida de Goiania"
-    }
-  },
-  {
-    "proxy": "http://201.4.71.23:8080",
-    "protocol": "http",
-    "ip": "201.4.71.23",
-    "port": 8080,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "BR",
-      "city": "Sete Lagoas"
-    }
-  },
-  {
-    "proxy": "http://38.252.145.13:999",
-    "protocol": "http",
-    "ip": "38.252.145.13",
-    "port": 999,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "BR",
-      "city": "Londrina"
-    }
-  },
-  {
-    "proxy": "http://168.181.151.168:8081",
-    "protocol": "http",
-    "ip": "168.181.151.168",
-    "port": 8081,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "BR",
-      "city": "Unknown"
-    }
-  },
-  {
-    "proxy": "http://186.0.144.52:9797",
-    "protocol": "http",
-    "ip": "186.0.144.52",
-    "port": 9797,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "BR",
-      "city": "Araçatuba"
-    }
-  },
-  {
-    "proxy": "http://138.204.95.193:8989",
-    "protocol": "http",
-    "ip": "138.204.95.193",
-    "port": 8989,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "BR",
-      "city": "Caieiras"
-    }
-  },
-  {
-    "proxy": "http://164.163.237.196:9091",
-    "protocol": "http",
-    "ip": "164.163.237.196",
-    "port": 9091,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "BR",
-      "city": "Inubia Paulista"
-    }
-  },
-  {
-    "proxy": "http://201.91.248.67:20183",
-    "protocol": "http",
-    "ip": "201.91.248.67",
-    "port": 20183,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "BR",
-      "city": "Piedade"
-    }
-  },
-  {
-    "proxy": "http://191.44.71.163:8080",
-    "protocol": "http",
-    "ip": "191.44.71.163",
-    "port": 8080,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "BR",
-      "city": "Fortaleza"
-    }
-  },
-  {
-    "proxy": "http://201.4.69.46:8080",
-    "protocol": "http",
-    "ip": "201.4.69.46",
-    "port": 8080,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "BR",
-      "city": "Sete Lagoas"
-    }
-  },
-  {
-    "proxy": "http://186.226.167.191:3128",
-    "protocol": "http",
-    "ip": "186.226.167.191",
-    "port": 3128,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "BR",
-      "city": "Eunapolis"
-    }
-  },
-  {
-    "proxy": "http://201.7.31.115:8080",
-    "protocol": "http",
-    "ip": "201.7.31.115",
-    "port": 8080,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "BR",
-      "city": "Aparecida de Goiania"
-    }
-  },
-  {
-    "proxy": "http://191.7.114.63:8080",
-    "protocol": "http",
-    "ip": "191.7.114.63",
-    "port": 8080,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "BR",
-      "city": "Tangara Da Serra"
-    }
-  },
-  {
-    "proxy": "http://191.6.112.5:8086",
-    "protocol": "http",
-    "ip": "191.6.112.5",
-    "port": 8086,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "BR",
-      "city": "Macapá"
-    }
-  },
-  {
-    "proxy": "http://201.7.28.16:8080",
-    "protocol": "http",
-    "ip": "201.7.28.16",
-    "port": 8080,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "BR",
-      "city": "Aparecida de Goiania"
-    }
-  },
-  {
-    "proxy": "http://200.201.134.184:8787",
-    "protocol": "http",
-    "ip": "200.201.134.184",
-    "port": 8787,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "BR",
-      "city": "São Paulo"
-    }
-  },
-  {
-    "proxy": "http://201.4.69.43:8080",
-    "protocol": "http",
-    "ip": "201.4.69.43",
-    "port": 8080,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "BR",
-      "city": "Sete Lagoas"
-    }
-  },
-  {
-    "proxy": "http://201.7.31.43:8080",
-    "protocol": "http",
-    "ip": "201.7.31.43",
-    "port": 8080,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "BR",
-      "city": "Aparecida de Goiania"
-    }
-  },
-  {
-    "proxy": "http://201.76.9.115:8080",
-    "protocol": "http",
-    "ip": "201.76.9.115",
-    "port": 8080,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "BR",
-      "city": "Tubarao"
-    }
-  },
-  {
-    "proxy": "http://45.183.11.246:8080",
-    "protocol": "http",
-    "ip": "45.183.11.246",
-    "port": 8080,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "BR",
-      "city": "Machacalis"
-    }
-  },
-  {
-    "proxy": "http://179.125.61.201:8080",
-    "protocol": "http",
-    "ip": "179.125.61.201",
-    "port": 8080,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "BR",
-      "city": "Urania"
-    }
-  },
-  {
-    "proxy": "http://191.241.187.16:45005",
-    "protocol": "http",
-    "ip": "191.241.187.16",
-    "port": 45005,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "BR",
-      "city": "Poco Redondo"
-    }
-  },
-  {
-    "proxy": "http://179.48.10.1:8088",
-    "protocol": "http",
-    "ip": "179.48.10.1",
-    "port": 8088,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "BR",
-      "city": "Campo Maior"
-    }
-  },
-  {
-    "proxy": "http://179.48.80.9:8085",
-    "protocol": "http",
-    "ip": "179.48.80.9",
-    "port": 8085,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "BR",
-      "city": "Teresina"
-    }
-  },
-  {
-    "proxy": "http://191.44.91.60:8080",
-    "protocol": "http",
-    "ip": "191.44.91.60",
-    "port": 8080,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "BR",
-      "city": "Fortaleza"
-    }
-  },
-  {
-    "proxy": "http://20.197.203.93:8080",
-    "protocol": "http",
-    "ip": "20.197.203.93",
-    "port": 8080,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "BR",
-      "city": "Campinas"
-    }
-  },
-  {
-    "proxy": "http://45.234.101.120:8081",
-    "protocol": "http",
-    "ip": "45.234.101.120",
-    "port": 8081,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "BR",
-      "city": "Recife"
-    }
-  },
-  {
-    "proxy": "http://201.7.31.55:8080",
-    "protocol": "http",
-    "ip": "201.7.31.55",
-    "port": 8080,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "BR",
-      "city": "Aparecida de Goiania"
-    }
-  },
-  {
-    "proxy": "http://179.185.75.94:8080",
-    "protocol": "http",
-    "ip": "179.185.75.94",
-    "port": 8080,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "BR",
-      "city": "Aparecida de Goiania"
-    }
-  },
-  {
-    "proxy": "http://177.20.167.139:8080",
-    "protocol": "http",
-    "ip": "177.20.167.139",
-    "port": 8080,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "BR",
-      "city": "Bofete"
-    }
-  },
-  {
-    "proxy": "http://201.7.31.29:8080",
-    "protocol": "http",
-    "ip": "201.7.31.29",
-    "port": 8080,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "BR",
-      "city": "Aparecida de Goiania"
-    }
-  },
-  {
-    "proxy": "http://201.4.69.164:8080",
-    "protocol": "http",
-    "ip": "201.4.69.164",
-    "port": 8080,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "BR",
-      "city": "Sete Lagoas"
-    }
-  },
-  {
-    "proxy": "http://131.0.120.162:9292",
-    "protocol": "http",
-    "ip": "131.0.120.162",
-    "port": 9292,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "BR",
-      "city": "Estrela do Norte"
-    }
-  },
-  {
-    "proxy": "http://177.193.203.146:8080",
-    "protocol": "http",
-    "ip": "177.193.203.146",
-    "port": 8080,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "BR",
-      "city": "Salvador"
-    }
-  },
-  {
-    "proxy": "http://179.156.68.230:2020",
-    "protocol": "http",
-    "ip": "179.156.68.230",
-    "port": 2020,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "BR",
-      "city": "Camaçari"
-    }
-  },
-  {
-    "proxy": "http://191.160.36.7:8080",
-    "protocol": "http",
-    "ip": "191.160.36.7",
-    "port": 8080,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "BR",
-      "city": "Unknown"
-    }
-  },
-  {
-    "proxy": "http://201.4.65.79:8080",
-    "protocol": "http",
-    "ip": "201.4.65.79",
-    "port": 8080,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "BR",
-      "city": "Sete Lagoas"
-    }
-  },
-  {
-    "proxy": "http://177.130.25.76:8080",
-    "protocol": "http",
-    "ip": "177.130.25.76",
-    "port": 8080,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "BR",
-      "city": "Agua Boa"
-    }
-  },
-  {
-    "proxy": "http://187.95.136.46:5678",
-    "protocol": "http",
-    "ip": "187.95.136.46",
-    "port": 5678,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "BR",
-      "city": "Unknown"
-    }
-  },
-  {
-    "proxy": "http://179.124.139.220:80",
-    "protocol": "http",
-    "ip": "179.124.139.220",
-    "port": 80,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "BR",
-      "city": "Maceió"
-    }
-  },
-  {
-    "proxy": "http://201.4.69.113:8080",
-    "protocol": "http",
-    "ip": "201.4.69.113",
-    "port": 8080,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "BR",
-      "city": "Sete Lagoas"
-    }
-  },
-  {
-    "proxy": "http://186.194.62.91:999",
-    "protocol": "http",
-    "ip": "186.194.62.91",
-    "port": 999,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "BR",
-      "city": "Rio das Ostras"
-    }
-  },
-  {
-    "proxy": "http://45.71.15.2:1080",
-    "protocol": "http",
-    "ip": "45.71.15.2",
-    "port": 1080,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "BR",
-      "city": "Penapolis"
-    }
-  },
-  {
-    "proxy": "http://143.208.84.2:8589",
-    "protocol": "http",
-    "ip": "143.208.84.2",
-    "port": 8589,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "BR",
-      "city": "Ubirata"
-    }
-  },
-  {
-    "proxy": "http://138.186.133.161:4153",
-    "protocol": "http",
-    "ip": "138.186.133.161",
-    "port": 4153,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "BR",
-      "city": "Sape"
-    }
-  },
-  {
-    "proxy": "http://177.136.124.45:56113",
-    "protocol": "http",
-    "ip": "177.136.124.45",
-    "port": 56113,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "BR",
-      "city": "Madre de Deus"
-    }
-  },
-  {
-    "proxy": "http://168.194.147.18:8080",
-    "protocol": "http",
-    "ip": "168.194.147.18",
-    "port": 8080,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "BR",
-      "city": "Igarapava"
-    }
-  },
-  {
-    "proxy": "http://201.4.69.195:8080",
-    "protocol": "http",
-    "ip": "201.4.69.195",
-    "port": 8080,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "BR",
-      "city": "Sete Lagoas"
-    }
-  },
-  {
-    "proxy": "http://179.189.243.245:5432",
-    "protocol": "http",
-    "ip": "179.189.243.245",
-    "port": 5432,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "BR",
-      "city": "Recife"
-    }
-  },
-  {
-    "proxy": "http://149.40.26.24:8080",
-    "protocol": "http",
-    "ip": "149.40.26.24",
-    "port": 8080,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "BR",
-      "city": "Vila Velha"
-    }
-  },
-  {
-    "proxy": "http://131.196.50.128:8080",
-    "protocol": "http",
-    "ip": "131.196.50.128",
-    "port": 8080,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "BR",
-      "city": "Bayeux"
-    }
-  },
-  {
-    "proxy": "http://177.91.35.202:4153",
-    "protocol": "http",
-    "ip": "177.91.35.202",
-    "port": 4153,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "BR",
-      "city": "Tres Pontas"
-    }
-  },
-  {
-    "proxy": "http://201.7.31.146:8080",
-    "protocol": "http",
-    "ip": "201.7.31.146",
-    "port": 8080,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "BR",
-      "city": "Aparecida de Goiania"
-    }
-  },
-  {
-    "proxy": "http://149.78.206.146:3600",
-    "protocol": "http",
-    "ip": "149.78.206.146",
-    "port": 3600,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "BR",
-      "city": "Porto Seguro"
-    }
-  },
-  {
-    "proxy": "http://138.94.28.234:40658",
-    "protocol": "http",
-    "ip": "138.94.28.234",
-    "port": 40658,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "BR",
-      "city": "Cantagalo"
-    }
-  },
-  {
-    "proxy": "http://186.208.81.214:3129",
-    "protocol": "http",
-    "ip": "186.208.81.214",
-    "port": 3129,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "BR",
-      "city": "Unknown"
-    }
-  },
-  {
-    "proxy": "http://167.250.141.73:8080",
-    "protocol": "http",
-    "ip": "167.250.141.73",
-    "port": 8080,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "BR",
-      "city": "Caico"
-    }
-  },
-  {
-    "proxy": "http://190.109.72.17:33633",
-    "protocol": "http",
-    "ip": "190.109.72.17",
-    "port": 33633,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "BR",
-      "city": "Sao Geraldo do Araguaia"
-    }
-  },
-  {
-    "proxy": "http://201.157.235.197:8080",
-    "protocol": "http",
-    "ip": "201.157.235.197",
-    "port": 8080,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "BR",
-      "city": "Salvador"
-    }
-  },
-  {
-    "proxy": "http://201.7.31.230:8080",
-    "protocol": "http",
-    "ip": "201.7.31.230",
-    "port": 8080,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "BR",
-      "city": "Aparecida de Goiania"
-    }
-  },
-  {
-    "proxy": "http://177.136.44.193:54443",
-    "protocol": "http",
-    "ip": "177.136.44.193",
-    "port": 54443,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "BR",
-      "city": "Lauro de Freitas"
-    }
-  },
-  {
-    "proxy": "http://191.44.125.66:8080",
-    "protocol": "http",
-    "ip": "191.44.125.66",
-    "port": 8080,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "BR",
-      "city": "Fortaleza"
-    }
-  },
-  {
-    "proxy": "http://201.71.24.65:8082",
-    "protocol": "http",
-    "ip": "201.71.24.65",
-    "port": 8082,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "BR",
-      "city": "Pesqueira"
-    }
-  },
-  {
-    "proxy": "http://131.100.19.5:4321",
-    "protocol": "http",
-    "ip": "131.100.19.5",
-    "port": 4321,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "BR",
-      "city": "Colinas do Tocantins"
-    }
-  },
-  {
-    "proxy": "http://152.232.47.126:8800",
-    "protocol": "http",
-    "ip": "152.232.47.126",
-    "port": 8800,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "BR",
-      "city": "São Paulo"
-    }
-  },
-  {
-    "proxy": "http://45.70.52.248:8080",
-    "protocol": "http",
-    "ip": "45.70.52.248",
-    "port": 8080,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "BR",
-      "city": "Capela do Alto"
-    }
-  },
-  {
-    "proxy": "http://159.112.179.52:3128",
-    "protocol": "http",
-    "ip": "159.112.179.52",
-    "port": 3128,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "BR",
-      "city": "São Paulo"
-    }
-  },
-  {
-    "proxy": "http://177.184.72.22:4145",
-    "protocol": "http",
-    "ip": "177.184.72.22",
-    "port": 4145,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "BR",
-      "city": "Barra do Piraí"
-    }
-  },
-  {
-    "proxy": "http://177.10.66.14:1080",
-    "protocol": "http",
-    "ip": "177.10.66.14",
-    "port": 1080,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "BR",
-      "city": "Santa Maria"
-    }
-  },
-  {
-    "proxy": "http://179.189.246.129:5432",
-    "protocol": "http",
-    "ip": "179.189.246.129",
-    "port": 5432,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "BR",
-      "city": "Jaboatao dos Guararapes"
-    }
-  },
-  {
-    "proxy": "http://38.156.14.138:999",
-    "protocol": "http",
-    "ip": "38.156.14.138",
-    "port": 999,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "BR",
-      "city": "Unknown"
-    }
-  },
-  {
-    "proxy": "http://177.130.104.118:33333",
-    "protocol": "http",
-    "ip": "177.130.104.118",
-    "port": 33333,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "BR",
-      "city": "Nova Andradina"
-    }
-  },
-  {
-    "proxy": "http://131.255.227.104:3128",
-    "protocol": "http",
-    "ip": "131.255.227.104",
-    "port": 3128,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "BR",
-      "city": "Marabá"
-    }
-  },
-  {
-    "proxy": "http://138.186.187.194:8080",
-    "protocol": "http",
-    "ip": "138.186.187.194",
-    "port": 8080,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "BR",
-      "city": "Itaquaquecetuba"
-    }
-  },
-  {
-    "proxy": "http://170.80.221.192:4153",
-    "protocol": "http",
-    "ip": "170.80.221.192",
-    "port": 4153,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "BR",
-      "city": "Moreno"
-    }
-  },
-  {
-    "proxy": "http://179.189.248.129:5432",
-    "protocol": "http",
-    "ip": "179.189.248.129",
-    "port": 5432,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "BR",
-      "city": "Agua Preta"
-    }
-  },
-  {
-    "proxy": "http://45.238.112.229:56789",
-    "protocol": "http",
-    "ip": "45.238.112.229",
-    "port": 56789,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "BR",
-      "city": "Fortaleza"
-    }
-  },
-  {
-    "proxy": "http://177.55.68.68:8080",
-    "protocol": "http",
-    "ip": "177.55.68.68",
-    "port": 8080,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "BR",
-      "city": "Canaa Dos Carajas"
-    }
-  },
-  {
-    "proxy": "http://179.189.249.249:5432",
-    "protocol": "http",
-    "ip": "179.189.249.249",
-    "port": 5432,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "BR",
-      "city": "Agua Preta"
-    }
-  },
-  {
-    "proxy": "http://179.48.8.1:8088",
-    "protocol": "http",
-    "ip": "179.48.8.1",
-    "port": 8088,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "BR",
-      "city": "Campo Maior"
-    }
-  },
-  {
-    "proxy": "http://190.109.72.224:33633",
-    "protocol": "http",
-    "ip": "190.109.72.224",
-    "port": 33633,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "BR",
-      "city": "Sao Geraldo do Araguaia"
-    }
-  },
-  {
-    "proxy": "http://138.122.140.194:3128",
-    "protocol": "http",
-    "ip": "138.122.140.194",
-    "port": 3128,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "BR",
-      "city": "Cacoal"
-    }
-  },
-  {
-    "proxy": "http://201.4.68.236:8080",
-    "protocol": "http",
-    "ip": "201.4.68.236",
-    "port": 8080,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "BR",
-      "city": "Sete Lagoas"
-    }
-  },
-  {
-    "proxy": "http://209.14.68.68:8888",
-    "protocol": "http",
-    "ip": "209.14.68.68",
-    "port": 8888,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "BR",
-      "city": "Barueri"
-    }
-  },
-  {
-    "proxy": "http://45.183.11.194:8080",
-    "protocol": "http",
-    "ip": "45.183.11.194",
-    "port": 8080,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "BR",
-      "city": "Machacalis"
-    }
-  },
-  {
-    "proxy": "http://187.102.16.66:51327",
-    "protocol": "http",
-    "ip": "187.102.16.66",
-    "port": 51327,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "BR",
-      "city": "Sao Sebastiao do Maranhao"
-    }
-  },
-  {
-    "proxy": "http://168.195.168.182:8080",
-    "protocol": "http",
-    "ip": "168.195.168.182",
-    "port": 8080,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "BR",
-      "city": "Itaquaquecetuba"
-    }
-  },
-  {
-    "proxy": "http://177.130.104.106:33333",
-    "protocol": "http",
-    "ip": "177.130.104.106",
-    "port": 33333,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "BR",
-      "city": "Nova Andradina"
-    }
-  },
-  {
-    "proxy": "http://201.140.209.33:3128",
-    "protocol": "http",
-    "ip": "201.140.209.33",
-    "port": 3128,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "BR",
-      "city": "Janauba"
-    }
-  },
-  {
-    "proxy": "http://143.208.130.155:5678",
-    "protocol": "http",
-    "ip": "143.208.130.155",
-    "port": 5678,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "BR",
-      "city": "Paulista"
-    }
-  },
-  {
-    "proxy": "http://191.15.37.46:8080",
-    "protocol": "http",
-    "ip": "191.15.37.46",
-    "port": 8080,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "BR",
-      "city": "Unknown"
-    }
-  },
-  {
-    "proxy": "http://186.216.195.1:4153",
-    "protocol": "http",
-    "ip": "186.216.195.1",
-    "port": 4153,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "BR",
-      "city": "Itaguai"
-    }
-  },
-  {
-    "proxy": "http://45.234.101.122:8081",
-    "protocol": "http",
-    "ip": "45.234.101.122",
-    "port": 8081,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "BR",
-      "city": "Recife"
-    }
-  },
-  {
-    "proxy": "http://187.19.127.180:4153",
-    "protocol": "http",
-    "ip": "187.19.127.180",
-    "port": 4153,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "BR",
-      "city": "Itabaiana"
-    }
-  },
-  {
-    "proxy": "http://201.4.69.49:8080",
-    "protocol": "http",
-    "ip": "201.4.69.49",
-    "port": 8080,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "BR",
-      "city": "Sete Lagoas"
-    }
-  },
-  {
-    "proxy": "http://45.175.59.17:61950",
-    "protocol": "http",
-    "ip": "45.175.59.17",
-    "port": 61950,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "BR",
-      "city": "Fortaleza"
-    }
-  },
-  {
-    "proxy": "http://189.39.118.210:5678",
-    "protocol": "http",
-    "ip": "189.39.118.210",
-    "port": 5678,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "BR",
-      "city": "Paulista"
-    }
-  },
-  {
-    "proxy": "http://38.10.240.130:3128",
-    "protocol": "http",
-    "ip": "38.10.240.130",
-    "port": 3128,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "BR",
-      "city": "Unknown"
-    }
-  },
-  {
-    "proxy": "http://186.248.87.172:5678",
-    "protocol": "http",
-    "ip": "186.248.87.172",
-    "port": 5678,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "BR",
-      "city": "Belo Horizonte"
-    }
-  },
-  {
-    "proxy": "http://45.4.192.225:8080",
-    "protocol": "http",
-    "ip": "45.4.192.225",
-    "port": 8080,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "BR",
-      "city": "Brasília"
-    }
-  },
-  {
-    "proxy": "http://187.124.153.16:1080",
-    "protocol": "http",
-    "ip": "187.124.153.16",
-    "port": 1080,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "BR",
-      "city": "Unknown"
-    }
-  },
-  {
-    "proxy": "http://200.162.129.165:1080",
-    "protocol": "http",
-    "ip": "200.162.129.165",
-    "port": 1080,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "BR",
-      "city": "São Paulo"
-    }
-  },
-  {
-    "proxy": "http://177.139.174.81:8080",
-    "protocol": "http",
-    "ip": "177.139.174.81",
-    "port": 8080,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "BR",
-      "city": "Santo André"
-    }
-  },
-  {
-    "proxy": "http://181.191.14.5:8080",
-    "protocol": "http",
-    "ip": "181.191.14.5",
-    "port": 8080,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "BR",
-      "city": "Castanhal"
-    }
-  },
-  {
-    "proxy": "http://190.83.40.166:3128",
-    "protocol": "http",
-    "ip": "190.83.40.166",
-    "port": 3128,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "BR",
-      "city": "Altamira do Maranhao"
-    }
-  },
-  {
-    "proxy": "http://45.228.89.114:8666",
-    "protocol": "http",
-    "ip": "45.228.89.114",
-    "port": 8666,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "BR",
-      "city": "Salvador"
-    }
-  },
-  {
-    "proxy": "http://187.19.127.246:8011",
-    "protocol": "http",
-    "ip": "187.19.127.246",
-    "port": 8011,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "BR",
-      "city": "Itabaiana"
-    }
-  },
-  {
-    "proxy": "http://143.208.152.158:3180",
-    "protocol": "http",
-    "ip": "143.208.152.158",
-    "port": 3180,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "BR",
-      "city": "Unknown"
-    }
-  },
-  {
-    "proxy": "http://187.86.153.254:30660",
-    "protocol": "http",
-    "ip": "187.86.153.254",
-    "port": 30660,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "BR",
-      "city": "Pelotas"
-    }
-  },
-  {
-    "proxy": "http://191.44.71.221:8080",
-    "protocol": "http",
-    "ip": "191.44.71.221",
-    "port": 8080,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "BR",
-      "city": "Fortaleza"
-    }
-  },
-  {
-    "proxy": "http://201.4.68.243:8080",
-    "protocol": "http",
-    "ip": "201.4.68.243",
-    "port": 8080,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "BR",
-      "city": "Sete Lagoas"
-    }
-  },
-  {
-    "proxy": "http://131.161.68.41:35944",
-    "protocol": "http",
-    "ip": "131.161.68.41",
-    "port": 35944,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "BR",
-      "city": "Rio de Janeiro"
-    }
-  },
-  {
-    "proxy": "http://187.94.220.85:8080",
-    "protocol": "http",
-    "ip": "187.94.220.85",
-    "port": 8080,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "BR",
-      "city": "Guacui"
-    }
-  },
-  {
-    "proxy": "http://168.227.158.45:4145",
-    "protocol": "http",
-    "ip": "168.227.158.45",
-    "port": 4145,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "BR",
-      "city": "Pirai"
-    }
-  },
-  {
-    "proxy": "http://191.44.126.82:8080",
-    "protocol": "http",
-    "ip": "191.44.126.82",
-    "port": 8080,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "BR",
-      "city": "Fortaleza"
-    }
-  },
-  {
-    "proxy": "http://190.89.104.88:5432",
-    "protocol": "http",
-    "ip": "190.89.104.88",
-    "port": 5432,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "BR",
-      "city": "Curitiba"
-    }
-  },
-  {
-    "proxy": "http://45.232.77.153:9292",
-    "protocol": "http",
-    "ip": "45.232.77.153",
-    "port": 9292,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "BR",
-      "city": "Buritama"
-    }
-  },
-  {
-    "proxy": "http://186.246.2.55:1085",
-    "protocol": "http",
-    "ip": "186.246.2.55",
-    "port": 1085,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "BR",
-      "city": "São Paulo"
-    }
-  },
-  {
-    "proxy": "http://177.23.156.11:18800",
-    "protocol": "http",
-    "ip": "177.23.156.11",
-    "port": 18800,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "BR",
-      "city": "Senador Canedo"
-    }
-  },
-  {
-    "proxy": "http://45.238.112.228:56789",
-    "protocol": "http",
-    "ip": "45.238.112.228",
-    "port": 56789,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "BR",
-      "city": "Fortaleza"
-    }
-  },
-  {
-    "proxy": "http://186.65.106.90:666",
-    "protocol": "http",
-    "ip": "186.65.106.90",
-    "port": 666,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "BR",
-      "city": "Salvador"
-    }
-  },
-  {
-    "proxy": "http://187.44.188.238:8080",
-    "protocol": "http",
-    "ip": "187.44.188.238",
-    "port": 8080,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "BR",
-      "city": "Salvador"
-    }
-  },
-  {
-    "proxy": "http://179.48.11.6:8085",
-    "protocol": "http",
-    "ip": "179.48.11.6",
-    "port": 8085,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "BR",
-      "city": "Campo Maior"
-    }
-  },
-  {
-    "proxy": "http://201.4.68.78:8080",
-    "protocol": "http",
-    "ip": "201.4.68.78",
-    "port": 8080,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "BR",
-      "city": "Sete Lagoas"
-    }
-  },
-  {
-    "proxy": "http://191.44.125.13:8080",
-    "protocol": "http",
-    "ip": "191.44.125.13",
-    "port": 8080,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "BR",
-      "city": "Fortaleza"
-    }
-  },
-  {
-    "proxy": "http://177.10.202.115:35452",
-    "protocol": "http",
-    "ip": "177.10.202.115",
-    "port": 35452,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "BR",
-      "city": "Campina Grande"
-    }
-  },
-  {
-    "proxy": "http://138.0.143.119:8080",
-    "protocol": "http",
-    "ip": "138.0.143.119",
-    "port": 8080,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "BR",
-      "city": "Valparaiso"
-    }
-  },
-  {
-    "proxy": "http://201.20.42.46:3129",
-    "protocol": "http",
-    "ip": "201.20.42.46",
-    "port": 3129,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "BR",
-      "city": "São Paulo"
-    }
-  },
-  {
-    "proxy": "http://191.44.71.254:8080",
-    "protocol": "http",
-    "ip": "191.44.71.254",
-    "port": 8080,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "BR",
-      "city": "Fortaleza"
-    }
-  },
-  {
     "proxy": "http://191.44.91.53:8080",
     "protocol": "http",
     "ip": "191.44.91.53",
-    "port": 8080,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "BR",
-      "city": "Fortaleza"
-    }
-  },
-  {
-    "proxy": "http://201.4.65.103:8080",
-    "protocol": "http",
-    "ip": "201.4.65.103",
-    "port": 8080,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "BR",
-      "city": "Sete Lagoas"
-    }
-  },
-  {
-    "proxy": "http://170.81.211.79:8080",
-    "protocol": "http",
-    "ip": "170.81.211.79",
-    "port": 8080,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "BR",
-      "city": "Carapicuiba"
-    }
-  },
-  {
-    "proxy": "http://189.50.45.46:1995",
-    "protocol": "http",
-    "ip": "189.50.45.46",
-    "port": 1995,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "BR",
-      "city": "Barro Alto"
-    }
-  },
-  {
-    "proxy": "http://190.83.40.166:3129",
-    "protocol": "http",
-    "ip": "190.83.40.166",
-    "port": 3129,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "BR",
-      "city": "Altamira do Maranhao"
-    }
-  },
-  {
-    "proxy": "http://186.211.194.21:8080",
-    "protocol": "http",
-    "ip": "186.211.194.21",
-    "port": 8080,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "BR",
-      "city": "Porto Alegre"
-    }
-  },
-  {
-    "proxy": "http://201.150.148.227:8080",
-    "protocol": "http",
-    "ip": "201.150.148.227",
-    "port": 8080,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "BR",
-      "city": "Salinopolis"
-    }
-  },
-  {
-    "proxy": "http://186.227.196.104:3129",
-    "protocol": "http",
-    "ip": "186.227.196.104",
-    "port": 3129,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "BR",
-      "city": "Unknown"
-    }
-  },
-  {
-    "proxy": "http://159.112.179.52:3129",
-    "protocol": "http",
-    "ip": "159.112.179.52",
-    "port": 3129,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "BR",
-      "city": "São Paulo"
-    }
-  },
-  {
-    "proxy": "http://187.110.232.118:8080",
-    "protocol": "http",
-    "ip": "187.110.232.118",
     "port": 8080,
     "https": false,
     "anonymity": "transparent",
@@ -3159,16 +1079,29 @@
     }
   },
   {
-    "proxy": "http://138.0.143.120:8080",
+    "proxy": "http://187.49.178.237:8080",
     "protocol": "http",
-    "ip": "138.0.143.120",
+    "ip": "187.49.178.237",
     "port": 8080,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
     "geolocation": {
       "country": "BR",
-      "city": "Valparaiso"
+      "city": "Fortaleza"
+    }
+  },
+  {
+    "proxy": "http://45.229.9.146:8402",
+    "protocol": "http",
+    "ip": "45.229.9.146",
+    "port": 8402,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "BR",
+      "city": "Rondonópolis"
     }
   },
   {
@@ -3185,16 +1118,55 @@
     }
   },
   {
-    "proxy": "http://201.7.31.170:8080",
+    "proxy": "http://15.229.149.81:1080",
     "protocol": "http",
-    "ip": "201.7.31.170",
-    "port": 8080,
+    "ip": "15.229.149.81",
+    "port": 1080,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
     "geolocation": {
       "country": "BR",
-      "city": "Aparecida de Goiania"
+      "city": "São Paulo"
+    }
+  },
+  {
+    "proxy": "http://186.246.47.110:3128",
+    "protocol": "http",
+    "ip": "186.246.47.110",
+    "port": 3128,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "BR",
+      "city": "São Paulo"
+    }
+  },
+  {
+    "proxy": "http://179.189.248.129:5432",
+    "protocol": "http",
+    "ip": "179.189.248.129",
+    "port": 5432,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "BR",
+      "city": "Agua Preta"
+    }
+  },
+  {
+    "proxy": "http://152.232.122.112:6097",
+    "protocol": "http",
+    "ip": "152.232.122.112",
+    "port": 6097,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "BR",
+      "city": "Rio de Janeiro"
     }
   },
   {
@@ -3211,22 +1183,152 @@
     }
   },
   {
-    "proxy": "http://201.62.125.142:8080",
+    "proxy": "http://138.94.236.71:8080",
     "protocol": "http",
-    "ip": "201.62.125.142",
+    "ip": "138.94.236.71",
     "port": 8080,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
     "geolocation": {
       "country": "BR",
-      "city": "Rio Claro"
+      "city": "Novo Progresso"
     }
   },
   {
-    "proxy": "http://201.4.69.40:8080",
+    "proxy": "http://170.81.131.70:3128",
     "protocol": "http",
-    "ip": "201.4.69.40",
+    "ip": "170.81.131.70",
+    "port": 3128,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "BR",
+      "city": "Ribeirão Preto"
+    }
+  },
+  {
+    "proxy": "http://45.227.195.121:8082",
+    "protocol": "http",
+    "ip": "45.227.195.121",
+    "port": 8082,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "BR",
+      "city": "Erval Velho"
+    }
+  },
+  {
+    "proxy": "http://131.196.50.128:8080",
+    "protocol": "http",
+    "ip": "131.196.50.128",
+    "port": 8080,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "BR",
+      "city": "Bayeux"
+    }
+  },
+  {
+    "proxy": "http://152.232.15.37:8205",
+    "protocol": "http",
+    "ip": "152.232.15.37",
+    "port": 8205,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "BR",
+      "city": "São Paulo"
+    }
+  },
+  {
+    "proxy": "http://200.188.246.122:60606",
+    "protocol": "http",
+    "ip": "200.188.246.122",
+    "port": 60606,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "BR",
+      "city": "Florianópolis"
+    }
+  },
+  {
+    "proxy": "http://179.255.188.140:1080",
+    "protocol": "http",
+    "ip": "179.255.188.140",
+    "port": 1080,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "BR",
+      "city": "Goiânia"
+    }
+  },
+  {
+    "proxy": "http://181.191.14.5:8080",
+    "protocol": "http",
+    "ip": "181.191.14.5",
+    "port": 8080,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "BR",
+      "city": "Castanhal"
+    }
+  },
+  {
+    "proxy": "http://143.208.84.57:8589",
+    "protocol": "http",
+    "ip": "143.208.84.57",
+    "port": 8589,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "BR",
+      "city": "Ubirata"
+    }
+  },
+  {
+    "proxy": "http://131.255.227.104:3128",
+    "protocol": "http",
+    "ip": "131.255.227.104",
+    "port": 3128,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "BR",
+      "city": "Marabá"
+    }
+  },
+  {
+    "proxy": "http://186.208.81.214:3129",
+    "protocol": "http",
+    "ip": "186.208.81.214",
+    "port": 3129,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "BR",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "http://201.4.71.23:8080",
+    "protocol": "http",
+    "ip": "201.4.71.23",
     "port": 8080,
     "https": false,
     "anonymity": "transparent",
@@ -3237,29 +1339,1030 @@
     }
   },
   {
-    "proxy": "http://179.48.25.1:8095",
+    "proxy": "http://201.4.69.92:8080",
     "protocol": "http",
-    "ip": "179.48.25.1",
-    "port": 8095,
+    "ip": "201.4.69.92",
+    "port": 8080,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
     "geolocation": {
       "country": "BR",
-      "city": "Timon"
+      "city": "Sete Lagoas"
     }
   },
   {
-    "proxy": "http://177.19.167.242:80",
+    "proxy": "http://143.137.116.72:1080",
     "protocol": "http",
-    "ip": "177.19.167.242",
-    "port": 80,
+    "ip": "143.137.116.72",
+    "port": 1080,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
     "geolocation": {
       "country": "BR",
-      "city": "Porto Alegre"
+      "city": "São Paulo"
+    }
+  },
+  {
+    "proxy": "http://131.72.89.53:9500",
+    "protocol": "http",
+    "ip": "131.72.89.53",
+    "port": 9500,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "BR",
+      "city": "Jesuitas"
+    }
+  },
+  {
+    "proxy": "http://201.4.65.112:8080",
+    "protocol": "http",
+    "ip": "201.4.65.112",
+    "port": 8080,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "BR",
+      "city": "Sete Lagoas"
+    }
+  },
+  {
+    "proxy": "http://177.55.68.68:8080",
+    "protocol": "http",
+    "ip": "177.55.68.68",
+    "port": 8080,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "BR",
+      "city": "Canaa Dos Carajas"
+    }
+  },
+  {
+    "proxy": "http://45.175.59.0:61950",
+    "protocol": "http",
+    "ip": "45.175.59.0",
+    "port": 61950,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "BR",
+      "city": "Fortaleza"
+    }
+  },
+  {
+    "proxy": "http://38.255.121.1:999",
+    "protocol": "http",
+    "ip": "38.255.121.1",
+    "port": 999,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "BR",
+      "city": "Centro"
+    }
+  },
+  {
+    "proxy": "http://186.26.95.249:61445",
+    "protocol": "http",
+    "ip": "186.26.95.249",
+    "port": 61445,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "BR",
+      "city": "Sao Joao de Meriti"
+    }
+  },
+  {
+    "proxy": "http://189.124.85.77:33333",
+    "protocol": "http",
+    "ip": "189.124.85.77",
+    "port": 33333,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "BR",
+      "city": "Santo Anastacio"
+    }
+  },
+  {
+    "proxy": "http://179.48.80.9:8085",
+    "protocol": "http",
+    "ip": "179.48.80.9",
+    "port": 8085,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "BR",
+      "city": "Teresina"
+    }
+  },
+  {
+    "proxy": "http://201.7.31.169:8080",
+    "protocol": "http",
+    "ip": "201.7.31.169",
+    "port": 8080,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "BR",
+      "city": "Aparecida de Goiania"
+    }
+  },
+  {
+    "proxy": "http://206.42.51.78:4153",
+    "protocol": "http",
+    "ip": "206.42.51.78",
+    "port": 4153,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "BR",
+      "city": "João Pessoa"
+    }
+  },
+  {
+    "proxy": "http://177.222.248.54:9191",
+    "protocol": "http",
+    "ip": "177.222.248.54",
+    "port": 9191,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "BR",
+      "city": "Timoteo"
+    }
+  },
+  {
+    "proxy": "http://170.244.64.198:31476",
+    "protocol": "http",
+    "ip": "170.244.64.198",
+    "port": 31476,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "BR",
+      "city": "São Paulo"
+    }
+  },
+  {
+    "proxy": "http://177.184.64.2:4145",
+    "protocol": "http",
+    "ip": "177.184.64.2",
+    "port": 4145,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "BR",
+      "city": "Mendes"
+    }
+  },
+  {
+    "proxy": "http://187.49.83.164:53000",
+    "protocol": "http",
+    "ip": "187.49.83.164",
+    "port": 53000,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "BR",
+      "city": "Cascavel"
+    }
+  },
+  {
+    "proxy": "http://177.26.112.65:5678",
+    "protocol": "http",
+    "ip": "177.26.112.65",
+    "port": 5678,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "BR",
+      "city": "São Paulo"
+    }
+  },
+  {
+    "proxy": "http://143.208.130.155:5678",
+    "protocol": "http",
+    "ip": "143.208.130.155",
+    "port": 5678,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "BR",
+      "city": "Paulista"
+    }
+  },
+  {
+    "proxy": "http://138.94.28.234:40658",
+    "protocol": "http",
+    "ip": "138.94.28.234",
+    "port": 40658,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "BR",
+      "city": "Cantagalo"
+    }
+  },
+  {
+    "proxy": "http://179.189.246.129:5432",
+    "protocol": "http",
+    "ip": "179.189.246.129",
+    "port": 5432,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "BR",
+      "city": "Jaboatao dos Guararapes"
+    }
+  },
+  {
+    "proxy": "http://186.235.255.220:8080",
+    "protocol": "http",
+    "ip": "186.235.255.220",
+    "port": 8080,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "BR",
+      "city": "Tijucas"
+    }
+  },
+  {
+    "proxy": "http://177.130.25.76:8080",
+    "protocol": "http",
+    "ip": "177.130.25.76",
+    "port": 8080,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "BR",
+      "city": "Agua Boa"
+    }
+  },
+  {
+    "proxy": "http://177.139.174.81:8080",
+    "protocol": "http",
+    "ip": "177.139.174.81",
+    "port": 8080,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "BR",
+      "city": "Santo André"
+    }
+  },
+  {
+    "proxy": "http://167.250.23.13:9090",
+    "protocol": "http",
+    "ip": "167.250.23.13",
+    "port": 9090,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "BR",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "http://187.94.16.59:39665",
+    "protocol": "http",
+    "ip": "187.94.16.59",
+    "port": 39665,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "BR",
+      "city": "Irece"
+    }
+  },
+  {
+    "proxy": "http://187.94.220.85:8080",
+    "protocol": "http",
+    "ip": "187.94.220.85",
+    "port": 8080,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "BR",
+      "city": "Guacui"
+    }
+  },
+  {
+    "proxy": "http://45.238.112.229:56789",
+    "protocol": "http",
+    "ip": "45.238.112.229",
+    "port": 56789,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "BR",
+      "city": "Fortaleza"
+    }
+  },
+  {
+    "proxy": "http://191.241.184.5:8080",
+    "protocol": "http",
+    "ip": "191.241.184.5",
+    "port": 8080,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "BR",
+      "city": "Nossa Senhora da Gloria"
+    }
+  },
+  {
+    "proxy": "http://201.7.31.146:8080",
+    "protocol": "http",
+    "ip": "201.7.31.146",
+    "port": 8080,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "BR",
+      "city": "Aparecida de Goiania"
+    }
+  },
+  {
+    "proxy": "http://201.157.235.197:8080",
+    "protocol": "http",
+    "ip": "201.157.235.197",
+    "port": 8080,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "BR",
+      "city": "Salvador"
+    }
+  },
+  {
+    "proxy": "http://201.76.9.115:8080",
+    "protocol": "http",
+    "ip": "201.76.9.115",
+    "port": 8080,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "BR",
+      "city": "Tubarao"
+    }
+  },
+  {
+    "proxy": "http://201.4.65.103:8080",
+    "protocol": "http",
+    "ip": "201.4.65.103",
+    "port": 8080,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "BR",
+      "city": "Sete Lagoas"
+    }
+  },
+  {
+    "proxy": "http://190.83.40.166:3128",
+    "protocol": "http",
+    "ip": "190.83.40.166",
+    "port": 3128,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "BR",
+      "city": "Altamira do Maranhao"
+    }
+  },
+  {
+    "proxy": "http://179.189.249.249:5432",
+    "protocol": "http",
+    "ip": "179.189.249.249",
+    "port": 5432,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "BR",
+      "city": "Agua Preta"
+    }
+  },
+  {
+    "proxy": "http://192.141.74.246:1088",
+    "protocol": "http",
+    "ip": "192.141.74.246",
+    "port": 1088,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "BR",
+      "city": "Duque de Caxias"
+    }
+  },
+  {
+    "proxy": "http://201.4.64.153:8080",
+    "protocol": "http",
+    "ip": "201.4.64.153",
+    "port": 8080,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "BR",
+      "city": "Sete Lagoas"
+    }
+  },
+  {
+    "proxy": "http://45.231.101.97:9999",
+    "protocol": "http",
+    "ip": "45.231.101.97",
+    "port": 9999,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "BR",
+      "city": "Salvador"
+    }
+  },
+  {
+    "proxy": "http://170.81.102.168:6666",
+    "protocol": "http",
+    "ip": "170.81.102.168",
+    "port": 6666,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "BR",
+      "city": "Camaçari"
+    }
+  },
+  {
+    "proxy": "http://177.131.118.123:5432",
+    "protocol": "http",
+    "ip": "177.131.118.123",
+    "port": 5432,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "BR",
+      "city": "Curitiba"
+    }
+  },
+  {
+    "proxy": "http://138.186.187.194:8080",
+    "protocol": "http",
+    "ip": "138.186.187.194",
+    "port": 8080,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "BR",
+      "city": "Itaquaquecetuba"
+    }
+  },
+  {
+    "proxy": "http://20.197.203.93:8080",
+    "protocol": "http",
+    "ip": "20.197.203.93",
+    "port": 8080,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "BR",
+      "city": "Campinas"
+    }
+  },
+  {
+    "proxy": "http://177.184.72.22:4145",
+    "protocol": "http",
+    "ip": "177.184.72.22",
+    "port": 4145,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "BR",
+      "city": "Barra do Piraí"
+    }
+  },
+  {
+    "proxy": "http://190.89.104.88:5432",
+    "protocol": "http",
+    "ip": "190.89.104.88",
+    "port": 5432,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "BR",
+      "city": "Curitiba"
+    }
+  },
+  {
+    "proxy": "http://138.186.133.161:4153",
+    "protocol": "http",
+    "ip": "138.186.133.161",
+    "port": 4153,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "BR",
+      "city": "Sape"
+    }
+  },
+  {
+    "proxy": "http://38.252.145.13:999",
+    "protocol": "http",
+    "ip": "38.252.145.13",
+    "port": 999,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "BR",
+      "city": "Londrina"
+    }
+  },
+  {
+    "proxy": "http://170.80.221.192:4153",
+    "protocol": "http",
+    "ip": "170.80.221.192",
+    "port": 4153,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "BR",
+      "city": "Moreno"
+    }
+  },
+  {
+    "proxy": "http://209.14.68.68:8888",
+    "protocol": "http",
+    "ip": "209.14.68.68",
+    "port": 8888,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "BR",
+      "city": "Barueri"
+    }
+  },
+  {
+    "proxy": "http://190.109.72.224:33633",
+    "protocol": "http",
+    "ip": "190.109.72.224",
+    "port": 33633,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "BR",
+      "city": "Sao Geraldo do Araguaia"
+    }
+  },
+  {
+    "proxy": "http://149.40.26.240:8080",
+    "protocol": "http",
+    "ip": "149.40.26.240",
+    "port": 8080,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "BR",
+      "city": "Vila Velha"
+    }
+  },
+  {
+    "proxy": "http://45.238.112.228:56789",
+    "protocol": "http",
+    "ip": "45.238.112.228",
+    "port": 56789,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "BR",
+      "city": "Fortaleza"
+    }
+  },
+  {
+    "proxy": "http://187.86.153.254:30660",
+    "protocol": "http",
+    "ip": "187.86.153.254",
+    "port": 30660,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "BR",
+      "city": "Pelotas"
+    }
+  },
+  {
+    "proxy": "http://201.71.24.65:8082",
+    "protocol": "http",
+    "ip": "201.71.24.65",
+    "port": 8082,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "BR",
+      "city": "Pesqueira"
+    }
+  },
+  {
+    "proxy": "http://45.232.77.153:9292",
+    "protocol": "http",
+    "ip": "45.232.77.153",
+    "port": 9292,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "BR",
+      "city": "Buritama"
+    }
+  },
+  {
+    "proxy": "http://186.232.94.73:44443",
+    "protocol": "http",
+    "ip": "186.232.94.73",
+    "port": 44443,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "BR",
+      "city": "Franciscopolis"
+    }
+  },
+  {
+    "proxy": "http://201.4.68.243:8080",
+    "protocol": "http",
+    "ip": "201.4.68.243",
+    "port": 8080,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "BR",
+      "city": "Sete Lagoas"
+    }
+  },
+  {
+    "proxy": "http://168.194.147.18:8080",
+    "protocol": "http",
+    "ip": "168.194.147.18",
+    "port": 8080,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "BR",
+      "city": "Igarapava"
+    }
+  },
+  {
+    "proxy": "http://201.182.204.18:9999",
+    "protocol": "http",
+    "ip": "201.182.204.18",
+    "port": 9999,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "BR",
+      "city": "Candeias"
+    }
+  },
+  {
+    "proxy": "http://177.23.156.11:18800",
+    "protocol": "http",
+    "ip": "177.23.156.11",
+    "port": 18800,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "BR",
+      "city": "Senador Canedo"
+    }
+  },
+  {
+    "proxy": "http://186.194.127.41:4153",
+    "protocol": "http",
+    "ip": "186.194.127.41",
+    "port": 4153,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "BR",
+      "city": "Petrolina"
+    }
+  },
+  {
+    "proxy": "http://45.4.192.225:8080",
+    "protocol": "http",
+    "ip": "45.4.192.225",
+    "port": 8080,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "BR",
+      "city": "Brasília"
+    }
+  },
+  {
+    "proxy": "http://138.99.248.11:8080",
+    "protocol": "http",
+    "ip": "138.99.248.11",
+    "port": 8080,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "BR",
+      "city": "Cascavel"
+    }
+  },
+  {
+    "proxy": "http://45.183.11.194:8080",
+    "protocol": "http",
+    "ip": "45.183.11.194",
+    "port": 8080,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "BR",
+      "city": "Machacalis"
+    }
+  },
+  {
+    "proxy": "http://159.112.179.52:3128",
+    "protocol": "http",
+    "ip": "159.112.179.52",
+    "port": 3128,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "BR",
+      "city": "São Paulo"
+    }
+  },
+  {
+    "proxy": "http://201.7.28.126:8080",
+    "protocol": "http",
+    "ip": "201.7.28.126",
+    "port": 8080,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "BR",
+      "city": "Aparecida de Goiania"
+    }
+  },
+  {
+    "proxy": "http://168.195.168.182:8080",
+    "protocol": "http",
+    "ip": "168.195.168.182",
+    "port": 8080,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "BR",
+      "city": "Itaquaquecetuba"
+    }
+  },
+  {
+    "proxy": "http://131.0.120.162:9292",
+    "protocol": "http",
+    "ip": "131.0.120.162",
+    "port": 9292,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "BR",
+      "city": "Estrela do Norte"
+    }
+  },
+  {
+    "proxy": "http://168.181.151.168:8081",
+    "protocol": "http",
+    "ip": "168.181.151.168",
+    "port": 8081,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "BR",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "http://177.130.104.106:33333",
+    "protocol": "http",
+    "ip": "177.130.104.106",
+    "port": 33333,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "BR",
+      "city": "Nova Andradina"
+    }
+  },
+  {
+    "proxy": "http://143.208.84.2:8589",
+    "protocol": "http",
+    "ip": "143.208.84.2",
+    "port": 8589,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "BR",
+      "city": "Ubirata"
+    }
+  },
+  {
+    "proxy": "http://201.182.57.142:8080",
+    "protocol": "http",
+    "ip": "201.182.57.142",
+    "port": 8080,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "BR",
+      "city": "João Pessoa"
+    }
+  },
+  {
+    "proxy": "http://152.232.57.245:8273",
+    "protocol": "http",
+    "ip": "152.232.57.245",
+    "port": 8273,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "BR",
+      "city": "São Paulo"
+    }
+  },
+  {
+    "proxy": "http://177.130.104.118:33333",
+    "protocol": "http",
+    "ip": "177.130.104.118",
+    "port": 33333,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "BR",
+      "city": "Nova Andradina"
+    }
+  },
+  {
+    "proxy": "http://201.4.69.43:8080",
+    "protocol": "http",
+    "ip": "201.4.69.43",
+    "port": 8080,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "BR",
+      "city": "Sete Lagoas"
+    }
+  },
+  {
+    "proxy": "http://177.136.44.194:54443",
+    "protocol": "http",
+    "ip": "177.136.44.194",
+    "port": 54443,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "BR",
+      "city": "Lauro de Freitas"
+    }
+  },
+  {
+    "proxy": "http://186.235.123.3:8080",
+    "protocol": "http",
+    "ip": "186.235.123.3",
+    "port": 8080,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "BR",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "http://143.0.203.173:8080",
+    "protocol": "http",
+    "ip": "143.0.203.173",
+    "port": 8080,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "BR",
+      "city": "Tanabi"
+    }
+  },
+  {
+    "proxy": "http://200.53.2.161:8403",
+    "protocol": "http",
+    "ip": "200.53.2.161",
+    "port": 8403,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "BR",
+      "city": "Taperoa"
+    }
+  },
+  {
+    "proxy": "http://206.1.97.133:3129",
+    "protocol": "http",
+    "ip": "206.1.97.133",
+    "port": 3129,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "BR",
+      "city": "São Luís"
+    }
+  },
+  {
+    "proxy": "http://201.4.65.79:8080",
+    "protocol": "http",
+    "ip": "201.4.65.79",
+    "port": 8080,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "BR",
+      "city": "Sete Lagoas"
     }
   }
 ]

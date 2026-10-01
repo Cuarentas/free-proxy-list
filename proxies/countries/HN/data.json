@@ -13,29 +13,16 @@
     }
   },
   {
-    "proxy": "http://45.182.21.150:999",
-    "protocol": "http",
-    "ip": "45.182.21.150",
-    "port": 999,
+    "proxy": "socks4://181.115.75.102:5678",
+    "protocol": "socks4",
+    "ip": "181.115.75.102",
+    "port": 5678,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
     "geolocation": {
       "country": "HN",
-      "city": "Unknown"
-    }
-  },
-  {
-    "proxy": "http://192.141.165.131:999",
-    "protocol": "http",
-    "ip": "192.141.165.131",
-    "port": 999,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "HN",
-      "city": "Catacamas"
+      "city": "San Pedro Sula"
     }
   },
   {
@@ -52,16 +39,68 @@
     }
   },
   {
-    "proxy": "http://164.163.73.5:999",
+    "proxy": "http://45.4.85.210:999",
     "protocol": "http",
-    "ip": "164.163.73.5",
+    "ip": "45.4.85.210",
     "port": 999,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
     "geolocation": {
       "country": "HN",
-      "city": "Santa Rosa de Copán"
+      "city": "San Marcos"
+    }
+  },
+  {
+    "proxy": "http://190.92.47.166:999",
+    "protocol": "http",
+    "ip": "190.92.47.166",
+    "port": 999,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "HN",
+      "city": "San Pedro Sula"
+    }
+  },
+  {
+    "proxy": "http://190.124.166.227:999",
+    "protocol": "http",
+    "ip": "190.124.166.227",
+    "port": 999,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "HN",
+      "city": "San Pedro Sula"
+    }
+  },
+  {
+    "proxy": "http://200.106.236.142:8080",
+    "protocol": "http",
+    "ip": "200.106.236.142",
+    "port": 8080,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "HN",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "http://181.115.65.194:999",
+    "protocol": "http",
+    "ip": "181.115.65.194",
+    "port": 999,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "HN",
+      "city": "La Entrada"
     }
   },
   {
@@ -101,45 +140,6 @@
     "geolocation": {
       "country": "HN",
       "city": "Tegucigalpa"
-    }
-  },
-  {
-    "proxy": "http://181.115.65.196:999",
-    "protocol": "http",
-    "ip": "181.115.65.196",
-    "port": 999,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "HN",
-      "city": "La Entrada"
-    }
-  },
-  {
-    "proxy": "http://181.115.65.194:999",
-    "protocol": "http",
-    "ip": "181.115.65.194",
-    "port": 999,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "HN",
-      "city": "La Entrada"
-    }
-  },
-  {
-    "proxy": "http://190.124.166.227:999",
-    "protocol": "http",
-    "ip": "190.124.166.227",
-    "port": 999,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "HN",
-      "city": "San Pedro Sula"
     }
   },
   {

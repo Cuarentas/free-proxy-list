@@ -26,6 +26,19 @@
     }
   },
   {
+    "proxy": "http://45.133.107.64:81",
+    "protocol": "http",
+    "ip": "45.133.107.64",
+    "port": 81,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "AM",
+      "city": "Unknown"
+    }
+  },
+  {
     "proxy": "http://185.162.228.44:80",
     "protocol": "http",
     "ip": "185.162.228.44",
@@ -299,9 +312,35 @@
     }
   },
   {
-    "proxy": "http://195.250.92.58:8080",
+    "proxy": "http://37.186.66.36:3629",
     "protocol": "http",
-    "ip": "195.250.92.58",
+    "ip": "37.186.66.36",
+    "port": 3629,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "AM",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "http://89.249.192.201:6600",
+    "protocol": "http",
+    "ip": "89.249.192.201",
+    "port": 6600,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "AM",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "http://5.77.252.205:8080",
+    "protocol": "http",
+    "ip": "5.77.252.205",
     "port": 8080,
     "https": false,
     "anonymity": "transparent",
@@ -312,22 +351,9 @@
     }
   },
   {
-    "proxy": "http://81.16.9.222:3629",
+    "proxy": "http://45.133.107.128:81",
     "protocol": "http",
-    "ip": "81.16.9.222",
-    "port": 3629,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "AM",
-      "city": "Yerevan"
-    }
-  },
-  {
-    "proxy": "http://91.204.190.140:81",
-    "protocol": "http",
-    "ip": "91.204.190.140",
+    "ip": "45.133.107.128",
     "port": 81,
     "https": false,
     "anonymity": "transparent",
@@ -335,6 +361,19 @@
     "geolocation": {
       "country": "AM",
       "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "http://195.250.92.58:8080",
+    "protocol": "http",
+    "ip": "195.250.92.58",
+    "port": 8080,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "AM",
+      "city": "Yerevan"
     }
   }
 ]
