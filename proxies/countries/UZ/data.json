@@ -13,19 +13,6 @@
     }
   },
   {
-    "proxy": "http://195.158.1.187:8026",
-    "protocol": "http",
-    "ip": "195.158.1.187",
-    "port": 8026,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "UZ",
-      "city": "Tashkent"
-    }
-  },
-  {
     "proxy": "socks5://213.230.121.41:1080",
     "protocol": "socks5",
     "ip": "213.230.121.41",
@@ -52,6 +39,19 @@
     }
   },
   {
+    "proxy": "http://94.158.49.82:3128",
+    "protocol": "http",
+    "ip": "94.158.49.82",
+    "port": 3128,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "UZ",
+      "city": "Guliston"
+    }
+  },
+  {
     "proxy": "http://90.156.160.235:8080",
     "protocol": "http",
     "ip": "90.156.160.235",
@@ -75,32 +75,6 @@
     "geolocation": {
       "country": "UZ",
       "city": "Tashkent"
-    }
-  },
-  {
-    "proxy": "http://94.158.49.82:3128",
-    "protocol": "http",
-    "ip": "94.158.49.82",
-    "port": 3128,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "UZ",
-      "city": "Guliston"
-    }
-  },
-  {
-    "proxy": "http://31.135.214.17:8026",
-    "protocol": "http",
-    "ip": "31.135.214.17",
-    "port": 8026,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "UZ",
-      "city": "Unknown"
     }
   },
   {

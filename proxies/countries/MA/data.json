@@ -24,5 +24,18 @@
       "country": "MA",
       "city": "Casablanca"
     }
+  },
+  {
+    "proxy": "http://102.53.233.254:30001",
+    "protocol": "http",
+    "ip": "102.53.233.254",
+    "port": 30001,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "MA",
+      "city": "Unknown"
+    }
   }
 ]
