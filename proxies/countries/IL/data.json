@@ -91,42 +91,16 @@
     }
   },
   {
-    "proxy": "http://147.236.181.86:50009",
+    "proxy": "http://83.229.73.225:13554",
     "protocol": "http",
-    "ip": "147.236.181.86",
-    "port": 50009,
+    "ip": "83.229.73.225",
+    "port": 13554,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
     "geolocation": {
       "country": "IL",
-      "city": "'Ezer"
-    }
-  },
-  {
-    "proxy": "http://34.165.5.226:443",
-    "protocol": "http",
-    "ip": "34.165.5.226",
-    "port": 443,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "IL",
-      "city": "Tel Aviv"
-    }
-  },
-  {
-    "proxy": "http://138.124.117.43:3131",
-    "protocol": "http",
-    "ip": "138.124.117.43",
-    "port": 3131,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "IL",
-      "city": "Jerusalem"
+      "city": "Haifa"
     }
   },
   {
@@ -140,6 +114,19 @@
     "geolocation": {
       "country": "IL",
       "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "http://147.236.181.86:50009",
+    "protocol": "http",
+    "ip": "147.236.181.86",
+    "port": 50009,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "IL",
+      "city": "'Ezer"
     }
   }
 ]

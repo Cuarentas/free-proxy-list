@@ -208,19 +208,6 @@
     }
   },
   {
-    "proxy": "https://37.203.37.99:443",
-    "protocol": "https",
-    "ip": "37.203.37.99",
-    "port": 443,
-    "https": true,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "LV",
-      "city": "Unknown"
-    }
-  },
-  {
     "proxy": "https://37.203.37.95:443",
     "protocol": "https",
     "ip": "37.203.37.95",
@@ -325,6 +312,19 @@
     }
   },
   {
+    "proxy": "https://37.203.37.108:443",
+    "protocol": "https",
+    "ip": "37.203.37.108",
+    "port": 443,
+    "https": true,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "LV",
+      "city": "Unknown"
+    }
+  },
+  {
     "proxy": "https://37.203.37.81:443",
     "protocol": "https",
     "ip": "37.203.37.81",
@@ -341,6 +341,19 @@
     "proxy": "https://89.111.28.79:443",
     "protocol": "https",
     "ip": "89.111.28.79",
+    "port": 443,
+    "https": true,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "LV",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "https://89.111.27.219:443",
+    "protocol": "https",
+    "ip": "89.111.27.219",
     "port": 443,
     "https": true,
     "anonymity": "transparent",
@@ -455,19 +468,6 @@
     }
   },
   {
-    "proxy": "https://89.111.31.100:443",
-    "protocol": "https",
-    "ip": "89.111.31.100",
-    "port": 443,
-    "https": true,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "LV",
-      "city": "Unknown"
-    }
-  },
-  {
     "proxy": "https://88.135.143.159:443",
     "protocol": "https",
     "ip": "88.135.143.159",
@@ -478,6 +478,19 @@
     "geolocation": {
       "country": "LV",
       "city": "Riga"
+    }
+  },
+  {
+    "proxy": "https://37.203.37.171:443",
+    "protocol": "https",
+    "ip": "37.203.37.171",
+    "port": 443,
+    "https": true,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "LV",
+      "city": "Unknown"
     }
   },
   {
@@ -728,19 +741,6 @@
     }
   },
   {
-    "proxy": "https://89.111.28.74:443",
-    "protocol": "https",
-    "ip": "89.111.28.74",
-    "port": 443,
-    "https": true,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "LV",
-      "city": "Unknown"
-    }
-  },
-  {
     "proxy": "https://37.203.35.26:443",
     "protocol": "https",
     "ip": "37.203.35.26",
@@ -764,6 +764,19 @@
     "geolocation": {
       "country": "LV",
       "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "https://109.248.147.66:9443",
+    "protocol": "https",
+    "ip": "109.248.147.66",
+    "port": 9443,
+    "https": true,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "LV",
+      "city": "Riga"
     }
   },
   {
@@ -816,6 +829,19 @@
     "geolocation": {
       "country": "LV",
       "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "socks4://195.13.169.219:4153",
+    "protocol": "socks4",
+    "ip": "195.13.169.219",
+    "port": 4153,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "LV",
+      "city": "Riga"
     }
   },
   {
@@ -894,6 +920,45 @@
     "geolocation": {
       "country": "LV",
       "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "http://77.38.244.214:80",
+    "protocol": "http",
+    "ip": "77.38.244.214",
+    "port": 80,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "LV",
+      "city": "Riga"
+    }
+  },
+  {
+    "proxy": "http://109.205.126.6:8080",
+    "protocol": "http",
+    "ip": "109.205.126.6",
+    "port": 8080,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "LV",
+      "city": "Riga"
+    }
+  },
+  {
+    "proxy": "http://195.13.169.219:4153",
+    "protocol": "http",
+    "ip": "195.13.169.219",
+    "port": 4153,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "LV",
+      "city": "Riga"
     }
   }
 ]

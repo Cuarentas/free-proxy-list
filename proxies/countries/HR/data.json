@@ -1,5 +1,18 @@
 [
   {
+    "proxy": "socks4://85.114.45.210:4153",
+    "protocol": "socks4",
+    "ip": "85.114.45.210",
+    "port": 4153,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "HR",
+      "city": "Osijek"
+    }
+  },
+  {
     "proxy": "socks5://93.123.30.53:1080",
     "protocol": "socks5",
     "ip": "93.123.30.53",
@@ -10,6 +23,19 @@
     "geolocation": {
       "country": "HR",
       "city": "Zagreb"
+    }
+  },
+  {
+    "proxy": "http://188.129.8.242:81",
+    "protocol": "http",
+    "ip": "188.129.8.242",
+    "port": 81,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "HR",
+      "city": "Umag"
     }
   },
   {
@@ -49,19 +75,6 @@
     "geolocation": {
       "country": "HR",
       "city": "Osijek"
-    }
-  },
-  {
-    "proxy": "http://188.129.8.242:81",
-    "protocol": "http",
-    "ip": "188.129.8.242",
-    "port": 81,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "HR",
-      "city": "Umag"
     }
   }
 ]

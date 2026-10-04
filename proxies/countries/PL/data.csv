@@ -1,20 +1,29 @@
-socks4://212.126.5.248:42344,PL,Poznan
+socks4://212.126.5.245:42344,PL,Poznan
+socks4://89.186.8.107:1080,PL,Lublin
 https://151.115.78.51:443,PL,Warsaw
+https://37.120.156.34:9443,PL,Warsaw
 https://94.246.130.82:443,PL,Jaworzno
 https://94.246.130.82:5443,PL,Jaworzno
 https://213.241.124.228:443,PL,Osielsko
 https://193.25.2.239:443,PL,Krakow
 https://185.96.121.243:9443,PL,Nowy Targ
 https://83.13.36.250:443,PL,Nowe Miasto Lubawskie
+https://37.120.156.34:443,PL,Warsaw
 https://31.186.220.204:443,PL,Warsaw
 https://178.248.73.58:443,PL,Unknown
+http://148.81.121.5:8080,PL,Unknown
 socks4://193.243.154.146:4145,PL,Rzeszów
 http://212.127.95.235:8081,PL,Wroclaw
 http://213.73.25.230:8080,PL,Olsztyn
-socks4://88.218.206.170:5432,PL,Warsaw
 socks4://185.147.69.48:1080,PL,Rewal
-socks5://88.218.206.170:5432,PL,Warsaw
 socks5://193.221.203.14:1080,PL,Warsaw
+socks4://212.126.5.249:42344,PL,Poznan
+socks4://46.171.28.162:59311,PL,Radomsko
+http://78.9.234.55:8080,PL,Unknown
+http://80.51.61.1:8080,PL,Bialka Tatrzanska
+socks4://51.83.226.103:9055,PL,Warsaw
+socks4://91.150.189.122:1080,PL,Rzeszów
+socks5://88.218.206.170:5432,PL,Warsaw
 socks5://89.191.226.51:1080,PL,Warsaw
 socks5://88.218.206.170:22,PL,Warsaw
 socks5://45.145.14.12:1090,PL,Warsaw
@@ -36,23 +45,20 @@ socks5://45.151.101.55:1084,PL,Warsaw
 socks5://45.151.102.251:1084,PL,Warsaw
 socks5://45.151.101.55:1082,PL,Warsaw
 socks5://45.151.102.251:1081,PL,Warsaw
-http://148.81.121.5:8080,PL,Unknown
-http://185.238.238.165:58080,PL,Gmina Strzelin
-http://185.238.238.169:58080,PL,Gmina Strzelin
-http://89.36.160.2:3128,PL,Warsaw
-http://195.116.155.169:3629,PL,Krakow
-http://185.32.4.65:4153,PL,Unknown
-http://185.32.4.110:4153,PL,Unknown
-http://195.14.113.24:1080,PL,Osiek
-http://78.31.93.76:1080,PL,Racibórz
-http://89.191.226.51:1080,PL,Warsaw
-http://88.218.206.170:5432,PL,Warsaw
-http://94.40.127.166:4145,PL,Torun
-http://45.145.12.40:1080,PL,Warsaw
-http://212.244.235.217:4153,PL,Nowy Sącz
-http://37.131.165.19:59341,PL,Drezdenko
-http://88.220.133.87:4153,PL,Jarosław
-http://145.239.95.118:10084,PL,Wroclaw
+http://185.79.138.128:3128,PL,Poznan
+http://185.166.196.14:3128,PL,Warsaw
 http://31.42.6.125:5678,PL,Radomsko
+http://88.220.133.87:4153,PL,Jarosław
+http://89.191.226.51:1080,PL,Warsaw
+http://193.221.203.14:1080,PL,Warsaw
+http://88.218.206.170:5432,PL,Warsaw
+http://77.65.50.118:34159,PL,Gmina Śrem
+http://79.110.192.44:8081,PL,Wroclaw
 http://87.199.202.58:443,PL,Unknown
-http://78.9.234.55:8080,PL,Unknown
+http://89.36.160.2:3128,PL,Warsaw
+http://145.239.95.118:10084,PL,Wroclaw
+http://91.150.189.122:1080,PL,Rzeszów
+http://78.31.93.76:1080,PL,Racibórz
+http://212.126.5.245:42344,PL,Poznan
+http://91.150.189.122:30389,PL,Rzeszów
+http://185.166.196.14:3129,PL,Warsaw
