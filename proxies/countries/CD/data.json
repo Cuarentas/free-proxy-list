@@ -13,6 +13,19 @@
     }
   },
   {
+    "proxy": "socks4://41.190.233.61:36926",
+    "protocol": "socks4",
+    "ip": "41.190.233.61",
+    "port": 36926,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "CD",
+      "city": "Unknown"
+    }
+  },
+  {
     "proxy": "socks5://217.171.85.178:1080",
     "protocol": "socks5",
     "ip": "217.171.85.178",

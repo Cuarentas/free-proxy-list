@@ -13,19 +13,6 @@
     }
   },
   {
-    "proxy": "https://212.243.240.120:443",
-    "protocol": "https",
-    "ip": "212.243.240.120",
-    "port": 443,
-    "https": true,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "CH",
-      "city": "Zurich"
-    }
-  },
-  {
     "proxy": "https://45.131.254.246:443",
     "protocol": "https",
     "ip": "45.131.254.246",
@@ -36,19 +23,6 @@
     "geolocation": {
       "country": "CH",
       "city": "Richterswil"
-    }
-  },
-  {
-    "proxy": "https://149.88.27.33:9443",
-    "protocol": "https",
-    "ip": "149.88.27.33",
-    "port": 9443,
-    "https": true,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "CH",
-      "city": "Zurich"
     }
   },
   {
@@ -65,36 +39,10 @@
     }
   },
   {
-    "proxy": "http://62.220.129.81:8080",
-    "protocol": "http",
-    "ip": "62.220.129.81",
-    "port": 8080,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "CH",
-      "city": "La Tour-de-Peilz"
-    }
-  },
-  {
     "proxy": "http://185.85.111.18:80",
     "protocol": "http",
     "ip": "185.85.111.18",
     "port": 80,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "CH",
-      "city": "Unknown"
-    }
-  },
-  {
-    "proxy": "socks4://195.225.116.15:4145",
-    "protocol": "socks4",
-    "ip": "195.225.116.15",
-    "port": 4145,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
@@ -221,19 +169,6 @@
     }
   },
   {
-    "proxy": "http://194.182.163.117:3128",
-    "protocol": "http",
-    "ip": "194.182.163.117",
-    "port": 3128,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "CH",
-      "city": "Geneva"
-    }
-  },
-  {
     "proxy": "http://91.92.155.207:3128",
     "protocol": "http",
     "ip": "91.92.155.207",
@@ -296,6 +231,19 @@
     "geolocation": {
       "country": "CH",
       "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "http://62.220.129.81:8080",
+    "protocol": "http",
+    "ip": "62.220.129.81",
+    "port": 8080,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "CH",
+      "city": "La Tour-de-Peilz"
     }
   }
 ]

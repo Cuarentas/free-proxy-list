@@ -26,32 +26,6 @@
     }
   },
   {
-    "proxy": "https://195.182.74.91:42443",
-    "protocol": "https",
-    "ip": "195.182.74.91",
-    "port": 42443,
-    "https": true,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "LT",
-      "city": "Trakai"
-    }
-  },
-  {
-    "proxy": "https://195.182.74.92:42443",
-    "protocol": "https",
-    "ip": "195.182.74.92",
-    "port": 42443,
-    "https": true,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "LT",
-      "city": "Trakai"
-    }
-  },
-  {
     "proxy": "socks4://93.93.61.153:1080",
     "protocol": "socks4",
     "ip": "93.93.61.153",
@@ -153,6 +127,19 @@
     "geolocation": {
       "country": "LT",
       "city": "Vilnius"
+    }
+  },
+  {
+    "proxy": "http://88.119.139.237:53281",
+    "protocol": "http",
+    "ip": "88.119.139.237",
+    "port": 53281,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "LT",
+      "city": "Klaipėda"
     }
   }
 ]

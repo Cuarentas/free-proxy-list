@@ -13,6 +13,45 @@
     }
   },
   {
+    "proxy": "socks4://91.192.25.158:4145",
+    "protocol": "socks4",
+    "ip": "91.192.25.158",
+    "port": 4145,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "IT",
+      "city": "San Giovanni Valdarno"
+    }
+  },
+  {
+    "proxy": "socks4://5.95.121.180:4153",
+    "protocol": "socks4",
+    "ip": "5.95.121.180",
+    "port": 4153,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "IT",
+      "city": "Potenza"
+    }
+  },
+  {
+    "proxy": "socks4://84.247.236.86:48293",
+    "protocol": "socks4",
+    "ip": "84.247.236.86",
+    "port": 48293,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "IT",
+      "city": "Canazei"
+    }
+  },
+  {
     "proxy": "https://93.63.43.131:443",
     "protocol": "https",
     "ip": "93.63.43.131",
@@ -143,19 +182,6 @@
     }
   },
   {
-    "proxy": "https://89.150.35.94:443",
-    "protocol": "https",
-    "ip": "89.150.35.94",
-    "port": 443,
-    "https": true,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "IT",
-      "city": "Esine"
-    }
-  },
-  {
     "proxy": "https://94.177.163.156:443",
     "protocol": "https",
     "ip": "94.177.163.156",
@@ -166,6 +192,19 @@
     "geolocation": {
       "country": "IT",
       "city": "Arezzo"
+    }
+  },
+  {
+    "proxy": "https://194.243.172.243:443",
+    "protocol": "https",
+    "ip": "194.243.172.243",
+    "port": 443,
+    "https": true,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "IT",
+      "city": "Rome"
     }
   },
   {
@@ -208,32 +247,6 @@
     }
   },
   {
-    "proxy": "https://188.219.81.243:443",
-    "protocol": "https",
-    "ip": "188.219.81.243",
-    "port": 443,
-    "https": true,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "IT",
-      "city": "Modena"
-    }
-  },
-  {
-    "proxy": "https://185.68.191.63:443",
-    "protocol": "https",
-    "ip": "185.68.191.63",
-    "port": 443,
-    "https": true,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "IT",
-      "city": "Unknown"
-    }
-  },
-  {
     "proxy": "https://95.229.15.89:443",
     "protocol": "https",
     "ip": "95.229.15.89",
@@ -244,19 +257,6 @@
     "geolocation": {
       "country": "IT",
       "city": "Padova"
-    }
-  },
-  {
-    "proxy": "http://85.235.150.219:3128",
-    "protocol": "http",
-    "ip": "85.235.150.219",
-    "port": 3128,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "IT",
-      "city": "Arezzo"
     }
   },
   {
@@ -273,19 +273,6 @@
     }
   },
   {
-    "proxy": "socks5://109.73.177.168:7080",
-    "protocol": "socks5",
-    "ip": "109.73.177.168",
-    "port": 7080,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "IT",
-      "city": "Santa Croce di Magliano"
-    }
-  },
-  {
     "proxy": "socks4://109.70.206.178:5678",
     "protocol": "socks4",
     "ip": "109.70.206.178",
@@ -296,6 +283,19 @@
     "geolocation": {
       "country": "IT",
       "city": "Como"
+    }
+  },
+  {
+    "proxy": "socks5://109.73.177.168:7080",
+    "protocol": "socks5",
+    "ip": "109.73.177.168",
+    "port": 7080,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "IT",
+      "city": "Santa Croce di Magliano"
     }
   },
   {
@@ -416,9 +416,22 @@
     }
   },
   {
-    "proxy": "http://185.191.106.0:8081",
+    "proxy": "http://188.217.229.36:8080",
     "protocol": "http",
-    "ip": "185.191.106.0",
+    "ip": "188.217.229.36",
+    "port": 8080,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "IT",
+      "city": "Putignano"
+    }
+  },
+  {
+    "proxy": "http://185.191.106.41:8081",
+    "protocol": "http",
+    "ip": "185.191.106.41",
     "port": 8081,
     "https": false,
     "anonymity": "transparent",
@@ -504,6 +517,19 @@
     "geolocation": {
       "country": "IT",
       "city": "Florence"
+    }
+  },
+  {
+    "proxy": "http://93.55.126.184:8080",
+    "protocol": "http",
+    "ip": "93.55.126.184",
+    "port": 8080,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "IT",
+      "city": "Marsala"
     }
   },
   {
