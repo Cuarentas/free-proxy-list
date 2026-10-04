@@ -13,16 +13,16 @@
     }
   },
   {
-    "proxy": "http://34.140.137.151:80",
+    "proxy": "http://147.93.176.66:3128",
     "protocol": "http",
-    "ip": "34.140.137.151",
-    "port": 80,
+    "ip": "147.93.176.66",
+    "port": 3128,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
     "geolocation": {
       "country": "BE",
-      "city": "Brussels"
+      "city": "Unknown"
     }
   },
   {
@@ -104,10 +104,23 @@
     }
   },
   {
-    "proxy": "http://146.103.56.106:5654",
+    "proxy": "http://34.140.137.151:80",
     "protocol": "http",
-    "ip": "146.103.56.106",
-    "port": 5654,
+    "ip": "34.140.137.151",
+    "port": 80,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "BE",
+      "city": "Brussels"
+    }
+  },
+  {
+    "proxy": "http://146.103.56.34:5582",
+    "protocol": "http",
+    "ip": "146.103.56.34",
+    "port": 5582,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
@@ -117,10 +130,10 @@
     }
   },
   {
-    "proxy": "http://146.103.3.83:7136",
+    "proxy": "http://146.103.56.245:5793",
     "protocol": "http",
-    "ip": "146.103.3.83",
-    "port": 7136,
+    "ip": "146.103.56.245",
+    "port": 5793,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
@@ -130,10 +143,10 @@
     }
   },
   {
-    "proxy": "http://146.103.3.47:7100",
+    "proxy": "http://146.103.3.21:7074",
     "protocol": "http",
-    "ip": "146.103.3.47",
-    "port": 7100,
+    "ip": "146.103.3.21",
+    "port": 7074,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
@@ -143,10 +156,10 @@
     }
   },
   {
-    "proxy": "http://146.103.56.27:5575",
+    "proxy": "http://146.103.3.16:7069",
     "protocol": "http",
-    "ip": "146.103.56.27",
-    "port": 5575,
+    "ip": "146.103.3.16",
+    "port": 7069,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
@@ -156,10 +169,10 @@
     }
   },
   {
-    "proxy": "http://146.103.56.209:5757",
+    "proxy": "http://146.103.5.252:6832",
     "protocol": "http",
-    "ip": "146.103.56.209",
-    "port": 5757,
+    "ip": "146.103.5.252",
+    "port": 6832,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
@@ -169,10 +182,10 @@
     }
   },
   {
-    "proxy": "http://146.103.56.140:5688",
+    "proxy": "http://146.103.56.158:5706",
     "protocol": "http",
-    "ip": "146.103.56.140",
-    "port": 5688,
+    "ip": "146.103.56.158",
+    "port": 5706,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
@@ -182,10 +195,10 @@
     }
   },
   {
-    "proxy": "http://147.93.176.66:3128",
+    "proxy": "http://146.103.56.180:5728",
     "protocol": "http",
-    "ip": "147.93.176.66",
-    "port": 3128,
+    "ip": "146.103.56.180",
+    "port": 5728,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
@@ -195,10 +208,10 @@
     }
   },
   {
-    "proxy": "http://146.103.56.75:5623",
+    "proxy": "http://146.103.56.230:5778",
     "protocol": "http",
-    "ip": "146.103.56.75",
-    "port": 5623,
+    "ip": "146.103.56.230",
+    "port": 5778,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
@@ -208,36 +221,10 @@
     }
   },
   {
-    "proxy": "http://146.103.3.52:7105",
+    "proxy": "http://146.103.3.244:7297",
     "protocol": "http",
-    "ip": "146.103.3.52",
-    "port": 7105,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "BE",
-      "city": "Unknown"
-    }
-  },
-  {
-    "proxy": "http://146.103.56.14:5562",
-    "protocol": "http",
-    "ip": "146.103.56.14",
-    "port": 5562,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "BE",
-      "city": "Unknown"
-    }
-  },
-  {
-    "proxy": "http://146.103.3.192:7245",
-    "protocol": "http",
-    "ip": "146.103.3.192",
-    "port": 7245,
+    "ip": "146.103.3.244",
+    "port": 7297,
     "https": false,
     "anonymity": "transparent",
     "score": 1,

@@ -1,18 +1,5 @@
 [
   {
-    "proxy": "http://105.156.186.80:30001",
-    "protocol": "http",
-    "ip": "105.156.186.80",
-    "port": 30001,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "MA",
-      "city": "Nador"
-    }
-  },
-  {
     "proxy": "socks5://105.159.153.123:4567",
     "protocol": "socks5",
     "ip": "105.159.153.123",
@@ -36,45 +23,6 @@
     "geolocation": {
       "country": "MA",
       "city": "Casablanca"
-    }
-  },
-  {
-    "proxy": "http://105.156.179.193:30001",
-    "protocol": "http",
-    "ip": "105.156.179.193",
-    "port": 30001,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "MA",
-      "city": "Nador"
-    }
-  },
-  {
-    "proxy": "http://105.156.189.227:30001",
-    "protocol": "http",
-    "ip": "105.156.189.227",
-    "port": 30001,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "MA",
-      "city": "Nador"
-    }
-  },
-  {
-    "proxy": "http://41.142.89.61:1314",
-    "protocol": "http",
-    "ip": "41.142.89.61",
-    "port": 1314,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "MA",
-      "city": "Tangier"
     }
   }
 ]

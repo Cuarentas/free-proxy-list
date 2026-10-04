@@ -65,10 +65,10 @@
     }
   },
   {
-    "proxy": "http://154.222.29.105:8888",
+    "proxy": "http://154.222.26.120:8080",
     "protocol": "http",
-    "ip": "154.222.29.105",
-    "port": 8888,
+    "ip": "154.222.26.120",
+    "port": 8080,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
