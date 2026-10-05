@@ -1,18 +1,5 @@
 [
   {
-    "proxy": "http://102.53.233.254:30102",
-    "protocol": "http",
-    "ip": "102.53.233.254",
-    "port": 30102,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "MA",
-      "city": "Unknown"
-    }
-  },
-  {
     "proxy": "socks5://105.159.153.123:4567",
     "protocol": "socks5",
     "ip": "105.159.153.123",
@@ -36,45 +23,6 @@
     "geolocation": {
       "country": "MA",
       "city": "Casablanca"
-    }
-  },
-  {
-    "proxy": "http://102.53.233.254:30001",
-    "protocol": "http",
-    "ip": "102.53.233.254",
-    "port": 30001,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "MA",
-      "city": "Unknown"
-    }
-  },
-  {
-    "proxy": "http://196.64.106.232:2101",
-    "protocol": "http",
-    "ip": "196.64.106.232",
-    "port": 2101,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "MA",
-      "city": "Rabat"
-    }
-  },
-  {
-    "proxy": "http://196.64.106.232:1976",
-    "protocol": "http",
-    "ip": "196.64.106.232",
-    "port": 1976,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "MA",
-      "city": "Rabat"
     }
   }
 ]

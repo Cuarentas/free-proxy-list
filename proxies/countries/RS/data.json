@@ -1,5 +1,18 @@
 [
   {
+    "proxy": "socks4://217.169.223.18:1080",
+    "protocol": "socks4",
+    "ip": "217.169.223.18",
+    "port": 1080,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "RS",
+      "city": "Belgrade"
+    }
+  },
+  {
     "proxy": "https://212.200.119.174:443",
     "protocol": "https",
     "ip": "212.200.119.174",
@@ -13,19 +26,6 @@
     }
   },
   {
-    "proxy": "http://62.101.137.150:8080",
-    "protocol": "http",
-    "ip": "62.101.137.150",
-    "port": 8080,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "RS",
-      "city": "Unknown"
-    }
-  },
-  {
     "proxy": "socks4://185.190.154.121:4145",
     "protocol": "socks4",
     "ip": "185.190.154.121",
@@ -36,32 +36,6 @@
     "geolocation": {
       "country": "RS",
       "city": "Unknown"
-    }
-  },
-  {
-    "proxy": "socks4://95.140.118.34:1080",
-    "protocol": "socks4",
-    "ip": "95.140.118.34",
-    "port": 1080,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "RS",
-      "city": "Unknown"
-    }
-  },
-  {
-    "proxy": "socks4://195.133.26.196:1080",
-    "protocol": "socks4",
-    "ip": "195.133.26.196",
-    "port": 1080,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "RS",
-      "city": "Belgrade"
     }
   },
   {
@@ -91,6 +65,58 @@
     }
   },
   {
+    "proxy": "http://95.140.113.74:6666",
+    "protocol": "http",
+    "ip": "95.140.113.74",
+    "port": 6666,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "RS",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "http://212.200.223.89:8080",
+    "protocol": "http",
+    "ip": "212.200.223.89",
+    "port": 8080,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "RS",
+      "city": "Conoplja"
+    }
+  },
+  {
+    "proxy": "http://77.46.138.38:8080",
+    "protocol": "http",
+    "ip": "77.46.138.38",
+    "port": 8080,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "RS",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "http://95.140.118.34:1080",
+    "protocol": "http",
+    "ip": "95.140.118.34",
+    "port": 1080,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "RS",
+      "city": "Unknown"
+    }
+  },
+  {
     "proxy": "http://147.91.22.150:80",
     "protocol": "http",
     "ip": "147.91.22.150",
@@ -101,97 +127,6 @@
     "geolocation": {
       "country": "RS",
       "city": "Belgrade"
-    }
-  },
-  {
-    "proxy": "http://138.124.125.198:3128",
-    "protocol": "http",
-    "ip": "138.124.125.198",
-    "port": 3128,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "RS",
-      "city": "Belgrade"
-    }
-  },
-  {
-    "proxy": "http://195.178.33.86:8080",
-    "protocol": "http",
-    "ip": "195.178.33.86",
-    "port": 8080,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "RS",
-      "city": "Kamenitz"
-    }
-  },
-  {
-    "proxy": "http://195.178.56.35:8080",
-    "protocol": "http",
-    "ip": "195.178.56.35",
-    "port": 8080,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "RS",
-      "city": "Užice"
-    }
-  },
-  {
-    "proxy": "http://178.217.12.232:6669",
-    "protocol": "http",
-    "ip": "178.217.12.232",
-    "port": 6669,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "RS",
-      "city": "Unknown"
-    }
-  },
-  {
-    "proxy": "http://195.133.26.196:1080",
-    "protocol": "http",
-    "ip": "195.133.26.196",
-    "port": 1080,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "RS",
-      "city": "Belgrade"
-    }
-  },
-  {
-    "proxy": "http://109.245.110.145:4145",
-    "protocol": "http",
-    "ip": "109.245.110.145",
-    "port": 4145,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "RS",
-      "city": "Unknown"
-    }
-  },
-  {
-    "proxy": "http://95.140.120.18:8080",
-    "protocol": "http",
-    "ip": "95.140.120.18",
-    "port": 8080,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "RS",
-      "city": "Maradik"
     }
   },
   {
@@ -208,6 +143,19 @@
     }
   },
   {
+    "proxy": "http://185.190.154.121:4145",
+    "protocol": "http",
+    "ip": "185.190.154.121",
+    "port": 4145,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "RS",
+      "city": "Unknown"
+    }
+  },
+  {
     "proxy": "http://87.250.63.90:8080",
     "protocol": "http",
     "ip": "87.250.63.90",
@@ -221,16 +169,16 @@
     }
   },
   {
-    "proxy": "http://82.117.211.42:8085",
+    "proxy": "http://195.178.56.35:8080",
     "protocol": "http",
-    "ip": "82.117.211.42",
-    "port": 8085,
+    "ip": "195.178.56.35",
+    "port": 8080,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
     "geolocation": {
       "country": "RS",
-      "city": "Novi Sad"
+      "city": "Užice"
     }
   }
 ]

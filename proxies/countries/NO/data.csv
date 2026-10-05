@@ -1,7 +1,9 @@
 https://82.196.220.217:443,NO,Oslo
 socks4://84.52.227.36:9050,NO,Stjordal
 socks5://84.52.227.36:9050,NO,Stjordal
-http://82.180.145.170:3129,NO,Oslo
-http://45.135.139.24:6327,NO,Oslo
-http://45.135.139.60:6363,NO,Oslo
+http://45.135.139.173:6476,NO,Oslo
+http://45.135.139.65:6368,NO,Oslo
+http://45.135.139.111:6414,NO,Oslo
 http://84.214.150.146:8080,NO,Harestua
+http://45.135.139.203:6506,NO,Oslo
+http://45.135.139.137:6440,NO,Oslo

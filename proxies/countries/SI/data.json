@@ -104,16 +104,16 @@
     }
   },
   {
-    "proxy": "http://31.15.169.77:808",
+    "proxy": "http://109.127.199.113:9999",
     "protocol": "http",
-    "ip": "31.15.169.77",
-    "port": 808,
+    "ip": "109.127.199.113",
+    "port": 9999,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
     "geolocation": {
       "country": "SI",
-      "city": "Ljubljana"
+      "city": "Novo Mesto"
     }
   },
   {
