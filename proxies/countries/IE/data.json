@@ -26,19 +26,6 @@
     }
   },
   {
-    "proxy": "https://89.124.11.11:443",
-    "protocol": "https",
-    "ip": "89.124.11.11",
-    "port": 443,
-    "https": true,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "IE",
-      "city": "Unknown"
-    }
-  },
-  {
     "proxy": "https://89.124.11.12:443",
     "protocol": "https",
     "ip": "89.124.11.12",
@@ -120,6 +107,19 @@
     "proxy": "https://89.124.8.78:443",
     "protocol": "https",
     "ip": "89.124.8.78",
+    "port": 443,
+    "https": true,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "IE",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "https://89.124.8.84:443",
+    "protocol": "https",
+    "ip": "89.124.8.84",
     "port": 443,
     "https": true,
     "anonymity": "transparent",
@@ -338,6 +338,19 @@
     }
   },
   {
+    "proxy": "https://89.124.8.76:443",
+    "protocol": "https",
+    "ip": "89.124.8.76",
+    "port": 443,
+    "https": true,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "IE",
+      "city": "Unknown"
+    }
+  },
+  {
     "proxy": "https://34.249.214.108:443",
     "protocol": "https",
     "ip": "34.249.214.108",
@@ -374,6 +387,32 @@
     "geolocation": {
       "country": "IE",
       "city": "Dublin"
+    }
+  },
+  {
+    "proxy": "socks4://89.124.81.186:1082",
+    "protocol": "socks4",
+    "ip": "89.124.81.186",
+    "port": 1082,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "IE",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "http://87.192.233.75:3128",
+    "protocol": "http",
+    "ip": "87.192.233.75",
+    "port": 3128,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "IE",
+      "city": "Unknown"
     }
   },
   {
@@ -455,6 +494,19 @@
     }
   },
   {
+    "proxy": "http://78.17.19.244:10808",
+    "protocol": "http",
+    "ip": "78.17.19.244",
+    "port": 10808,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "IE",
+      "city": "Bray"
+    }
+  },
+  {
     "proxy": "http://87.192.231.122:3128",
     "protocol": "http",
     "ip": "87.192.231.122",
@@ -468,10 +520,10 @@
     }
   },
   {
-    "proxy": "http://87.192.233.75:3128",
+    "proxy": "http://89.124.81.186:1082",
     "protocol": "http",
-    "ip": "87.192.233.75",
-    "port": 3128,
+    "ip": "89.124.81.186",
+    "port": 1082,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
