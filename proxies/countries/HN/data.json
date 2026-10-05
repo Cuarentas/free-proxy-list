@@ -1,31 +1,5 @@
 [
   {
-    "proxy": "http://200.107.235.226:999",
-    "protocol": "http",
-    "ip": "200.107.235.226",
-    "port": 999,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "HN",
-      "city": "San Pedro Sula"
-    }
-  },
-  {
-    "proxy": "http://181.115.67.3:999",
-    "protocol": "http",
-    "ip": "181.115.67.3",
-    "port": 999,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "HN",
-      "city": "Unknown"
-    }
-  },
-  {
     "proxy": "socks5://45.4.136.106:10801",
     "protocol": "socks5",
     "ip": "45.4.136.106",
@@ -39,9 +13,9 @@
     }
   },
   {
-    "proxy": "http://201.190.41.246:999",
+    "proxy": "http://200.107.239.218:999",
     "protocol": "http",
-    "ip": "201.190.41.246",
+    "ip": "200.107.239.218",
     "port": 999,
     "https": false,
     "anonymity": "transparent",
@@ -65,19 +39,6 @@
     }
   },
   {
-    "proxy": "http://190.124.166.227:999",
-    "protocol": "http",
-    "ip": "190.124.166.227",
-    "port": 999,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "HN",
-      "city": "San Pedro Sula"
-    }
-  },
-  {
     "proxy": "http://200.52.148.10:999",
     "protocol": "http",
     "ip": "200.52.148.10",
@@ -91,16 +52,55 @@
     }
   },
   {
-    "proxy": "http://179.49.113.230:999",
+    "proxy": "http://190.124.166.227:999",
     "protocol": "http",
-    "ip": "179.49.113.230",
+    "ip": "190.124.166.227",
     "port": 999,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
     "geolocation": {
       "country": "HN",
-      "city": "Unknown"
+      "city": "San Pedro Sula"
+    }
+  },
+  {
+    "proxy": "http://181.115.74.172:5678",
+    "protocol": "http",
+    "ip": "181.115.74.172",
+    "port": 5678,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "HN",
+      "city": "San Pedro Sula"
+    }
+  },
+  {
+    "proxy": "http://181.115.75.102:5678",
+    "protocol": "http",
+    "ip": "181.115.75.102",
+    "port": 5678,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "HN",
+      "city": "San Pedro Sula"
+    }
+  },
+  {
+    "proxy": "http://45.4.136.106:10801",
+    "protocol": "http",
+    "ip": "45.4.136.106",
+    "port": 10801,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "HN",
+      "city": "Siguatepeque"
     }
   }
 ]

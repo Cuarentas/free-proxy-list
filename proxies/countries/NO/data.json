@@ -13,6 +13,19 @@
     }
   },
   {
+    "proxy": "socks4://84.52.227.36:9050",
+    "protocol": "socks4",
+    "ip": "84.52.227.36",
+    "port": 9050,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "NO",
+      "city": "Stjordal"
+    }
+  },
+  {
     "proxy": "socks5://84.52.227.36:9050",
     "protocol": "socks5",
     "ip": "84.52.227.36",
@@ -39,10 +52,10 @@
     }
   },
   {
-    "proxy": "http://45.135.139.60:6363",
+    "proxy": "http://45.135.139.24:6327",
     "protocol": "http",
-    "ip": "45.135.139.60",
-    "port": 6363,
+    "ip": "45.135.139.24",
+    "port": 6327,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
@@ -52,10 +65,10 @@
     }
   },
   {
-    "proxy": "http://45.135.139.24:6327",
+    "proxy": "http://45.135.139.60:6363",
     "protocol": "http",
-    "ip": "45.135.139.24",
-    "port": 6327,
+    "ip": "45.135.139.60",
+    "port": 6363,
     "https": false,
     "anonymity": "transparent",
     "score": 1,

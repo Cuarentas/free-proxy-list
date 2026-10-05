@@ -13,32 +13,6 @@
     }
   },
   {
-    "proxy": "http://196.64.99.13:1659",
-    "protocol": "http",
-    "ip": "196.64.99.13",
-    "port": 1659,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "MA",
-      "city": "Temara"
-    }
-  },
-  {
-    "proxy": "http://196.64.106.232:1976",
-    "protocol": "http",
-    "ip": "196.64.106.232",
-    "port": 1976,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "MA",
-      "city": "Rabat"
-    }
-  },
-  {
     "proxy": "socks5://105.159.153.123:4567",
     "protocol": "socks5",
     "ip": "105.159.153.123",
@@ -65,10 +39,36 @@
     }
   },
   {
-    "proxy": "http://196.64.106.232:1936",
+    "proxy": "http://102.53.233.254:30001",
+    "protocol": "http",
+    "ip": "102.53.233.254",
+    "port": 30001,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "MA",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "http://196.64.106.232:2101",
     "protocol": "http",
     "ip": "196.64.106.232",
-    "port": 1936,
+    "port": 2101,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "MA",
+      "city": "Rabat"
+    }
+  },
+  {
+    "proxy": "http://196.64.106.232:1976",
+    "protocol": "http",
+    "ip": "196.64.106.232",
+    "port": 1976,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
