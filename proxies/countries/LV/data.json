@@ -1,31 +1,5 @@
 [
   {
-    "proxy": "socks5://195.135.255.98:1080",
-    "protocol": "socks5",
-    "ip": "195.135.255.98",
-    "port": 1080,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "LV",
-      "city": "Riga"
-    }
-  },
-  {
-    "proxy": "socks4://159.148.146.65:5678",
-    "protocol": "socks4",
-    "ip": "159.148.146.65",
-    "port": 5678,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "LV",
-      "city": "Unknown"
-    }
-  },
-  {
     "proxy": "https://89.111.28.77:443",
     "protocol": "https",
     "ip": "89.111.28.77",
@@ -559,6 +533,19 @@
     }
   },
   {
+    "proxy": "https://88.135.143.159:443",
+    "protocol": "https",
+    "ip": "88.135.143.159",
+    "port": 443,
+    "https": true,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "LV",
+      "city": "Riga"
+    }
+  },
+  {
     "proxy": "https://37.203.37.171:443",
     "protocol": "https",
     "ip": "37.203.37.171",
@@ -949,10 +936,10 @@
     }
   },
   {
-    "proxy": "socks4://195.13.169.219:4153",
-    "protocol": "socks4",
-    "ip": "195.13.169.219",
-    "port": 4153,
+    "proxy": "socks5://212.3.206.215:10800",
+    "protocol": "socks5",
+    "ip": "212.3.206.215",
+    "port": 10800,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
@@ -962,10 +949,10 @@
     }
   },
   {
-    "proxy": "socks5://212.3.206.215:10800",
+    "proxy": "socks5://195.135.255.98:1080",
     "protocol": "socks5",
-    "ip": "212.3.206.215",
-    "port": 10800,
+    "ip": "195.135.255.98",
+    "port": 1080,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
@@ -1024,6 +1011,19 @@
     "geolocation": {
       "country": "LV",
       "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "http://178.16.16.17:3128",
+    "protocol": "http",
+    "ip": "178.16.16.17",
+    "port": 3128,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "LV",
+      "city": "Riga"
     }
   },
   {

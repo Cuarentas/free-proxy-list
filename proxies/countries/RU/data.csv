@@ -1,23 +1,35 @@
-socks5://195.19.50.79:1080,RU,Unknown
-socks5://77.37.209.86:1081,RU,Moscow
+socks5://37.204.230.182:1080,RU,Moscow
+socks5://31.43.194.184:1080,RU,Unknown
+socks5://195.19.50.135:1080,RU,Unknown
+socks5://84.42.19.54:1080,RU,Zubtsov
+socks5://109.111.79.212:2080,RU,Ivanovo
+socks5://88.84.204.217:1080,RU,Noginsk
 socks5://178.57.102.50:1080,RU,Cherepovets
-socks5://89.188.114.156:1080,RU,Unknown
-socks5://217.113.119.222:1080,RU,Zhigulevsk
+socks5://194.87.232.240:1080,RU,Moscow
+socks5://164.215.66.136:1080,RU,Unknown
 socks5://92.255.253.166:1080,RU,Naberezhnyye Chelny
-socks5://93.100.74.173:8088,RU,St Petersburg
-socks5://5.42.123.150:1080,RU,Kolomna
-socks4://89.151.134.157:3629,RU,Cheboksary
-socks4://109.68.189.22:54643,RU,Unknown
-socks4://88.87.79.18:3629,RU,Volgograd
-socks4://89.250.148.154:4145,RU,Unknown
-socks4://185.216.18.138:44550,RU,Unknown
-socks4://95.46.105.163:4145,RU,Novosibirsk
+socks5://185.54.244.166:1080,RU,Unknown
+socks5://94.19.74.39:1080,RU,St Petersburg
+socks5://185.207.64.130:1081,RU,Unknown
+socks5://87.255.249.100:1080,RU,Ivanovo
+socks5://82.149.217.54:1080,RU,Moscow
+socks5://185.147.82.226:1080,RU,St Petersburg
+socks5://46.173.18.7:40001,RU,Novorossiysk
+socks5://94.180.29.141:1080,RU,Bryansk
+socks5://5.79.140.28:1080,RU,Chelyabinsk
+socks5://95.104.244.170:1080,RU,Unknown
+socks5://5.165.215.212:1080,RU,Tomsk
+socks4://46.188.2.42:5678,RU,Moscow
+socks4://95.163.20.1:4153,RU,Lytkarino
+socks4://46.8.60.34:1080,RU,Krasnodar
+socks4://212.46.242.185:1080,RU,Unknown
 socks4://37.193.125.68:1090,RU,Novosibirsk
+socks4://91.223.224.238:48293,RU,Unknown
 socks4://46.29.116.3:4145,RU,Unknown
-socks4://83.219.1.130:5678,RU,Unknown
-socks4://178.57.106.43:4145,RU,Cherepovets
+socks4://109.232.106.150:52435,RU,Unknown
 socks4://46.29.116.6:4145,RU,Unknown
 socks4://217.17.112.98:1080,RU,Kovrov
+socks4://90.188.56.158:4153,RU,Ulan-Ude
 https://92.242.41.77:443,RU,Unknown
 https://77.221.136.60:8443,RU,Unknown
 https://37.203.243.6:443,RU,Unknown
@@ -34,16 +46,21 @@ https://84.237.50.69:443,RU,Krasnoobsk
 https://84.237.50.69:8443,RU,Krasnoobsk
 https://82.147.71.46:443,RU,Tyumen
 https://77.238.226.173:5995,RU,Moscow
+https://147.45.125.160:443,RU,Unknown
 https://84.237.50.69:8182,RU,Krasnoobsk
 https://147.45.173.104:9443,RU,Unknown
 https://84.237.50.69:8081,RU,Krasnoobsk
+https://193.233.75.115:443,RU,Moscow
 https://91.146.45.78:443,RU,Izhevsk
 https://84.237.50.69:8444,RU,Krasnoobsk
 https://185.209.31.2:8443,RU,Moscow
 https://84.237.50.68:8444,RU,Krasnoobsk
 https://84.237.50.68:444,RU,Krasnoobsk
 https://89.188.125.42:443,RU,Unknown
-http://178.185.244.154:8080,RU,Unknown
+http://195.19.217.200:3128,RU,Unknown
+http://109.120.141.72:443,RU,Unknown
+http://87.251.78.206:3128,RU,Moscow
+http://78.25.68.130:8088,RU,Unknown
 http://46.161.6.165:8080,RU,Unknown
 socks4://193.233.254.9:1080,RU,Unknown
 socks4://193.233.254.7:1080,RU,Unknown
@@ -51,44 +68,47 @@ socks4://193.233.254.8:1080,RU,Unknown
 http://89.208.85.78:443,RU,Reutov
 http://95.213.217.168:52004,RU,St Petersburg
 socks4://31.128.41.253:28080,RU,Glazov
-socks4://185.182.110.74:1080,RU,Unknown
-http://94.228.121.237:8080,RU,St Petersburg
-socks4://92.42.8.20:4145,RU,Pyatigorsk
+socks5://164.215.66.139:1080,RU,Unknown
+socks4://46.173.18.7:40001,RU,Novorossiysk
+socks4://31.192.111.162:10808,RU,Unknown
+socks4://109.106.196.250:4145,RU,Unknown
 socks4://45.86.183.214:1080,RU,Unknown
-socks4://188.143.169.22:33333,RU,Unknown
+socks5://45.138.157.212:1080,RU,Moscow
+socks5://93.153.222.83:1080,RU,Unknown
+socks5://188.168.12.25:1080,RU,Unknown
+socks4://185.182.110.74:1080,RU,Unknown
+socks4://89.169.34.105:8443,RU,Unknown
+socks4://89.250.148.158:1080,RU,Unknown
+http://95.84.164.92:8998,RU,Moscow
+http://82.148.13.136:80,RU,Moscow
+http://193.187.107.120:8095,RU,St Petersburg
+socks5://89.188.124.8:1080,RU,Unknown
+socks4://91.246.1.6:4431,RU,Unknown
+http://194.186.246.22:8888,RU,Syktyvkar
+http://95.139.91.53:3128,RU,Unknown
+socks5://83.234.203.118:1080,RU,Sokol
+socks5://195.19.50.79:1080,RU,Unknown
+http://85.198.87.168:8088,RU,Unknown
+http://176.99.134.183:8090,RU,Moscow
+http://165.225.66.42:11589,RU,Moscow
 socks5://51.250.99.247:1080,RU,Unknown
+http://5.129.227.157:3128,RU,Surgut
+socks5://77.37.209.86:1081,RU,Moscow
+socks5://89.188.114.156:1080,RU,Unknown
+socks5://217.113.119.222:1080,RU,Zhigulevsk
+socks5://93.100.74.173:8088,RU,St Petersburg
+socks5://5.42.123.150:1080,RU,Kolomna
 socks5://188.128.86.74:1080,RU,Moscow
-socks4://31.148.13.96:1080,RU,Moscow
-http://46.47.197.210:3128,RU,Unknown
 socks5://178.176.118.74:1080,RU,Yekaterinburg
 socks5://188.134.95.74:1080,RU,St Petersburg
-socks4://185.135.81.149:9060,RU,Unknown
-socks4://109.106.196.250:4145,RU,Unknown
-http://82.148.13.136:80,RU,Moscow
-http://109.73.192.102:1080,RU,Unknown
 socks5://94.228.240.23:1080,RU,Moscow
-socks4://185.17.1.218:1080,RU,Moscow Oblast
-socks4://91.230.154.221:4145,RU,Yekaterinburg
-http://94.181.174.18:10808,RU,Penza
 socks5://212.46.215.90:1080,RU,Unknown
-http://165.225.66.42:11589,RU,Moscow
 socks5://46.242.39.152:1080,RU,Moscow
-http://88.204.19.8:7080,RU,Tomsk
 socks5://195.9.192.50:1080,RU,Moscow
-http://158.160.176.150:1080,RU,Moscow
-http://45.9.41.177:1080,RU,St Petersburg
-socks4://213.248.39.166:4153,RU,Kraskovo
-socks4://89.250.148.158:1080,RU,Unknown
-http://165.225.66.42:11588,RU,Moscow
 socks5://77.51.182.67:1080,RU,Podolsk
-http://213.178.39.170:8080,RU,Tolyatti
-socks4://185.103.101.233:10808,RU,Unknown
-http://46.39.252.111:8080,RU,Moscow
 socks5://45.86.183.214:1080,RU,Unknown
-http://91.203.8.74:8080,RU,Unknown
 socks5://195.19.52.187:1080,RU,Unknown
 socks5://85.113.43.181:1080,RU,Samara
-socks5://87.255.249.100:1080,RU,Ivanovo
 socks5://194.186.5.21:1080,RU,Unknown
 socks5://95.220.82.101:1080,RU,Dmitrov
 socks5://77.108.100.166:1080,RU,Moscow
@@ -100,7 +120,6 @@ socks5://109.111.4.184:2080,RU,Unknown
 socks5://89.109.241.153:1080,RU,Unknown
 socks5://91.210.171.169:9050,RU,St Petersburg
 socks5://195.216.241.228:1080,RU,Unknown
-socks5://93.153.222.83:1080,RU,Unknown
 socks5://83.166.247.254:10808,RU,Unknown
 socks5://212.19.4.217:1080,RU,Khabarovsk
 socks5://78.109.137.53:1080,RU,Unknown
@@ -123,17 +142,14 @@ socks5://188.32.80.88:1080,RU,Moscow
 socks5://185.70.129.183:1080,RU,Unknown
 socks5://89.113.5.120:1080,RU,Unknown
 socks5://185.112.83.80:1080,RU,Moscow
-socks5://185.54.244.166:1080,RU,Unknown
 socks5://176.208.114.114:1080,RU,Unknown
 socks5://77.50.61.182:1080,RU,Moscow
 socks5://82.142.130.102:1080,RU,Unknown
 socks5://87.229.236.151:1080,RU,Taganrog
-socks5://82.149.217.54:1080,RU,Moscow
 socks5://193.124.57.218:1080,RU,Moscow
 socks5://178.236.251.2:1080,RU,Moscow
 socks5://176.193.47.202:2080,RU,Moscow
 socks5://45.8.88.236:1080,RU,Orenburg
-socks5://37.204.230.182:1080,RU,Moscow
 socks5://90.154.61.187:1080,RU,Unknown
 socks5://95.83.152.62:1080,RU,Ryazan
 socks5://212.33.248.45:1080,RU,Perm
@@ -141,12 +157,10 @@ socks5://147.45.69.11:1080,RU,Unknown
 socks5://46.241.57.29:1080,RU,Barnaul
 socks5://185.197.74.126:2080,RU,Moscow
 socks5://87.225.107.8:1080,RU,Unknown
-socks5://109.111.79.212:2080,RU,Ivanovo
 socks5://83.174.229.42:1080,RU,Ufa
 socks5://85.142.124.27:1080,RU,Unknown
 socks5://81.163.20.187:1080,RU,Moscow
 socks5://188.75.3.66:1080,RU,Unknown
-socks5://94.19.74.39:1080,RU,St Petersburg
 socks5://91.234.183.79:1080,RU,Voskresensk
 socks5://185.103.101.233:10808,RU,Unknown
 socks5://37.110.1.165:1080,RU,Moscow
@@ -156,7 +170,6 @@ socks5://195.19.52.147:1080,RU,Unknown
 socks5://82.196.69.34:1080,RU,Unknown
 socks5://193.233.86.198:1080,RU,Unknown
 socks5://95.31.19.190:1080,RU,Moscow
-socks5://88.84.204.217:1080,RU,Noginsk
 socks5://78.110.155.229:1080,RU,Unknown
 socks5://5.189.38.147:7777,RU,Yekaterinburg
 socks5://94.19.13.170:1080,RU,St Petersburg
@@ -172,13 +185,10 @@ socks5://194.186.5.83:1080,RU,Unknown
 socks5://5.17.2.117:1080,RU,Korobitsyno
 socks5://109.124.73.231:1080,RU,Unknown
 socks5://90.151.107.14:1080,RU,Yekaterinburg
-socks5://89.188.124.8:1080,RU,Unknown
 socks5://109.194.174.104:1080,RU,Tyumen
-socks5://185.207.64.130:1081,RU,Unknown
 socks5://31.128.44.222:10809,RU,Glazov
 socks5://37.18.73.60:5566,RU,Unknown
 socks5://94.19.196.185:1080,RU,St Petersburg
-socks5://194.87.232.240:1080,RU,Moscow
 socks5://46.17.43.219:7890,RU,Moscow
 socks5://178.140.49.120:1080,RU,Moscow
 socks5://80.82.54.243:1080,RU,Voronezh
@@ -191,7 +201,6 @@ socks5://95.220.69.159:1080,RU,Lyubertsy
 socks5://62.152.37.189:1080,RU,St Petersburg
 socks5://95.131.10.134:1080,RU,Unknown
 socks5://83.234.137.154:1080,RU,Unknown
-socks5://164.215.66.136:1080,RU,Unknown
 socks5://95.189.109.115:1080,RU,Chita
 socks5://95.165.69.128:1080,RU,Unknown
 socks5://37.9.4.101:1088,RU,St Petersburg
@@ -257,7 +266,6 @@ socks5://79.134.4.192:1080,RU,Unknown
 socks5://89.145.145.34:1080,RU,Unknown
 socks5://78.85.188.110:1080,RU,Izhevsk
 socks5://88.204.56.16:2080,RU,Tomsk
-socks5://45.138.157.212:1080,RU,Moscow
 socks5://92.101.193.58:1080,RU,Murmansk
 socks5://195.19.49.206:1080,RU,Unknown
 socks5://77.37.134.235:10808,RU,Moscow
@@ -295,7 +303,6 @@ socks5://195.98.82.62:1080,RU,Voronezh
 socks5://79.137.192.252:9050,RU,Unknown
 socks5://91.122.248.146:1080,RU,Arkhangelsk
 socks5://178.206.231.147:1080,RU,Naberezhnyye Chelny
-socks5://83.234.203.118:1080,RU,Sokol
 socks5://80.82.40.129:1080,RU,Voronezh
 socks5://185.50.202.185:1080,RU,Unknown
 socks5://31.133.202.236:1080,RU,Unknown
@@ -304,7 +311,6 @@ socks5://95.84.49.100:1080,RU,Saratov
 socks5://89.208.34.183:1080,RU,Reutov
 socks5://94.45.200.69:1080,RU,Dolgoprudny
 socks5://5.101.232.194:10808,RU,Unknown
-socks5://195.19.50.135:1080,RU,Unknown
 socks5://37.110.18.241:1080,RU,Moscow
 socks5://94.103.88.236:1080,RU,Moscow
 socks5://217.67.182.6:1080,RU,Unknown
@@ -312,7 +318,6 @@ socks5://212.220.113.31:1080,RU,Yekaterinburg
 socks5://83.237.214.70:1080,RU,Moscow
 socks5://46.191.182.87:1080,RU,Unknown
 socks5://91.226.172.214:1080,RU,Moscow
-socks5://84.42.19.54:1080,RU,Zubtsov
 socks5://85.94.21.103:1080,RU,Unknown
 socks5://95.142.38.208:10809,RU,Moscow
 socks5://109.173.19.42:1080,RU,Moscow
@@ -368,7 +373,6 @@ socks5://109.201.65.165:1080,RU,Unknown
 socks5://77.50.132.155:1080,RU,Moscow
 socks5://46.146.9.252:10808,RU,Perm
 socks5://147.45.145.91:443,RU,Unknown
-socks5://31.43.194.184:1080,RU,Unknown
 socks5://90.151.38.60:1080,RU,Perm
 socks5://92.39.69.134:11200,RU,Kirov
 socks5://185.97.200.14:1080,RU,St Petersburg
@@ -679,38 +683,34 @@ socks5://147.45.60.246:1082,RU,Unknown
 socks5://5.104.207.131:1080,RU,Unknown
 socks5://195.239.134.215:1080,RU,Unknown
 socks5://188.17.158.117:1080,RU,Perm
-http://85.192.28.252:3128,RU,Unknown
-http://213.232.192.215:4567,RU,Moscow
-http://217.76.46.230:8080,RU,Moscow
+http://46.39.252.111:8080,RU,Moscow
+http://87.241.198.70:8080,RU,Unknown
 http://37.110.145.57:8081,RU,Moscow
-http://195.190.107.62:3389,RU,Unknown
-http://147.45.187.104:8080,RU,Unknown
-http://212.44.134.166:3128,RU,Novlyanka
-http://95.163.67.60:8080,RU,Unknown
-http://83.219.145.108:3128,RU,Kaliningrad
-http://62.183.21.2:48080,RU,Krasnodar
-http://193.19.190.59:8095,RU,Unknown
-http://194.186.246.22:8888,RU,Syktyvkar
-http://185.234.228.76:8080,RU,Irkutsk
-http://178.248.7.114:58080,RU,Unknown
-http://176.115.146.232:8080,RU,Nizhniy Novgorod
-http://92.39.129.50:1256,RU,Unknown
-http://77.50.183.34:8080,RU,Moscow
-http://46.8.224.66:3128,RU,Moscow
+http://165.225.66.42:11588,RU,Moscow
+http://80.246.16.3:3128,RU,Unknown
+http://46.188.49.186:3128,RU,Moscow
+http://188.246.186.54:8080,RU,Moscow
+http://94.247.244.120:3128,RU,St Petersburg
+http://77.238.251.175:3128,RU,Moscow
 http://158.160.8.144:3129,RU,Moscow
-http://46.173.18.7:40001,RU,Novorossiysk
-http://195.19.217.200:3128,RU,Unknown
-http://78.25.68.130:8088,RU,Unknown
+http://46.8.224.66:3128,RU,Moscow
+http://84.201.176.78:3128,RU,Unknown
 http://185.167.120.183:8080,RU,Unknown
-http://185.212.88.243:8080,RU,Moscow
-http://62.217.180.23:8080,RU,St Petersburg
-http://46.183.134.50:8080,RU,Unknown
-http://79.133.66.110:81,RU,Unknown
-http://141.0.179.48:3389,RU,Samara
+http://91.191.228.126:3128,RU,Yekaterinburg
+http://5.165.225.172:3128,RU,Yekaterinburg
+http://45.128.184.25:80,RU,Moscow
+http://45.159.0.194:5050,RU,Unknown
+http://88.204.22.105:8080,RU,Tomsk
+http://92.242.8.114:8080,RU,Yekaterinburg
+http://80.73.89.10:8080,RU,Yakutsk
+http://94.228.121.237:8080,RU,St Petersburg
+http://79.170.161.138:3128,RU,Unknown
+http://89.169.13.67:8080,RU,Krasnogorsk
 http://212.8.227.97:8082,RU,Moscow
 http://195.98.82.62:1080,RU,Voronezh
 http://83.242.252.202:1080,RU,Tolyatti
 http://193.124.58.209:7777,RU,Moscow
+http://147.45.187.104:8080,RU,Unknown
 http://79.174.12.190:80,RU,Unknown
 http://31.220.183.217:53281,RU,Novokuznetsk
 http://5.180.19.241:1080,RU,Rostov-on-Don
@@ -722,8 +722,8 @@ http://188.75.3.66:1080,RU,Unknown
 http://91.236.238.103:8080,RU,Unknown
 http://95.31.52.151:1080,RU,Krasnodar
 http://185.17.153.178:8080,RU,Mytishchi
+http://185.234.228.76:8080,RU,Irkutsk
 http://193.124.130.16:8443,RU,Moscow
-http://5.165.225.172:3128,RU,Yekaterinburg
 http://195.191.158.128:8080,RU,Unknown
 http://31.132.151.158:8080,RU,Unknown
 http://128.69.178.28:1080,RU,Unknown
@@ -760,6 +760,7 @@ http://193.233.86.198:1080,RU,Unknown
 http://84.204.40.154:8080,RU,Unknown
 http://91.203.242.66:222,RU,Unknown
 http://176.114.203.165:10808,RU,Tver
+http://185.212.88.243:8080,RU,Moscow
 http://84.42.102.18:1080,RU,Unknown
 http://145.255.20.211:1080,RU,Orenburg
 http://5.128.120.101:8181,RU,Novosibirsk
@@ -773,6 +774,7 @@ http://164.215.66.139:1080,RU,Unknown
 http://212.46.215.90:1080,RU,Unknown
 http://79.111.13.155:50625,RU,Moscow
 http://83.237.214.70:1080,RU,Moscow
+http://95.163.67.60:8080,RU,Unknown
 http://82.149.217.54:1080,RU,Moscow
 http://77.233.5.68:55443,RU,Krasnodar
 http://212.220.113.31:1080,RU,Yekaterinburg
@@ -783,6 +785,7 @@ http://5.17.2.117:1080,RU,Korobitsyno
 http://94.253.82.229:8080,RU,Ivanteyevka
 http://81.177.6.63:3128,RU,Unknown
 http://188.233.187.89:1080,RU,Volgograd
+http://91.203.8.74:8080,RU,Unknown
 http://178.178.2.255:1080,RU,Unknown
 http://195.9.192.50:1080,RU,Moscow
 http://94.250.250.154:3128,RU,Unknown
@@ -790,8 +793,10 @@ http://62.220.49.233:1080,RU,Unknown
 http://95.163.20.1:4153,RU,Lytkarino
 http://95.131.10.134:1080,RU,Unknown
 http://217.113.119.222:1080,RU,Zhigulevsk
+http://85.192.28.252:3128,RU,Unknown
 http://89.109.241.153:1080,RU,Unknown
 http://37.110.18.241:1080,RU,Moscow
+http://212.44.134.166:3128,RU,Novlyanka
 http://31.43.194.184:1080,RU,Unknown
 http://212.46.242.185:1080,RU,Unknown
 http://88.87.69.240:1080,RU,Volgograd
@@ -814,6 +819,7 @@ http://90.154.61.187:1080,RU,Unknown
 http://84.52.125.113:8082,RU,St Petersburg
 http://31.28.4.192:80,RU,St Petersburg
 http://37.9.4.101:1088,RU,St Petersburg
+http://46.47.197.210:3128,RU,Unknown
 http://88.87.95.143:5948,RU,Volgograd
 http://195.209.208.53:1080,RU,Unknown
 http://83.69.80.63:1080,RU,Proletarskiy Gorodok
@@ -822,15 +828,17 @@ http://84.42.19.54:1080,RU,Zubtsov
 http://176.118.232.12:5678,RU,Aksay
 http://85.235.62.246:1080,RU,Unknown
 http://195.19.55.74:1080,RU,Unknown
+http://195.190.107.62:3389,RU,Unknown
 http://91.234.183.79:1080,RU,Voskresensk
 http://188.191.165.159:8080,RU,Moscow
-http://176.99.134.183:8090,RU,Moscow
 http://95.64.183.46:1080,RU,Moscow
+http://193.19.190.59:8095,RU,Unknown
 http://194.190.98.110:60606,RU,Unknown
 http://194.9.233.171:1080,RU,Moscow
 http://95.31.19.190:1080,RU,Moscow
 http://109.201.65.165:1080,RU,Unknown
 http://83.220.46.106:4145,RU,Moscow
+http://213.178.39.170:8080,RU,Tolyatti
 http://94.24.236.42:8080,RU,Unknown
 http://80.82.54.243:1080,RU,Voronezh
 http://149.126.101.162:8080,RU,Unknown
@@ -847,18 +855,12 @@ http://94.137.249.222:3128,RU,Revda
 http://91.233.169.23:8081,RU,St Petersburg
 http://80.82.55.71:80,RU,Voronezh
 http://185.54.244.166:1080,RU,Unknown
-http://94.181.174.18:10818,RU,Penza
+http://94.73.239.124:55443,RU,Krasnoyarsk
+http://87.251.78.206:3129,RU,Moscow
+http://31.192.111.162:10818,RU,Unknown
+http://78.155.212.150:8118,RU,Unknown
 http://85.192.28.252:3129,RU,Unknown
-http://62.113.114.246:8443,RU,Moscow
+http://91.122.35.67:3129,RU,St Petersburg
 http://46.47.197.210:3129,RU,Unknown
-http://91.224.77.229:8090,RU,Unknown
-http://185.234.229.132:8000,RU,Irkutsk
-http://83.217.222.237:3129,RU,Mytishchi
+http://80.246.16.3:3129,RU,Unknown
 http://5.165.225.172:3129,RU,Yekaterinburg
-http://89.151.133.216:8080,RU,Cheboksary
-http://88.84.223.156:5650,RU,Noginsk
-http://81.177.6.63:3129,RU,Unknown
-http://85.237.39.139:8080,RU,Zasechnoye
-http://94.243.5.230:3129,RU,Chita
-http://95.165.97.185:8080,RU,Moscow
-http://83.219.145.108:3129,RU,Kaliningrad

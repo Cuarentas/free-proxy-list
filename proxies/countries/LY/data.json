@@ -1,47 +1,8 @@
 [
   {
-    "proxy": "http://154.73.28.89:8080",
-    "protocol": "http",
-    "ip": "154.73.28.89",
-    "port": 8080,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "LY",
-      "city": "Unknown"
-    }
-  },
-  {
-    "proxy": "http://102.68.132.5:19000",
-    "protocol": "http",
-    "ip": "102.68.132.5",
-    "port": 19000,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "LY",
-      "city": "Tripoli"
-    }
-  },
-  {
-    "proxy": "http://102.68.132.5:18000",
-    "protocol": "http",
-    "ip": "102.68.132.5",
-    "port": 18000,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "LY",
-      "city": "Tripoli"
-    }
-  },
-  {
-    "proxy": "socks4://165.16.99.209:1080",
+    "proxy": "socks4://165.16.45.200:1080",
     "protocol": "socks4",
-    "ip": "165.16.99.209",
+    "ip": "165.16.45.200",
     "port": 1080,
     "https": false,
     "anonymity": "transparent",
@@ -52,50 +13,11 @@
     }
   },
   {
-    "proxy": "http://102.38.24.30:19000",
-    "protocol": "http",
-    "ip": "102.38.24.30",
-    "port": 19000,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "LY",
-      "city": "Tripoli"
-    }
-  },
-  {
-    "proxy": "http://154.127.66.222:1976",
-    "protocol": "http",
-    "ip": "154.127.66.222",
-    "port": 1976,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "LY",
-      "city": "Unknown"
-    }
-  },
-  {
-    "proxy": "http://154.127.78.16:44444",
-    "protocol": "http",
-    "ip": "154.127.78.16",
-    "port": 44444,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "LY",
-      "city": "Waddān"
-    }
-  },
-  {
-    "proxy": "http://102.38.21.1:19000",
-    "protocol": "http",
-    "ip": "102.38.21.1",
-    "port": 19000,
-    "https": false,
+    "proxy": "https://185.10.240.95:9443",
+    "protocol": "https",
+    "ip": "185.10.240.95",
+    "port": 9443,
+    "https": true,
     "anonymity": "transparent",
     "score": 1,
     "geolocation": {
@@ -117,16 +39,68 @@
     }
   },
   {
-    "proxy": "http://102.68.128.210:8080",
+    "proxy": "http://102.38.15.44:8080",
     "protocol": "http",
-    "ip": "102.68.128.210",
+    "ip": "102.38.15.44",
     "port": 8080,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
     "geolocation": {
       "country": "LY",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "http://102.38.30.24:8080",
+    "protocol": "http",
+    "ip": "102.38.30.24",
+    "port": 8080,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "LY",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "socks4://165.16.99.209:1080",
+    "protocol": "socks4",
+    "ip": "165.16.99.209",
+    "port": 1080,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "LY",
       "city": "Tripoli"
+    }
+  },
+  {
+    "proxy": "http://102.38.30.245:8080",
+    "protocol": "http",
+    "ip": "102.38.30.245",
+    "port": 8080,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "LY",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "http://165.16.58.124:8080",
+    "protocol": "http",
+    "ip": "165.16.58.124",
+    "port": 8080,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "LY",
+      "city": "Zliten"
     }
   },
   {
@@ -169,29 +143,29 @@
     }
   },
   {
-    "proxy": "http://102.68.128.216:8080",
+    "proxy": "http://154.73.28.89:8080",
     "protocol": "http",
-    "ip": "102.68.128.216",
+    "ip": "154.73.28.89",
     "port": 8080,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
     "geolocation": {
       "country": "LY",
-      "city": "Tripoli"
+      "city": "Unknown"
     }
   },
   {
-    "proxy": "http://102.38.21.2:19000",
+    "proxy": "http://102.38.24.30:19000",
     "protocol": "http",
-    "ip": "102.38.21.2",
+    "ip": "102.38.24.30",
     "port": 19000,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
     "geolocation": {
       "country": "LY",
-      "city": "Unknown"
+      "city": "Tripoli"
     }
   }
 ]
