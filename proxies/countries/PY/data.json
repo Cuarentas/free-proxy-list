@@ -1,18 +1,5 @@
 [
   {
-    "proxy": "socks4://179.189.219.98:4145",
-    "protocol": "socks4",
-    "ip": "179.189.219.98",
-    "port": 4145,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "PY",
-      "city": "Asunción"
-    }
-  },
-  {
     "proxy": "https://181.126.49.38:443",
     "protocol": "https",
     "ip": "181.126.49.38",
@@ -31,6 +18,32 @@
     "ip": "190.128.253.82",
     "port": 8444,
     "https": true,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "PY",
+      "city": "Asunción"
+    }
+  },
+  {
+    "proxy": "http://170.245.132.85:999",
+    "protocol": "http",
+    "ip": "170.245.132.85",
+    "port": 999,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "PY",
+      "city": "Carapegua"
+    }
+  },
+  {
+    "proxy": "http://201.222.50.218:80",
+    "protocol": "http",
+    "ip": "201.222.50.218",
+    "port": 80,
+    "https": false,
     "anonymity": "transparent",
     "score": 1,
     "geolocation": {
@@ -65,10 +78,10 @@
     }
   },
   {
-    "proxy": "http://201.222.50.218:80",
+    "proxy": "http://181.78.94.23:9991",
     "protocol": "http",
-    "ip": "201.222.50.218",
-    "port": 80,
+    "ip": "181.78.94.23",
+    "port": 9991,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
@@ -91,10 +104,62 @@
     }
   },
   {
-    "proxy": "http://181.78.27.39:999",
+    "proxy": "http://181.78.95.58:999",
     "protocol": "http",
-    "ip": "181.78.27.39",
+    "ip": "181.78.95.58",
     "port": 999,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "PY",
+      "city": "Asunción"
+    }
+  },
+  {
+    "proxy": "http://181.120.28.228:80",
+    "protocol": "http",
+    "ip": "181.120.28.228",
+    "port": 80,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "PY",
+      "city": "Asunción"
+    }
+  },
+  {
+    "proxy": "http://190.110.226.122:80",
+    "protocol": "http",
+    "ip": "190.110.226.122",
+    "port": 80,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "PY",
+      "city": "Asunción"
+    }
+  },
+  {
+    "proxy": "http://190.128.228.182:80",
+    "protocol": "http",
+    "ip": "190.128.228.182",
+    "port": 80,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "PY",
+      "city": "Asunción"
+    }
+  },
+  {
+    "proxy": "http://179.189.219.98:4145",
+    "protocol": "http",
+    "ip": "179.189.219.98",
+    "port": 4145,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
@@ -143,107 +208,16 @@
     }
   },
   {
-    "proxy": "http://181.120.28.228:80",
+    "proxy": "http://190.128.201.236:3129",
     "protocol": "http",
-    "ip": "181.120.28.228",
-    "port": 80,
+    "ip": "190.128.201.236",
+    "port": 3129,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
     "geolocation": {
       "country": "PY",
-      "city": "Asunción"
-    }
-  },
-  {
-    "proxy": "http://181.94.197.37:13049",
-    "protocol": "http",
-    "ip": "181.94.197.37",
-    "port": 13049,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "PY",
-      "city": "Asunción"
-    }
-  },
-  {
-    "proxy": "http://190.110.226.122:80",
-    "protocol": "http",
-    "ip": "190.110.226.122",
-    "port": 80,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "PY",
-      "city": "Asunción"
-    }
-  },
-  {
-    "proxy": "http://190.128.228.182:80",
-    "protocol": "http",
-    "ip": "190.128.228.182",
-    "port": 80,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "PY",
-      "city": "Asunción"
-    }
-  },
-  {
-    "proxy": "http://190.104.143.94:4153",
-    "protocol": "http",
-    "ip": "190.104.143.94",
-    "port": 4153,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "PY",
-      "city": "Asunción"
-    }
-  },
-  {
-    "proxy": "http://181.78.27.38:999",
-    "protocol": "http",
-    "ip": "181.78.27.38",
-    "port": 999,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "PY",
-      "city": "Asunción"
-    }
-  },
-  {
-    "proxy": "http://190.93.179.125:8080",
-    "protocol": "http",
-    "ip": "190.93.179.125",
-    "port": 8080,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "PY",
-      "city": "Ciudad del Este"
-    }
-  },
-  {
-    "proxy": "http://45.170.131.218:999",
-    "protocol": "http",
-    "ip": "45.170.131.218",
-    "port": 999,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "PY",
-      "city": "Caaguazu"
+      "city": "Lambaré"
     }
   }
 ]
