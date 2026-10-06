@@ -1,31 +1,5 @@
 [
   {
-    "proxy": "socks4://89.132.170.211:4145",
-    "protocol": "socks4",
-    "ip": "89.132.170.211",
-    "port": 4145,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "HU",
-      "city": "Budapest"
-    }
-  },
-  {
-    "proxy": "socks4://109.61.117.11:1080",
-    "protocol": "socks4",
-    "ip": "109.61.117.11",
-    "port": 1080,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "HU",
-      "city": "Pécs"
-    }
-  },
-  {
     "proxy": "https://80.77.112.216:443",
     "protocol": "https",
     "ip": "80.77.112.216",
@@ -104,22 +78,9 @@
     }
   },
   {
-    "proxy": "http://89.43.134.35:8080",
+    "proxy": "http://89.43.132.239:8080",
     "protocol": "http",
-    "ip": "89.43.134.35",
-    "port": 8080,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "HU",
-      "city": "Unknown"
-    }
-  },
-  {
-    "proxy": "http://89.43.135.42:8080",
-    "protocol": "http",
-    "ip": "89.43.135.42",
+    "ip": "89.43.132.239",
     "port": 8080,
     "https": false,
     "anonymity": "transparent",
@@ -143,29 +104,55 @@
     }
   },
   {
-    "proxy": "http://94.21.216.125:9999",
+    "proxy": "http://89.43.133.102:8080",
     "protocol": "http",
-    "ip": "94.21.216.125",
-    "port": 9999,
+    "ip": "89.43.133.102",
+    "port": 8080,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
     "geolocation": {
       "country": "HU",
-      "city": "Székesfehérvár"
+      "city": "Unknown"
     }
   },
   {
-    "proxy": "http://89.132.170.211:4145",
+    "proxy": "http://89.43.134.35:8080",
     "protocol": "http",
-    "ip": "89.132.170.211",
-    "port": 4145,
+    "ip": "89.43.134.35",
+    "port": 8080,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
     "geolocation": {
       "country": "HU",
-      "city": "Budapest"
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "http://89.43.132.226:8080",
+    "protocol": "http",
+    "ip": "89.43.132.226",
+    "port": 8080,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "HU",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "http://128.0.7.11:8080",
+    "protocol": "http",
+    "ip": "128.0.7.11",
+    "port": 8080,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "HU",
+      "city": "Unknown"
     }
   },
   {
@@ -182,9 +169,35 @@
     }
   },
   {
-    "proxy": "http://89.43.132.250:8080",
+    "proxy": "http://46.107.230.122:1080",
     "protocol": "http",
-    "ip": "89.43.132.250",
+    "ip": "46.107.230.122",
+    "port": 1080,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "HU",
+      "city": "Budapest"
+    }
+  },
+  {
+    "proxy": "http://94.21.216.125:9999",
+    "protocol": "http",
+    "ip": "94.21.216.125",
+    "port": 9999,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "HU",
+      "city": "Székesfehérvár"
+    }
+  },
+  {
+    "proxy": "http://89.43.135.42:8080",
+    "protocol": "http",
+    "ip": "89.43.135.42",
     "port": 8080,
     "https": false,
     "anonymity": "transparent",
@@ -195,10 +208,10 @@
     }
   },
   {
-    "proxy": "http://89.43.132.81:8085",
+    "proxy": "http://89.43.135.9:8080",
     "protocol": "http",
-    "ip": "89.43.132.81",
-    "port": 8085,
+    "ip": "89.43.135.9",
+    "port": 8080,
     "https": false,
     "anonymity": "transparent",
     "score": 1,

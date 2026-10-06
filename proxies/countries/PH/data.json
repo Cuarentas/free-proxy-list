@@ -78,75 +78,36 @@
     }
   },
   {
-    "proxy": "https://8.212.178.252:8000",
-    "protocol": "https",
-    "ip": "8.212.178.252",
-    "port": 8000,
-    "https": true,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "PH",
-      "city": "Manila"
-    }
-  },
-  {
-    "proxy": "http://122.54.226.216:8082",
+    "proxy": "http://112.198.128.171:8083",
     "protocol": "http",
-    "ip": "122.54.226.216",
-    "port": 8082,
+    "ip": "112.198.128.171",
+    "port": 8083,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
     "geolocation": {
       "country": "PH",
-      "city": "Dulag"
+      "city": "Nasugbu"
     }
   },
   {
-    "proxy": "http://124.217.74.168:8082",
+    "proxy": "http://120.28.192.179:5050",
     "protocol": "http",
-    "ip": "124.217.74.168",
-    "port": 8082,
+    "ip": "120.28.192.179",
+    "port": 5050,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
     "geolocation": {
       "country": "PH",
-      "city": "Unknown"
+      "city": "Cagayan de Oro"
     }
   },
   {
-    "proxy": "http://120.28.152.190:8082",
+    "proxy": "http://122.3.207.67:8089",
     "protocol": "http",
-    "ip": "120.28.152.190",
-    "port": 8082,
-    "https": false,
-    "anonymity": "elite",
-    "score": 1,
-    "geolocation": {
-      "country": "PH",
-      "city": "San Juan"
-    }
-  },
-  {
-    "proxy": "http://49.151.200.251:8080",
-    "protocol": "http",
-    "ip": "49.151.200.251",
-    "port": 8080,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "PH",
-      "city": "Tarlac City"
-    }
-  },
-  {
-    "proxy": "http://112.198.22.122:80",
-    "protocol": "http",
-    "ip": "112.198.22.122",
-    "port": 80,
+    "ip": "122.3.207.67",
+    "port": 8089,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
@@ -156,16 +117,29 @@
     }
   },
   {
-    "proxy": "http://49.147.63.121:8080",
+    "proxy": "http://58.69.208.243:8081",
     "protocol": "http",
-    "ip": "49.147.63.121",
-    "port": 8080,
+    "ip": "58.69.208.243",
+    "port": 8081,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
     "geolocation": {
       "country": "PH",
-      "city": "Lucena City"
+      "city": "Makati City"
+    }
+  },
+  {
+    "proxy": "http://152.32.64.43:8095",
+    "protocol": "http",
+    "ip": "152.32.64.43",
+    "port": 8095,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "PH",
+      "city": "Mandaluyong City"
     }
   },
   {
@@ -182,19 +156,6 @@
     }
   },
   {
-    "proxy": "http://119.93.64.216:8082",
-    "protocol": "http",
-    "ip": "119.93.64.216",
-    "port": 8082,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "PH",
-      "city": "Paranaque City"
-    }
-  },
-  {
     "proxy": "http://180.191.98.117:8080",
     "protocol": "http",
     "ip": "180.191.98.117",
@@ -205,6 +166,474 @@
     "geolocation": {
       "country": "PH",
       "city": "Makati City"
+    }
+  },
+  {
+    "proxy": "http://112.203.39.211:8082",
+    "protocol": "http",
+    "ip": "112.203.39.211",
+    "port": 8082,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "PH",
+      "city": "Quezon City"
+    }
+  },
+  {
+    "proxy": "http://49.149.114.234:8081",
+    "protocol": "http",
+    "ip": "49.149.114.234",
+    "port": 8081,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "PH",
+      "city": "Cagayan de Oro"
+    }
+  },
+  {
+    "proxy": "http://120.28.152.190:8082",
+    "protocol": "http",
+    "ip": "120.28.152.190",
+    "port": 8082,
+    "https": false,
+    "anonymity": "elite",
+    "score": 1,
+    "geolocation": {
+      "country": "PH",
+      "city": "San Juan"
+    }
+  },
+  {
+    "proxy": "http://180.191.142.188:8080",
+    "protocol": "http",
+    "ip": "180.191.142.188",
+    "port": 8080,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "PH",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "http://180.191.21.49:8081",
+    "protocol": "http",
+    "ip": "180.191.21.49",
+    "port": 8081,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "PH",
+      "city": "Cabanatuan City"
+    }
+  },
+  {
+    "proxy": "http://180.191.14.210:8081",
+    "protocol": "http",
+    "ip": "180.191.14.210",
+    "port": 8081,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "PH",
+      "city": "Cabanatuan City"
+    }
+  },
+  {
+    "proxy": "http://112.202.40.128:8082",
+    "protocol": "http",
+    "ip": "112.202.40.128",
+    "port": 8082,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "PH",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "http://180.191.231.82:5002",
+    "protocol": "http",
+    "ip": "180.191.231.82",
+    "port": 5002,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "PH",
+      "city": "General Trias"
+    }
+  },
+  {
+    "proxy": "http://120.28.200.84:5050",
+    "protocol": "http",
+    "ip": "120.28.200.84",
+    "port": 5050,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "PH",
+      "city": "Davao City"
+    }
+  },
+  {
+    "proxy": "http://119.93.36.139:8080",
+    "protocol": "http",
+    "ip": "119.93.36.139",
+    "port": 8080,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "PH",
+      "city": "Las Pinas"
+    }
+  },
+  {
+    "proxy": "http://124.217.78.107:8081",
+    "protocol": "http",
+    "ip": "124.217.78.107",
+    "port": 8081,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "PH",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "http://49.146.135.45:9999",
+    "protocol": "http",
+    "ip": "49.146.135.45",
+    "port": 9999,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "PH",
+      "city": "Bacolod City"
+    }
+  },
+  {
+    "proxy": "http://112.210.155.150:8082",
+    "protocol": "http",
+    "ip": "112.210.155.150",
+    "port": 8082,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "PH",
+      "city": "Imus"
+    }
+  },
+  {
+    "proxy": "http://222.127.169.27:8086",
+    "protocol": "http",
+    "ip": "222.127.169.27",
+    "port": 8086,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "PH",
+      "city": "Lahug"
+    }
+  },
+  {
+    "proxy": "http://112.201.179.242:5050",
+    "protocol": "http",
+    "ip": "112.201.179.242",
+    "port": 5050,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "PH",
+      "city": "Pasig"
+    }
+  },
+  {
+    "proxy": "http://112.198.138.29:8082",
+    "protocol": "http",
+    "ip": "112.198.138.29",
+    "port": 8082,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "PH",
+      "city": "General Trias"
+    }
+  },
+  {
+    "proxy": "http://119.93.139.196:8082",
+    "protocol": "http",
+    "ip": "119.93.139.196",
+    "port": 8082,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "PH",
+      "city": "Valenzuela"
+    }
+  },
+  {
+    "proxy": "http://58.69.175.135:8080",
+    "protocol": "http",
+    "ip": "58.69.175.135",
+    "port": 8080,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "PH",
+      "city": "Malabon"
+    }
+  },
+  {
+    "proxy": "http://124.83.43.145:8080",
+    "protocol": "http",
+    "ip": "124.83.43.145",
+    "port": 8080,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "PH",
+      "city": "Makati City"
+    }
+  },
+  {
+    "proxy": "http://180.190.185.211:9999",
+    "protocol": "http",
+    "ip": "180.190.185.211",
+    "port": 9999,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "PH",
+      "city": "Lahug"
+    }
+  },
+  {
+    "proxy": "http://112.203.211.130:8082",
+    "protocol": "http",
+    "ip": "112.203.211.130",
+    "port": 8082,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "PH",
+      "city": "Quezon City"
+    }
+  },
+  {
+    "proxy": "http://122.3.68.45:8082",
+    "protocol": "http",
+    "ip": "122.3.68.45",
+    "port": 8082,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "PH",
+      "city": "Manila"
+    }
+  },
+  {
+    "proxy": "http://49.147.104.23:8082",
+    "protocol": "http",
+    "ip": "49.147.104.23",
+    "port": 8082,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "PH",
+      "city": "Cebu City"
+    }
+  },
+  {
+    "proxy": "http://124.106.88.13:5002",
+    "protocol": "http",
+    "ip": "124.106.88.13",
+    "port": 5002,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "PH",
+      "city": "Bacoor"
+    }
+  },
+  {
+    "proxy": "http://112.208.162.30:8082",
+    "protocol": "http",
+    "ip": "112.208.162.30",
+    "port": 8082,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "PH",
+      "city": "Sucat"
+    }
+  },
+  {
+    "proxy": "http://49.146.155.183:8082",
+    "protocol": "http",
+    "ip": "49.146.155.183",
+    "port": 8082,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "PH",
+      "city": "Roxas City"
+    }
+  },
+  {
+    "proxy": "http://58.69.61.79:8082",
+    "protocol": "http",
+    "ip": "58.69.61.79",
+    "port": 8082,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "PH",
+      "city": "Cebu City"
+    }
+  },
+  {
+    "proxy": "http://210.23.181.248:8082",
+    "protocol": "http",
+    "ip": "210.23.181.248",
+    "port": 8082,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "PH",
+      "city": "Manila"
+    }
+  },
+  {
+    "proxy": "http://180.191.122.227:5050",
+    "protocol": "http",
+    "ip": "180.191.122.227",
+    "port": 5050,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "PH",
+      "city": "Cagayan de Oro"
+    }
+  },
+  {
+    "proxy": "http://112.203.217.178:8082",
+    "protocol": "http",
+    "ip": "112.203.217.178",
+    "port": 8082,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "PH",
+      "city": "Quezon City"
+    }
+  },
+  {
+    "proxy": "http://112.201.188.87:8080",
+    "protocol": "http",
+    "ip": "112.201.188.87",
+    "port": 8080,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "PH",
+      "city": "Pasig"
+    }
+  },
+  {
+    "proxy": "http://161.49.91.13:1337",
+    "protocol": "http",
+    "ip": "161.49.91.13",
+    "port": 1337,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "PH",
+      "city": "Makati City"
+    }
+  },
+  {
+    "proxy": "http://122.2.79.174:8082",
+    "protocol": "http",
+    "ip": "122.2.79.174",
+    "port": 8082,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "PH",
+      "city": "Antipolo City"
+    }
+  },
+  {
+    "proxy": "socks4://8.212.168.170:2067",
+    "protocol": "socks4",
+    "ip": "8.212.168.170",
+    "port": 2067,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "PH",
+      "city": "Manila"
+    }
+  },
+  {
+    "proxy": "http://180.194.14.117:8081",
+    "protocol": "http",
+    "ip": "180.194.14.117",
+    "port": 8081,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "PH",
+      "city": "Cagayan de Oro"
+    }
+  },
+  {
+    "proxy": "socks5://161.49.116.131:1338",
+    "protocol": "socks5",
+    "ip": "161.49.116.131",
+    "port": 1338,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "PH",
+      "city": "Marikina City"
     }
   },
   {
@@ -689,19 +1118,6 @@
     }
   },
   {
-    "proxy": "socks5://161.49.116.131:1338",
-    "protocol": "socks5",
-    "ip": "161.49.116.131",
-    "port": 1338,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "PH",
-      "city": "Marikina City"
-    }
-  },
-  {
     "proxy": "socks5://8.220.141.8:808",
     "protocol": "socks5",
     "ip": "8.220.141.8",
@@ -1144,10 +1560,49 @@
     }
   },
   {
-    "proxy": "http://222.127.206.145:8085",
+    "proxy": "http://112.203.192.107:8082",
     "protocol": "http",
-    "ip": "222.127.206.145",
-    "port": 8085,
+    "ip": "112.203.192.107",
+    "port": 8082,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "PH",
+      "city": "Quezon City"
+    }
+  },
+  {
+    "proxy": "http://180.194.103.158:8082",
+    "protocol": "http",
+    "ip": "180.194.103.158",
+    "port": 8082,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "PH",
+      "city": "Cagayan de Oro"
+    }
+  },
+  {
+    "proxy": "http://112.204.105.222:8082",
+    "protocol": "http",
+    "ip": "112.204.105.222",
+    "port": 8082,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "PH",
+      "city": "Pasig"
+    }
+  },
+  {
+    "proxy": "http://161.49.90.70:1337",
+    "protocol": "http",
+    "ip": "161.49.90.70",
+    "port": 1337,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
@@ -1157,100 +1612,9 @@
     }
   },
   {
-    "proxy": "http://49.147.104.23:8082",
+    "proxy": "http://180.191.32.166:8081",
     "protocol": "http",
-    "ip": "49.147.104.23",
-    "port": 8082,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "PH",
-      "city": "Cebu City"
-    }
-  },
-  {
-    "proxy": "http://112.198.52.194:8080",
-    "protocol": "http",
-    "ip": "112.198.52.194",
-    "port": 8080,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "PH",
-      "city": "Unknown"
-    }
-  },
-  {
-    "proxy": "http://49.146.253.126:8080",
-    "protocol": "http",
-    "ip": "49.146.253.126",
-    "port": 8080,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "PH",
-      "city": "Cebu City"
-    }
-  },
-  {
-    "proxy": "http://124.83.127.152:8082",
-    "protocol": "http",
-    "ip": "124.83.127.152",
-    "port": 8082,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "PH",
-      "city": "Tarlac City"
-    }
-  },
-  {
-    "proxy": "http://180.191.51.69:8082",
-    "protocol": "http",
-    "ip": "180.191.51.69",
-    "port": 8082,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "PH",
-      "city": "Tarlac City"
-    }
-  },
-  {
-    "proxy": "http://49.151.190.170:8080",
-    "protocol": "http",
-    "ip": "49.151.190.170",
-    "port": 8080,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "PH",
-      "city": "San Fernando"
-    }
-  },
-  {
-    "proxy": "http://124.107.173.219:8082",
-    "protocol": "http",
-    "ip": "124.107.173.219",
-    "port": 8082,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "PH",
-      "city": "Abuyog"
-    }
-  },
-  {
-    "proxy": "http://180.191.2.166:8081",
-    "protocol": "http",
-    "ip": "180.191.2.166",
+    "ip": "180.191.32.166",
     "port": 8081,
     "https": false,
     "anonymity": "transparent",
@@ -1261,10 +1625,192 @@
     }
   },
   {
-    "proxy": "http://122.3.77.27:8082",
+    "proxy": "http://180.191.36.250:8081",
     "protocol": "http",
-    "ip": "122.3.77.27",
+    "ip": "180.191.36.250",
+    "port": 8081,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "PH",
+      "city": "Cabanatuan City"
+    }
+  },
+  {
+    "proxy": "http://119.93.153.10:8087",
+    "protocol": "http",
+    "ip": "119.93.153.10",
+    "port": 8087,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "PH",
+      "city": "Cebu City"
+    }
+  },
+  {
+    "proxy": "http://180.191.142.206:8081",
+    "protocol": "http",
+    "ip": "180.191.142.206",
+    "port": 8081,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "PH",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "http://112.211.72.133:9999",
+    "protocol": "http",
+    "ip": "112.211.72.133",
+    "port": 9999,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "PH",
+      "city": "Makati City"
+    }
+  },
+  {
+    "proxy": "http://45.194.3.132:8080",
+    "protocol": "http",
+    "ip": "45.194.3.132",
+    "port": 8080,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "PH",
+      "city": "Makati City"
+    }
+  },
+  {
+    "proxy": "http://8.212.151.166:1337",
+    "protocol": "http",
+    "ip": "8.212.151.166",
+    "port": 1337,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "PH",
+      "city": "Manila"
+    }
+  },
+  {
+    "proxy": "http://180.191.124.188:5555",
+    "protocol": "http",
+    "ip": "180.191.124.188",
+    "port": 5555,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "PH",
+      "city": "Cagayan de Oro"
+    }
+  },
+  {
+    "proxy": "http://8.212.151.166:3129",
+    "protocol": "http",
+    "ip": "8.212.151.166",
+    "port": 3129,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "PH",
+      "city": "Manila"
+    }
+  },
+  {
+    "proxy": "http://139.135.182.132:8081",
+    "protocol": "http",
+    "ip": "139.135.182.132",
+    "port": 8081,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "PH",
+      "city": "Taguig"
+    }
+  },
+  {
+    "proxy": "http://180.191.22.153:8081",
+    "protocol": "http",
+    "ip": "180.191.22.153",
+    "port": 8081,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "PH",
+      "city": "Cabanatuan City"
+    }
+  },
+  {
+    "proxy": "http://45.194.3.119:8080",
+    "protocol": "http",
+    "ip": "45.194.3.119",
+    "port": 8080,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "PH",
+      "city": "Makati City"
+    }
+  },
+  {
+    "proxy": "http://180.191.138.5:8082",
+    "protocol": "http",
+    "ip": "180.191.138.5",
     "port": 8082,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "PH",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "http://103.25.220.26:8082",
+    "protocol": "http",
+    "ip": "103.25.220.26",
+    "port": 8082,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "PH",
+      "city": "San Jose del Monte"
+    }
+  },
+  {
+    "proxy": "http://103.25.220.246:8086",
+    "protocol": "http",
+    "ip": "103.25.220.246",
+    "port": 8086,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "PH",
+      "city": "San Jose del Monte"
+    }
+  },
+  {
+    "proxy": "http://58.69.179.40:8085",
+    "protocol": "http",
+    "ip": "58.69.179.40",
+    "port": 8085,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
@@ -1287,10 +1833,218 @@
     }
   },
   {
-    "proxy": "http://122.3.127.68:8080",
+    "proxy": "http://139.135.141.12:8095",
     "protocol": "http",
-    "ip": "122.3.127.68",
+    "ip": "139.135.141.12",
+    "port": 8095,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "PH",
+      "city": "Quezon City"
+    }
+  },
+  {
+    "proxy": "http://49.147.105.198:5050",
+    "protocol": "http",
+    "ip": "49.147.105.198",
+    "port": 5050,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "PH",
+      "city": "Cebu City"
+    }
+  },
+  {
+    "proxy": "http://49.147.125.164:5050",
+    "protocol": "http",
+    "ip": "49.147.125.164",
+    "port": 5050,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "PH",
+      "city": "Cebu City"
+    }
+  },
+  {
+    "proxy": "http://180.191.32.67:5050",
+    "protocol": "http",
+    "ip": "180.191.32.67",
+    "port": 5050,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "PH",
+      "city": "Cabanatuan City"
+    }
+  },
+  {
+    "proxy": "http://112.207.166.195:8082",
+    "protocol": "http",
+    "ip": "112.207.166.195",
+    "port": 8082,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "PH",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "http://180.191.255.109:8080",
+    "protocol": "http",
+    "ip": "180.191.255.109",
     "port": 8080,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "PH",
+      "city": "General Trias"
+    }
+  },
+  {
+    "proxy": "http://8.212.151.166:4567",
+    "protocol": "http",
+    "ip": "8.212.151.166",
+    "port": 4567,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "PH",
+      "city": "Manila"
+    }
+  },
+  {
+    "proxy": "http://120.28.193.165:5050",
+    "protocol": "http",
+    "ip": "120.28.193.165",
+    "port": 5050,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "PH",
+      "city": "Cagayan de Oro"
+    }
+  },
+  {
+    "proxy": "http://122.54.147.110:8082",
+    "protocol": "http",
+    "ip": "122.54.147.110",
+    "port": 8082,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "PH",
+      "city": "Surigao City"
+    }
+  },
+  {
+    "proxy": "http://120.28.82.207:8082",
+    "protocol": "http",
+    "ip": "120.28.82.207",
+    "port": 8082,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "PH",
+      "city": "Caloocan City"
+    }
+  },
+  {
+    "proxy": "http://112.198.22.122:80",
+    "protocol": "http",
+    "ip": "112.198.22.122",
+    "port": 80,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "PH",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "http://180.194.241.136:8080",
+    "protocol": "http",
+    "ip": "180.194.241.136",
+    "port": 8080,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "PH",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "http://123.253.137.3:8080",
+    "protocol": "http",
+    "ip": "123.253.137.3",
+    "port": 8080,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "PH",
+      "city": "Aroroy"
+    }
+  },
+  {
+    "proxy": "http://180.190.189.248:8082",
+    "protocol": "http",
+    "ip": "180.190.189.248",
+    "port": 8082,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "PH",
+      "city": "Lahug"
+    }
+  },
+  {
+    "proxy": "http://8.220.136.174:20000",
+    "protocol": "http",
+    "ip": "8.220.136.174",
+    "port": 20000,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "PH",
+      "city": "Manila"
+    }
+  },
+  {
+    "proxy": "http://8.220.189.51:8118",
+    "protocol": "http",
+    "ip": "8.220.189.51",
+    "port": 8118,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "PH",
+      "city": "Manila"
+    }
+  },
+  {
+    "proxy": "http://119.93.123.229:4145",
+    "protocol": "http",
+    "ip": "119.93.123.229",
+    "port": 4145,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
@@ -1300,35 +2054,438 @@
     }
   },
   {
-    "proxy": "http://120.28.117.92:8081",
+    "proxy": "http://180.191.228.36:8082",
     "protocol": "http",
-    "ip": "120.28.117.92",
+    "ip": "180.191.228.36",
+    "port": 8082,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "PH",
+      "city": "General Trias"
+    }
+  },
+  {
+    "proxy": "http://161.49.89.217:8081",
+    "protocol": "http",
+    "ip": "161.49.89.217",
     "port": 8081,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
     "geolocation": {
       "country": "PH",
-      "city": "Quezon City"
+      "city": "Makati City"
     }
   },
   {
-    "proxy": "http://124.106.223.156:9999",
+    "proxy": "http://58.69.124.137:8080",
     "protocol": "http",
-    "ip": "124.106.223.156",
+    "ip": "58.69.124.137",
+    "port": 8080,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "PH",
+      "city": "Bago City"
+    }
+  },
+  {
+    "proxy": "http://112.198.179.67:8080",
+    "protocol": "http",
+    "ip": "112.198.179.67",
+    "port": 8080,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "PH",
+      "city": "Carmona"
+    }
+  },
+  {
+    "proxy": "http://61.9.34.22:58765",
+    "protocol": "http",
+    "ip": "61.9.34.22",
+    "port": 58765,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "PH",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "http://119.93.129.34:80",
+    "protocol": "http",
+    "ip": "119.93.129.34",
+    "port": 80,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "PH",
+      "city": "Pembo"
+    }
+  },
+  {
+    "proxy": "http://124.217.5.100:5050",
+    "protocol": "http",
+    "ip": "124.217.5.100",
+    "port": 5050,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "PH",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "http://49.147.106.172:5050",
+    "protocol": "http",
+    "ip": "49.147.106.172",
+    "port": 5050,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "PH",
+      "city": "Cebu City"
+    }
+  },
+  {
+    "proxy": "http://124.83.127.152:8082",
+    "protocol": "http",
+    "ip": "124.83.127.152",
+    "port": 8082,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "PH",
+      "city": "Tarlac City"
+    }
+  },
+  {
+    "proxy": "http://143.44.191.108:8080",
+    "protocol": "http",
+    "ip": "143.44.191.108",
+    "port": 8080,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "PH",
+      "city": "Quezon"
+    }
+  },
+  {
+    "proxy": "http://123.253.137.172:8082",
+    "protocol": "http",
+    "ip": "123.253.137.172",
+    "port": 8082,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "PH",
+      "city": "Aroroy"
+    }
+  },
+  {
+    "proxy": "http://61.9.32.30:58765",
+    "protocol": "http",
+    "ip": "61.9.32.30",
+    "port": 58765,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "PH",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "http://161.49.215.28:10101",
+    "protocol": "http",
+    "ip": "161.49.215.28",
+    "port": 10101,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "PH",
+      "city": "Angeles City"
+    }
+  },
+  {
+    "proxy": "http://49.146.253.126:8080",
+    "protocol": "http",
+    "ip": "49.146.253.126",
+    "port": 8080,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "PH",
+      "city": "Cebu City"
+    }
+  },
+  {
+    "proxy": "http://58.69.201.117:8082",
+    "protocol": "http",
+    "ip": "58.69.201.117",
+    "port": 8082,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "PH",
+      "city": "Plaridel"
+    }
+  },
+  {
+    "proxy": "http://8.220.141.8:8123",
+    "protocol": "http",
+    "ip": "8.220.141.8",
+    "port": 8123,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "PH",
+      "city": "Manila"
+    }
+  },
+  {
+    "proxy": "http://103.152.9.150:80",
+    "protocol": "http",
+    "ip": "103.152.9.150",
+    "port": 80,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "PH",
+      "city": "Talavera"
+    }
+  },
+  {
+    "proxy": "http://124.217.0.75:8082",
+    "protocol": "http",
+    "ip": "124.217.0.75",
+    "port": 8082,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "PH",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "http://61.9.32.142:58765",
+    "protocol": "http",
+    "ip": "61.9.32.142",
+    "port": 58765,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "PH",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "http://58.69.125.145:8081",
+    "protocol": "http",
+    "ip": "58.69.125.145",
+    "port": 8081,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "PH",
+      "city": "Mandaluyong City"
+    }
+  },
+  {
+    "proxy": "http://161.49.116.131:1337",
+    "protocol": "http",
+    "ip": "161.49.116.131",
+    "port": 1337,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "PH",
+      "city": "Marikina City"
+    }
+  },
+  {
+    "proxy": "http://222.127.232.128:9999",
+    "protocol": "http",
+    "ip": "222.127.232.128",
     "port": 9999,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
     "geolocation": {
       "country": "PH",
-      "city": "Quezon City"
+      "city": "Lahug"
     }
   },
   {
-    "proxy": "http://112.203.215.89:8082",
+    "proxy": "http://122.3.132.132:8082",
     "protocol": "http",
-    "ip": "112.203.215.89",
+    "ip": "122.3.132.132",
+    "port": 8082,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "PH",
+      "city": "Dulag"
+    }
+  },
+  {
+    "proxy": "http://180.191.143.185:8081",
+    "protocol": "http",
+    "ip": "180.191.143.185",
+    "port": 8081,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "PH",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "http://180.191.49.73:8090",
+    "protocol": "http",
+    "ip": "180.191.49.73",
+    "port": 8090,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "PH",
+      "city": "Tarlac City"
+    }
+  },
+  {
+    "proxy": "http://112.208.174.83:8080",
+    "protocol": "http",
+    "ip": "112.208.174.83",
+    "port": 8080,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "PH",
+      "city": "Sucat"
+    }
+  },
+  {
+    "proxy": "http://49.147.46.158:8082",
+    "protocol": "http",
+    "ip": "49.147.46.158",
+    "port": 8082,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "PH",
+      "city": "Lucena City"
+    }
+  },
+  {
+    "proxy": "http://49.145.189.114:8081",
+    "protocol": "http",
+    "ip": "49.145.189.114",
+    "port": 8081,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "PH",
+      "city": "Cebu City"
+    }
+  },
+  {
+    "proxy": "http://112.211.80.2:9999",
+    "protocol": "http",
+    "ip": "112.211.80.2",
+    "port": 9999,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "PH",
+      "city": "Makati City"
+    }
+  },
+  {
+    "proxy": "http://139.135.170.12:8082",
+    "protocol": "http",
+    "ip": "139.135.170.12",
+    "port": 8082,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "PH",
+      "city": "Taguig"
+    }
+  },
+  {
+    "proxy": "http://122.3.87.41:8080",
+    "protocol": "http",
+    "ip": "122.3.87.41",
+    "port": 8080,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "PH",
+      "city": "Plaridel"
+    }
+  },
+  {
+    "proxy": "http://119.94.124.90:8081",
+    "protocol": "http",
+    "ip": "119.94.124.90",
+    "port": 8081,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "PH",
+      "city": "Santa Maria"
+    }
+  },
+  {
+    "proxy": "http://112.198.179.17:8082",
+    "protocol": "http",
+    "ip": "112.198.179.17",
+    "port": 8082,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "PH",
+      "city": "Carmona"
+    }
+  },
+  {
+    "proxy": "http://112.203.32.62:8082",
+    "protocol": "http",
+    "ip": "112.203.32.62",
     "port": 8082,
     "https": false,
     "anonymity": "transparent",
@@ -1352,32 +2509,6 @@
     }
   },
   {
-    "proxy": "http://120.28.139.19:8082",
-    "protocol": "http",
-    "ip": "120.28.139.19",
-    "port": 8082,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "PH",
-      "city": "Caloocan City"
-    }
-  },
-  {
-    "proxy": "http://180.191.20.206:8080",
-    "protocol": "http",
-    "ip": "180.191.20.206",
-    "port": 8080,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "PH",
-      "city": "Cabanatuan City"
-    }
-  },
-  {
     "proxy": "http://27.49.68.66:9999",
     "protocol": "http",
     "ip": "27.49.68.66",
@@ -1391,114 +2522,10 @@
     }
   },
   {
-    "proxy": "http://124.217.77.233:8082",
+    "proxy": "http://122.54.160.148:8082",
     "protocol": "http",
-    "ip": "124.217.77.233",
+    "ip": "122.54.160.148",
     "port": 8082,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "PH",
-      "city": "Unknown"
-    }
-  },
-  {
-    "proxy": "http://161.49.100.131:1080",
-    "protocol": "http",
-    "ip": "161.49.100.131",
-    "port": 1080,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "PH",
-      "city": "Quiapo District"
-    }
-  },
-  {
-    "proxy": "http://122.54.119.79:8080",
-    "protocol": "http",
-    "ip": "122.54.119.79",
-    "port": 8080,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "PH",
-      "city": "Dingras"
-    }
-  },
-  {
-    "proxy": "http://202.57.46.138:4145",
-    "protocol": "http",
-    "ip": "202.57.46.138",
-    "port": 4145,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "PH",
-      "city": "Quezon City"
-    }
-  },
-  {
-    "proxy": "http://8.220.141.8:8123",
-    "protocol": "http",
-    "ip": "8.220.141.8",
-    "port": 8123,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "PH",
-      "city": "Manila"
-    }
-  },
-  {
-    "proxy": "http://8.220.189.51:8118",
-    "protocol": "http",
-    "ip": "8.220.189.51",
-    "port": 8118,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "PH",
-      "city": "Manila"
-    }
-  },
-  {
-    "proxy": "http://123.253.137.3:8080",
-    "protocol": "http",
-    "ip": "123.253.137.3",
-    "port": 8080,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "PH",
-      "city": "Aroroy"
-    }
-  },
-  {
-    "proxy": "http://49.148.134.36:5050",
-    "protocol": "http",
-    "ip": "49.148.134.36",
-    "port": 5050,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "PH",
-      "city": "Unknown"
-    }
-  },
-  {
-    "proxy": "http://119.93.123.229:4145",
-    "protocol": "http",
-    "ip": "119.93.123.229",
-    "port": 4145,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
@@ -1508,179 +2535,75 @@
     }
   },
   {
-    "proxy": "http://8.212.168.170:20",
+    "proxy": "http://180.190.84.221:8082",
     "protocol": "http",
-    "ip": "8.212.168.170",
-    "port": 20,
+    "ip": "180.190.84.221",
+    "port": 8082,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
     "geolocation": {
       "country": "PH",
-      "city": "Manila"
+      "city": "Cagayan de Oro"
     }
   },
   {
-    "proxy": "http://119.93.82.236:1080",
+    "proxy": "http://124.105.236.145:9090",
     "protocol": "http",
-    "ip": "119.93.82.236",
-    "port": 1080,
+    "ip": "124.105.236.145",
+    "port": 9090,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
     "geolocation": {
       "country": "PH",
-      "city": "Mandaluyong City"
+      "city": "Tuguegarao City"
     }
   },
   {
-    "proxy": "http://120.28.200.84:5050",
+    "proxy": "http://180.191.142.94:8081",
     "protocol": "http",
-    "ip": "120.28.200.84",
-    "port": 5050,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "PH",
-      "city": "Davao City"
-    }
-  },
-  {
-    "proxy": "http://180.191.22.153:8081",
-    "protocol": "http",
-    "ip": "180.191.22.153",
+    "ip": "180.191.142.94",
     "port": 8081,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
     "geolocation": {
       "country": "PH",
-      "city": "Cabanatuan City"
+      "city": "Unknown"
     }
   },
   {
-    "proxy": "http://161.49.219.181:8082",
+    "proxy": "http://49.144.29.251:8082",
     "protocol": "http",
-    "ip": "161.49.219.181",
+    "ip": "49.144.29.251",
     "port": 8082,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
     "geolocation": {
       "country": "PH",
-      "city": "Minalin"
+      "city": "Dasmariñas"
     }
   },
   {
-    "proxy": "http://58.69.201.117:8082",
+    "proxy": "http://119.93.151.254:8081",
     "protocol": "http",
-    "ip": "58.69.201.117",
+    "ip": "119.93.151.254",
+    "port": 8081,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "PH",
+      "city": "Naga"
+    }
+  },
+  {
+    "proxy": "http://180.191.231.112:8082",
+    "protocol": "http",
+    "ip": "180.191.231.112",
     "port": 8082,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "PH",
-      "city": "Plaridel"
-    }
-  },
-  {
-    "proxy": "http://119.93.139.196:8082",
-    "protocol": "http",
-    "ip": "119.93.139.196",
-    "port": 8082,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "PH",
-      "city": "Valenzuela"
-    }
-  },
-  {
-    "proxy": "http://112.198.179.67:8080",
-    "protocol": "http",
-    "ip": "112.198.179.67",
-    "port": 8080,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "PH",
-      "city": "Carmona"
-    }
-  },
-  {
-    "proxy": "http://161.49.116.131:1338",
-    "protocol": "http",
-    "ip": "161.49.116.131",
-    "port": 1338,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "PH",
-      "city": "Marikina City"
-    }
-  },
-  {
-    "proxy": "http://143.44.191.108:8080",
-    "protocol": "http",
-    "ip": "143.44.191.108",
-    "port": 8080,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "PH",
-      "city": "Quezon"
-    }
-  },
-  {
-    "proxy": "http://8.212.168.170:8443",
-    "protocol": "http",
-    "ip": "8.212.168.170",
-    "port": 8443,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "PH",
-      "city": "Manila"
-    }
-  },
-  {
-    "proxy": "http://119.93.94.108:8080",
-    "protocol": "http",
-    "ip": "119.93.94.108",
-    "port": 8080,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "PH",
-      "city": "Manolo Fortich"
-    }
-  },
-  {
-    "proxy": "http://161.49.215.28:10101",
-    "protocol": "http",
-    "ip": "161.49.215.28",
-    "port": 10101,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "PH",
-      "city": "Angeles City"
-    }
-  },
-  {
-    "proxy": "http://180.191.255.109:8080",
-    "protocol": "http",
-    "ip": "180.191.255.109",
-    "port": 8080,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
@@ -1690,302 +2613,16 @@
     }
   },
   {
-    "proxy": "http://103.152.9.150:80",
+    "proxy": "http://180.232.171.210:8080",
     "protocol": "http",
-    "ip": "103.152.9.150",
-    "port": 80,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "PH",
-      "city": "Talavera"
-    }
-  },
-  {
-    "proxy": "http://8.212.151.166:4567",
-    "protocol": "http",
-    "ip": "8.212.151.166",
-    "port": 4567,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "PH",
-      "city": "Manila"
-    }
-  },
-  {
-    "proxy": "http://119.93.129.34:80",
-    "protocol": "http",
-    "ip": "119.93.129.34",
-    "port": 80,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "PH",
-      "city": "Pembo"
-    }
-  },
-  {
-    "proxy": "http://45.194.3.132:8080",
-    "protocol": "http",
-    "ip": "45.194.3.132",
+    "ip": "180.232.171.210",
     "port": 8080,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
     "geolocation": {
       "country": "PH",
-      "city": "Makati City"
-    }
-  },
-  {
-    "proxy": "http://58.69.125.145:8081",
-    "protocol": "http",
-    "ip": "58.69.125.145",
-    "port": 8081,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "PH",
-      "city": "Mandaluyong City"
-    }
-  },
-  {
-    "proxy": "http://180.191.14.210:8081",
-    "protocol": "http",
-    "ip": "180.191.14.210",
-    "port": 8081,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "PH",
-      "city": "Cabanatuan City"
-    }
-  },
-  {
-    "proxy": "http://161.49.90.70:1337",
-    "protocol": "http",
-    "ip": "161.49.90.70",
-    "port": 1337,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "PH",
-      "city": "Makati City"
-    }
-  },
-  {
-    "proxy": "http://45.194.3.119:8080",
-    "protocol": "http",
-    "ip": "45.194.3.119",
-    "port": 8080,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "PH",
-      "city": "Makati City"
-    }
-  },
-  {
-    "proxy": "http://8.220.141.8:9443",
-    "protocol": "http",
-    "ip": "8.220.141.8",
-    "port": 9443,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "PH",
-      "city": "Manila"
-    }
-  },
-  {
-    "proxy": "http://8.220.141.8:8080",
-    "protocol": "http",
-    "ip": "8.220.141.8",
-    "port": 8080,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "PH",
-      "city": "Manila"
-    }
-  },
-  {
-    "proxy": "http://120.28.194.248:8282",
-    "protocol": "http",
-    "ip": "120.28.194.248",
-    "port": 8282,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "PH",
-      "city": "Cagayan de Oro"
-    }
-  },
-  {
-    "proxy": "http://58.69.124.137:8080",
-    "protocol": "http",
-    "ip": "58.69.124.137",
-    "port": 8080,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "PH",
-      "city": "Bago City"
-    }
-  },
-  {
-    "proxy": "http://180.191.120.247:5050",
-    "protocol": "http",
-    "ip": "180.191.120.247",
-    "port": 5050,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "PH",
-      "city": "Cagayan de Oro"
-    }
-  },
-  {
-    "proxy": "http://103.167.116.195:8087",
-    "protocol": "http",
-    "ip": "103.167.116.195",
-    "port": 8087,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "PH",
-      "city": "Unknown"
-    }
-  },
-  {
-    "proxy": "http://49.149.114.234:8081",
-    "protocol": "http",
-    "ip": "49.149.114.234",
-    "port": 8081,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "PH",
-      "city": "Cagayan de Oro"
-    }
-  },
-  {
-    "proxy": "http://58.69.248.180:8080",
-    "protocol": "http",
-    "ip": "58.69.248.180",
-    "port": 8080,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "PH",
-      "city": "San Jose del Monte"
-    }
-  },
-  {
-    "proxy": "http://112.203.56.161:8082",
-    "protocol": "http",
-    "ip": "112.203.56.161",
-    "port": 8082,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "PH",
-      "city": "Quezon City"
-    }
-  },
-  {
-    "proxy": "http://180.190.187.41:5050",
-    "protocol": "http",
-    "ip": "180.190.187.41",
-    "port": 5050,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "PH",
-      "city": "Lahug"
-    }
-  },
-  {
-    "proxy": "http://180.191.229.193:5050",
-    "protocol": "http",
-    "ip": "180.191.229.193",
-    "port": 5050,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "PH",
-      "city": "General Trias"
-    }
-  },
-  {
-    "proxy": "http://124.106.83.244:8083",
-    "protocol": "http",
-    "ip": "124.106.83.244",
-    "port": 8083,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "PH",
-      "city": "Paranaque City"
-    }
-  },
-  {
-    "proxy": "http://49.145.62.154:8080",
-    "protocol": "http",
-    "ip": "49.145.62.154",
-    "port": 8080,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "PH",
-      "city": "Cebu City"
-    }
-  },
-  {
-    "proxy": "http://124.105.3.173:5051",
-    "protocol": "http",
-    "ip": "124.105.3.173",
-    "port": 5051,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "PH",
-      "city": "Apalit"
-    }
-  },
-  {
-    "proxy": "http://180.191.100.135:8082",
-    "protocol": "http",
-    "ip": "180.191.100.135",
-    "port": 8082,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "PH",
-      "city": "Makati City"
+      "city": "Taguig"
     }
   }
 ]
