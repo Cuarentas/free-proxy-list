@@ -91,6 +91,19 @@
     }
   },
   {
+    "proxy": "http://82.115.60.51:80",
+    "protocol": "http",
+    "ip": "82.115.60.51",
+    "port": 80,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "KZ",
+      "city": "Unknown"
+    }
+  },
+  {
     "proxy": "socks5://217.151.230.186:9055",
     "protocol": "socks5",
     "ip": "217.151.230.186",
@@ -143,19 +156,6 @@
     }
   },
   {
-    "proxy": "http://82.115.60.51:80",
-    "protocol": "http",
-    "ip": "82.115.60.51",
-    "port": 80,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "KZ",
-      "city": "Unknown"
-    }
-  },
-  {
     "proxy": "http://46.8.43.28:3128",
     "protocol": "http",
     "ip": "46.8.43.28",
@@ -166,6 +166,32 @@
     "geolocation": {
       "country": "KZ",
       "city": "Karaganda"
+    }
+  },
+  {
+    "proxy": "http://37.221.202.30:8080",
+    "protocol": "http",
+    "ip": "37.221.202.30",
+    "port": 8080,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "KZ",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "http://178.170.221.75:8443",
+    "protocol": "http",
+    "ip": "178.170.221.75",
+    "port": 8443,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "KZ",
+      "city": "Almaty"
     }
   },
   {
@@ -182,16 +208,16 @@
     }
   },
   {
-    "proxy": "http://217.151.230.186:9055",
+    "proxy": "http://91.185.20.162:8080",
     "protocol": "http",
-    "ip": "217.151.230.186",
-    "port": 9055,
+    "ip": "91.185.20.162",
+    "port": 8080,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
     "geolocation": {
       "country": "KZ",
-      "city": "Almaty"
+      "city": "Astana"
     }
   }
 ]

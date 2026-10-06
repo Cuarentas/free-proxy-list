@@ -91,19 +91,6 @@
     }
   },
   {
-    "proxy": "http://5.188.23.147:5555",
-    "protocol": "http",
-    "ip": "5.188.23.147",
-    "port": 5555,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "EE",
-      "city": "Jõhvi"
-    }
-  },
-  {
     "proxy": "http://193.42.112.26:8080",
     "protocol": "http",
     "ip": "193.42.112.26",
@@ -114,6 +101,19 @@
     "geolocation": {
       "country": "EE",
       "city": "Tallinn"
+    }
+  },
+  {
+    "proxy": "http://5.188.23.147:5555",
+    "protocol": "http",
+    "ip": "5.188.23.147",
+    "port": 5555,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "EE",
+      "city": "Jõhvi"
     }
   }
 ]

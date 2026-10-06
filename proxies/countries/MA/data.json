@@ -26,10 +26,10 @@
     }
   },
   {
-    "proxy": "http://105.157.56.240:4001",
+    "proxy": "http://196.75.202.220:1832",
     "protocol": "http",
-    "ip": "105.157.56.240",
-    "port": 4001,
+    "ip": "196.75.202.220",
+    "port": 1832,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
