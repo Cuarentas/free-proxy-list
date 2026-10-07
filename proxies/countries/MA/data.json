@@ -1,5 +1,18 @@
 [
   {
+    "proxy": "http://41.140.89.71:10804",
+    "protocol": "http",
+    "ip": "41.140.89.71",
+    "port": 10804,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "MA",
+      "city": "Tangier"
+    }
+  },
+  {
     "proxy": "socks5://105.159.153.123:4567",
     "protocol": "socks5",
     "ip": "105.159.153.123",

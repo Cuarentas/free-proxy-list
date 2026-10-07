@@ -1,14 +1,14 @@
 [
   {
-    "proxy": "http://213.163.198.77:8080",
+    "proxy": "http://41.190.92.50:60606",
     "protocol": "http",
-    "ip": "213.163.198.77",
-    "port": 8080,
+    "ip": "41.190.92.50",
+    "port": 60606,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
     "geolocation": {
-      "country": "GG",
+      "country": "MW",
       "city": "Unknown"
     }
   }

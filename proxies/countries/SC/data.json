@@ -1,15 +1,15 @@
 [
   {
-    "proxy": "http://41.86.55.240:88",
+    "proxy": "http://154.222.24.226:8888",
     "protocol": "http",
-    "ip": "41.86.55.240",
-    "port": 88,
+    "ip": "154.222.24.226",
+    "port": 8888,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
     "geolocation": {
       "country": "SC",
-      "city": "Victoria"
+      "city": "Unknown"
     }
   },
   {
@@ -88,6 +88,19 @@
     "geolocation": {
       "country": "SC",
       "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "http://41.86.55.240:88",
+    "protocol": "http",
+    "ip": "41.86.55.240",
+    "port": 88,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "SC",
+      "city": "Victoria"
     }
   },
   {

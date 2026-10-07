@@ -26,29 +26,16 @@
     }
   },
   {
-    "proxy": "http://150.140.148.235:80",
+    "proxy": "http://94.68.245.147:8080",
     "protocol": "http",
-    "ip": "150.140.148.235",
-    "port": 80,
+    "ip": "94.68.245.147",
+    "port": 8080,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
     "geolocation": {
       "country": "GR",
-      "city": "Pátrai"
-    }
-  },
-  {
-    "proxy": "http://62.103.186.66:4153",
-    "protocol": "http",
-    "ip": "62.103.186.66",
-    "port": 4153,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "GR",
-      "city": "Athens"
+      "city": "Alexándreia"
     }
   }
 ]

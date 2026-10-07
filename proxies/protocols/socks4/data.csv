@@ -1,11 +1,14 @@
 socks4://72.49.49.11:31034,US,Cincinnati
-socks4://24.249.199.12:4145,US,Crestview
+socks4://24.249.199.4:4145,US,Crestview
 socks4://174.77.111.196:4145,US,Unknown
-socks4://174.64.199.79:4145,US,Unknown
+socks4://174.77.111.197:4145,US,Unknown
 socks4://98.170.57.231:4145,US,Unknown
 socks4://184.181.217.210:4145,US,Unknown
+socks4://184.178.172.14:4145,US,Roanoke
+socks4://98.175.31.195:4145,US,Norfolk
 socks4://98.188.47.132:4145,US,Baton Rouge
 socks4://98.188.47.150:4145,US,Baton Rouge
+socks4://72.195.34.59:4145,US,Unknown
 socks4://184.181.217.206:4145,US,Unknown
 socks4://184.178.172.3:4145,US,Roanoke
 socks4://184.178.172.11:4145,US,Roanoke
@@ -16,51 +19,96 @@ socks4://184.181.217.194:4145,US,Unknown
 socks4://184.181.217.220:4145,US,Unknown
 socks4://98.170.57.249:4145,US,Unknown
 socks4://174.77.111.198:49547,US,Unknown
+socks4://72.195.34.60:27391,US,Unknown
 socks4://184.178.172.28:15294,US,Roanoke
-socks4://72.195.34.41:4145,US,Unknown
+socks4://184.178.172.23:4145,US,Roanoke
 socks4://184.178.172.26:4145,US,Roanoke
 socks4://184.185.2.12:4145,US,Omaha
+socks4://98.181.137.83:4145,US,Las Vegas
+socks4://68.1.210.163:4145,US,Santee
+socks4://184.178.172.13:15311,US,Roanoke
 socks4://68.1.210.189:4145,US,Santee
-socks4://174.75.211.222:4145,US,Unknown
+socks4://181.143.59.140:4153,CO,Medellín
+socks4://124.41.213.174:5678,NP,Kathmandu
 socks4://72.195.101.99:4145,US,Unknown
 socks4://98.170.57.241:4145,US,Unknown
+socks4://192.252.209.158:4145,US,Portland
 socks4://72.205.0.93:4145,US,Alexandria
+socks4://68.71.252.38:4145,CA,Toronto
+socks4://67.201.59.70:4145,US,Unknown
 socks4://216.68.128.121:4145,US,Cincinnati
 socks4://72.207.109.5:4145,US,Oceanside
+socks4://36.94.119.218:4145,ID,Bogor
+socks4://184.181.178.33:4145,US,Unknown
 socks4://98.190.239.3:4145,US,Wichita
+socks4://179.189.219.98:4145,PY,Asunción
 socks4://184.182.240.12:4145,US,Phoenix
+socks4://98.182.147.97:4145,US,Las Vegas
 socks4://72.206.74.126:4145,US,Fairfax
 socks4://98.178.72.30:4145,US,Unknown
 socks4://184.182.240.211:4145,US,Phoenix
 socks4://72.207.33.64:4145,US,San Diego
-socks4://72.207.113.97:4145,US,El Cajon
+socks4://98.191.0.47:4145,US,Gilbert
+socks4://113.53.91.26:4153,TH,Chon Buri
+socks4://125.25.82.207:5678,TH,Khlong Thom
+socks4://36.37.203.215:4153,KH,Unknown
+socks4://1.4.195.114:4145,TH,Sing Buri
+socks4://45.228.151.157:1088,BR,Cuiabá
 socks4://199.66.183.226:4145,US,Douglasville
+socks4://27.131.189.130:4153,TH,Nonthaburi
 socks4://171.242.14.54:1080,VN,Bac Giang
+socks4://192.252.215.2:4145,US,Portland
+socks4://72.205.0.67:4145,US,Alexandria
 socks4://199.66.183.251:4145,US,Douglasville
-socks4://136.228.163.150:5678,MM,Unknown
+socks4://41.216.232.213:4153,CM,Unknown
+socks4://94.253.95.241:3629,RU,Ivanteyevka
+socks4://177.131.118.123:5432,BR,Curitiba
 socks4://45.61.129.165:9050,US,Las Vegas
+socks4://200.105.192.6:5678,BO,La Paz
+socks4://210.16.86.105:5678,IN,Cuddalore
+socks4://159.192.97.129:5678,TH,Rayong
+socks4://197.157.192.168:1080,BI,Kayanza
+socks4://31.148.13.96:1080,RU,Moscow
+socks4://45.61.188.134:44499,US,Miami
+socks4://103.86.116.193:1080,ID,Sumenep
 socks4://189.202.204.53:1080,MX,Monterrey
-socks4://180.191.22.50:4153,PH,Cabanatuan City
-socks4://103.146.137.49:1081,PK,Karachi
-socks4://202.5.50.151:1080,BD,Unknown
+socks4://115.85.86.114:5678,ID,Depok
+socks4://154.79.251.168:1080,KE,Unknown
+socks4://203.189.159.241:1080,KH,Unknown
+socks4://103.254.57.227:48293,IN,Sīkar
+socks4://154.79.246.102:1080,KE,Unknown
 socks4://105.30.248.241:1080,ZA,Durban
-socks4://113.161.6.170:1080,VN,Tam Ky
-socks4://123.200.15.226:1080,BD,Dhaka
+socks4://102.36.231.77:1080,NG,Lagos
 socks4://216.105.143.146:4145,US,Simpsonville
 socks4://216.105.130.131:4145,US,Fountain Inn
 socks4://72.194.42.131:4145,US,Unknown
-socks4://111.119.162.248:10956,PK,Unknown
-socks4://36.64.40.173:5678,ID,Unknown
+socks4://181.143.81.50:5678,CO,Medellín
+socks4://180.148.210.77:1080,BD,Karīmganj
+socks4://72.194.42.156:4145,US,Unknown
+socks4://197.156.240.66:5678,NG,Lagos
+socks4://212.43.119.1:1080,IT,Polverigi
+socks4://103.172.71.204:1080,ID,Karawang
+socks4://177.136.124.45:56113,BR,Madre de Deus
+socks4://39.175.80.225:1080,CN,Unknown
+socks4://119.18.147.179:1080,BD,Unknown
+socks4://49.0.156.20:32000,MN,Unknown
+socks4://202.79.35.143:4153,NP,Kathmandu
+socks4://77.65.50.118:34159,PL,Gmina Śrem
 socks4://203.156.190.5:5678,TH,Bangkok
+socks4://163.53.150.141:1080,BD,Dhaka
+socks4://102.0.35.254:1080,KE,Unknown
+socks4://111.95.214.86:5678,ID,Jakarta
+socks4://203.77.239.219:50574,ID,Jakarta
 socks4://38.76.212.39:8181,US,Unknown
+socks4://159.224.243.185:61303,UA,Dnipro
 socks4://107.149.92.23:8443,US,Unknown
-socks4://46.243.183.132:1080,BY,Minsk
+socks4://103.9.134.114:1080,BD,Unknown
+socks4://89.186.8.107:1080,PL,Lublin
 socks4://181.205.207.66:1080,CO,Medellín
 socks4://45.118.77.67:1080,KH,Phnom Penh
-socks4://143.198.239.45:10000,US,Santa Clara
-socks4://181.78.43.55:1080,AR,Unknown
+socks4://38.79.114.43:8885,US,Unknown
 socks4://195.13.182.212:8888,LV,Riga
-socks4://150.107.107.152:1080,NP,Kaski
+socks4://195.13.182.212:8080,LV,Riga
 socks4://192.104.242.158:4145,US,Unknown
 socks4://198.177.254.131:4145,US,Unknown
 socks4://198.177.253.13:4145,US,Unknown
@@ -78,15 +126,11 @@ socks4://68.71.249.158:4145,CA,Toronto
 socks4://67.201.35.145:4145,US,West Covina
 socks4://98.191.0.37:4145,US,Gilbert
 socks4://199.102.104.70:4145,US,Unknown
-socks4://98.191.0.47:4145,US,Gilbert
 socks4://72.223.188.92:4145,US,Unknown
-socks4://184.181.178.33:4145,US,Unknown
 socks4://192.252.214.17:4145,US,Portland
 socks4://192.252.210.233:4145,US,Portland
-socks4://72.205.0.67:4145,US,Alexandria
 socks4://184.170.249.65:4145,US,Unknown
 socks4://192.252.214.20:15864,US,Portland
-socks4://192.252.215.2:4145,US,Portland
 socks4://98.182.171.161:4145,US,Unknown
 socks4://68.71.240.210:4145,CA,Toronto
 socks4://68.71.243.14:4145,CA,Toronto
@@ -103,6 +147,7 @@ socks4://34.124.190.108:8080,SG,Singapore
 socks4://208.102.51.6:58208,US,Alexandria
 socks4://142.54.226.214:4145,US,Unknown
 socks4://67.201.33.10:25283,US,West Covina
+socks4://174.75.211.222:4145,US,Unknown
 socks4://217.218.242.75:5678,IR,Unknown
 socks4://87.107.74.39:1028,IR,Unknown
 socks4://66.42.224.229:41679,US,Dearborn
@@ -111,8 +156,8 @@ socks4://198.177.252.24:4145,US,Unknown
 socks4://192.111.137.34:18765,CA,Brampton
 socks4://184.178.172.5:15303,US,Roanoke
 socks4://193.233.254.9:1080,RU,Unknown
-socks4://98.182.147.97:4145,US,Las Vegas
 socks4://198.8.94.174:39078,CA,Toronto
+socks4://24.249.199.12:4145,US,Crestview
 socks4://184.178.172.25:15291,US,Roanoke
 socks4://193.233.254.7:1080,RU,Unknown
 socks4://193.233.254.8:1080,RU,Unknown
@@ -130,22 +175,18 @@ socks4://98.178.72.21:10919,US,Unknown
 socks4://184.178.172.18:15280,US,Roanoke
 socks4://199.58.185.9:4145,US,Unknown
 socks4://104.37.135.145:4145,US,Unknown
-socks4://67.201.59.70:4145,US,Unknown
 socks4://72.214.108.67:4145,US,Unknown
-socks4://184.178.172.23:4145,US,Roanoke
 socks4://192.111.139.163:19404,CA,Brampton
 socks4://134.199.159.23:1080,US,Unknown
 socks4://49.13.48.65:9821,DE,Unknown
 socks4://199.58.184.97:4145,US,Unknown
 socks4://104.200.152.30:4145,US,Los Angeles
 socks4://169.239.236.201:10801,NG,Unknown
-socks4://192.252.209.158:4145,US,Portland
 socks4://107.152.98.5:4145,US,Unknown
 socks4://72.37.216.68:4145,US,Unknown
 socks4://192.111.135.18:18301,US,Atlanta
 socks4://68.71.241.33:4145,CA,Toronto
 socks4://162.253.68.97:4145,US,Unknown
-socks4://98.181.137.83:4145,US,Las Vegas
 socks4://192.111.138.29:4145,CA,Brampton
 socks4://125.228.94.199:4145,TW,Taipei
 socks4://5.157.64.213:1080,GB,Cheltenham
@@ -161,7 +202,6 @@ socks4://192.111.139.165:4145,CA,Brampton
 socks4://107.181.168.145:4145,US,Unknown
 socks4://142.54.228.193:4145,US,Unknown
 socks4://74.119.147.209:4145,US,Unknown
-socks4://184.178.172.14:4145,US,Roanoke
 socks4://192.252.209.155:14455,US,Portland
 socks4://192.111.130.2:4145,CA,Brampton
 socks4://199.116.112.6:4145,US,Newark
@@ -182,208 +222,164 @@ socks4://192.111.135.17:18302,US,Atlanta
 socks4://192.252.211.197:14921,US,Portland
 socks4://198.8.94.170:4145,CA,Toronto
 socks4://70.166.167.55:57745,US,Mesa
-socks4://174.77.111.197:4145,US,Unknown
-socks4://68.1.210.163:4145,US,Santee
-socks4://68.71.252.38:4145,CA,Toronto
 socks4://199.102.106.94:4145,US,Unknown
-socks4://184.178.172.13:15311,US,Roanoke
 socks4://184.170.248.5:4145,US,Unknown
 socks4://70.166.167.38:57728,US,Mesa
 socks4://192.252.220.89:4145,US,Unknown
 socks4://142.54.237.38:4145,US,Unknown
-socks4://98.175.31.195:4145,US,Norfolk
 socks4://31.128.41.253:28080,RU,Glazov
 socks4://68.71.254.6:4145,CA,Toronto
 socks4://68.71.249.153:48606,CA,Toronto
-socks4://212.126.5.245:42344,PL,Poznan
-socks4://179.189.243.245:5432,BR,Recife
-socks4://111.119.162.248:10931,PK,Unknown
-socks4://118.71.44.176:1118,VN,Hanoi
-socks4://128.199.37.92:1080,NL,Amsterdam
-socks4://118.71.44.176:1110,VN,Hanoi
-socks4://118.71.44.176:1098,VN,Hanoi
-socks4://72.195.34.59:4145,US,Unknown
-socks4://111.119.162.248:10900,PK,Unknown
-socks4://109.224.22.34:51372,IQ,Unknown
-socks4://58.187.44.103:1117,VN,Hanoi
-socks4://116.90.234.106:1080,NP,Unknown
-socks4://103.216.50.210:1080,KH,Phnom Penh
-socks4://34.64.154.62:40001,KR,Seoul
-socks4://119.63.95.3:4153,TH,Chanthaburi
-socks4://111.119.162.248:10924,PK,Unknown
-socks4://118.71.99.233:5678,VN,Phùng
-socks4://118.71.44.176:1115,VN,Hanoi
-socks4://103.115.255.225:36331,BD,Dhaka
-socks4://118.71.44.176:1120,VN,Hanoi
-socks4://57.128.249.250:9052,FR,Unknown
-socks4://118.71.44.176:1102,VN,Hanoi
-socks4://103.221.228.50:5678,VN,Unknown
-socks4://91.204.57.48:8989,RU,St Petersburg
-socks4://89.169.34.105:8443,RU,Unknown
-socks4://92.42.8.20:4145,RU,Pyatigorsk
-socks4://72.56.106.48:1080,US,Unknown
-socks4://81.90.25.129:1080,IQ,Unknown
-socks4://47.90.229.219:443,US,Unknown
-socks4://111.119.162.248:10905,PK,Unknown
-socks4://79.76.59.115:1080,GB,Halifax
-socks4://122.252.183.22:4153,KH,Phnom Penh
-socks4://118.71.44.176:1099,VN,Hanoi
-socks4://111.119.162.248:10978,PK,Unknown
-socks4://118.71.44.176:1095,VN,Hanoi
-socks4://111.119.162.248:10936,PK,Unknown
-socks4://146.19.143.200:1080,BR,Brasília
-socks4://181.115.207.115:1080,BO,Santa Cruz
-socks4://181.204.39.202:53740,CO,Cúcuta
-socks4://58.187.44.103:1087,VN,Hanoi
-socks4://77.85.171.92:4153,BG,Asenovgrad
-socks4://111.119.162.248:10906,PK,Unknown
-socks4://103.188.169.170:1080,ID,Unknown
-socks4://185.182.110.74:1080,RU,Unknown
-socks4://118.71.44.176:1116,VN,Hanoi
-socks4://117.0.78.133:1039,VN,Bac Giang
-socks4://162.255.110.52:5678,US,Pasco
-socks4://45.76.104.147:40001,JP,Unknown
-socks4://36.95.235.18:3629,ID,Unknown
-socks4://200.70.56.84:1080,AR,Beccar
-socks4://8.219.69.210:443,SG,Unknown
-socks4://110.38.234.74:1080,PK,Unknown
-socks4://111.119.162.248:10935,PK,Unknown
-socks4://111.119.162.248:10929,PK,Unknown
-socks4://118.71.44.176:1084,VN,Hanoi
-socks4://103.137.148.253:1080,IN,Chennai
-socks4://212.34.230.102:4153,AM,Yerevan
-socks4://118.70.131.249:1080,VN,Hanoi
-socks4://181.78.67.99:1080,CO,Bogotá
-socks4://123.5.33.19:666,CN,Zhengzhou
-socks4://111.119.162.248:10925,PK,Unknown
-socks4://103.161.62.13:1080,ID,Unknown
-socks4://185.56.219.76:40001,IT,Unknown
-socks4://103.101.218.113:8080,ID,Kepanjen
-socks4://8.222.182.89:10800,SG,Unknown
-socks4://42.112.52.60:20001,VN,Ho Chi Minh City
-socks4://5.42.123.150:1080,RU,Kolomna
-socks4://183.106.215.208:1080,KR,Pohang
-socks4://105.214.19.138:5678,ZA,Johannesburg
-socks4://181.189.132.74:5678,GT,Guatemala City
-socks4://111.119.162.248:10958,PK,Unknown
-socks4://111.119.162.248:10927,PK,Unknown
-socks4://111.119.162.248:10933,PK,Unknown
-socks4://118.71.44.176:1094,VN,Hanoi
-socks4://45.81.154.75:1080,ES,Unknown
-socks4://111.119.162.248:10986,PK,Unknown
-socks4://172.247.27.29:11080,US,Unknown
-socks4://8.220.204.92:8091,KR,Seoul
-socks4://38.191.204.195:33317,US,Unknown
-socks4://65.20.79.228:40002,IN,Mumbai
-socks4://163.61.245.73:1081,ZZ,Unknown
-socks4://103.203.232.165:1080,ID,Unknown
-socks4://192.227.176.161:10810,US,New York
-socks4://58.187.44.103:1084,VN,Hanoi
-socks4://103.83.28.216:5678,IN,Unknown
-socks4://42.112.52.40:20001,VN,Ho Chi Minh City
-socks4://130.193.123.34:5678,AM,Yerevan
-socks4://185.190.154.121:4145,RS,Unknown
+socks4://72.207.113.97:4145,US,El Cajon
+socks4://36.95.189.165:5678,ID,Sukabumi
+socks4://81.12.89.74:4153,IR,Unknown
 socks4://103.158.13.191:100,ID,Unknown
-socks4://58.187.44.103:1111,VN,Hanoi
-socks4://111.119.162.248:10908,PK,Unknown
-socks4://174.64.199.82:4145,US,Unknown
-socks4://102.0.35.254:1080,KE,Unknown
-socks4://123.200.28.149:1080,BD,Dhaka
-socks4://111.119.162.248:10932,PK,Unknown
-socks4://105.214.40.169:5678,ZA,Johannesburg
-socks4://47.254.36.25:11080,US,Unknown
-socks4://125.209.110.83:1981,PK,Lahore
-socks4://118.71.44.176:1108,VN,Hanoi
-socks4://118.71.44.176:1111,VN,Hanoi
-socks4://160.30.113.24:1080,ZZ,Unknown
-socks4://47.251.87.199:111,US,Unknown
-socks4://156.225.31.18:7890,HK,Unknown
-socks4://8.220.204.92:55443,KR,Seoul
-socks4://65.109.215.187:8090,FI,Helsinki
-socks4://111.119.162.248:10948,PK,Unknown
-socks4://58.187.44.103:1086,VN,Hanoi
-socks4://101.32.60.93:1080,HK,Hong Kong
-socks4://163.176.179.226:1080,US,Unknown
-socks4://42.112.52.250:20001,VN,Ho Chi Minh City
-socks4://105.214.105.25:5678,ZA,Johannesburg
-socks4://42.112.52.54:20001,VN,Ho Chi Minh City
-socks4://58.18.39.58:10800,CN,Unknown
-socks4://179.189.248.129:5432,BR,Agua Preta
-socks4://72.195.114.184:4145,US,Unknown
-socks4://72.194.42.156:4145,US,Unknown
-socks4://47.251.87.199:8088,US,Unknown
-socks4://47.251.87.199:3129,US,Unknown
-socks4://8.220.204.92:8443,KR,Seoul
-socks4://45.158.185.53:1080,US,Baltimore
-socks4://118.71.44.176:1097,VN,Hanoi
-socks4://115.135.214.113:1083,MY,Kuala Lumpur
-socks4://8.220.204.92:8090,KR,Seoul
-socks4://125.26.4.197:4145,TH,Bangkok
-socks4://103.88.234.239:40016,MX,Mexico City
-socks4://47.85.9.228:10800,US,Unknown
-socks4://94.156.114.45:1080,BG,Nesebar
-socks4://78.111.112.118:4145,CZ,Kladno
-socks4://43.160.245.155:8080,SG,Singapore
-socks4://2.26.117.22:1084,GB,Birmingham
-socks4://42.112.52.62:20001,VN,Ho Chi Minh City
-socks4://111.119.162.248:10939,PK,Unknown
-socks4://36.64.27.123:5678,ID,Kebonbawang
-socks4://143.110.161.67:10000,GB,Slough
-socks4://111.119.162.248:10945,PK,Unknown
-socks4://118.71.44.176:1113,VN,Hanoi
-socks4://96.60.107.30:9050,US,Madison
-socks4://195.209.208.53:1080,RU,Unknown
-socks4://118.71.44.176:1107,VN,Hanoi
 socks4://118.71.44.176:1086,VN,Hanoi
-socks4://107.167.18.122:443,US,Los Angeles
-socks4://190.89.104.88:5432,BR,Curitiba
-socks4://46.4.85.245:444,DE,Unknown
-socks4://171.221.240.100:10800,CN,Chengdu
-socks4://47.251.87.199:2012,US,Unknown
-socks4://118.71.44.176:1104,VN,Hanoi
-socks4://110.78.148.92:4145,TH,Khon Kaen
-socks4://78.17.19.244:10808,IE,Bray
-socks4://108.61.185.188:1080,AU,Sydney
-socks4://42.112.52.16:20001,VN,Ho Chi Minh City
-socks4://8.211.194.78:111,GB,London
-socks4://24.249.199.4:4145,US,Crestview
-socks4://102.129.229.131:1081,TH,Bangkok
-socks4://111.119.162.248:10954,PK,Unknown
-socks4://157.90.113.23:9052,DE,Unknown
-socks4://34.130.142.151:40001,CA,Toronto
-socks4://143.105.108.210:1080,US,Unknown
-socks4://190.13.147.241:5678,CL,San Pedro de la Paz
-socks4://101.5.21.225:7894,CN,Unknown
-socks4://8.221.141.88:5006,JP,Tokyo
-socks4://118.71.44.176:1091,VN,Hanoi
-socks4://212.50.19.150:4153,BG,Sofia
-socks4://5.175.136.21:1080,GB,Poplar
-socks4://118.71.44.176:1092,VN,Hanoi
-socks4://31.170.17.141:4153,LV,Kuldīga
-socks4://180.165.57.33:4153,CN,Shanghai
-socks4://109.61.117.11:1080,HU,Pécs
-socks4://82.22.174.113:1080,GB,Burnley
-socks4://42.112.52.3:20001,VN,Ho Chi Minh City
-socks4://111.119.162.248:10915,PK,Unknown
-socks4://8.221.141.88:8890,JP,Tokyo
-socks4://181.143.45.218:1080,CO,Medellín
-socks4://45.198.11.193:80,ID,Jakarta
+socks4://8.215.25.3:2080,ID,Jakarta
+socks4://179.189.242.5:5432,BR,Recife
+socks4://101.96.105.89:1080,VN,Hanoi
+socks4://171.250.220.4:1080,VN,My Tho
+socks4://118.71.44.176:1099,VN,Hanoi
+socks4://43.128.63.68:7890,HK,Hong Kong
 socks4://176.236.37.132:1080,TR,Kilis
-socks4://118.71.44.176:1119,VN,Hanoi
-socks4://105.214.102.216:5678,ZA,Pretoria
-socks4://180.158.166.144:4145,CN,Unknown
-socks4://176.97.210.116:9091,DE,Frankfurt am Main
-socks4://186.246.14.108:9151,BR,São Paulo
-socks4://43.248.173.40:888,SG,Unknown
-socks4://103.88.234.239:40014,MX,Mexico City
-socks4://202.142.176.130:1080,PK,Unknown
+socks4://180.165.57.33:4153,CN,Shanghai
+socks4://144.217.107.25:1080,CA,Beauharnois
+socks4://134.65.245.71:9050,BR,Vinhedo
+socks4://89.124.81.186:1082,IE,Unknown
+socks4://174.64.199.82:4145,US,Unknown
+socks4://202.169.250.148:1080,ID,Lumajang
+socks4://103.169.188.14:8080,ID,Madiun
+socks4://103.188.169.170:1080,ID,Unknown
+socks4://65.20.79.228:40002,IN,Mumbai
+socks4://38.54.63.7:1080,ZA,Johannesburg
+socks4://65.109.215.187:8090,FI,Helsinki
+socks4://118.71.44.176:1091,VN,Hanoi
+socks4://89.132.170.211:4145,HU,Budapest
+socks4://159.195.62.125:9050,DK,Unknown
+socks4://103.167.156.92:1080,ID,Pemalang
+socks4://128.199.37.92:1080,NL,Amsterdam
+socks4://119.63.95.3:4153,TH,Chanthaburi
+socks4://8.222.182.89:10800,SG,Unknown
+socks4://165.154.20.187:10808,HK,Hong Kong
+socks4://103.25.167.177:4153,ID,Ciamis
+socks4://83.56.15.57:5678,ES,Madrid
+socks4://143.105.108.210:1080,US,Unknown
+socks4://118.71.44.176:1084,VN,Hanoi
+socks4://185.190.154.121:4145,RS,Unknown
+socks4://101.32.60.93:1080,HK,Hong Kong
+socks4://47.254.36.25:11080,US,Unknown
 socks4://103.231.105.158:4145,PS,Unknown
-socks4://85.209.156.148:1080,US,Los Angeles
-socks4://103.197.242.106:1080,MN,Unknown
-socks4://118.71.44.176:1096,VN,Hanoi
-socks4://146.56.191.98:14785,KR,Seoul
-socks4://38.191.204.45:33317,US,Unknown
-socks4://8.212.165.164:8081,PH,Manila
-socks4://154.113.202.81:5678,NG,Lagos
+socks4://198.252.108.20:9050,US,Unknown
+socks4://43.160.245.155:8080,SG,Singapore
+socks4://103.72.101.51:1020,IN,Hyderabad
+socks4://79.76.59.115:1080,GB,Halifax
+socks4://62.60.230.196:1080,HK,Unknown
+socks4://103.88.234.239:40014,MX,Mexico City
+socks4://103.115.255.225:36331,BD,Dhaka
+socks4://118.71.44.176:1105,VN,Hanoi
+socks4://212.46.242.185:1080,RU,Unknown
+socks4://118.71.44.176:1113,VN,Hanoi
+socks4://122.252.183.22:4153,KH,Phnom Penh
+socks4://157.90.113.23:9052,DE,Unknown
+socks4://212.34.230.102:4153,AM,Yerevan
+socks4://46.98.192.116:5678,UA,Poltava
+socks4://118.71.44.176:1083,VN,Hanoi
+socks4://159.255.164.163:1080,IQ,Erbil
+socks4://58.65.142.254:8125,PK,Rawalpindi
+socks4://185.56.219.76:40001,IT,Unknown
+socks4://186.1.182.194:4153,CO,Santa Marta
+socks4://103.161.62.153:1080,ID,Unknown
+socks4://103.88.234.239:40017,MX,Mexico City
+socks4://47.243.222.214:1080,HK,Hong Kong
+socks4://190.109.72.17:33633,BR,Sao Geraldo do Araguaia
+socks4://118.71.44.176:1116,VN,Hanoi
+socks4://190.89.104.48:5432,BR,Curitiba
+socks4://103.88.234.239:40005,MX,Mexico City
+socks4://72.195.114.184:4145,US,Unknown
+socks4://47.236.188.63:10808,SG,Unknown
+socks4://32.185.182.156:9999,US,Unknown
+socks4://167.71.204.247:9050,SG,Singapore
+socks4://85.117.32.166:4153,GE,Unknown
+socks4://58.18.39.58:10800,CN,Unknown
+socks4://118.71.44.176:1092,VN,Hanoi
+socks4://160.20.165.242:8080,EC,Hacienda Naranjal
+socks4://217.142.236.180:1080,JP,Osaka
+socks4://190.182.137.250:1085,AR,Santa Rosa
+socks4://66.94.112.133:1088,US,Seattle
+socks4://153.80.242.105:8080,US,Unknown
+socks4://183.106.215.208:1080,KR,Pohang
+socks4://94.103.2.238:1080,MD,Tighina
+socks4://177.201.224.186:8888,BR,Campo Largo
+socks4://42.112.52.66:20001,VN,Ho Chi Minh City
+socks4://43.248.173.40:888,SG,Unknown
+socks4://42.112.52.16:20001,VN,Ho Chi Minh City
+socks4://105.214.54.240:5678,ZA,Johannesburg
+socks4://47.239.140.6:443,HK,Hong Kong
+socks4://118.71.44.176:1094,VN,Hanoi
+socks4://103.88.234.239:40016,MX,Mexico City
+socks4://178.128.26.157:10000,SG,Singapore
+socks4://213.21.229.84:9081,LV,Riga
+socks4://123.200.28.222:1080,BD,Dhaka
+socks4://103.101.218.113:8080,ID,Kepanjen
+socks4://47.88.94.79:1080,US,Unknown
+socks4://119.93.82.236:1080,PH,Mandaluyong City
+socks4://103.23.100.9:1080,ID,Semarang
+socks4://181.143.45.218:1080,CO,Medellín
+socks4://202.179.76.105:51951,IN,Mumbai
+socks4://113.166.93.239:5678,VN,Unknown
+socks4://109.106.196.250:4145,RU,Unknown
+socks4://130.162.141.185:52916,KR,Seoul
+socks4://190.12.95.170:37209,PE,Lima
+socks4://3.111.234.247:1080,IN,Mumbai
+socks4://195.13.182.211:8080,LV,Riga
+socks4://107.167.18.122:443,US,Los Angeles
+socks4://42.112.52.62:20001,VN,Ho Chi Minh City
+socks4://116.233.142.167:1080,CN,Shanghai
+socks4://118.71.44.176:1106,VN,Hanoi
+socks4://8.219.94.23:7890,SG,Unknown
+socks4://118.71.44.176:1095,VN,Hanoi
+socks4://114.108.177.104:60984,KR,Unknown
 socks4://45.249.79.190:3629,IN,Guntur
-socks4://109.199.96.116:9050,US,Unknown
+socks4://42.112.52.24:20001,VN,Ho Chi Minh City
+socks4://217.169.223.18:1080,RS,Belgrade
+socks4://161.97.153.238:9050,DE,Düsseldorf
+socks4://192.252.208.70:14282,US,Portland
+socks4://118.71.99.233:5678,VN,Phùng
+socks4://58.187.44.103:1083,VN,Hanoi
+socks4://42.112.52.3:20001,VN,Ho Chi Minh City
+socks4://58.187.44.103:1084,VN,Hanoi
+socks4://180.158.166.144:4145,CN,Unknown
+socks4://45.71.115.17:1080,EC,Guayaquil
+socks4://34.64.154.62:40001,KR,Seoul
+socks4://174.64.199.79:4145,US,Unknown
+socks4://58.187.44.103:1086,VN,Hanoi
+socks4://93.184.7.217:1080,PS,Unknown
+socks4://43.165.133.188:9050,SG,Unknown
+socks4://200.8.235.10:4145,VE,Caracas
+socks4://202.57.46.138:4145,PH,Quezon City
+socks4://116.212.156.72:1080,KH,Phnom Penh
+socks4://157.245.129.129:10000,US,North Bergen
+socks4://110.38.234.74:1080,PK,Unknown
+socks4://42.112.52.54:20001,VN,Ho Chi Minh City
+socks4://212.39.114.139:5678,BA,Livno
+socks4://181.115.207.114:1080,BO,Santa Cruz
+socks4://181.78.43.55:1080,AR,Unknown
+socks4://8.211.42.167:51,DE,Frankfurt am Main
+socks4://181.209.98.106:1080,AR,Zárate
+socks4://43.108.46.4:9050,SG,Unknown
+socks4://118.71.44.176:1088,VN,Hanoi
+socks4://130.193.123.34:5678,AM,Yerevan
+socks4://8.211.42.167:111,DE,Frankfurt am Main
+socks4://103.137.148.253:1080,IN,Chennai
+socks4://42.112.52.239:20001,VN,Ho Chi Minh City
+socks4://80.191.40.130:5678,IR,Tehran
+socks4://8.211.42.167:8118,DE,Frankfurt am Main
+socks4://181.204.39.202:53740,CO,Cúcuta
+socks4://177.91.255.35:5678,PE,Lima
+socks4://179.189.249.137:5432,BR,Agua Preta
+socks4://163.61.245.73:1081,ZZ,Unknown
+socks4://101.96.105.88:1080,VN,Hanoi
+socks4://102.129.229.131:1081,TH,Bangkok
+socks4://23.247.128.4:9005,US,Atlanta
+socks4://45.32.195.109:9050,US,Dallas
+socks4://42.112.52.250:20001,VN,Ho Chi Minh City

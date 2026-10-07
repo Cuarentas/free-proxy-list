@@ -1,5 +1,18 @@
 [
   {
+    "proxy": "http://41.242.117.3:50000",
+    "protocol": "http",
+    "ip": "41.242.117.3",
+    "port": 50000,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "YT",
+      "city": "Dembeni"
+    }
+  },
+  {
     "proxy": "http://41.242.119.123:50002",
     "protocol": "http",
     "ip": "41.242.119.123",
@@ -13,9 +26,9 @@
     }
   },
   {
-    "proxy": "http://41.242.119.123:50003",
+    "proxy": "http://41.242.117.3:50003",
     "protocol": "http",
-    "ip": "41.242.119.123",
+    "ip": "41.242.117.3",
     "port": 50003,
     "https": false,
     "anonymity": "transparent",
@@ -39,9 +52,9 @@
     }
   },
   {
-    "proxy": "http://41.242.117.3:50003",
+    "proxy": "http://41.242.119.123:50003",
     "protocol": "http",
-    "ip": "41.242.117.3",
+    "ip": "41.242.119.123",
     "port": 50003,
     "https": false,
     "anonymity": "transparent",

@@ -26,32 +26,6 @@
     }
   },
   {
-    "proxy": "http://213.169.33.10:8001",
-    "protocol": "http",
-    "ip": "213.169.33.10",
-    "port": 8001,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "BG",
-      "city": "Unknown"
-    }
-  },
-  {
-    "proxy": "socks4://77.85.171.92:4153",
-    "protocol": "socks4",
-    "ip": "77.85.171.92",
-    "port": 4153,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "BG",
-      "city": "Asenovgrad"
-    }
-  },
-  {
     "proxy": "http://109.199.119.160:80",
     "protocol": "http",
     "ip": "109.199.119.160",
@@ -65,29 +39,16 @@
     }
   },
   {
-    "proxy": "socks4://94.156.114.45:1080",
-    "protocol": "socks4",
-    "ip": "94.156.114.45",
-    "port": 1080,
+    "proxy": "http://78.142.61.78:3128",
+    "protocol": "http",
+    "ip": "78.142.61.78",
+    "port": 3128,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
     "geolocation": {
       "country": "BG",
-      "city": "Nesebar"
-    }
-  },
-  {
-    "proxy": "socks4://212.50.19.150:4153",
-    "protocol": "socks4",
-    "ip": "212.50.19.150",
-    "port": 4153,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "BG",
-      "city": "Sofia"
+      "city": "Dobrich"
     }
   },
   {
@@ -247,10 +208,140 @@
     }
   },
   {
-    "proxy": "http://85.196.179.34:8080",
+    "proxy": "http://78.142.61.74:3128",
     "protocol": "http",
-    "ip": "85.196.179.34",
+    "ip": "78.142.61.74",
+    "port": 3128,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "BG",
+      "city": "Dobrich"
+    }
+  },
+  {
+    "proxy": "http://78.142.61.77:3128",
+    "protocol": "http",
+    "ip": "78.142.61.77",
+    "port": 3128,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "BG",
+      "city": "Dobrich"
+    }
+  },
+  {
+    "proxy": "http://88.87.6.135:3030",
+    "protocol": "http",
+    "ip": "88.87.6.135",
+    "port": 3030,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "BG",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "http://78.142.61.76:3128",
+    "protocol": "http",
+    "ip": "78.142.61.76",
+    "port": 3128,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "BG",
+      "city": "Dobrich"
+    }
+  },
+  {
+    "proxy": "http://78.142.61.75:3128",
+    "protocol": "http",
+    "ip": "78.142.61.75",
+    "port": 3128,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "BG",
+      "city": "Dobrich"
+    }
+  },
+  {
+    "proxy": "http://46.10.209.230:8080",
+    "protocol": "http",
+    "ip": "46.10.209.230",
     "port": 8080,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "BG",
+      "city": "Sofia"
+    }
+  },
+  {
+    "proxy": "http://85.239.156.66:5555",
+    "protocol": "http",
+    "ip": "85.239.156.66",
+    "port": 5555,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "BG",
+      "city": "Rousse"
+    }
+  },
+  {
+    "proxy": "http://46.10.198.10:4153",
+    "protocol": "http",
+    "ip": "46.10.198.10",
+    "port": 4153,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "BG",
+      "city": "Sofia"
+    }
+  },
+  {
+    "proxy": "http://194.182.178.90:1080",
+    "protocol": "http",
+    "ip": "194.182.178.90",
+    "port": 1080,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "BG",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "http://194.182.178.90:3128",
+    "protocol": "http",
+    "ip": "194.182.178.90",
+    "port": 3128,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "BG",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "http://77.238.79.111:5678",
+    "protocol": "http",
+    "ip": "77.238.79.111",
+    "port": 5678,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
@@ -273,10 +364,10 @@
     }
   },
   {
-    "proxy": "http://88.87.6.135:3030",
+    "proxy": "http://92.247.31.130:1080",
     "protocol": "http",
-    "ip": "88.87.6.135",
-    "port": 3030,
+    "ip": "92.247.31.130",
+    "port": 1080,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
@@ -286,81 +377,16 @@
     }
   },
   {
-    "proxy": "http://213.169.33.12:8001",
+    "proxy": "http://213.149.154.213:5678",
     "protocol": "http",
-    "ip": "213.169.33.12",
-    "port": 8001,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "BG",
-      "city": "Unknown"
-    }
-  },
-  {
-    "proxy": "http://212.5.132.74:5678",
-    "protocol": "http",
-    "ip": "212.5.132.74",
+    "ip": "213.149.154.213",
     "port": 5678,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
     "geolocation": {
       "country": "BG",
-      "city": "Sofia"
-    }
-  },
-  {
-    "proxy": "http://46.10.209.230:8080",
-    "protocol": "http",
-    "ip": "46.10.209.230",
-    "port": 8080,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "BG",
-      "city": "Sofia"
-    }
-  },
-  {
-    "proxy": "http://31.211.142.115:8192",
-    "protocol": "http",
-    "ip": "31.211.142.115",
-    "port": 8192,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "BG",
-      "city": "Pleven"
-    }
-  },
-  {
-    "proxy": "http://194.182.178.90:3128",
-    "protocol": "http",
-    "ip": "194.182.178.90",
-    "port": 3128,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "BG",
-      "city": "Unknown"
-    }
-  },
-  {
-    "proxy": "http://31.13.239.4:5678",
-    "protocol": "http",
-    "ip": "31.13.239.4",
-    "port": 5678,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "BG",
-      "city": "Plovdiv"
+      "city": "Razlog"
     }
   },
   {
@@ -377,16 +403,29 @@
     }
   },
   {
-    "proxy": "http://109.160.97.49:4145",
+    "proxy": "http://88.213.214.254:4145",
     "protocol": "http",
-    "ip": "109.160.97.49",
+    "ip": "88.213.214.254",
     "port": 4145,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
     "geolocation": {
       "country": "BG",
-      "city": "Starmen"
+      "city": "Sratsimir"
+    }
+  },
+  {
+    "proxy": "http://77.85.171.92:4153",
+    "protocol": "http",
+    "ip": "77.85.171.92",
+    "port": 4153,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "BG",
+      "city": "Asenovgrad"
     }
   },
   {
@@ -403,19 +442,6 @@
     }
   },
   {
-    "proxy": "http://213.149.156.87:5678",
-    "protocol": "http",
-    "ip": "213.149.156.87",
-    "port": 5678,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "BG",
-      "city": "Razlog"
-    }
-  },
-  {
     "proxy": "http://77.238.79.111:8080",
     "protocol": "http",
     "ip": "77.238.79.111",
@@ -426,32 +452,6 @@
     "geolocation": {
       "country": "BG",
       "city": "Sofia"
-    }
-  },
-  {
-    "proxy": "http://151.237.84.9:8080",
-    "protocol": "http",
-    "ip": "151.237.84.9",
-    "port": 8080,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "BG",
-      "city": "Kardzhali"
-    }
-  },
-  {
-    "proxy": "http://213.169.33.7:8001",
-    "protocol": "http",
-    "ip": "213.169.33.7",
-    "port": 8001,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "BG",
-      "city": "Unknown"
     }
   }
 ]
