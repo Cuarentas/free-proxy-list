@@ -13,6 +13,19 @@
     }
   },
   {
+    "proxy": "http://82.180.145.170:3129",
+    "protocol": "http",
+    "ip": "82.180.145.170",
+    "port": 3129,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "NO",
+      "city": "Oslo"
+    }
+  },
+  {
     "proxy": "http://84.214.150.146:8080",
     "protocol": "http",
     "ip": "84.214.150.146",
@@ -26,49 +39,10 @@
     }
   },
   {
-    "proxy": "http://45.135.139.70:6373",
+    "proxy": "http://45.135.139.22:6325",
     "protocol": "http",
-    "ip": "45.135.139.70",
-    "port": 6373,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "NO",
-      "city": "Oslo"
-    }
-  },
-  {
-    "proxy": "http://45.135.139.211:6514",
-    "protocol": "http",
-    "ip": "45.135.139.211",
-    "port": 6514,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "NO",
-      "city": "Oslo"
-    }
-  },
-  {
-    "proxy": "http://45.135.139.119:6422",
-    "protocol": "http",
-    "ip": "45.135.139.119",
-    "port": 6422,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "NO",
-      "city": "Oslo"
-    }
-  },
-  {
-    "proxy": "http://45.135.139.42:6345",
-    "protocol": "http",
-    "ip": "45.135.139.42",
-    "port": 6345,
+    "ip": "45.135.139.22",
+    "port": 6325,
     "https": false,
     "anonymity": "transparent",
     "score": 1,

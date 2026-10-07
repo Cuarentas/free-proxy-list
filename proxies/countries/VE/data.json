@@ -1,8 +1,8 @@
 [
   {
-    "proxy": "http://190.97.229.118:999",
+    "proxy": "http://38.9.184.177:999",
     "protocol": "http",
-    "ip": "190.97.229.118",
+    "ip": "38.9.184.177",
     "port": 999,
     "https": false,
     "anonymity": "transparent",
@@ -13,9 +13,9 @@
     }
   },
   {
-    "proxy": "http://161.22.33.169:999",
+    "proxy": "http://161.22.33.129:999",
     "protocol": "http",
-    "ip": "161.22.33.169",
+    "ip": "161.22.33.129",
     "port": 999,
     "https": false,
     "anonymity": "transparent",
@@ -26,113 +26,35 @@
     }
   },
   {
-    "proxy": "http://143.255.87.206:999",
+    "proxy": "socks4://200.8.235.10:4145",
+    "protocol": "socks4",
+    "ip": "200.8.235.10",
+    "port": 4145,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "VE",
+      "city": "Caracas"
+    }
+  },
+  {
+    "proxy": "http://190.94.232.180:999",
     "protocol": "http",
-    "ip": "143.255.87.206",
+    "ip": "190.94.232.180",
     "port": 999,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
     "geolocation": {
       "country": "VE",
-      "city": "Vigia"
+      "city": "Caracas"
     }
   },
   {
-    "proxy": "http://190.97.241.106:999",
+    "proxy": "http://161.22.33.150:999",
     "protocol": "http",
-    "ip": "190.97.241.106",
-    "port": 999,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "VE",
-      "city": "Vigia"
-    }
-  },
-  {
-    "proxy": "http://38.51.207.119:999",
-    "protocol": "http",
-    "ip": "38.51.207.119",
-    "port": 999,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "VE",
-      "city": "Maracaibo"
-    }
-  },
-  {
-    "proxy": "http://190.97.253.233:999",
-    "protocol": "http",
-    "ip": "190.97.253.233",
-    "port": 999,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "VE",
-      "city": "Vigia"
-    }
-  },
-  {
-    "proxy": "http://181.233.89.128:999",
-    "protocol": "http",
-    "ip": "181.233.89.128",
-    "port": 999,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "VE",
-      "city": "Cabimas"
-    }
-  },
-  {
-    "proxy": "http://38.41.0.60:11201",
-    "protocol": "http",
-    "ip": "38.41.0.60",
-    "port": 11201,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "VE",
-      "city": "Unknown"
-    }
-  },
-  {
-    "proxy": "http://190.153.122.105:999",
-    "protocol": "http",
-    "ip": "190.153.122.105",
-    "port": 999,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "VE",
-      "city": "Cabudare"
-    }
-  },
-  {
-    "proxy": "http://190.97.228.68:999",
-    "protocol": "http",
-    "ip": "190.97.228.68",
-    "port": 999,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "VE",
-      "city": "Vigia"
-    }
-  },
-  {
-    "proxy": "http://38.41.0.87:999",
-    "protocol": "http",
-    "ip": "38.41.0.87",
+    "ip": "161.22.33.150",
     "port": 999,
     "https": false,
     "anonymity": "transparent",
@@ -143,35 +65,9 @@
     }
   },
   {
-    "proxy": "http://38.51.207.116:999",
+    "proxy": "http://190.114.245.194:999",
     "protocol": "http",
-    "ip": "38.51.207.116",
-    "port": 999,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "VE",
-      "city": "Maracaibo"
-    }
-  },
-  {
-    "proxy": "http://38.41.0.62:11201",
-    "protocol": "http",
-    "ip": "38.41.0.62",
-    "port": 11201,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "VE",
-      "city": "Unknown"
-    }
-  },
-  {
-    "proxy": "http://186.167.83.181:999",
-    "protocol": "http",
-    "ip": "186.167.83.181",
+    "ip": "190.114.245.194",
     "port": 999,
     "https": false,
     "anonymity": "transparent",
@@ -195,35 +91,9 @@
     }
   },
   {
-    "proxy": "http://190.89.29.28:999",
+    "proxy": "http://190.153.22.2:999",
     "protocol": "http",
-    "ip": "190.89.29.28",
-    "port": 999,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "VE",
-      "city": "Caracas"
-    }
-  },
-  {
-    "proxy": "http://190.94.212.247:999",
-    "protocol": "http",
-    "ip": "190.94.212.247",
-    "port": 999,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "VE",
-      "city": "Caracas"
-    }
-  },
-  {
-    "proxy": "http://161.22.33.93:999",
-    "protocol": "http",
-    "ip": "161.22.33.93",
+    "ip": "190.153.22.2",
     "port": 999,
     "https": false,
     "anonymity": "transparent",
@@ -234,9 +104,9 @@
     }
   },
   {
-    "proxy": "http://161.22.33.89:999",
+    "proxy": "http://181.233.161.50:999",
     "protocol": "http",
-    "ip": "161.22.33.89",
+    "ip": "181.233.161.50",
     "port": 999,
     "https": false,
     "anonymity": "transparent",
@@ -247,22 +117,9 @@
     }
   },
   {
-    "proxy": "http://191.101.25.147:6544",
+    "proxy": "http://161.22.33.185:999",
     "protocol": "http",
-    "ip": "191.101.25.147",
-    "port": 6544,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "VE",
-      "city": "Maracay"
-    }
-  },
-  {
-    "proxy": "http://181.225.63.0:999",
-    "protocol": "http",
-    "ip": "181.225.63.0",
+    "ip": "161.22.33.185",
     "port": 999,
     "https": false,
     "anonymity": "transparent",
@@ -273,113 +130,22 @@
     }
   },
   {
-    "proxy": "http://191.101.25.187:6584",
+    "proxy": "http://181.233.89.128:999",
     "protocol": "http",
-    "ip": "191.101.25.187",
-    "port": 6584,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "VE",
-      "city": "Maracay"
-    }
-  },
-  {
-    "proxy": "http://206.62.164.32:999",
-    "protocol": "http",
-    "ip": "206.62.164.32",
+    "ip": "181.233.89.128",
     "port": 999,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
     "geolocation": {
       "country": "VE",
-      "city": "Maracaibo"
+      "city": "Cabimas"
     }
   },
   {
-    "proxy": "http://38.41.4.60:999",
+    "proxy": "http://190.97.241.106:999",
     "protocol": "http",
-    "ip": "38.41.4.60",
-    "port": 999,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "VE",
-      "city": "Unknown"
-    }
-  },
-  {
-    "proxy": "http://200.59.191.27:999",
-    "protocol": "http",
-    "ip": "200.59.191.27",
-    "port": 999,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "VE",
-      "city": "Betijoque"
-    }
-  },
-  {
-    "proxy": "http://45.230.170.13:999",
-    "protocol": "http",
-    "ip": "45.230.170.13",
-    "port": 999,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "VE",
-      "city": "Caracas"
-    }
-  },
-  {
-    "proxy": "http://186.167.113.103:999",
-    "protocol": "http",
-    "ip": "186.167.113.103",
-    "port": 999,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "VE",
-      "city": "Unknown"
-    }
-  },
-  {
-    "proxy": "http://38.171.255.232:999",
-    "protocol": "http",
-    "ip": "38.171.255.232",
-    "port": 999,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "VE",
-      "city": "Maracaibo"
-    }
-  },
-  {
-    "proxy": "http://186.167.53.178:8282",
-    "protocol": "http",
-    "ip": "186.167.53.178",
-    "port": 8282,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "VE",
-      "city": "Unknown"
-    }
-  },
-  {
-    "proxy": "http://190.97.231.0:999",
-    "protocol": "http",
-    "ip": "190.97.231.0",
+    "ip": "190.97.241.106",
     "port": 999,
     "https": false,
     "anonymity": "transparent",
@@ -403,9 +169,269 @@
     }
   },
   {
-    "proxy": "http://38.41.27.150:11201",
+    "proxy": "http://161.22.33.109:999",
     "protocol": "http",
-    "ip": "38.41.27.150",
+    "ip": "161.22.33.109",
+    "port": 999,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "VE",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "http://190.94.199.241:999",
+    "protocol": "http",
+    "ip": "190.94.199.241",
+    "port": 999,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "VE",
+      "city": "Caracas"
+    }
+  },
+  {
+    "proxy": "http://190.97.229.118:999",
+    "protocol": "http",
+    "ip": "190.97.229.118",
+    "port": 999,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "VE",
+      "city": "Maracaibo"
+    }
+  },
+  {
+    "proxy": "http://38.51.207.116:999",
+    "protocol": "http",
+    "ip": "38.51.207.116",
+    "port": 999,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "VE",
+      "city": "Maracaibo"
+    }
+  },
+  {
+    "proxy": "http://38.51.207.119:999",
+    "protocol": "http",
+    "ip": "38.51.207.119",
+    "port": 999,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "VE",
+      "city": "Maracaibo"
+    }
+  },
+  {
+    "proxy": "http://161.22.33.89:999",
+    "protocol": "http",
+    "ip": "161.22.33.89",
+    "port": 999,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "VE",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "http://186.167.53.178:8282",
+    "protocol": "http",
+    "ip": "186.167.53.178",
+    "port": 8282,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "VE",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "http://161.22.33.169:999",
+    "protocol": "http",
+    "ip": "161.22.33.169",
+    "port": 999,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "VE",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "http://190.94.232.198:999",
+    "protocol": "http",
+    "ip": "190.94.232.198",
+    "port": 999,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "VE",
+      "city": "Caracas"
+    }
+  },
+  {
+    "proxy": "http://200.8.121.121:8080",
+    "protocol": "http",
+    "ip": "200.8.121.121",
+    "port": 8080,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "VE",
+      "city": "Barquisimeto"
+    }
+  },
+  {
+    "proxy": "http://38.137.232.134:999",
+    "protocol": "http",
+    "ip": "38.137.232.134",
+    "port": 999,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "VE",
+      "city": "Caracas"
+    }
+  },
+  {
+    "proxy": "http://191.97.19.74:999",
+    "protocol": "http",
+    "ip": "191.97.19.74",
+    "port": 999,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "VE",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "http://38.41.4.60:999",
+    "protocol": "http",
+    "ip": "38.41.4.60",
+    "port": 999,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "VE",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "http://186.167.83.180:999",
+    "protocol": "http",
+    "ip": "186.167.83.180",
+    "port": 999,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "VE",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "http://181.225.63.0:999",
+    "protocol": "http",
+    "ip": "181.225.63.0",
+    "port": 999,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "VE",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "http://191.101.25.147:6544",
+    "protocol": "http",
+    "ip": "191.101.25.147",
+    "port": 6544,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "VE",
+      "city": "Maracay"
+    }
+  },
+  {
+    "proxy": "http://191.101.25.187:6584",
+    "protocol": "http",
+    "ip": "191.101.25.187",
+    "port": 6584,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "VE",
+      "city": "Maracay"
+    }
+  },
+  {
+    "proxy": "http://45.230.170.13:999",
+    "protocol": "http",
+    "ip": "45.230.170.13",
+    "port": 999,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "VE",
+      "city": "Caracas"
+    }
+  },
+  {
+    "proxy": "http://161.22.33.226:999",
+    "protocol": "http",
+    "ip": "161.22.33.226",
+    "port": 999,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "VE",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "http://190.153.122.3:999",
+    "protocol": "http",
+    "ip": "190.153.122.3",
+    "port": 999,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "VE",
+      "city": "Cabudare"
+    }
+  },
+  {
+    "proxy": "http://38.41.0.62:11201",
+    "protocol": "http",
+    "ip": "38.41.0.62",
     "port": 11201,
     "https": false,
     "anonymity": "transparent",
@@ -416,22 +442,9 @@
     }
   },
   {
-    "proxy": "http://190.94.213.234:999",
+    "proxy": "http://161.22.33.152:999",
     "protocol": "http",
-    "ip": "190.94.213.234",
-    "port": 999,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "VE",
-      "city": "Caracas"
-    }
-  },
-  {
-    "proxy": "http://190.153.22.2:999",
-    "protocol": "http",
-    "ip": "190.153.22.2",
+    "ip": "161.22.33.152",
     "port": 999,
     "https": false,
     "anonymity": "transparent",
@@ -442,16 +455,55 @@
     }
   },
   {
-    "proxy": "http://190.94.213.6:999",
+    "proxy": "http://206.62.167.8:999",
     "protocol": "http",
-    "ip": "190.94.213.6",
+    "ip": "206.62.167.8",
     "port": 999,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
     "geolocation": {
       "country": "VE",
-      "city": "Caracas"
+      "city": "Maracaibo"
+    }
+  },
+  {
+    "proxy": "http://38.41.0.60:11201",
+    "protocol": "http",
+    "ip": "38.41.0.60",
+    "port": 11201,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "VE",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "http://191.97.16.13:999",
+    "protocol": "http",
+    "ip": "191.97.16.13",
+    "port": 999,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "VE",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "http://186.167.113.103:999",
+    "protocol": "http",
+    "ip": "186.167.113.103",
+    "port": 999,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "VE",
+      "city": "Unknown"
     }
   }
 ]
