@@ -130,16 +130,16 @@
     }
   },
   {
-    "proxy": "http://88.119.139.237:53281",
+    "proxy": "http://88.222.220.216:1081",
     "protocol": "http",
-    "ip": "88.119.139.237",
-    "port": 53281,
+    "ip": "88.222.220.216",
+    "port": 1081,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
     "geolocation": {
       "country": "LT",
-      "city": "Klaipėda"
+      "city": "Unknown"
     }
   },
   {
@@ -156,10 +156,10 @@
     }
   },
   {
-    "proxy": "http://89.32.200.21:6477",
+    "proxy": "http://103.47.52.161:8203",
     "protocol": "http",
-    "ip": "89.32.200.21",
-    "port": 6477,
+    "ip": "103.47.52.161",
+    "port": 8203,
     "https": false,
     "anonymity": "transparent",
     "score": 1,

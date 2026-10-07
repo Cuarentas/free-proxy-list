@@ -1,31 +1,5 @@
 [
   {
-    "proxy": "socks4://195.13.182.212:8888",
-    "protocol": "socks4",
-    "ip": "195.13.182.212",
-    "port": 8888,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "LV",
-      "city": "Riga"
-    }
-  },
-  {
-    "proxy": "socks4://195.13.182.212:8080",
-    "protocol": "socks4",
-    "ip": "195.13.182.212",
-    "port": 8080,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "LV",
-      "city": "Riga"
-    }
-  },
-  {
     "proxy": "https://89.111.28.77:443",
     "protocol": "https",
     "ip": "89.111.28.77",
@@ -91,6 +65,19 @@
     }
   },
   {
+    "proxy": "https://37.203.37.92:443",
+    "protocol": "https",
+    "ip": "37.203.37.92",
+    "port": 443,
+    "https": true,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "LV",
+      "city": "Unknown"
+    }
+  },
+  {
     "proxy": "https://89.111.31.249:443",
     "protocol": "https",
     "ip": "89.111.31.249",
@@ -120,6 +107,19 @@
     "proxy": "https://89.111.30.252:443",
     "protocol": "https",
     "ip": "89.111.30.252",
+    "port": 443,
+    "https": true,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "LV",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "https://37.203.37.97:443",
+    "protocol": "https",
+    "ip": "37.203.37.97",
     "port": 443,
     "https": true,
     "anonymity": "transparent",
@@ -185,6 +185,19 @@
     "proxy": "https://89.111.27.215:443",
     "protocol": "https",
     "ip": "89.111.27.215",
+    "port": 443,
+    "https": true,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "LV",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "https://37.203.37.5:443",
+    "protocol": "https",
+    "ip": "37.203.37.5",
     "port": 443,
     "https": true,
     "anonymity": "transparent",
@@ -286,9 +299,35 @@
     }
   },
   {
+    "proxy": "https://89.111.30.85:443",
+    "protocol": "https",
+    "ip": "89.111.30.85",
+    "port": 443,
+    "https": true,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "LV",
+      "city": "Unknown"
+    }
+  },
+  {
     "proxy": "https://37.203.37.9:443",
     "protocol": "https",
     "ip": "37.203.37.9",
+    "port": 443,
+    "https": true,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "LV",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "https://37.203.37.108:443",
+    "protocol": "https",
+    "ip": "37.203.37.108",
     "port": 443,
     "https": true,
     "anonymity": "transparent",
@@ -312,9 +351,48 @@
     }
   },
   {
+    "proxy": "https://89.111.28.79:443",
+    "protocol": "https",
+    "ip": "89.111.28.79",
+    "port": 443,
+    "https": true,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "LV",
+      "city": "Unknown"
+    }
+  },
+  {
     "proxy": "https://89.111.28.78:443",
     "protocol": "https",
     "ip": "89.111.28.78",
+    "port": 443,
+    "https": true,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "LV",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "https://37.203.37.83:443",
+    "protocol": "https",
+    "ip": "37.203.37.83",
+    "port": 443,
+    "https": true,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "LV",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "https://37.203.37.7:443",
+    "protocol": "https",
+    "ip": "37.203.37.7",
     "port": 443,
     "https": true,
     "anonymity": "transparent",
@@ -341,6 +419,19 @@
     "proxy": "https://37.203.37.105:443",
     "protocol": "https",
     "ip": "37.203.37.105",
+    "port": 443,
+    "https": true,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "LV",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "https://37.203.37.188:443",
+    "protocol": "https",
+    "ip": "37.203.37.188",
     "port": 443,
     "https": true,
     "anonymity": "transparent",
@@ -380,6 +471,32 @@
     "proxy": "https://37.203.37.100:443",
     "protocol": "https",
     "ip": "37.203.37.100",
+    "port": 443,
+    "https": true,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "LV",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "https://89.111.27.220:443",
+    "protocol": "https",
+    "ip": "89.111.27.220",
+    "port": 443,
+    "https": true,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "LV",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "https://89.111.31.100:443",
+    "protocol": "https",
+    "ip": "89.111.31.100",
     "port": 443,
     "https": true,
     "anonymity": "transparent",
@@ -494,9 +611,35 @@
     }
   },
   {
+    "proxy": "https://37.203.35.8:443",
+    "protocol": "https",
+    "ip": "37.203.35.8",
+    "port": 443,
+    "https": true,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "LV",
+      "city": "Unknown"
+    }
+  },
+  {
     "proxy": "https://37.203.35.9:443",
     "protocol": "https",
     "ip": "37.203.35.9",
+    "port": 443,
+    "https": true,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "LV",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "https://37.203.35.4:443",
+    "protocol": "https",
+    "ip": "37.203.35.4",
     "port": 443,
     "https": true,
     "anonymity": "transparent",
@@ -562,6 +705,19 @@
     "proxy": "https://37.203.35.19:443",
     "protocol": "https",
     "ip": "37.203.35.19",
+    "port": 443,
+    "https": true,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "LV",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "https://37.203.35.25:443",
+    "protocol": "https",
+    "ip": "37.203.35.25",
     "port": 443,
     "https": true,
     "anonymity": "transparent",
@@ -702,23 +858,10 @@
     }
   },
   {
-    "proxy": "socks5://195.135.255.98:1080",
-    "protocol": "socks5",
-    "ip": "195.135.255.98",
-    "port": 1080,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "LV",
-      "city": "Riga"
-    }
-  },
-  {
-    "proxy": "socks4://213.21.229.84:9081",
+    "proxy": "socks4://195.13.182.212:8888",
     "protocol": "socks4",
-    "ip": "213.21.229.84",
-    "port": 9081,
+    "ip": "195.13.182.212",
+    "port": 8888,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
@@ -728,36 +871,10 @@
     }
   },
   {
-    "proxy": "socks5://213.21.229.84:9081",
-    "protocol": "socks5",
-    "ip": "213.21.229.84",
-    "port": 9081,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "LV",
-      "city": "Riga"
-    }
-  },
-  {
-    "proxy": "socks4://195.13.182.211:8080",
+    "proxy": "socks4://195.13.182.212:8080",
     "protocol": "socks4",
-    "ip": "195.13.182.211",
+    "ip": "195.13.182.212",
     "port": 8080,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "LV",
-      "city": "Riga"
-    }
-  },
-  {
-    "proxy": "http://195.123.212.87:3056",
-    "protocol": "http",
-    "ip": "195.123.212.87",
-    "port": 3056,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
@@ -771,6 +888,32 @@
     "protocol": "socks5",
     "ip": "195.13.182.212",
     "port": 8888,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "LV",
+      "city": "Riga"
+    }
+  },
+  {
+    "proxy": "socks5://195.135.255.98:1080",
+    "protocol": "socks5",
+    "ip": "195.135.255.98",
+    "port": 1080,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "LV",
+      "city": "Riga"
+    }
+  },
+  {
+    "proxy": "socks5://213.21.229.84:9081",
+    "protocol": "socks5",
+    "ip": "213.21.229.84",
+    "port": 9081,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
@@ -832,16 +975,68 @@
     }
   },
   {
-    "proxy": "http://185.242.107.224:9999",
+    "proxy": "http://212.3.206.215:10800",
     "protocol": "http",
-    "ip": "185.242.107.224",
-    "port": 9999,
+    "ip": "212.3.206.215",
+    "port": 10800,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
     "geolocation": {
       "country": "LV",
       "city": "Riga"
+    }
+  },
+  {
+    "proxy": "http://213.21.229.84:9081",
+    "protocol": "http",
+    "ip": "213.21.229.84",
+    "port": 9081,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "LV",
+      "city": "Riga"
+    }
+  },
+  {
+    "proxy": "http://159.148.146.65:5678",
+    "protocol": "http",
+    "ip": "159.148.146.65",
+    "port": 5678,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "LV",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "http://195.13.182.212:8888",
+    "protocol": "http",
+    "ip": "195.13.182.212",
+    "port": 8888,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "LV",
+      "city": "Riga"
+    }
+  },
+  {
+    "proxy": "http://31.170.17.225:4153",
+    "protocol": "http",
+    "ip": "31.170.17.225",
+    "port": 4153,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "LV",
+      "city": "Kuldīga"
     }
   }
 ]
