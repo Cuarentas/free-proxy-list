@@ -39,19 +39,6 @@
     }
   },
   {
-    "proxy": "http://47.91.121.127:1234",
-    "protocol": "http",
-    "ip": "47.91.121.127",
-    "port": 1234,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "AE",
-      "city": "Dubai"
-    }
-  },
-  {
     "proxy": "socks5://47.91.121.127:6379",
     "protocol": "socks5",
     "ip": "47.91.121.127",
@@ -1144,23 +1131,10 @@
     }
   },
   {
-    "proxy": "http://129.151.130.247:1111",
+    "proxy": "http://47.91.120.190:2021",
     "protocol": "http",
-    "ip": "129.151.130.247",
-    "port": 1111,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "AE",
-      "city": "Unknown"
-    }
-  },
-  {
-    "proxy": "http://84.235.244.198:3128",
-    "protocol": "http",
-    "ip": "84.235.244.198",
-    "port": 3128,
+    "ip": "47.91.120.190",
+    "port": 2021,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
@@ -1200,6 +1174,19 @@
     "protocol": "http",
     "ip": "47.91.104.88",
     "port": 3129,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "AE",
+      "city": "Dubai"
+    }
+  },
+  {
+    "proxy": "http://47.91.120.190:1234",
+    "protocol": "http",
+    "ip": "47.91.120.190",
+    "port": 1234,
     "https": false,
     "anonymity": "transparent",
     "score": 1,

@@ -24,18 +24,5 @@
       "country": "HR",
       "city": "Jakovlje"
     }
-  },
-  {
-    "proxy": "http://212.92.204.54:80",
-    "protocol": "http",
-    "ip": "212.92.204.54",
-    "port": 80,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "HR",
-      "city": "Osijek"
-    }
   }
 ]

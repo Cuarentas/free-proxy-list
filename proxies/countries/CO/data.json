@@ -1,236 +1,41 @@
 [
   {
-    "proxy": "socks4://190.85.47.198:4145",
+    "proxy": "socks4://181.205.207.66:1080",
     "protocol": "socks4",
-    "ip": "190.85.47.198",
-    "port": 4145,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "CO",
-      "city": "Bogotá"
-    }
-  },
-  {
-    "proxy": "http://177.93.36.153:999",
-    "protocol": "http",
-    "ip": "177.93.36.153",
-    "port": 999,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "CO",
-      "city": "Pasto"
-    }
-  },
-  {
-    "proxy": "http://179.49.162.133:999",
-    "protocol": "http",
-    "ip": "179.49.162.133",
-    "port": 999,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "CO",
-      "city": "Zipaquirá"
-    }
-  },
-  {
-    "proxy": "http://181.78.82.211:999",
-    "protocol": "http",
-    "ip": "181.78.82.211",
-    "port": 999,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "CO",
-      "city": "Medellín"
-    }
-  },
-  {
-    "proxy": "socks4://181.78.67.99:1080",
-    "protocol": "socks4",
-    "ip": "181.78.67.99",
+    "ip": "181.205.207.66",
     "port": 1080,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
     "geolocation": {
       "country": "CO",
-      "city": "Bogotá"
-    }
-  },
-  {
-    "proxy": "http://181.78.1.229:999",
-    "protocol": "http",
-    "ip": "181.78.1.229",
-    "port": 999,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "CO",
-      "city": "Bogotá"
-    }
-  },
-  {
-    "proxy": "socks4://181.57.178.146:1080",
-    "protocol": "socks4",
-    "ip": "181.57.178.146",
-    "port": 1080,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "CO",
-      "city": "Bogotá"
-    }
-  },
-  {
-    "proxy": "http://200.10.29.201:999",
-    "protocol": "http",
-    "ip": "200.10.29.201",
-    "port": 999,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "CO",
-      "city": "Villavicencio"
-    }
-  },
-  {
-    "proxy": "socks4://181.204.39.202:53740",
-    "protocol": "socks4",
-    "ip": "181.204.39.202",
-    "port": 53740,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "CO",
-      "city": "Cúcuta"
-    }
-  },
-  {
-    "proxy": "http://181.225.68.73:999",
-    "protocol": "http",
-    "ip": "181.225.68.73",
-    "port": 999,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "CO",
-      "city": "Bogotá"
-    }
-  },
-  {
-    "proxy": "http://186.96.111.214:999",
-    "protocol": "http",
-    "ip": "186.96.111.214",
-    "port": 999,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "CO",
-      "city": "Unknown"
-    }
-  },
-  {
-    "proxy": "http://190.60.50.13:999",
-    "protocol": "http",
-    "ip": "190.60.50.13",
-    "port": 999,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "CO",
-      "city": "Unknown"
-    }
-  },
-  {
-    "proxy": "http://45.167.124.161:999",
-    "protocol": "http",
-    "ip": "45.167.124.161",
-    "port": 999,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "CO",
-      "city": "Popayán"
-    }
-  },
-  {
-    "proxy": "http://24.152.58.125:999",
-    "protocol": "http",
-    "ip": "24.152.58.125",
-    "port": 999,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "CO",
-      "city": "Bucaramanga"
-    }
-  },
-  {
-    "proxy": "http://209.14.118.116:999",
-    "protocol": "http",
-    "ip": "209.14.118.116",
-    "port": 999,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "CO",
-      "city": "Unknown"
-    }
-  },
-  {
-    "proxy": "http://209.14.109.212:999",
-    "protocol": "http",
-    "ip": "209.14.109.212",
-    "port": 999,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "CO",
       "city": "Medellín"
     }
   },
   {
-    "proxy": "http://179.1.126.25:999",
+    "proxy": "http://190.61.63.106:8080",
     "protocol": "http",
-    "ip": "179.1.126.25",
-    "port": 999,
+    "ip": "190.61.63.106",
+    "port": 8080,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
     "geolocation": {
       "country": "CO",
-      "city": "Unknown"
+      "city": "Tuluá"
     }
   },
   {
-    "proxy": "http://190.14.231.137:999",
+    "proxy": "http://161.18.226.135:8080",
     "protocol": "http",
-    "ip": "190.14.231.137",
-    "port": 999,
+    "ip": "161.18.226.135",
+    "port": 8080,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
     "geolocation": {
       "country": "CO",
-      "city": "Medellín"
+      "city": "Santiago de Cali"
     }
   },
   {
@@ -247,22 +52,35 @@
     }
   },
   {
-    "proxy": "http://131.100.51.145:999",
+    "proxy": "http://191.102.68.201:999",
     "protocol": "http",
-    "ip": "131.100.51.145",
+    "ip": "191.102.68.201",
     "port": 999,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
     "geolocation": {
       "country": "CO",
-      "city": "Florencia"
+      "city": "Chaguani"
     }
   },
   {
-    "proxy": "http://186.194.161.201:999",
+    "proxy": "http://200.110.173.101:8080",
     "protocol": "http",
-    "ip": "186.194.161.201",
+    "ip": "200.110.173.101",
+    "port": 8080,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "CO",
+      "city": "Santiago de Cali"
+    }
+  },
+  {
+    "proxy": "http://177.93.48.137:999",
+    "protocol": "http",
+    "ip": "177.93.48.137",
     "port": 999,
     "https": false,
     "anonymity": "transparent",
@@ -286,35 +104,113 @@
     }
   },
   {
-    "proxy": "http://179.1.196.133:999",
+    "proxy": "http://8.243.167.51:999",
     "protocol": "http",
-    "ip": "179.1.196.133",
+    "ip": "8.243.167.51",
     "port": 999,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
     "geolocation": {
       "country": "CO",
-      "city": "Ibague"
+      "city": "Zipaquirá"
     }
   },
   {
-    "proxy": "http://190.131.205.150:999",
+    "proxy": "socks4://181.204.39.202:53740",
+    "protocol": "socks4",
+    "ip": "181.204.39.202",
+    "port": 53740,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "CO",
+      "city": "Cúcuta"
+    }
+  },
+  {
+    "proxy": "http://186.97.236.99:8080",
     "protocol": "http",
-    "ip": "190.131.205.150",
+    "ip": "186.97.236.99",
+    "port": 8080,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "CO",
+      "city": "Medellín"
+    }
+  },
+  {
+    "proxy": "socks4://181.78.67.99:1080",
+    "protocol": "socks4",
+    "ip": "181.78.67.99",
+    "port": 1080,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "CO",
+      "city": "Bogotá"
+    }
+  },
+  {
+    "proxy": "http://177.93.57.85:12345",
+    "protocol": "http",
+    "ip": "177.93.57.85",
+    "port": 12345,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "CO",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "http://190.60.34.250:999",
+    "protocol": "http",
+    "ip": "190.60.34.250",
     "port": 999,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
     "geolocation": {
       "country": "CO",
-      "city": "Santiago de Cali"
+      "city": "Andalucia"
     }
   },
   {
-    "proxy": "http://190.60.47.62:999",
+    "proxy": "http://186.31.197.3:8080",
     "protocol": "http",
-    "ip": "190.60.47.62",
+    "ip": "186.31.197.3",
+    "port": 8080,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "CO",
+      "city": "Bogotá"
+    }
+  },
+  {
+    "proxy": "http://38.51.233.97:999",
+    "protocol": "http",
+    "ip": "38.51.233.97",
+    "port": 999,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "CO",
+      "city": "Tuquerres"
+    }
+  },
+  {
+    "proxy": "http://179.1.126.25:999",
+    "protocol": "http",
+    "ip": "179.1.126.25",
     "port": 999,
     "https": false,
     "anonymity": "transparent",
@@ -325,101 +221,10 @@
     }
   },
   {
-    "proxy": "http://45.167.124.133:999",
+    "proxy": "http://8.242.153.166:999",
     "protocol": "http",
-    "ip": "45.167.124.133",
+    "ip": "8.242.153.166",
     "port": 999,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "CO",
-      "city": "Popayán"
-    }
-  },
-  {
-    "proxy": "socks4://181.205.207.66:1080",
-    "protocol": "socks4",
-    "ip": "181.205.207.66",
-    "port": 1080,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "CO",
-      "city": "Medellín"
-    }
-  },
-  {
-    "proxy": "http://45.167.125.217:999",
-    "protocol": "http",
-    "ip": "45.167.125.217",
-    "port": 999,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "CO",
-      "city": "Popayán"
-    }
-  },
-  {
-    "proxy": "http://181.78.20.83:999",
-    "protocol": "http",
-    "ip": "181.78.20.83",
-    "port": 999,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "CO",
-      "city": "San Pelayo"
-    }
-  },
-  {
-    "proxy": "http://190.90.21.35:999",
-    "protocol": "http",
-    "ip": "190.90.21.35",
-    "port": 999,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "CO",
-      "city": "Cartagena"
-    }
-  },
-  {
-    "proxy": "http://191.102.68.201:999",
-    "protocol": "http",
-    "ip": "191.102.68.201",
-    "port": 999,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "CO",
-      "city": "Chaguani"
-    }
-  },
-  {
-    "proxy": "http://186.97.176.173:999",
-    "protocol": "http",
-    "ip": "186.97.176.173",
-    "port": 999,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "CO",
-      "city": "Medellín"
-    }
-  },
-  {
-    "proxy": "http://181.204.39.202:26312",
-    "protocol": "http",
-    "ip": "181.204.39.202",
-    "port": 26312,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
@@ -429,23 +234,49 @@
     }
   },
   {
-    "proxy": "http://181.129.97.34:999",
+    "proxy": "http://24.152.58.22:999",
     "protocol": "http",
-    "ip": "181.129.97.34",
+    "ip": "24.152.58.22",
     "port": 999,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
     "geolocation": {
       "country": "CO",
-      "city": "Churido"
+      "city": "Bucaramanga"
     }
   },
   {
-    "proxy": "http://209.14.120.25:999",
+    "proxy": "http://179.49.160.94:999",
     "protocol": "http",
-    "ip": "209.14.120.25",
+    "ip": "179.49.160.94",
     "port": 999,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "CO",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "http://24.152.58.124:999",
+    "protocol": "http",
+    "ip": "24.152.58.124",
+    "port": 999,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "CO",
+      "city": "Bucaramanga"
+    }
+  },
+  {
+    "proxy": "http://45.235.41.162:8080",
+    "protocol": "http",
+    "ip": "45.235.41.162",
+    "port": 8080,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
@@ -468,23 +299,10 @@
     }
   },
   {
-    "proxy": "http://181.78.19.82:999",
+    "proxy": "http://190.60.47.62:999",
     "protocol": "http",
-    "ip": "181.78.19.82",
+    "ip": "190.60.47.62",
     "port": 999,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "CO",
-      "city": "El Carmen de Bolivar"
-    }
-  },
-  {
-    "proxy": "http://177.93.57.84:12345",
-    "protocol": "http",
-    "ip": "177.93.57.84",
-    "port": 12345,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
@@ -494,22 +312,9 @@
     }
   },
   {
-    "proxy": "http://181.78.17.131:999",
+    "proxy": "http://177.73.155.242:999",
     "protocol": "http",
-    "ip": "181.78.17.131",
-    "port": 999,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "CO",
-      "city": "Andalucia"
-    }
-  },
-  {
-    "proxy": "http://177.73.155.212:999",
-    "protocol": "http",
-    "ip": "177.73.155.212",
+    "ip": "177.73.155.242",
     "port": 999,
     "https": false,
     "anonymity": "transparent",
@@ -520,16 +325,81 @@
     }
   },
   {
-    "proxy": "http://190.60.39.194:999",
+    "proxy": "http://200.69.92.239:999",
     "protocol": "http",
-    "ip": "190.60.39.194",
+    "ip": "200.69.92.239",
     "port": 999,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
     "geolocation": {
       "country": "CO",
-      "city": "Riohacha"
+      "city": "Malaga"
+    }
+  },
+  {
+    "proxy": "http://200.31.12.189:999",
+    "protocol": "http",
+    "ip": "200.31.12.189",
+    "port": 999,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "CO",
+      "city": "Bogotá"
+    }
+  },
+  {
+    "proxy": "http://190.121.157.41:999",
+    "protocol": "http",
+    "ip": "190.121.157.41",
+    "port": 999,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "CO",
+      "city": "Cúcuta"
+    }
+  },
+  {
+    "proxy": "http://181.205.134.125:8080",
+    "protocol": "http",
+    "ip": "181.205.134.125",
+    "port": 8080,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "CO",
+      "city": "Medellín"
+    }
+  },
+  {
+    "proxy": "http://45.167.125.4:999",
+    "protocol": "http",
+    "ip": "45.167.125.4",
+    "port": 999,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "CO",
+      "city": "Popayán"
+    }
+  },
+  {
+    "proxy": "http://45.167.124.133:999",
+    "protocol": "http",
+    "ip": "45.167.124.133",
+    "port": 999,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "CO",
+      "city": "Popayán"
     }
   },
   {
@@ -546,9 +416,87 @@
     }
   },
   {
-    "proxy": "http://24.152.58.108:999",
+    "proxy": "http://181.78.82.211:999",
     "protocol": "http",
-    "ip": "24.152.58.108",
+    "ip": "181.78.82.211",
+    "port": 999,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "CO",
+      "city": "Medellín"
+    }
+  },
+  {
+    "proxy": "http://190.14.231.137:999",
+    "protocol": "http",
+    "ip": "190.14.231.137",
+    "port": 999,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "CO",
+      "city": "Medellín"
+    }
+  },
+  {
+    "proxy": "http://38.43.126.73:999",
+    "protocol": "http",
+    "ip": "38.43.126.73",
+    "port": 999,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "CO",
+      "city": "Garagoa"
+    }
+  },
+  {
+    "proxy": "http://170.239.205.31:999",
+    "protocol": "http",
+    "ip": "170.239.205.31",
+    "port": 999,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "CO",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "http://190.131.205.150:999",
+    "protocol": "http",
+    "ip": "190.131.205.150",
+    "port": 999,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "CO",
+      "city": "Santiago de Cali"
+    }
+  },
+  {
+    "proxy": "http://190.60.48.137:999",
+    "protocol": "http",
+    "ip": "190.60.48.137",
+    "port": 999,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "CO",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "http://24.152.58.125:999",
+    "protocol": "http",
+    "ip": "24.152.58.125",
     "port": 999,
     "https": false,
     "anonymity": "transparent",
@@ -559,9 +507,22 @@
     }
   },
   {
-    "proxy": "http://190.26.209.126:999",
+    "proxy": "http://8.242.153.168:999",
     "protocol": "http",
-    "ip": "190.26.209.126",
+    "ip": "8.242.153.168",
+    "port": 999,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "CO",
+      "city": "Cúcuta"
+    }
+  },
+  {
+    "proxy": "http://181.78.1.229:999",
+    "protocol": "http",
+    "ip": "181.78.1.229",
     "port": 999,
     "https": false,
     "anonymity": "transparent",
@@ -572,48 +533,191 @@
     }
   },
   {
-    "proxy": "http://190.121.146.79:8080",
+    "proxy": "http://45.167.124.30:999",
     "protocol": "http",
-    "ip": "190.121.146.79",
+    "ip": "45.167.124.30",
+    "port": 999,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "CO",
+      "city": "Popayán"
+    }
+  },
+  {
+    "proxy": "http://190.14.224.244:999",
+    "protocol": "http",
+    "ip": "190.14.224.244",
+    "port": 999,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "CO",
+      "city": "Jamundi"
+    }
+  },
+  {
+    "proxy": "http://186.96.111.214:999",
+    "protocol": "http",
+    "ip": "186.96.111.214",
+    "port": 999,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "CO",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "http://181.205.205.170:999",
+    "protocol": "http",
+    "ip": "181.205.205.170",
+    "port": 999,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "CO",
+      "city": "Medellín"
+    }
+  },
+  {
+    "proxy": "http://190.7.138.78:8080",
+    "protocol": "http",
+    "ip": "190.7.138.78",
     "port": 8080,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
     "geolocation": {
       "country": "CO",
-      "city": "Cartagena"
+      "city": "Barranquilla"
     }
   },
   {
-    "proxy": "http://190.242.46.51:999",
+    "proxy": "http://181.204.39.202:26312",
     "protocol": "http",
-    "ip": "190.242.46.51",
+    "ip": "181.204.39.202",
+    "port": 26312,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "CO",
+      "city": "Cúcuta"
+    }
+  },
+  {
+    "proxy": "http://181.78.20.83:999",
+    "protocol": "http",
+    "ip": "181.78.20.83",
     "port": 999,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
     "geolocation": {
       "country": "CO",
-      "city": "Cartagena"
+      "city": "San Pelayo"
     }
   },
   {
-    "proxy": "http://181.78.79.50:999",
+    "proxy": "http://190.2.213.169:999",
     "protocol": "http",
-    "ip": "181.78.79.50",
+    "ip": "190.2.213.169",
     "port": 999,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
     "geolocation": {
       "country": "CO",
-      "city": "Pamplona"
+      "city": "Bogotá"
     }
   },
   {
-    "proxy": "http://177.73.155.245:999",
+    "proxy": "http://186.97.200.210:999",
     "protocol": "http",
-    "ip": "177.73.155.245",
+    "ip": "186.97.200.210",
+    "port": 999,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "CO",
+      "city": "Medellín"
+    }
+  },
+  {
+    "proxy": "http://181.78.19.82:999",
+    "protocol": "http",
+    "ip": "181.78.19.82",
+    "port": 999,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "CO",
+      "city": "El Carmen de Bolivar"
+    }
+  },
+  {
+    "proxy": "http://181.174.231.97:999",
+    "protocol": "http",
+    "ip": "181.174.231.97",
+    "port": 999,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "CO",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "http://45.167.124.161:999",
+    "protocol": "http",
+    "ip": "45.167.124.161",
+    "port": 999,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "CO",
+      "city": "Popayán"
+    }
+  },
+  {
+    "proxy": "http://181.119.84.220:8080",
+    "protocol": "http",
+    "ip": "181.119.84.220",
+    "port": 8080,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "CO",
+      "city": "Bogotá"
+    }
+  },
+  {
+    "proxy": "http://190.60.50.13:999",
+    "protocol": "http",
+    "ip": "190.60.50.13",
+    "port": 999,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "CO",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "http://181.129.252.124:999",
+    "protocol": "http",
+    "ip": "181.129.252.124",
     "port": 999,
     "https": false,
     "anonymity": "transparent",
@@ -621,6 +725,71 @@
     "geolocation": {
       "country": "CO",
       "city": "Santiago de Cali"
+    }
+  },
+  {
+    "proxy": "http://200.69.92.241:999",
+    "protocol": "http",
+    "ip": "200.69.92.241",
+    "port": 999,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "CO",
+      "city": "Malaga"
+    }
+  },
+  {
+    "proxy": "http://209.14.120.25:999",
+    "protocol": "http",
+    "ip": "209.14.120.25",
+    "port": 999,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "CO",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "http://181.204.81.179:999",
+    "protocol": "http",
+    "ip": "181.204.81.179",
+    "port": 999,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "CO",
+      "city": "Cartago"
+    }
+  },
+  {
+    "proxy": "http://190.131.205.147:999",
+    "protocol": "http",
+    "ip": "190.131.205.147",
+    "port": 999,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "CO",
+      "city": "Santiago de Cali"
+    }
+  },
+  {
+    "proxy": "http://8.243.68.187:999",
+    "protocol": "http",
+    "ip": "8.243.68.187",
+    "port": 999,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "CO",
+      "city": "Bogotá"
     }
   },
   {
@@ -634,32 +803,6 @@
     "geolocation": {
       "country": "CO",
       "city": "Santiago de Cali"
-    }
-  },
-  {
-    "proxy": "http://209.14.108.101:999",
-    "protocol": "http",
-    "ip": "209.14.108.101",
-    "port": 999,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "CO",
-      "city": "Medellín"
-    }
-  },
-  {
-    "proxy": "http://190.60.34.250:999",
-    "protocol": "http",
-    "ip": "190.60.34.250",
-    "port": 999,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "CO",
-      "city": "Andalucia"
     }
   },
   {
@@ -897,19 +1040,6 @@
     }
   },
   {
-    "proxy": "http://190.7.138.78:8080",
-    "protocol": "http",
-    "ip": "190.7.138.78",
-    "port": 8080,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "CO",
-      "city": "Barranquilla"
-    }
-  },
-  {
     "proxy": "http://138.117.86.152:999",
     "protocol": "http",
     "ip": "138.117.86.152",
@@ -949,6 +1079,19 @@
     }
   },
   {
+    "proxy": "http://181.129.97.34:999",
+    "protocol": "http",
+    "ip": "181.129.97.34",
+    "port": 999,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "CO",
+      "city": "Churido"
+    }
+  },
+  {
     "proxy": "http://181.204.190.234:999",
     "protocol": "http",
     "ip": "181.204.190.234",
@@ -985,6 +1128,19 @@
     "geolocation": {
       "country": "CO",
       "city": "Medellín"
+    }
+  },
+  {
+    "proxy": "http://181.78.17.131:999",
+    "protocol": "http",
+    "ip": "181.78.17.131",
+    "port": 999,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "CO",
+      "city": "Andalucia"
     }
   },
   {
@@ -1079,45 +1235,6 @@
     }
   },
   {
-    "proxy": "http://190.121.157.41:999",
-    "protocol": "http",
-    "ip": "190.121.157.41",
-    "port": 999,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "CO",
-      "city": "Cúcuta"
-    }
-  },
-  {
-    "proxy": "http://177.73.155.242:999",
-    "protocol": "http",
-    "ip": "177.73.155.242",
-    "port": 999,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "CO",
-      "city": "Santiago de Cali"
-    }
-  },
-  {
-    "proxy": "http://181.174.231.97:999",
-    "protocol": "http",
-    "ip": "181.174.231.97",
-    "port": 999,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "CO",
-      "city": "Unknown"
-    }
-  },
-  {
     "proxy": "http://190.144.224.182:44550",
     "protocol": "http",
     "ip": "190.144.224.182",
@@ -1183,113 +1300,9 @@
     }
   },
   {
-    "proxy": "http://190.7.138.78:80",
+    "proxy": "http://186.194.160.121:999",
     "protocol": "http",
-    "ip": "190.7.138.78",
-    "port": 80,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "CO",
-      "city": "Barranquilla"
-    }
-  },
-  {
-    "proxy": "http://181.129.183.19:53281",
-    "protocol": "http",
-    "ip": "181.129.183.19",
-    "port": 53281,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "CO",
-      "city": "Bucaramanga"
-    }
-  },
-  {
-    "proxy": "http://181.119.84.134:8080",
-    "protocol": "http",
-    "ip": "181.119.84.134",
-    "port": 8080,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "CO",
-      "city": "Bogotá"
-    }
-  },
-  {
-    "proxy": "http://181.205.134.125:8080",
-    "protocol": "http",
-    "ip": "181.205.134.125",
-    "port": 8080,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "CO",
-      "city": "Medellín"
-    }
-  },
-  {
-    "proxy": "http://181.174.231.152:999",
-    "protocol": "http",
-    "ip": "181.174.231.152",
-    "port": 999,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "CO",
-      "city": "Unknown"
-    }
-  },
-  {
-    "proxy": "http://190.60.39.226:999",
-    "protocol": "http",
-    "ip": "190.60.39.226",
-    "port": 999,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "CO",
-      "city": "Riohacha"
-    }
-  },
-  {
-    "proxy": "http://38.51.233.97:999",
-    "protocol": "http",
-    "ip": "38.51.233.97",
-    "port": 999,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "CO",
-      "city": "Tuquerres"
-    }
-  },
-  {
-    "proxy": "http://186.97.200.210:999",
-    "protocol": "http",
-    "ip": "186.97.200.210",
-    "port": 999,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "CO",
-      "city": "Medellín"
-    }
-  },
-  {
-    "proxy": "http://190.2.214.147:999",
-    "protocol": "http",
-    "ip": "190.2.214.147",
+    "ip": "186.194.160.121",
     "port": 999,
     "https": false,
     "anonymity": "transparent",
@@ -1300,68 +1313,185 @@
     }
   },
   {
-    "proxy": "http://179.1.126.45:999",
+    "proxy": "http://45.167.125.217:999",
     "protocol": "http",
-    "ip": "179.1.126.45",
+    "ip": "45.167.125.217",
     "port": 999,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
     "geolocation": {
       "country": "CO",
-      "city": "Unknown"
+      "city": "Popayán"
     }
   },
   {
-    "proxy": "http://191.103.216.234:8085",
+    "proxy": "http://181.119.86.178:999",
     "protocol": "http",
-    "ip": "191.103.216.234",
-    "port": 8085,
+    "ip": "181.119.86.178",
+    "port": 999,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
     "geolocation": {
       "country": "CO",
-      "city": "Montería"
+      "city": "Bogotá"
     }
   },
   {
-    "proxy": "http://181.143.42.138:8080",
+    "proxy": "http://179.1.143.42:999",
     "protocol": "http",
-    "ip": "181.143.42.138",
+    "ip": "179.1.143.42",
+    "port": 999,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "CO",
+      "city": "Bogotá"
+    }
+  },
+  {
+    "proxy": "http://181.78.73.117:8080",
+    "protocol": "http",
+    "ip": "181.78.73.117",
     "port": 8080,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
     "geolocation": {
       "country": "CO",
-      "city": "Medellín"
+      "city": "Montelíbano"
     }
   },
   {
-    "proxy": "http://190.60.48.137:999",
+    "proxy": "http://177.73.155.247:999",
     "protocol": "http",
-    "ip": "190.60.48.137",
+    "ip": "177.73.155.247",
     "port": 999,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
     "geolocation": {
       "country": "CO",
-      "city": "Unknown"
+      "city": "Santiago de Cali"
     }
   },
   {
-    "proxy": "http://190.60.39.233:999",
+    "proxy": "http://181.174.228.175:999",
     "protocol": "http",
-    "ip": "190.60.39.233",
+    "ip": "181.174.228.175",
     "port": 999,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
     "geolocation": {
       "country": "CO",
-      "city": "Riohacha"
+      "city": "Garzón"
+    }
+  },
+  {
+    "proxy": "http://200.10.29.201:999",
+    "protocol": "http",
+    "ip": "200.10.29.201",
+    "port": 999,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "CO",
+      "city": "Villavicencio"
+    }
+  },
+  {
+    "proxy": "http://181.48.234.214:8080",
+    "protocol": "http",
+    "ip": "181.48.234.214",
+    "port": 8080,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "CO",
+      "city": "Santiago de Cali"
+    }
+  },
+  {
+    "proxy": "http://181.119.86.179:999",
+    "protocol": "http",
+    "ip": "181.119.86.179",
+    "port": 999,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "CO",
+      "city": "Bogotá"
+    }
+  },
+  {
+    "proxy": "http://45.167.124.68:999",
+    "protocol": "http",
+    "ip": "45.167.124.68",
+    "port": 999,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "CO",
+      "city": "Popayán"
+    }
+  },
+  {
+    "proxy": "http://177.93.49.114:999",
+    "protocol": "http",
+    "ip": "177.93.49.114",
+    "port": 999,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "CO",
+      "city": "Villavicencio"
+    }
+  },
+  {
+    "proxy": "http://190.90.21.35:999",
+    "protocol": "http",
+    "ip": "190.90.21.35",
+    "port": 999,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "CO",
+      "city": "Cartagena"
+    }
+  },
+  {
+    "proxy": "http://181.57.171.254:8095",
+    "protocol": "http",
+    "ip": "181.57.171.254",
+    "port": 8095,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "CO",
+      "city": "Santiago de Cali"
+    }
+  },
+  {
+    "proxy": "http://190.2.214.66:999",
+    "protocol": "http",
+    "ip": "190.2.214.66",
+    "port": 999,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "CO",
+      "city": "San José del Guaviare"
     }
   }
 ]
