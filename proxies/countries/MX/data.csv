@@ -1,25 +1,30 @@
-socks5://103.88.234.239:40016,MX,Mexico City
 socks5://103.88.234.239:40017,MX,Mexico City
-http://207.248.108.129:20185,MX,Morelia
-http://38.49.156.238:10101,MX,Unknown
-http://200.94.38.45:2604,MX,Monterrey
+https://149.88.22.33:9443,MX,Queretaro
+https://149.88.22.46:9443,MX,Queretaro
+https://189.204.255.4:8443,MX,Oaxaca City
+http://201.77.110.129:999,MX,Cuauhtemoc
+http://45.190.87.41:999,MX,Unknown
+http://189.223.27.164:999,MX,Tijuana
 http://189.202.188.149:80,MX,Kanasin
-socks4://103.88.234.239:40016,MX,Mexico City
-socks5://201.165.172.14:1080,MX,Unknown
 socks4://103.88.234.239:40017,MX,Mexico City
-socks4://103.88.234.239:40014,MX,Mexico City
 socks4://103.88.234.239:40005,MX,Mexico City
-http://187.190.58.152:8081,MX,Mazatlán
-http://200.92.201.126:999,MX,Ocampo
+socks5://103.88.234.239:40014,MX,Mexico City
+socks4://103.88.234.239:40016,MX,Mexico City
+http://187.143.206.162:3128,MX,Coatzacoalcos
+http://187.249.89.39:999,MX,Unknown
+http://189.203.181.34:8080,MX,Mexico City
+http://148.224.14.198:999,MX,Cerro de San Pedro
+socks4://103.88.234.239:40014,MX,Mexico City
+http://187.201.225.188:999,MX,Guadalajara
 http://45.188.76.100:999,MX,Comalcalco
-http://187.251.222.69:8080,MX,Cuautepec de Hinojosa
+http://45.231.170.137:999,MX,Juarez
+http://201.165.187.252:999,MX,Unknown
+http://204.199.201.133:999,MX,Centro
 http://45.7.64.8:999,MX,Tulancingo
-http://45.174.242.142:999,MX,Candelaria
-http://200.188.74.3:8080,MX,Monterrey
-http://200.94.38.46:2604,MX,Monterrey
+socks5://103.88.234.239:40016,MX,Mexico City
+socks5://201.165.172.14:1080,MX,Unknown
 socks5://103.88.234.239:40002,MX,Mexico City
 socks5://103.88.234.239:40005,MX,Mexico City
-socks5://103.88.234.239:40014,MX,Mexico City
 socks5://103.88.234.239:40008,MX,Mexico City
 socks5://103.88.234.239:40012,MX,Mexico City
 socks5://103.88.234.239:40003,MX,Mexico City
@@ -33,14 +38,16 @@ socks5://103.88.234.239:40010,MX,Mexico City
 socks5://103.88.234.239:40004,MX,Mexico City
 socks5://103.88.234.239:40020,MX,Mexico City
 socks5://103.88.234.239:40019,MX,Mexico City
-http://38.49.142.174:999,MX,Apaseo el Grande
-http://187.201.225.188:999,MX,Guadalajara
-http://38.56.249.10:999,MX,Xaltocan
-http://187.249.89.57:999,MX,Unknown
-http://45.174.243.96:999,MX,Candelaria
-http://200.94.38.42:2604,MX,Monterrey
+http://38.49.133.226:999,MX,Pacula
+http://187.249.120.139:999,MX,Tuxtla Gutiérrez
+http://200.36.178.42:999,MX,Piedras Negras
+http://201.163.14.196:999,MX,Naucalpan
+http://189.252.43.10:8080,MX,Ciudad de Huajuapan de Leon
+http://189.51.168.30:999,MX,Mérida
+http://200.94.38.45:2604,MX,Monterrey
 http://187.251.230.15:8080,MX,Puebla City
 http://45.174.243.24:999,MX,Candelaria
+http://200.94.38.42:2604,MX,Monterrey
 http://189.251.57.109:999,MX,Calimaya
 http://45.174.56.21:999,MX,Unknown
 http://38.49.152.197:999,MX,El Sauz Tequisquiapan
@@ -51,6 +58,9 @@ http://201.140.185.41:8081,MX,Unknown
 http://38.7.20.200:999,MX,Unknown
 http://38.49.138.136:999,MX,Mineral de la Reforma
 http://187.204.126.28:8081,MX,Ciudad de Villa de Alvarez
+http://200.94.38.46:2604,MX,Monterrey
+http://187.249.89.57:999,MX,Unknown
+http://200.188.74.3:8080,MX,Monterrey
 http://138.117.229.17:999,MX,Comalapa
 http://189.222.40.79:999,MX,Mexicali
 http://45.178.74.54:999,MX,Solidaridad
@@ -64,9 +74,9 @@ http://45.174.168.4:999,MX,Singuilucan
 http://45.174.242.128:999,MX,Candelaria
 http://45.188.166.50:1994,MX,La Barca
 http://189.250.135.40:80,MX,Oaxaca City
+http://45.174.242.142:999,MX,Candelaria
 http://187.188.171.231:10101,MX,Puebla City
 http://201.174.175.82:999,MX,Alamo
-http://45.184.124.33:1985,MX,Chihuahua City
-http://177.229.197.94:999,MX,Tapachula
-http://187.190.127.212:8081,MX,Morelia
-http://187.62.106.161:999,MX,Actopan
+http://45.184.124.9:1985,MX,Chihuahua City
+http://187.190.127.212:80,MX,Morelia
+http://148.230.17.251:999,MX,Huixquilucan de Degollado

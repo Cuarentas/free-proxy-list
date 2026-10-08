@@ -1,31 +1,5 @@
 [
   {
-    "proxy": "socks5://103.189.218.76:6969",
-    "protocol": "socks5",
-    "ip": "103.189.218.76",
-    "port": 6969,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "BD",
-      "city": "Unknown"
-    }
-  },
-  {
-    "proxy": "socks5://203.76.123.6:1080",
-    "protocol": "socks5",
-    "ip": "203.76.123.6",
-    "port": 1080,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "BD",
-      "city": "Dhaka"
-    }
-  },
-  {
     "proxy": "socks4://202.5.50.151:1080",
     "protocol": "socks4",
     "ip": "202.5.50.151",
@@ -52,58 +26,6 @@
     }
   },
   {
-    "proxy": "socks4://180.148.210.77:1080",
-    "protocol": "socks4",
-    "ip": "180.148.210.77",
-    "port": 1080,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "BD",
-      "city": "Karīmganj"
-    }
-  },
-  {
-    "proxy": "socks4://123.200.5.146:57775",
-    "protocol": "socks4",
-    "ip": "123.200.5.146",
-    "port": 57775,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "BD",
-      "city": "Dhaka"
-    }
-  },
-  {
-    "proxy": "socks4://119.18.147.179:1080",
-    "protocol": "socks4",
-    "ip": "119.18.147.179",
-    "port": 1080,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "BD",
-      "city": "Unknown"
-    }
-  },
-  {
-    "proxy": "http://61.247.186.234:1111",
-    "protocol": "http",
-    "ip": "61.247.186.234",
-    "port": 1111,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "BD",
-      "city": "Unknown"
-    }
-  },
-  {
     "proxy": "http://103.158.210.7:8090",
     "protocol": "http",
     "ip": "103.158.210.7",
@@ -114,19 +36,6 @@
     "geolocation": {
       "country": "BD",
       "city": "Mīrpur"
-    }
-  },
-  {
-    "proxy": "http://103.85.183.240:4995",
-    "protocol": "http",
-    "ip": "103.85.183.240",
-    "port": 4995,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "BD",
-      "city": "Unknown"
     }
   },
   {
@@ -153,6 +62,188 @@
     "geolocation": {
       "country": "BD",
       "city": "Dhaka"
+    }
+  },
+  {
+    "proxy": "socks5://203.76.123.6:1080",
+    "protocol": "socks5",
+    "ip": "203.76.123.6",
+    "port": 1080,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "BD",
+      "city": "Dhaka"
+    }
+  },
+  {
+    "proxy": "socks4://123.200.28.149:1080",
+    "protocol": "socks4",
+    "ip": "123.200.28.149",
+    "port": 1080,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "BD",
+      "city": "Dhaka"
+    }
+  },
+  {
+    "proxy": "socks5://103.162.57.42:1080",
+    "protocol": "socks5",
+    "ip": "103.162.57.42",
+    "port": 1080,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "BD",
+      "city": "Rājāpur"
+    }
+  },
+  {
+    "proxy": "socks4://118.67.220.225:4145",
+    "protocol": "socks4",
+    "ip": "118.67.220.225",
+    "port": 4145,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "BD",
+      "city": "Dhaka"
+    }
+  },
+  {
+    "proxy": "socks4://202.40.177.94:5678",
+    "protocol": "socks4",
+    "ip": "202.40.177.94",
+    "port": 5678,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "BD",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "http://103.251.232.40:8090",
+    "protocol": "http",
+    "ip": "103.251.232.40",
+    "port": 8090,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "BD",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "socks4://202.4.107.33:9090",
+    "protocol": "socks4",
+    "ip": "202.4.107.33",
+    "port": 9090,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "BD",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "socks5://103.197.48.209:1080",
+    "protocol": "socks5",
+    "ip": "103.197.48.209",
+    "port": 1080,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "BD",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "http://103.7.4.15:8082",
+    "protocol": "http",
+    "ip": "103.7.4.15",
+    "port": 8082,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "BD",
+      "city": "Natore"
+    }
+  },
+  {
+    "proxy": "socks5://123.0.24.154:9090",
+    "protocol": "socks5",
+    "ip": "123.0.24.154",
+    "port": 9090,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "BD",
+      "city": "Mīrpur"
+    }
+  },
+  {
+    "proxy": "http://103.156.238.136:8090",
+    "protocol": "http",
+    "ip": "103.156.238.136",
+    "port": 8090,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "BD",
+      "city": "Sātkhira"
+    }
+  },
+  {
+    "proxy": "socks5://202.91.41.102:1080",
+    "protocol": "socks5",
+    "ip": "202.91.41.102",
+    "port": 1080,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "BD",
+      "city": "Gāzipur"
+    }
+  },
+  {
+    "proxy": "http://103.127.92.161:8090",
+    "protocol": "http",
+    "ip": "103.127.92.161",
+    "port": 8090,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "BD",
+      "city": "Chittagong"
+    }
+  },
+  {
+    "proxy": "socks5://103.189.218.76:6969",
+    "protocol": "socks5",
+    "ip": "103.189.218.76",
+    "port": 6969,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "BD",
+      "city": "Unknown"
     }
   },
   {
@@ -208,71 +299,6 @@
     }
   },
   {
-    "proxy": "http://103.137.158.112:83",
-    "protocol": "http",
-    "ip": "103.137.158.112",
-    "port": 83,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "BD",
-      "city": "Unknown"
-    }
-  },
-  {
-    "proxy": "http://103.251.232.40:8090",
-    "protocol": "http",
-    "ip": "103.251.232.40",
-    "port": 8090,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "BD",
-      "city": "Unknown"
-    }
-  },
-  {
-    "proxy": "http://103.117.193.216:8080",
-    "protocol": "http",
-    "ip": "103.117.193.216",
-    "port": 8080,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "BD",
-      "city": "Dhaka"
-    }
-  },
-  {
-    "proxy": "socks4://202.4.107.33:9090",
-    "protocol": "socks4",
-    "ip": "202.4.107.33",
-    "port": 9090,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "BD",
-      "city": "Unknown"
-    }
-  },
-  {
-    "proxy": "http://103.204.82.34:3212",
-    "protocol": "http",
-    "ip": "103.204.82.34",
-    "port": 3212,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "BD",
-      "city": "Unknown"
-    }
-  },
-  {
     "proxy": "socks5://118.179.102.168:9090",
     "protocol": "socks5",
     "ip": "118.179.102.168",
@@ -322,19 +348,6 @@
     "geolocation": {
       "country": "BD",
       "city": "Dhaka"
-    }
-  },
-  {
-    "proxy": "socks5://202.91.41.102:1080",
-    "protocol": "socks5",
-    "ip": "202.91.41.102",
-    "port": 1080,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "BD",
-      "city": "Gāzipur"
     }
   },
   {
@@ -520,19 +533,6 @@
     }
   },
   {
-    "proxy": "socks5://123.0.24.154:9090",
-    "protocol": "socks5",
-    "ip": "123.0.24.154",
-    "port": 9090,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "BD",
-      "city": "Mīrpur"
-    }
-  },
-  {
     "proxy": "socks5://118.179.144.142:9090",
     "protocol": "socks5",
     "ip": "118.179.144.142",
@@ -699,19 +699,6 @@
     "geolocation": {
       "country": "BD",
       "city": "Panchagarh"
-    }
-  },
-  {
-    "proxy": "socks5://103.162.57.42:1080",
-    "protocol": "socks5",
-    "ip": "103.162.57.42",
-    "port": 1080,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "BD",
-      "city": "Rājāpur"
     }
   },
   {
@@ -962,19 +949,6 @@
     }
   },
   {
-    "proxy": "socks5://103.197.48.209:1080",
-    "protocol": "socks5",
-    "ip": "103.197.48.209",
-    "port": 1080,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "BD",
-      "city": "Unknown"
-    }
-  },
-  {
     "proxy": "socks5://103.151.74.29:2025",
     "protocol": "socks5",
     "ip": "103.151.74.29",
@@ -1066,35 +1040,9 @@
     }
   },
   {
-    "proxy": "http://103.158.210.21:8090",
+    "proxy": "http://103.106.119.217:8080",
     "protocol": "http",
-    "ip": "103.158.210.21",
-    "port": 8090,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "BD",
-      "city": "Mīrpur"
-    }
-  },
-  {
-    "proxy": "http://103.204.210.208:8080",
-    "protocol": "http",
-    "ip": "103.204.210.208",
-    "port": 8080,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "BD",
-      "city": "Dhaka"
-    }
-  },
-  {
-    "proxy": "http://203.96.224.81:8080",
-    "protocol": "http",
-    "ip": "203.96.224.81",
+    "ip": "103.106.119.217",
     "port": 8080,
     "https": false,
     "anonymity": "transparent",
@@ -1102,45 +1050,6 @@
     "geolocation": {
       "country": "BD",
       "city": "Unknown"
-    }
-  },
-  {
-    "proxy": "http://27.131.14.9:8812",
-    "protocol": "http",
-    "ip": "27.131.14.9",
-    "port": 8812,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "BD",
-      "city": "Dhaka"
-    }
-  },
-  {
-    "proxy": "http://103.124.110.101:8090",
-    "protocol": "http",
-    "ip": "103.124.110.101",
-    "port": 8090,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "BD",
-      "city": "Dhaka"
-    }
-  },
-  {
-    "proxy": "http://103.158.210.80:8082",
-    "protocol": "http",
-    "ip": "103.158.210.80",
-    "port": 8082,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "BD",
-      "city": "Mīrpur"
     }
   },
   {
@@ -1157,9 +1066,87 @@
     }
   },
   {
-    "proxy": "http://103.106.119.217:8080",
+    "proxy": "http://103.158.210.21:8090",
     "protocol": "http",
-    "ip": "103.106.119.217",
+    "ip": "103.158.210.21",
+    "port": 8090,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "BD",
+      "city": "Mīrpur"
+    }
+  },
+  {
+    "proxy": "http://103.147.230.177:8090",
+    "protocol": "http",
+    "ip": "103.147.230.177",
+    "port": 8090,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "BD",
+      "city": "Dinājpur"
+    }
+  },
+  {
+    "proxy": "http://103.204.210.208:8080",
+    "protocol": "http",
+    "ip": "103.204.210.208",
+    "port": 8080,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "BD",
+      "city": "Dhaka"
+    }
+  },
+  {
+    "proxy": "http://103.114.43.99:8888",
+    "protocol": "http",
+    "ip": "103.114.43.99",
+    "port": 8888,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "BD",
+      "city": "Chittagong"
+    }
+  },
+  {
+    "proxy": "http://103.245.110.198:1452",
+    "protocol": "http",
+    "ip": "103.245.110.198",
+    "port": 1452,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "BD",
+      "city": "Dhaka"
+    }
+  },
+  {
+    "proxy": "http://103.158.210.27:8090",
+    "protocol": "http",
+    "ip": "103.158.210.27",
+    "port": 8090,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "BD",
+      "city": "Mīrpur"
+    }
+  },
+  {
+    "proxy": "http://103.119.101.59:8080",
+    "protocol": "http",
+    "ip": "103.119.101.59",
     "port": 8080,
     "https": false,
     "anonymity": "transparent",
@@ -1170,16 +1157,16 @@
     }
   },
   {
-    "proxy": "http://103.81.175.146:22311",
+    "proxy": "http://182.160.106.100:12331",
     "protocol": "http",
-    "ip": "103.81.175.146",
-    "port": 22311,
+    "ip": "182.160.106.100",
+    "port": 12331,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
     "geolocation": {
       "country": "BD",
-      "city": "Unknown"
+      "city": "Dhaka"
     }
   },
   {
@@ -1258,6 +1245,19 @@
     "geolocation": {
       "country": "BD",
       "city": "Thakurgaon"
+    }
+  },
+  {
+    "proxy": "http://103.204.82.34:3212",
+    "protocol": "http",
+    "ip": "103.204.82.34",
+    "port": 3212,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "BD",
+      "city": "Unknown"
     }
   },
   {
@@ -1391,19 +1391,6 @@
     }
   },
   {
-    "proxy": "http://103.245.110.198:1452",
-    "protocol": "http",
-    "ip": "103.245.110.198",
-    "port": 1452,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "BD",
-      "city": "Dhaka"
-    }
-  },
-  {
     "proxy": "http://119.18.147.179:96",
     "protocol": "http",
     "ip": "119.18.147.179",
@@ -1473,6 +1460,19 @@
     "protocol": "http",
     "ip": "202.4.116.140",
     "port": 9090,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "BD",
+      "city": "Dhaka"
+    }
+  },
+  {
+    "proxy": "http://103.117.193.216:8080",
+    "protocol": "http",
+    "ip": "103.117.193.216",
+    "port": 8080,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
@@ -1586,6 +1586,19 @@
     }
   },
   {
+    "proxy": "http://103.158.210.80:8082",
+    "protocol": "http",
+    "ip": "103.158.210.80",
+    "port": 8082,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "BD",
+      "city": "Mīrpur"
+    }
+  },
+  {
     "proxy": "http://202.4.117.245:9090",
     "protocol": "http",
     "ip": "202.4.117.245",
@@ -1612,42 +1625,42 @@
     }
   },
   {
-    "proxy": "http://115.127.95.82:8080",
+    "proxy": "http://103.15.140.121:44759",
     "protocol": "http",
-    "ip": "115.127.95.82",
-    "port": 8080,
+    "ip": "103.15.140.121",
+    "port": 44759,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "BD",
+      "city": "Shāhāpur"
+    }
+  },
+  {
+    "proxy": "http://103.118.85.75:6321",
+    "protocol": "http",
+    "ip": "103.118.85.75",
+    "port": 6321,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "BD",
+      "city": "Birampur"
+    }
+  },
+  {
+    "proxy": "http://27.131.14.9:8812",
+    "protocol": "http",
+    "ip": "27.131.14.9",
+    "port": 8812,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
     "geolocation": {
       "country": "BD",
       "city": "Dhaka"
-    }
-  },
-  {
-    "proxy": "http://118.179.84.131:81",
-    "protocol": "http",
-    "ip": "118.179.84.131",
-    "port": 81,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "BD",
-      "city": "Dhaka"
-    }
-  },
-  {
-    "proxy": "http://103.229.85.221:8080",
-    "protocol": "http",
-    "ip": "103.229.85.221",
-    "port": 8080,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "BD",
-      "city": "Comilla"
     }
   }
 ]

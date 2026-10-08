@@ -1,31 +1,5 @@
 [
   {
-    "proxy": "socks4://102.214.147.147:4153",
-    "protocol": "socks4",
-    "ip": "102.214.147.147",
-    "port": 4153,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "ZA",
-      "city": "Jeffreys Bay"
-    }
-  },
-  {
-    "proxy": "socks4://105.214.80.49:5678",
-    "protocol": "socks4",
-    "ip": "105.214.80.49",
-    "port": 5678,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "ZA",
-      "city": "Johannesburg"
-    }
-  },
-  {
     "proxy": "https://129.151.160.199:443",
     "protocol": "https",
     "ip": "129.151.160.199",
@@ -36,19 +10,6 @@
     "geolocation": {
       "country": "ZA",
       "city": "Johannesburg"
-    }
-  },
-  {
-    "proxy": "https://196.21.61.67:443",
-    "protocol": "https",
-    "ip": "196.21.61.67",
-    "port": 443,
-    "https": true,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "ZA",
-      "city": "Durban"
     }
   },
   {
@@ -65,68 +26,29 @@
     }
   },
   {
-    "proxy": "https://13.245.161.189:54604",
+    "proxy": "https://196.21.187.115:443",
     "protocol": "https",
-    "ip": "13.245.161.189",
-    "port": 54604,
+    "ip": "196.21.187.115",
+    "port": 443,
     "https": true,
     "anonymity": "transparent",
     "score": 1,
     "geolocation": {
       "country": "ZA",
-      "city": "Cape Town"
+      "city": "Nelspruit"
     }
   },
   {
-    "proxy": "https://13.245.183.150:8447",
-    "protocol": "https",
-    "ip": "13.245.183.150",
-    "port": 8447,
-    "https": true,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "ZA",
-      "city": "Cape Town"
-    }
-  },
-  {
-    "proxy": "https://13.245.183.150:7100",
+    "proxy": "https://13.245.183.150:10413",
     "protocol": "https",
     "ip": "13.245.183.150",
-    "port": 7100,
+    "port": 10413,
     "https": true,
     "anonymity": "transparent",
     "score": 1,
     "geolocation": {
       "country": "ZA",
       "city": "Cape Town"
-    }
-  },
-  {
-    "proxy": "http://41.57.139.93:6060",
-    "protocol": "http",
-    "ip": "41.57.139.93",
-    "port": 6060,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "ZA",
-      "city": "Delmas"
-    }
-  },
-  {
-    "proxy": "http://154.66.159.34:800",
-    "protocol": "http",
-    "ip": "154.66.159.34",
-    "port": 800,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "ZA",
-      "city": "Krugersdorp"
     }
   },
   {
@@ -156,19 +78,6 @@
     }
   },
   {
-    "proxy": "socks4://105.214.54.240:5678",
-    "protocol": "socks4",
-    "ip": "105.214.54.240",
-    "port": 5678,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "ZA",
-      "city": "Johannesburg"
-    }
-  },
-  {
     "proxy": "socks4://105.214.19.138:5678",
     "protocol": "socks4",
     "ip": "105.214.19.138",
@@ -182,6 +91,32 @@
     }
   },
   {
+    "proxy": "socks4://105.214.54.240:5678",
+    "protocol": "socks4",
+    "ip": "105.214.54.240",
+    "port": 5678,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "ZA",
+      "city": "Johannesburg"
+    }
+  },
+  {
+    "proxy": "http://41.216.191.85:8080",
+    "protocol": "http",
+    "ip": "41.216.191.85",
+    "port": 8080,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "ZA",
+      "city": "Unknown"
+    }
+  },
+  {
     "proxy": "socks5://168.253.92.93:10808",
     "protocol": "socks5",
     "ip": "168.253.92.93",
@@ -192,58 +127,6 @@
     "geolocation": {
       "country": "ZA",
       "city": "Middelburg"
-    }
-  },
-  {
-    "proxy": "socks4://105.214.102.216:5678",
-    "protocol": "socks4",
-    "ip": "105.214.102.216",
-    "port": 5678,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "ZA",
-      "city": "Pretoria"
-    }
-  },
-  {
-    "proxy": "http://41.78.36.250:8005",
-    "protocol": "http",
-    "ip": "41.78.36.250",
-    "port": 8005,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "ZA",
-      "city": "Krugersdorp"
-    }
-  },
-  {
-    "proxy": "http://196.251.213.192:8081",
-    "protocol": "http",
-    "ip": "196.251.213.192",
-    "port": 8081,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "ZA",
-      "city": "Brits"
-    }
-  },
-  {
-    "proxy": "socks4://105.214.51.182:5678",
-    "protocol": "socks4",
-    "ip": "105.214.51.182",
-    "port": 5678,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "ZA",
-      "city": "Johannesburg"
     }
   },
   {
@@ -273,36 +156,10 @@
     }
   },
   {
-    "proxy": "http://160.119.51.209:8088",
+    "proxy": "http://196.251.213.192:8081",
     "protocol": "http",
-    "ip": "160.119.51.209",
-    "port": 8088,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "ZA",
-      "city": "Klawer"
-    }
-  },
-  {
-    "proxy": "http://102.218.41.98:8082",
-    "protocol": "http",
-    "ip": "102.218.41.98",
-    "port": 8082,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "ZA",
-      "city": "Newcastle"
-    }
-  },
-  {
-    "proxy": "http://196.251.223.54:8080",
-    "protocol": "http",
-    "ip": "196.251.223.54",
-    "port": 8080,
+    "ip": "196.251.213.192",
+    "port": 8081,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
@@ -312,55 +169,42 @@
     }
   },
   {
-    "proxy": "http://41.216.191.85:8080",
+    "proxy": "http://196.25.34.194:8080",
     "protocol": "http",
-    "ip": "41.216.191.85",
+    "ip": "196.25.34.194",
     "port": 8080,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
     "geolocation": {
       "country": "ZA",
-      "city": "Unknown"
+      "city": "Port Elizabeth"
     }
   },
   {
-    "proxy": "http://102.217.139.31:8180",
+    "proxy": "http://196.251.212.52:8081",
     "protocol": "http",
-    "ip": "102.217.139.31",
-    "port": 8180,
+    "ip": "196.251.212.52",
+    "port": 8081,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
     "geolocation": {
       "country": "ZA",
-      "city": "Cape Town"
+      "city": "Brits"
     }
   },
   {
-    "proxy": "http://13.245.161.189:50350",
+    "proxy": "http://41.78.36.250:8005",
     "protocol": "http",
-    "ip": "13.245.161.189",
-    "port": 50350,
+    "ip": "41.78.36.250",
+    "port": 8005,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
     "geolocation": {
       "country": "ZA",
-      "city": "Cape Town"
-    }
-  },
-  {
-    "proxy": "http://13.245.183.150:8123",
-    "protocol": "http",
-    "ip": "13.245.183.150",
-    "port": 8123,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "ZA",
-      "city": "Cape Town"
+      "city": "Krugersdorp"
     }
   },
   {
@@ -442,6 +286,19 @@
     }
   },
   {
+    "proxy": "http://154.66.159.34:800",
+    "protocol": "http",
+    "ip": "154.66.159.34",
+    "port": 800,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "ZA",
+      "city": "Krugersdorp"
+    }
+  },
+  {
     "proxy": "http://41.216.190.239:8080",
     "protocol": "http",
     "ip": "41.216.190.239",
@@ -465,19 +322,6 @@
     "geolocation": {
       "country": "ZA",
       "city": "Unknown"
-    }
-  },
-  {
-    "proxy": "http://156.155.50.93:8080",
-    "protocol": "http",
-    "ip": "156.155.50.93",
-    "port": 8080,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "ZA",
-      "city": "Johannesburg"
     }
   }
 ]

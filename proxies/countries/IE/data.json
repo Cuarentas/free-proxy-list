@@ -403,9 +403,9 @@
     }
   },
   {
-    "proxy": "https://89.125.129.150:443",
+    "proxy": "https://34.248.251.170:443",
     "protocol": "https",
-    "ip": "89.125.129.150",
+    "ip": "34.248.251.170",
     "port": 443,
     "https": true,
     "anonymity": "transparent",
@@ -416,16 +416,42 @@
     }
   },
   {
-    "proxy": "http://89.125.75.109:443",
-    "protocol": "http",
-    "ip": "89.125.75.109",
-    "port": 443,
+    "proxy": "https://52.214.92.206:1000",
+    "protocol": "https",
+    "ip": "52.214.92.206",
+    "port": 1000,
+    "https": true,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "IE",
+      "city": "Dublin"
+    }
+  },
+  {
+    "proxy": "https://52.214.92.206:9443",
+    "protocol": "https",
+    "ip": "52.214.92.206",
+    "port": 9443,
+    "https": true,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "IE",
+      "city": "Dublin"
+    }
+  },
+  {
+    "proxy": "socks4://78.17.19.244:10808",
+    "protocol": "socks4",
+    "ip": "78.17.19.244",
+    "port": 10808,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
     "geolocation": {
       "country": "IE",
-      "city": "Tuam"
+      "city": "Bray"
     }
   },
   {
@@ -533,16 +559,68 @@
     }
   },
   {
-    "proxy": "http://212.147.232.251:80",
+    "proxy": "http://52.214.92.206:8123",
     "protocol": "http",
-    "ip": "212.147.232.251",
-    "port": 80,
+    "ip": "52.214.92.206",
+    "port": 8123,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "IE",
+      "city": "Dublin"
+    }
+  },
+  {
+    "proxy": "http://108.131.152.118:3619",
+    "protocol": "http",
+    "ip": "108.131.152.118",
+    "port": 3619,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "IE",
+      "city": "Dublin"
+    }
+  },
+  {
+    "proxy": "http://87.192.231.122:3128",
+    "protocol": "http",
+    "ip": "87.192.231.122",
+    "port": 3128,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
     "geolocation": {
       "country": "IE",
       "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "http://108.131.152.118:33656",
+    "protocol": "http",
+    "ip": "108.131.152.118",
+    "port": 33656,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "IE",
+      "city": "Dublin"
+    }
+  },
+  {
+    "proxy": "http://89.125.75.109:443",
+    "protocol": "http",
+    "ip": "89.125.75.109",
+    "port": 443,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "IE",
+      "city": "Tuam"
     }
   }
 ]

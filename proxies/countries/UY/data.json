@@ -13,19 +13,6 @@
     }
   },
   {
-    "proxy": "socks4://77.91.93.175:12345",
-    "protocol": "socks4",
-    "ip": "77.91.93.175",
-    "port": 12345,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "UY",
-      "city": "Montevideo"
-    }
-  },
-  {
     "proxy": "http://77.91.93.175:12345",
     "protocol": "http",
     "ip": "77.91.93.175",
