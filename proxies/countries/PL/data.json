@@ -1,5 +1,44 @@
 [
   {
+    "proxy": "socks4://46.151.118.108:5678",
+    "protocol": "socks4",
+    "ip": "46.151.118.108",
+    "port": 5678,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "PL",
+      "city": "Lipsko"
+    }
+  },
+  {
+    "proxy": "socks4://77.65.50.118:34159",
+    "protocol": "socks4",
+    "ip": "77.65.50.118",
+    "port": 34159,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "PL",
+      "city": "Gmina Śrem"
+    }
+  },
+  {
+    "proxy": "socks4://91.150.189.122:1080",
+    "protocol": "socks4",
+    "ip": "91.150.189.122",
+    "port": 1080,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "PL",
+      "city": "Rzeszów"
+    }
+  },
+  {
     "proxy": "https://151.115.78.51:443",
     "protocol": "https",
     "ip": "151.115.78.51",
@@ -26,9 +65,74 @@
     }
   },
   {
+    "proxy": "https://79.188.239.47:8443",
+    "protocol": "https",
+    "ip": "79.188.239.47",
+    "port": 8443,
+    "https": true,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "PL",
+      "city": "Warsaw"
+    }
+  },
+  {
+    "proxy": "https://79.188.239.40:8443",
+    "protocol": "https",
+    "ip": "79.188.239.40",
+    "port": 8443,
+    "https": true,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "PL",
+      "city": "Warsaw"
+    }
+  },
+  {
+    "proxy": "https://79.188.239.45:8443",
+    "protocol": "https",
+    "ip": "79.188.239.45",
+    "port": 8443,
+    "https": true,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "PL",
+      "city": "Warsaw"
+    }
+  },
+  {
+    "proxy": "https://79.188.239.42:8443",
+    "protocol": "https",
+    "ip": "79.188.239.42",
+    "port": 8443,
+    "https": true,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "PL",
+      "city": "Warsaw"
+    }
+  },
+  {
     "proxy": "https://79.133.217.237:443",
     "protocol": "https",
     "ip": "79.133.217.237",
+    "port": 443,
+    "https": true,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "PL",
+      "city": "Warsaw"
+    }
+  },
+  {
+    "proxy": "https://79.133.217.233:443",
+    "protocol": "https",
+    "ip": "79.133.217.233",
     "port": 443,
     "https": true,
     "anonymity": "transparent",
@@ -65,10 +169,36 @@
     }
   },
   {
+    "proxy": "https://79.188.239.46:8443",
+    "protocol": "https",
+    "ip": "79.188.239.46",
+    "port": 8443,
+    "https": true,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "PL",
+      "city": "Warsaw"
+    }
+  },
+  {
     "proxy": "https://79.133.217.236:443",
     "protocol": "https",
     "ip": "79.133.217.236",
     "port": 443,
+    "https": true,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "PL",
+      "city": "Warsaw"
+    }
+  },
+  {
+    "proxy": "https://79.188.239.41:8443",
+    "protocol": "https",
+    "ip": "79.188.239.41",
+    "port": 8443,
     "https": true,
     "anonymity": "transparent",
     "score": 1,
@@ -88,6 +218,32 @@
     "geolocation": {
       "country": "PL",
       "city": "Nowy Targ"
+    }
+  },
+  {
+    "proxy": "https://79.188.239.43:8443",
+    "protocol": "https",
+    "ip": "79.188.239.43",
+    "port": 8443,
+    "https": true,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "PL",
+      "city": "Warsaw"
+    }
+  },
+  {
+    "proxy": "https://79.188.239.44:8443",
+    "protocol": "https",
+    "ip": "79.188.239.44",
+    "port": 8443,
+    "https": true,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "PL",
+      "city": "Warsaw"
     }
   },
   {
@@ -156,32 +312,6 @@
     }
   },
   {
-    "proxy": "http://148.81.121.5:8080",
-    "protocol": "http",
-    "ip": "148.81.121.5",
-    "port": 8080,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "PL",
-      "city": "Unknown"
-    }
-  },
-  {
-    "proxy": "http://5.172.189.131:3128",
-    "protocol": "http",
-    "ip": "5.172.189.131",
-    "port": 3128,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "PL",
-      "city": "Ełk"
-    }
-  },
-  {
     "proxy": "socks4://193.243.154.146:4145",
     "protocol": "socks4",
     "ip": "193.243.154.146",
@@ -221,10 +351,10 @@
     }
   },
   {
-    "proxy": "socks4://89.191.226.51:1080",
-    "protocol": "socks4",
-    "ip": "89.191.226.51",
-    "port": 1080,
+    "proxy": "socks5://88.218.206.170:5432",
+    "protocol": "socks5",
+    "ip": "88.218.206.170",
+    "port": 5432,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
@@ -234,16 +364,16 @@
     }
   },
   {
-    "proxy": "socks4://91.150.189.122:1080",
+    "proxy": "socks4://94.40.127.166:4145",
     "protocol": "socks4",
-    "ip": "91.150.189.122",
-    "port": 1080,
+    "ip": "94.40.127.166",
+    "port": 4145,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
     "geolocation": {
       "country": "PL",
-      "city": "Rzeszów"
+      "city": "Torun"
     }
   },
   {
@@ -257,6 +387,45 @@
     "geolocation": {
       "country": "PL",
       "city": "Rewal"
+    }
+  },
+  {
+    "proxy": "socks4://88.218.206.170:5432",
+    "protocol": "socks4",
+    "ip": "88.218.206.170",
+    "port": 5432,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "PL",
+      "city": "Warsaw"
+    }
+  },
+  {
+    "proxy": "http://91.150.189.122:30389",
+    "protocol": "http",
+    "ip": "91.150.189.122",
+    "port": 30389,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "PL",
+      "city": "Rzeszów"
+    }
+  },
+  {
+    "proxy": "socks4://46.171.28.162:59311",
+    "protocol": "socks4",
+    "ip": "46.171.28.162",
+    "port": 59311,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "PL",
+      "city": "Radomsko"
     }
   },
   {
@@ -283,32 +452,6 @@
     "geolocation": {
       "country": "PL",
       "city": "Lubawa"
-    }
-  },
-  {
-    "proxy": "socks5://88.218.206.170:5432",
-    "protocol": "socks5",
-    "ip": "88.218.206.170",
-    "port": 5432,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "PL",
-      "city": "Warsaw"
-    }
-  },
-  {
-    "proxy": "http://87.199.202.58:443",
-    "protocol": "http",
-    "ip": "87.199.202.58",
-    "port": 443,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "PL",
-      "city": "Unknown"
     }
   },
   {
@@ -585,9 +728,48 @@
     }
   },
   {
-    "proxy": "http://78.9.234.55:8080",
+    "proxy": "http://185.166.196.14:8443",
     "protocol": "http",
-    "ip": "78.9.234.55",
+    "ip": "185.166.196.14",
+    "port": 8443,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "PL",
+      "city": "Warsaw"
+    }
+  },
+  {
+    "proxy": "http://87.199.202.58:443",
+    "protocol": "http",
+    "ip": "87.199.202.58",
+    "port": 443,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "PL",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "http://185.238.238.169:58080",
+    "protocol": "http",
+    "ip": "185.238.238.169",
+    "port": 58080,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "PL",
+      "city": "Gmina Strzelin"
+    }
+  },
+  {
+    "proxy": "http://83.168.74.163:8080",
+    "protocol": "http",
+    "ip": "83.168.74.163",
     "port": 8080,
     "https": false,
     "anonymity": "transparent",
@@ -598,81 +780,42 @@
     }
   },
   {
-    "proxy": "http://145.239.80.10:3128",
+    "proxy": "http://193.221.203.14:1080",
     "protocol": "http",
-    "ip": "145.239.80.10",
-    "port": 3128,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "PL",
-      "city": "Wroclaw"
-    }
-  },
-  {
-    "proxy": "http://185.32.4.102:4153",
-    "protocol": "http",
-    "ip": "185.32.4.102",
-    "port": 4153,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "PL",
-      "city": "Unknown"
-    }
-  },
-  {
-    "proxy": "http://195.116.155.169:3629",
-    "protocol": "http",
-    "ip": "195.116.155.169",
-    "port": 3629,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "PL",
-      "city": "Krakow"
-    }
-  },
-  {
-    "proxy": "http://185.32.4.126:4153",
-    "protocol": "http",
-    "ip": "185.32.4.126",
-    "port": 4153,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "PL",
-      "city": "Unknown"
-    }
-  },
-  {
-    "proxy": "http://46.151.118.108:5678",
-    "protocol": "http",
-    "ip": "46.151.118.108",
-    "port": 5678,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "PL",
-      "city": "Lipsko"
-    }
-  },
-  {
-    "proxy": "http://109.95.175.64:1080",
-    "protocol": "http",
-    "ip": "109.95.175.64",
+    "ip": "193.221.203.14",
     "port": 1080,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
     "geolocation": {
       "country": "PL",
-      "city": "Lubawa"
+      "city": "Warsaw"
+    }
+  },
+  {
+    "proxy": "http://78.31.93.76:1080",
+    "protocol": "http",
+    "ip": "78.31.93.76",
+    "port": 1080,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "PL",
+      "city": "Racibórz"
+    }
+  },
+  {
+    "proxy": "http://185.49.31.205:8080",
+    "protocol": "http",
+    "ip": "185.49.31.205",
+    "port": 8080,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "PL",
+      "city": "Wroclaw"
     }
   },
   {
@@ -689,6 +832,58 @@
     }
   },
   {
+    "proxy": "http://79.110.200.27:8000",
+    "protocol": "http",
+    "ip": "79.110.200.27",
+    "port": 8000,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "PL",
+      "city": "Wroclaw"
+    }
+  },
+  {
+    "proxy": "http://31.42.2.113:5678",
+    "protocol": "http",
+    "ip": "31.42.2.113",
+    "port": 5678,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "PL",
+      "city": "Radomsko"
+    }
+  },
+  {
+    "proxy": "http://185.166.196.14:3128",
+    "protocol": "http",
+    "ip": "185.166.196.14",
+    "port": 3128,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "PL",
+      "city": "Warsaw"
+    }
+  },
+  {
+    "proxy": "http://79.110.192.44:8081",
+    "protocol": "http",
+    "ip": "79.110.192.44",
+    "port": 8081,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "PL",
+      "city": "Wroclaw"
+    }
+  },
+  {
     "proxy": "http://89.191.226.64:1080",
     "protocol": "http",
     "ip": "89.191.226.64",
@@ -699,19 +894,6 @@
     "geolocation": {
       "country": "PL",
       "city": "Warsaw"
-    }
-  },
-  {
-    "proxy": "http://77.65.50.118:34159",
-    "protocol": "http",
-    "ip": "77.65.50.118",
-    "port": 34159,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "PL",
-      "city": "Gmina Śrem"
     }
   },
   {
@@ -728,68 +910,16 @@
     }
   },
   {
-    "proxy": "http://89.191.226.51:1080",
+    "proxy": "http://79.110.202.131:8081",
     "protocol": "http",
-    "ip": "89.191.226.51",
-    "port": 1080,
+    "ip": "79.110.202.131",
+    "port": 8081,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
     "geolocation": {
       "country": "PL",
-      "city": "Warsaw"
-    }
-  },
-  {
-    "proxy": "http://212.126.5.242:42344",
-    "protocol": "http",
-    "ip": "212.126.5.242",
-    "port": 42344,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "PL",
-      "city": "Poznan"
-    }
-  },
-  {
-    "proxy": "http://91.150.189.122:1080",
-    "protocol": "http",
-    "ip": "91.150.189.122",
-    "port": 1080,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "PL",
-      "city": "Rzeszów"
-    }
-  },
-  {
-    "proxy": "http://46.171.28.162:59311",
-    "protocol": "http",
-    "ip": "46.171.28.162",
-    "port": 59311,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "PL",
-      "city": "Radomsko"
-    }
-  },
-  {
-    "proxy": "http://185.32.4.110:4153",
-    "protocol": "http",
-    "ip": "185.32.4.110",
-    "port": 4153,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "PL",
-      "city": "Unknown"
+      "city": "Wroclaw"
     }
   },
   {
@@ -803,6 +933,19 @@
     "geolocation": {
       "country": "PL",
       "city": "Radomsko"
+    }
+  },
+  {
+    "proxy": "http://185.79.138.128:3129",
+    "protocol": "http",
+    "ip": "185.79.138.128",
+    "port": 3129,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "PL",
+      "city": "Poznan"
     }
   }
 ]

@@ -26,29 +26,16 @@
     }
   },
   {
-    "proxy": "http://86.57.178.182:4153",
+    "proxy": "http://46.243.183.132:1080",
     "protocol": "http",
-    "ip": "86.57.178.182",
-    "port": 4153,
+    "ip": "46.243.183.132",
+    "port": 1080,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
     "geolocation": {
       "country": "BY",
-      "city": "Hrodna"
-    }
-  },
-  {
-    "proxy": "http://80.249.81.179:9050",
-    "protocol": "http",
-    "ip": "80.249.81.179",
-    "port": 9050,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "BY",
-      "city": "Unknown"
+      "city": "Minsk"
     }
   }
 ]

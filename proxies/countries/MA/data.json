@@ -37,31 +37,5 @@
       "country": "MA",
       "city": "Casablanca"
     }
-  },
-  {
-    "proxy": "http://41.140.89.71:10804",
-    "protocol": "http",
-    "ip": "41.140.89.71",
-    "port": 10804,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "MA",
-      "city": "Tangier"
-    }
-  },
-  {
-    "proxy": "http://105.159.161.206:4444",
-    "protocol": "http",
-    "ip": "105.159.161.206",
-    "port": 4444,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "MA",
-      "city": "Casablanca"
-    }
   }
 ]
