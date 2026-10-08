@@ -26,19 +26,6 @@
     }
   },
   {
-    "proxy": "http://5.188.23.147:5555",
-    "protocol": "http",
-    "ip": "5.188.23.147",
-    "port": 5555,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "EE",
-      "city": "Jõhvi"
-    }
-  },
-  {
     "proxy": "socks5://5.45.119.70:1080",
     "protocol": "socks5",
     "ip": "5.45.119.70",

@@ -78,16 +78,16 @@
     }
   },
   {
-    "proxy": "http://45.144.64.162:8899",
+    "proxy": "http://197.234.4.46:8921",
     "protocol": "http",
-    "ip": "45.144.64.162",
-    "port": 8899,
+    "ip": "197.234.4.46",
+    "port": 8921,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
     "geolocation": {
       "country": "SC",
-      "city": "Unknown"
+      "city": "Victoria"
     }
   }
 ]

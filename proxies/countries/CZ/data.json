@@ -1,18 +1,5 @@
 [
   {
-    "proxy": "socks4://109.69.211.18:1080",
-    "protocol": "socks4",
-    "ip": "109.69.211.18",
-    "port": 1080,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "CZ",
-      "city": "Chropyne"
-    }
-  },
-  {
     "proxy": "https://31.31.78.117:443",
     "protocol": "https",
     "ip": "31.31.78.117",
@@ -91,16 +78,16 @@
     }
   },
   {
-    "proxy": "http://95.129.101.73:80",
-    "protocol": "http",
-    "ip": "95.129.101.73",
-    "port": 80,
+    "proxy": "socks5://31.47.103.209:1080",
+    "protocol": "socks5",
+    "ip": "31.47.103.209",
+    "port": 1080,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
     "geolocation": {
       "country": "CZ",
-      "city": "Unknown"
+      "city": "Zabreh"
     }
   },
   {
@@ -153,19 +140,6 @@
     "geolocation": {
       "country": "CZ",
       "city": "Unknown"
-    }
-  },
-  {
-    "proxy": "socks5://31.47.103.209:1080",
-    "protocol": "socks5",
-    "ip": "31.47.103.209",
-    "port": 1080,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "CZ",
-      "city": "Zabreh"
     }
   },
   {
@@ -234,55 +208,16 @@
     }
   },
   {
-    "proxy": "http://78.111.112.118:4145",
+    "proxy": "http://77.240.102.149:800",
     "protocol": "http",
-    "ip": "78.111.112.118",
-    "port": 4145,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "CZ",
-      "city": "Kladno"
-    }
-  },
-  {
-    "proxy": "http://176.98.248.2:4153",
-    "protocol": "http",
-    "ip": "176.98.248.2",
-    "port": 4153,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "CZ",
-      "city": "Brezi"
-    }
-  },
-  {
-    "proxy": "http://88.146.222.250:8000",
-    "protocol": "http",
-    "ip": "88.146.222.250",
-    "port": 8000,
+    "ip": "77.240.102.149",
+    "port": 800,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
     "geolocation": {
       "country": "CZ",
       "city": "Prague"
-    }
-  },
-  {
-    "proxy": "http://90.178.216.215:4153",
-    "protocol": "http",
-    "ip": "90.178.216.215",
-    "port": 4153,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "CZ",
-      "city": "Unknown"
     }
   },
   {
@@ -299,19 +234,6 @@
     }
   },
   {
-    "proxy": "http://194.87.244.90:1080",
-    "protocol": "http",
-    "ip": "194.87.244.90",
-    "port": 1080,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "CZ",
-      "city": "Unknown"
-    }
-  },
-  {
     "proxy": "http://213.151.79.84:8080",
     "protocol": "http",
     "ip": "213.151.79.84",
@@ -322,6 +244,32 @@
     "geolocation": {
       "country": "CZ",
       "city": "Prague"
+    }
+  },
+  {
+    "proxy": "http://46.8.104.176:1080",
+    "protocol": "http",
+    "ip": "46.8.104.176",
+    "port": 1080,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "CZ",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "http://78.111.112.118:4145",
+    "protocol": "http",
+    "ip": "78.111.112.118",
+    "port": 4145,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "CZ",
+      "city": "Kladno"
     }
   }
 ]

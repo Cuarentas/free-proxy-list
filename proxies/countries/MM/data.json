@@ -1,28 +1,15 @@
 [
   {
-    "proxy": "http://202.165.94.170:8082",
+    "proxy": "http://185.133.213.86:8074",
     "protocol": "http",
-    "ip": "202.165.94.170",
-    "port": 8082,
+    "ip": "185.133.213.86",
+    "port": 8074,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
     "geolocation": {
       "country": "MM",
-      "city": "Unknown"
-    }
-  },
-  {
-    "proxy": "http://37.111.51.146:8080",
-    "protocol": "http",
-    "ip": "37.111.51.146",
-    "port": 8080,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "MM",
-      "city": "Unknown"
+      "city": "Yangon"
     }
   },
   {
@@ -36,19 +23,6 @@
     "geolocation": {
       "country": "MM",
       "city": "Unknown"
-    }
-  },
-  {
-    "proxy": "http://185.133.213.86:8074",
-    "protocol": "http",
-    "ip": "185.133.213.86",
-    "port": 8074,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "MM",
-      "city": "Yangon"
     }
   }
 ]

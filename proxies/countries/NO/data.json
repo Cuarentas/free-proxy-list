@@ -1,5 +1,18 @@
 [
   {
+    "proxy": "socks4://84.52.227.36:9050",
+    "protocol": "socks4",
+    "ip": "84.52.227.36",
+    "port": 9050,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "NO",
+      "city": "Stjordal"
+    }
+  },
+  {
     "proxy": "socks5://84.52.227.36:9050",
     "protocol": "socks5",
     "ip": "84.52.227.36",
@@ -26,10 +39,10 @@
     }
   },
   {
-    "proxy": "http://45.135.139.152:6455",
+    "proxy": "http://45.135.139.114:6417",
     "protocol": "http",
-    "ip": "45.135.139.152",
-    "port": 6455,
+    "ip": "45.135.139.114",
+    "port": 6417,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
@@ -39,10 +52,10 @@
     }
   },
   {
-    "proxy": "http://45.135.139.82:6385",
+    "proxy": "http://45.135.139.38:6341",
     "protocol": "http",
-    "ip": "45.135.139.82",
-    "port": 6385,
+    "ip": "45.135.139.38",
+    "port": 6341,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
@@ -52,10 +65,10 @@
     }
   },
   {
-    "proxy": "http://45.135.139.22:6325",
+    "proxy": "http://45.135.139.250:6553",
     "protocol": "http",
-    "ip": "45.135.139.22",
-    "port": 6325,
+    "ip": "45.135.139.250",
+    "port": 6553,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
@@ -65,10 +78,10 @@
     }
   },
   {
-    "proxy": "http://45.135.139.171:6474",
+    "proxy": "http://45.135.139.15:6318",
     "protocol": "http",
-    "ip": "45.135.139.171",
-    "port": 6474,
+    "ip": "45.135.139.15",
+    "port": 6318,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
@@ -78,23 +91,10 @@
     }
   },
   {
-    "proxy": "http://45.135.139.64:6367",
+    "proxy": "http://45.135.139.248:6551",
     "protocol": "http",
-    "ip": "45.135.139.64",
-    "port": 6367,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "NO",
-      "city": "Oslo"
-    }
-  },
-  {
-    "proxy": "http://45.135.139.228:6531",
-    "protocol": "http",
-    "ip": "45.135.139.228",
-    "port": 6531,
+    "ip": "45.135.139.248",
+    "port": 6551,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
@@ -114,6 +114,32 @@
     "geolocation": {
       "country": "NO",
       "city": "Harestua"
+    }
+  },
+  {
+    "proxy": "http://45.135.139.91:6394",
+    "protocol": "http",
+    "ip": "45.135.139.91",
+    "port": 6394,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "NO",
+      "city": "Oslo"
+    }
+  },
+  {
+    "proxy": "http://45.135.139.35:6338",
+    "protocol": "http",
+    "ip": "45.135.139.35",
+    "port": 6338,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "NO",
+      "city": "Oslo"
     }
   }
 ]
