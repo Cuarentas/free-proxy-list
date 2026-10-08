@@ -1,0 +1,15 @@
+[
+  {
+    "proxy": "http://196.179.234.18:8989",
+    "protocol": "http",
+    "ip": "196.179.234.18",
+    "port": 8989,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "TN",
+      "city": "Unknown"
+    }
+  }
+]

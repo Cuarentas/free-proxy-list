@@ -1,44 +1,5 @@
 [
   {
-    "proxy": "https://195.192.209.130:443",
-    "protocol": "https",
-    "ip": "195.192.209.130",
-    "port": 443,
-    "https": true,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "AT",
-      "city": "Salzburg"
-    }
-  },
-  {
-    "proxy": "https://195.192.209.130:9443",
-    "protocol": "https",
-    "ip": "195.192.209.130",
-    "port": 9443,
-    "https": true,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "AT",
-      "city": "Salzburg"
-    }
-  },
-  {
-    "proxy": "https://195.192.209.130:8443",
-    "protocol": "https",
-    "ip": "195.192.209.130",
-    "port": 8443,
-    "https": true,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "AT",
-      "city": "Salzburg"
-    }
-  },
-  {
     "proxy": "https://185.232.70.11:443",
     "protocol": "https",
     "ip": "185.232.70.11",
@@ -117,6 +78,19 @@
     }
   },
   {
+    "proxy": "socks5://78.153.130.53:9050",
+    "protocol": "socks5",
+    "ip": "78.153.130.53",
+    "port": 9050,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "AT",
+      "city": "Vienna"
+    }
+  },
+  {
     "proxy": "socks5://194.182.187.78:1080",
     "protocol": "socks5",
     "ip": "194.182.187.78",
@@ -156,19 +130,6 @@
     }
   },
   {
-    "proxy": "socks5://78.153.130.53:9050",
-    "protocol": "socks5",
-    "ip": "78.153.130.53",
-    "port": 9050,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "AT",
-      "city": "Vienna"
-    }
-  },
-  {
     "proxy": "socks5://185.175.58.225:18889",
     "protocol": "socks5",
     "ip": "185.175.58.225",
@@ -195,19 +156,6 @@
     }
   },
   {
-    "proxy": "http://90.146.196.18:8080",
-    "protocol": "http",
-    "ip": "90.146.196.18",
-    "port": 8080,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "AT",
-      "city": "Pasching"
-    }
-  },
-  {
     "proxy": "http://194.182.187.78:1080",
     "protocol": "http",
     "ip": "194.182.187.78",
@@ -218,6 +166,19 @@
     "geolocation": {
       "country": "AT",
       "city": "Vienna"
+    }
+  },
+  {
+    "proxy": "http://90.146.196.18:8080",
+    "protocol": "http",
+    "ip": "90.146.196.18",
+    "port": 8080,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "AT",
+      "city": "Pasching"
     }
   },
   {

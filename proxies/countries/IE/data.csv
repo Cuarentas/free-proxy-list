@@ -28,7 +28,12 @@ https://89.124.8.82:443,IE,Unknown
 https://18.200.158.139:443,IE,Dublin
 https://89.124.8.76:443,IE,Unknown
 https://34.249.214.108:443,IE,Dublin
-socks4://78.17.19.244:10808,IE,Bray
+https://89.124.8.83:443,IE,Unknown
+https://89.125.129.150:443,IE,Dublin
+http://20.223.124.87:3128,IE,Dublin
+http://89.125.75.109:443,IE,Tuam
+socks4://89.124.81.186:1082,IE,Unknown
+http://18.202.134.93:8888,IE,Dublin
 http://212.147.232.251:80,IE,Unknown
 socks5://89.124.81.186:1082,IE,Unknown
 socks5://78.17.19.244:10808,IE,Bray
@@ -38,7 +43,9 @@ socks5://171.22.182.164:1080,IE,Dublin
 socks5://78.17.53.56:8080,IE,Droichead Nua
 socks5://78.17.19.43:1080,IE,Bray
 socks5://89.124.71.32:1080,IE,Unknown
-http://18.202.134.93:8888,IE,Dublin
+http://78.17.19.244:10808,IE,Bray
+http://78.17.98.235:8080,IE,Galway
 http://54.229.179.244:8080,IE,Dublin
 http://171.22.182.164:1080,IE,Dublin
 http://87.192.231.122:3128,IE,Unknown
+http://20.223.124.87:3129,IE,Dublin
