@@ -26,16 +26,42 @@
     }
   },
   {
-    "proxy": "http://105.155.20.225:58080",
+    "proxy": "http://105.155.131.21:3200",
     "protocol": "http",
-    "ip": "105.155.20.225",
-    "port": 58080,
+    "ip": "105.155.131.21",
+    "port": 3200,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
     "geolocation": {
       "country": "MA",
-      "city": "Tangier"
+      "city": "Khouribga"
+    }
+  },
+  {
+    "proxy": "http://196.65.65.254:3128",
+    "protocol": "http",
+    "ip": "196.65.65.254",
+    "port": 3128,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "MA",
+      "city": "Beni Mellal"
+    }
+  },
+  {
+    "proxy": "http://105.157.235.107:4001",
+    "protocol": "http",
+    "ip": "105.157.235.107",
+    "port": 4001,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "MA",
+      "city": "Casablanca"
     }
   }
 ]

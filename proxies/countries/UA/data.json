@@ -26,10 +26,23 @@
     }
   },
   {
-    "proxy": "http://178.92.72.229:8080",
-    "protocol": "http",
-    "ip": "178.92.72.229",
-    "port": 8080,
+    "proxy": "socks4://185.132.1.221:4145",
+    "protocol": "socks4",
+    "ip": "185.132.1.221",
+    "port": 4145,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "UA",
+      "city": "Odesa"
+    }
+  },
+  {
+    "proxy": "socks5://178.92.72.205:1080",
+    "protocol": "socks5",
+    "ip": "178.92.72.205",
+    "port": 1080,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
@@ -52,36 +65,62 @@
     }
   },
   {
-    "proxy": "socks4://193.106.57.96:5678",
-    "protocol": "socks4",
-    "ip": "193.106.57.96",
-    "port": 5678,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "UA",
-      "city": "Kyiv"
-    }
-  },
-  {
-    "proxy": "http://82.207.117.120:8080",
+    "proxy": "http://178.92.72.94:8080",
     "protocol": "http",
-    "ip": "82.207.117.120",
+    "ip": "178.92.72.94",
     "port": 8080,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
     "geolocation": {
       "country": "UA",
-      "city": "Chernihiv"
+      "city": "Zhytomyr"
     }
   },
   {
-    "proxy": "socks4://185.132.1.221:4145",
-    "protocol": "socks4",
-    "ip": "185.132.1.221",
-    "port": 4145,
+    "proxy": "http://178.251.111.28:8080",
+    "protocol": "http",
+    "ip": "178.251.111.28",
+    "port": 8080,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "UA",
+      "city": "Putyvl'"
+    }
+  },
+  {
+    "proxy": "http://31.148.99.133:4000",
+    "protocol": "http",
+    "ip": "31.148.99.133",
+    "port": 4000,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "UA",
+      "city": "Lviv"
+    }
+  },
+  {
+    "proxy": "http://178.92.72.68:8080",
+    "protocol": "http",
+    "ip": "178.92.72.68",
+    "port": 8080,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "UA",
+      "city": "Zhytomyr"
+    }
+  },
+  {
+    "proxy": "http://45.149.24.19:8088",
+    "protocol": "http",
+    "ip": "45.149.24.19",
+    "port": 8088,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
@@ -91,29 +130,29 @@
     }
   },
   {
-    "proxy": "http://91.210.108.19:8080",
+    "proxy": "http://89.162.155.254:8080",
     "protocol": "http",
-    "ip": "91.210.108.19",
+    "ip": "89.162.155.254",
     "port": 8080,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
     "geolocation": {
       "country": "UA",
-      "city": "Smila"
+      "city": "Kyiv"
     }
   },
   {
-    "proxy": "http://195.226.213.254:8888",
+    "proxy": "http://195.34.91.67:8080",
     "protocol": "http",
-    "ip": "195.226.213.254",
-    "port": 8888,
+    "ip": "195.34.91.67",
+    "port": 8080,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
     "geolocation": {
       "country": "UA",
-      "city": "Fontanka"
+      "city": "Kyiv"
     }
   },
   {
@@ -127,32 +166,6 @@
     "geolocation": {
       "country": "UA",
       "city": "Simferopol"
-    }
-  },
-  {
-    "proxy": "http://134.249.86.47:8080",
-    "protocol": "http",
-    "ip": "134.249.86.47",
-    "port": 8080,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "UA",
-      "city": "Kyiv"
-    }
-  },
-  {
-    "proxy": "socks5://178.92.72.205:1080",
-    "protocol": "socks5",
-    "ip": "178.92.72.205",
-    "port": 1080,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "UA",
-      "city": "Zhytomyr"
     }
   },
   {
@@ -832,192 +845,10 @@
     }
   },
   {
-    "proxy": "http://94.179.153.218:8081",
+    "proxy": "http://46.203.233.116:3128",
     "protocol": "http",
-    "ip": "94.179.153.218",
-    "port": 8081,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "UA",
-      "city": "Unknown"
-    }
-  },
-  {
-    "proxy": "http://178.92.72.94:8080",
-    "protocol": "http",
-    "ip": "178.92.72.94",
-    "port": 8080,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "UA",
-      "city": "Zhytomyr"
-    }
-  },
-  {
-    "proxy": "http://178.92.72.134:8080",
-    "protocol": "http",
-    "ip": "178.92.72.134",
-    "port": 8080,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "UA",
-      "city": "Zhytomyr"
-    }
-  },
-  {
-    "proxy": "http://45.149.24.48:8080",
-    "protocol": "http",
-    "ip": "45.149.24.48",
-    "port": 8080,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "UA",
-      "city": "Odesa"
-    }
-  },
-  {
-    "proxy": "http://212.3.127.242:10801",
-    "protocol": "http",
-    "ip": "212.3.127.242",
-    "port": 10801,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "UA",
-      "city": "Dnipro"
-    }
-  },
-  {
-    "proxy": "http://178.92.72.162:8080",
-    "protocol": "http",
-    "ip": "178.92.72.162",
-    "port": 8080,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "UA",
-      "city": "Zhytomyr"
-    }
-  },
-  {
-    "proxy": "http://159.224.232.194:8888",
-    "protocol": "http",
-    "ip": "159.224.232.194",
-    "port": 8888,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "UA",
-      "city": "Dnipro"
-    }
-  },
-  {
-    "proxy": "http://80.92.227.185:5678",
-    "protocol": "http",
-    "ip": "80.92.227.185",
-    "port": 5678,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "UA",
-      "city": "Kyiv"
-    }
-  },
-  {
-    "proxy": "http://46.98.192.116:5678",
-    "protocol": "http",
-    "ip": "46.98.192.116",
-    "port": 5678,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "UA",
-      "city": "Poltava"
-    }
-  },
-  {
-    "proxy": "http://213.111.146.36:18080",
-    "protocol": "http",
-    "ip": "213.111.146.36",
-    "port": 18080,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "UA",
-      "city": "Unknown"
-    }
-  },
-  {
-    "proxy": "http://178.92.72.194:8080",
-    "protocol": "http",
-    "ip": "178.92.72.194",
-    "port": 8080,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "UA",
-      "city": "Zhytomyr"
-    }
-  },
-  {
-    "proxy": "http://176.37.21.46:41890",
-    "protocol": "http",
-    "ip": "176.37.21.46",
-    "port": 41890,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "UA",
-      "city": "Kyiv"
-    }
-  },
-  {
-    "proxy": "http://178.159.124.54:65056",
-    "protocol": "http",
-    "ip": "178.159.124.54",
-    "port": 65056,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "UA",
-      "city": "Simferopol"
-    }
-  },
-  {
-    "proxy": "http://178.92.72.73:8080",
-    "protocol": "http",
-    "ip": "178.92.72.73",
-    "port": 8080,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "UA",
-      "city": "Zhytomyr"
-    }
-  },
-  {
-    "proxy": "http://46.202.227.250:8257",
-    "protocol": "http",
-    "ip": "46.202.227.250",
-    "port": 8257,
+    "ip": "46.203.233.116",
+    "port": 3128,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
@@ -1040,87 +871,9 @@
     }
   },
   {
-    "proxy": "http://31.148.207.153:80",
+    "proxy": "http://178.251.111.21:8080",
     "protocol": "http",
-    "ip": "31.148.207.153",
-    "port": 80,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "UA",
-      "city": "Khmelnytskyi"
-    }
-  },
-  {
-    "proxy": "http://91.238.103.65:80",
-    "protocol": "http",
-    "ip": "91.238.103.65",
-    "port": 80,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "UA",
-      "city": "Unknown"
-    }
-  },
-  {
-    "proxy": "http://46.202.78.10:8272",
-    "protocol": "http",
-    "ip": "46.202.78.10",
-    "port": 8272,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "UA",
-      "city": "Unknown"
-    }
-  },
-  {
-    "proxy": "http://195.78.100.186:3629",
-    "protocol": "http",
-    "ip": "195.78.100.186",
-    "port": 3629,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "UA",
-      "city": "Nova Vodolaha"
-    }
-  },
-  {
-    "proxy": "http://178.92.72.205:1080",
-    "protocol": "http",
-    "ip": "178.92.72.205",
-    "port": 1080,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "UA",
-      "city": "Zhytomyr"
-    }
-  },
-  {
-    "proxy": "http://92.118.132.125:8080",
-    "protocol": "http",
-    "ip": "92.118.132.125",
-    "port": 8080,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "UA",
-      "city": "Luhansk"
-    }
-  },
-  {
-    "proxy": "http://178.251.111.22:8080",
-    "protocol": "http",
-    "ip": "178.251.111.22",
+    "ip": "178.251.111.21",
     "port": 8080,
     "https": false,
     "anonymity": "transparent",
@@ -1131,23 +884,140 @@
     }
   },
   {
-    "proxy": "http://93.175.204.173:8080",
+    "proxy": "http://195.226.213.254:8888",
     "protocol": "http",
-    "ip": "93.175.204.173",
+    "ip": "195.226.213.254",
+    "port": 8888,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "UA",
+      "city": "Fontanka"
+    }
+  },
+  {
+    "proxy": "http://185.65.247.133:48049",
+    "protocol": "http",
+    "ip": "185.65.247.133",
+    "port": 48049,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "UA",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "http://178.92.72.162:8080",
+    "protocol": "http",
+    "ip": "178.92.72.162",
     "port": 8080,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
     "geolocation": {
       "country": "UA",
-      "city": "Ivano-Frankivsk"
+      "city": "Zhytomyr"
     }
   },
   {
-    "proxy": "http://45.149.24.19:8088",
+    "proxy": "http://46.202.68.223:7968",
     "protocol": "http",
-    "ip": "45.149.24.19",
-    "port": 8088,
+    "ip": "46.202.68.223",
+    "port": 7968,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "UA",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "http://178.92.72.54:8080",
+    "protocol": "http",
+    "ip": "178.92.72.54",
+    "port": 8080,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "UA",
+      "city": "Zhytomyr"
+    }
+  },
+  {
+    "proxy": "http://178.92.72.165:8080",
+    "protocol": "http",
+    "ip": "178.92.72.165",
+    "port": 8080,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "UA",
+      "city": "Zhytomyr"
+    }
+  },
+  {
+    "proxy": "http://31.43.33.56:4153",
+    "protocol": "http",
+    "ip": "31.43.33.56",
+    "port": 4153,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "UA",
+      "city": "Kaharlyk"
+    }
+  },
+  {
+    "proxy": "http://94.179.153.218:8081",
+    "protocol": "http",
+    "ip": "94.179.153.218",
+    "port": 8081,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "UA",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "http://92.113.7.77:6803",
+    "protocol": "http",
+    "ip": "92.113.7.77",
+    "port": 6803,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "UA",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "http://31.43.63.70:4145",
+    "protocol": "http",
+    "ip": "31.43.63.70",
+    "port": 4145,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "UA",
+      "city": "Kyiv"
+    }
+  },
+  {
+    "proxy": "http://185.132.1.221:4145",
+    "protocol": "http",
+    "ip": "185.132.1.221",
+    "port": 4145,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
@@ -1157,55 +1027,16 @@
     }
   },
   {
-    "proxy": "http://31.148.99.133:4000",
+    "proxy": "http://176.37.107.86:11111",
     "protocol": "http",
-    "ip": "31.148.99.133",
-    "port": 4000,
+    "ip": "176.37.107.86",
+    "port": 11111,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
     "geolocation": {
       "country": "UA",
-      "city": "Lviv"
-    }
-  },
-  {
-    "proxy": "http://178.251.111.23:8080",
-    "protocol": "http",
-    "ip": "178.251.111.23",
-    "port": 8080,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "UA",
-      "city": "Putyvl'"
-    }
-  },
-  {
-    "proxy": "http://178.92.72.129:8080",
-    "protocol": "http",
-    "ip": "178.92.72.129",
-    "port": 8080,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "UA",
-      "city": "Zhytomyr"
-    }
-  },
-  {
-    "proxy": "http://46.202.68.127:7872",
-    "protocol": "http",
-    "ip": "46.202.68.127",
-    "port": 7872,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "UA",
-      "city": "Unknown"
+      "city": "Kyiv"
     }
   },
   {
@@ -1235,22 +1066,9 @@
     }
   },
   {
-    "proxy": "http://176.105.212.219:8080",
+    "proxy": "http://178.92.72.229:8080",
     "protocol": "http",
-    "ip": "176.105.212.219",
-    "port": 8080,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "UA",
-      "city": "Poltava"
-    }
-  },
-  {
-    "proxy": "http://178.92.72.78:8080",
-    "protocol": "http",
-    "ip": "178.92.72.78",
+    "ip": "178.92.72.229",
     "port": 8080,
     "https": false,
     "anonymity": "transparent",
@@ -1261,16 +1079,16 @@
     }
   },
   {
-    "proxy": "http://176.37.107.86:11111",
+    "proxy": "http://31.43.33.55:4153",
     "protocol": "http",
-    "ip": "176.37.107.86",
-    "port": 11111,
+    "ip": "31.43.33.55",
+    "port": 4153,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
     "geolocation": {
       "country": "UA",
-      "city": "Kyiv"
+      "city": "Kaharlyk"
     }
   },
   {
@@ -1287,10 +1105,140 @@
     }
   },
   {
-    "proxy": "http://46.202.78.244:8506",
+    "proxy": "http://193.107.75.242:33500",
     "protocol": "http",
-    "ip": "46.202.78.244",
-    "port": 8506,
+    "ip": "193.107.75.242",
+    "port": 33500,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "UA",
+      "city": "Zhytomyr"
+    }
+  },
+  {
+    "proxy": "http://178.92.72.194:8080",
+    "protocol": "http",
+    "ip": "178.92.72.194",
+    "port": 8080,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "UA",
+      "city": "Zhytomyr"
+    }
+  },
+  {
+    "proxy": "http://195.78.100.186:3629",
+    "protocol": "http",
+    "ip": "195.78.100.186",
+    "port": 3629,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "UA",
+      "city": "Nova Vodolaha"
+    }
+  },
+  {
+    "proxy": "http://178.92.72.78:8080",
+    "protocol": "http",
+    "ip": "178.92.72.78",
+    "port": 8080,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "UA",
+      "city": "Zhytomyr"
+    }
+  },
+  {
+    "proxy": "http://178.92.72.129:8080",
+    "protocol": "http",
+    "ip": "178.92.72.129",
+    "port": 8080,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "UA",
+      "city": "Zhytomyr"
+    }
+  },
+  {
+    "proxy": "http://93.175.204.173:8080",
+    "protocol": "http",
+    "ip": "93.175.204.173",
+    "port": 8080,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "UA",
+      "city": "Ivano-Frankivsk"
+    }
+  },
+  {
+    "proxy": "http://178.92.72.154:8080",
+    "protocol": "http",
+    "ip": "178.92.72.154",
+    "port": 8080,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "UA",
+      "city": "Zhytomyr"
+    }
+  },
+  {
+    "proxy": "http://92.118.132.125:8080",
+    "protocol": "http",
+    "ip": "92.118.132.125",
+    "port": 8080,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "UA",
+      "city": "Luhansk"
+    }
+  },
+  {
+    "proxy": "http://193.200.151.69:32777",
+    "protocol": "http",
+    "ip": "193.200.151.69",
+    "port": 32777,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "UA",
+      "city": "Rozdilna"
+    }
+  },
+  {
+    "proxy": "http://195.114.7.6:1080",
+    "protocol": "http",
+    "ip": "195.114.7.6",
+    "port": 1080,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "UA",
+      "city": "Simferopol"
+    }
+  },
+  {
+    "proxy": "http://91.238.103.65:80",
+    "protocol": "http",
+    "ip": "91.238.103.65",
+    "port": 80,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
@@ -1300,10 +1248,10 @@
     }
   },
   {
-    "proxy": "http://178.92.72.165:8080",
+    "proxy": "http://178.92.72.205:1080",
     "protocol": "http",
-    "ip": "178.92.72.165",
-    "port": 8080,
+    "ip": "178.92.72.205",
+    "port": 1080,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
@@ -1313,42 +1261,16 @@
     }
   },
   {
-    "proxy": "http://195.140.226.32:5678",
+    "proxy": "http://134.249.185.223:41890",
     "protocol": "http",
-    "ip": "195.140.226.32",
-    "port": 5678,
+    "ip": "134.249.185.223",
+    "port": 41890,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
     "geolocation": {
       "country": "UA",
-      "city": "Kharkiv"
-    }
-  },
-  {
-    "proxy": "http://178.251.111.19:8080",
-    "protocol": "http",
-    "ip": "178.251.111.19",
-    "port": 8080,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "UA",
-      "city": "Putyvl'"
-    }
-  },
-  {
-    "proxy": "http://178.92.72.54:8080",
-    "protocol": "http",
-    "ip": "178.92.72.54",
-    "port": 8080,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "UA",
-      "city": "Zhytomyr"
+      "city": "Kyiv"
     }
   }
 ]
