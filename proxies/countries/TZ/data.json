@@ -76,18 +76,5 @@
       "country": "TZ",
       "city": "Unknown"
     }
-  },
-  {
-    "proxy": "http://41.59.112.185:8090",
-    "protocol": "http",
-    "ip": "41.59.112.185",
-    "port": 8090,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "TZ",
-      "city": "Unknown"
-    }
   }
 ]
