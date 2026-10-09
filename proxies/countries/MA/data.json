@@ -1,18 +1,5 @@
 [
   {
-    "proxy": "http://105.159.154.247:4040",
-    "protocol": "http",
-    "ip": "105.159.154.247",
-    "port": 4040,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "MA",
-      "city": "Casablanca"
-    }
-  },
-  {
     "proxy": "socks5://105.159.153.123:4567",
     "protocol": "socks5",
     "ip": "105.159.153.123",
