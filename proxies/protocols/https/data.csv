@@ -9,6 +9,7 @@ https://84.17.47.124:9002,NL,Amsterdam
 https://129.151.160.199:443,ZA,Johannesburg
 https://74.103.66.15:443,US,Gambrills
 https://128.199.207.200:443,SG,Singapore
+https://45.114.142.178:443,IN,Unknown
 https://138.199.35.215:9002,US,Los Angeles
 https://138.199.35.214:9002,US,Los Angeles
 https://138.199.35.213:9002,US,Los Angeles
@@ -61,10 +62,9 @@ https://89.111.30.182:443,LV,Unknown
 https://37.203.37.92:443,LV,Unknown
 https://89.111.31.249:443,LV,Unknown
 https://185.219.157.125:443,LV,Unknown
-https://173.249.37.45:5006,DE,Nuremberg
+https://117.82.138.100:1080,CN,Shanghai
 https://5.255.97.220:443,NL,Unknown
 https://89.111.30.252:443,LV,Unknown
-https://173.249.37.45:5051,DE,Nuremberg
 https://193.176.84.34:9002,RO,Bucharest
 https://193.176.84.20:9002,RO,Bucharest
 https://193.176.84.36:9002,RO,Bucharest
@@ -149,7 +149,6 @@ https://34.93.103.38:443,IN,Mumbai
 https://203.193.169.112:443,IN,Unknown
 https://79.188.239.45:8443,PL,Warsaw
 https://79.188.239.42:8443,PL,Warsaw
-https://130.52.199.50:443,US,Unknown
 https://133.242.152.27:443,JP,Tokyo
 https://84.72.72.153:443,CH,Muri
 https://195.192.209.130:443,AT,Salzburg
@@ -166,10 +165,10 @@ https://149.210.158.107:5001,NL,Nuenen
 https://81.171.24.164:443,NL,Unknown
 https://52.140.7.131:443,IN,Chennai
 https://134.0.63.185:443,AL,Tirana
+https://165.22.60.108:443,SG,Singapore
 https://210.48.154.99:443,MY,Unknown
 https://3.109.65.43:443,IN,Mumbai
 https://129.97.50.72:443,CA,Waterloo
-https://210.19.96.163:443,MY,Unknown
 https://213.241.124.228:443,PL,Osielsko
 https://45.56.228.8:443,GB,Canterbury
 https://161.35.159.29:443,NL,Amsterdam
@@ -198,6 +197,7 @@ https://152.71.251.13:443,GB,Nottingham
 https://79.188.239.41:8443,PL,Warsaw
 https://212.243.240.120:443,CH,Zurich
 https://51.38.179.176:443,FR,Unknown
+https://185.96.121.243:9443,PL,Nowy Targ
 https://192.154.227.9:3001,US,Dallas
 https://34.93.13.41:443,IN,Mumbai
 https://88.197.53.165:443,GR,Kallithea
@@ -212,7 +212,6 @@ https://79.188.239.44:8443,PL,Warsaw
 https://46.229.114.132:40000,CZ,Dolni Dobrouc
 https://91.227.97.113:443,CZ,Unknown
 https://45.9.61.18:443,DE,Unknown
-https://196.21.61.67:443,ZA,Durban
 https://88.135.143.159:443,LV,Riga
 https://104.236.195.215:443,US,Clifton
 https://196.21.109.82:443,ZA,Pretoria
@@ -269,7 +268,6 @@ https://93.71.245.84:8090,IT,Tivoli
 https://47.254.229.162:443,MY,Kuala Lumpur
 https://198.40.90.50:443,DE,Unknown
 https://210.89.42.108:443,IN,Unknown
-https://209.148.53.153:8090,US,Unknown
 https://52.196.49.70:443,JP,Tokyo
 https://34.70.204.223:443,US,Council Bluffs
 https://50.76.211.251:8090,US,Memphis
@@ -295,8 +293,9 @@ https://91.243.118.217:443,IT,Vigevano
 https://37.139.2.121:443,NL,Amsterdam
 https://195.22.25.125:443,PT,Lisbon
 https://82.96.128.175:8090,FR,Courbevoie
+https://185.68.28.79:443,CZ,Klatovy
+https://83.206.1.225:8090,FR,Froges
 https://66.70.170.84:443,CA,Unknown
-https://173.13.157.60:443,US,Brentwood
 https://184.188.139.2:8090,US,Fairfax
 https://202.79.220.178:443,SG,Singapore
 https://13.65.27.74:443,US,San Antonio
@@ -310,6 +309,7 @@ https://52.15.81.47:443,US,Columbus
 https://71.43.26.234:443,US,Indialantic
 https://45.131.254.246:443,CH,Richterswil
 https://50.184.176.222:8090,US,Charleston
+https://163.223.186.141:443,IN,Unknown
 https://212.200.119.174:443,RS,Aleksandrovac
 https://83.172.143.53:4443,NL,Unknown
 https://109.116.41.154:443,IT,Spoleto
@@ -326,6 +326,7 @@ https://149.12.210.39:443,FR,Strasbourg
 https://82.194.68.10:443,ES,Unknown
 https://160.16.144.120:443,JP,Tokyo
 https://130.131.9.141:443,US,Chicago
+https://194.173.174.175:9443,DE,Nuremberg
 https://143.198.192.178:443,SG,Singapore
 https://54.144.96.169:443,US,Ashburn
 https://130.180.211.56:443,FR,Unknown
@@ -342,6 +343,7 @@ https://80.124.109.22:8090,FR,Issy-les-Moulineaux
 https://159.203.165.195:443,US,Clifton
 https://14.99.141.239:443,IN,Hyderabad
 https://5.158.70.34:443,IT,Salerno
+https://80.15.99.54:8090,FR,Cannes
 https://4.213.225.50:443,IN,Pune
 https://20.235.106.55:443,IN,Pune
 https://89.124.8.26:443,IE,Unknown
@@ -366,6 +368,7 @@ https://207.244.89.162:3172,US,Baltimore
 https://89.124.8.82:443,IE,Unknown
 https://69.160.109.210:4444,JM,Kingston
 https://51.75.66.56:3128,DE,Unknown
+https://95.153.31.66:9443,EE,Tallinn
 https://64.119.193.154:443,BB,Bridgetown
 https://150.230.51.152:443,SA,Eastern Province
 https://158.173.154.1:9002,DK,Unknown
@@ -375,12 +378,14 @@ https://158.173.154.4:9002,DK,Unknown
 https://158.173.154.5:9002,DK,Unknown
 https://20.219.163.207:443,IN,Pune
 https://129.212.181.253:8443,US,Unknown
+https://103.251.94.188:443,IN,Unknown
 https://103.251.94.10:443,IN,Unknown
 https://159.13.44.228:443,AU,Bungarribee
 https://5.59.248.134:8443,IT,Pomezia
 https://18.200.158.139:443,IE,Dublin
 https://190.128.253.82:8444,PY,Asunción
 https://216.218.159.87:443,US,Unknown
+https://69.70.52.198:443,CA,Montreal
 https://46.29.166.134:1446,RU,Moscow
 https://64.188.62.23:8888,US,Unknown
 https://52.187.116.36:443,SG,Singapore
@@ -391,6 +396,8 @@ https://38.55.192.122:443,HK,Hong Kong
 https://45.154.87.153:443,NL,Amsterdam
 https://51.161.54.150:443,CA,Pointe-Claire
 https://45.63.38.134:443,US,Kent
+https://152.233.20.206:443,BR,Unknown
+https://37.221.113.146:443,GB,Poplar
 https://82.98.66.111:443,DE,Munich
 https://154.26.138.78:443,US,Unknown
 https://43.133.231.149:443,KR,Seoul
@@ -399,6 +406,7 @@ https://202.61.105.82:443,ID,Unknown
 https://217.110.121.54:443,DE,Hamburg
 https://89.111.31.247:443,LV,Unknown
 https://103.40.138.14:443,TH,Pattaya
+https://12.221.146.147:9443,US,Unknown
 https://164.160.240.37:443,GH,Accra
 https://94.102.226.59:443,ME,Unknown
 https://24.51.117.170:443,BS,Nassau
@@ -420,6 +428,8 @@ https://38.28.193.215:443,US,Unknown
 https://91.221.229.86:443,AM,Unknown
 https://209.38.89.114:443,US,Unknown
 https://138.66.66.229:443,IT,Unknown
+https://138.66.65.52:443,IT,Unknown
+https://138.66.66.225:443,IT,Unknown
 https://13.201.217.41:443,IN,Mumbai
 https://38.28.193.178:443,US,Unknown
 https://38.28.193.122:443,US,Unknown
@@ -439,6 +449,7 @@ https://37.203.35.7:443,LV,Unknown
 https://194.186.179.62:443,RU,Irkutsk
 https://8.216.57.38:443,JP,Tokyo
 https://23.133.176.14:443,US,Dallas
+https://58.120.141.74:443,KR,Geumcheon-gu
 https://4.193.133.242:443,SG,Singapore
 https://79.137.85.144:443,FR,Unknown
 https://213.96.140.33:443,ES,Molins de Rei
@@ -461,11 +472,16 @@ https://51.81.160.114:7443,US,Hillsboro
 https://217.92.132.233:443,DE,Springe
 https://35.198.241.84:443,SG,Singapore
 https://217.145.69.109:443,GB,Unknown
-https://38.247.141.135:443,US,Unknown
 https://84.235.228.156:443,SE,Unknown
 https://5.22.212.106:443,FI,Unknown
 https://103.153.135.118:443,ID,Tangerang
+https://166.0.9.20:9443,SG,Singapore
+https://166.0.9.53:9443,SG,Singapore
+https://166.0.9.77:9443,SG,Singapore
 https://80.24.34.107:8090,ES,Palma
+https://166.0.9.246:9443,SG,Singapore
+https://149.88.104.225:9443,US,Sterling
+https://198.44.142.43:443,CA,Toronto
 https://138.118.81.189:443,CR,Alajuela
 https://138.199.35.196:9002,US,Los Angeles
 https://34.249.214.108:443,IE,Dublin
@@ -486,6 +502,8 @@ https://91.64.164.126:443,DE,Berlin
 https://150.230.14.159:443,AU,Bungarribee
 https://35.154.0.137:443,IN,Mumbai
 https://65.1.30.113:443,IN,Mumbai
+https://37.221.113.146:9443,GB,Poplar
+https://103.87.68.50:443,ID,Unknown
 https://34.36.156.112:443,US,Kansas City
 https://107.91.88.70:8443,US,Las Vegas
 https://107.91.88.6:8443,US,Las Vegas
@@ -506,6 +524,7 @@ https://14.225.71.128:8443,VN,Unknown
 https://103.127.242.229:7000,TW,Unknown
 https://51.210.167.149:443,FR,Unknown
 https://120.232.204.58:52200,CN,Guangzhou
+https://104.244.210.242:443,US,Unknown
 https://193.201.185.155:443,HU,Unknown
 https://202.162.232.76:443,IN,Unknown
 https://65.255.63.50:443,TC,Providenciales
@@ -515,7 +534,6 @@ https://47.149.9.211:443,US,Pomona
 https://209.38.19.229:443,US,Unknown
 https://46.229.243.232:443,GB,Unknown
 https://3.148.0.140:443,US,Columbus
-https://193.203.16.6:443,DE,Unknown
 https://37.203.35.6:443,LV,Unknown
 https://34.132.37.9:443,US,Council Bluffs
 https://198.200.57.155:443,US,Unknown
@@ -573,7 +591,6 @@ https://138.199.35.210:9002,US,Los Angeles
 https://37.203.37.191:443,LV,Unknown
 https://168.119.240.146:443,DE,Unknown
 https://5.255.120.245:443,NL,Unknown
-https://180.131.255.118:443,JP,Unknown
 https://141.148.181.144:443,US,Phoenix
 https://34.71.148.73:443,US,Council Bluffs
 https://79.76.126.155:443,GB,Ashford
@@ -582,8 +599,8 @@ https://38.28.185.178:443,US,Unknown
 https://38.28.185.208:443,US,Unknown
 https://38.28.185.143:443,US,Unknown
 https://38.28.185.205:443,US,Unknown
-https://169.150.197.247:9443,CH,Zurich
-https://169.150.197.234:9443,CH,Zurich
+https://104.244.210.242:9443,US,Unknown
+https://96.5.129.85:443,US,Blackfoot
 https://87.251.79.113:443,RU,Unknown
 https://87.251.79.232:443,RU,Unknown
 https://81.93.27.76:443,FR,Ozoir-la-Ferriere
@@ -597,10 +614,10 @@ https://137.175.77.35:443,US,Unknown
 https://3.239.124.130:443,US,Ashburn
 https://37.203.35.18:443,LV,Unknown
 https://82.197.70.35:443,GB,Unknown
-https://82.64.46.151:8007,FR,Saint-Maur-des-Fossés
 https://152.70.50.62:443,NL,Amsterdam
 https://43.160.239.37:443,SG,Singapore
 https://52.66.121.218:443,IN,Mumbai
+https://188.245.215.91:443,DE,Unknown
 https://66.42.59.169:8888,SG,Singapore
 https://141.164.39.178:443,KR,Seoul
 https://18.206.28.143:8443,US,Ashburn
@@ -621,15 +638,12 @@ https://54.207.141.34:443,BR,São Paulo
 https://3.91.112.102:443,US,Ashburn
 https://193.49.168.97:443,FR,Paris
 https://129.151.121.143:443,CL,Santiago
-https://150.136.153.231:443,US,Ashburn
-https://34.248.251.170:443,IE,Dublin
 https://94.155.48.4:443,BG,Burgas
 https://193.49.168.100:443,FR,Paris
 https://37.203.35.24:443,LV,Unknown
 https://210.105.16.87:8888,KR,Gwanak-gu
 https://159.69.94.125:443,DE,Nuremberg
 https://44.248.167.117:8443,US,Boardman
-https://194.243.172.243:443,IT,Rome
 https://137.175.22.84:443,US,Unknown
 https://137.175.22.74:443,US,Unknown
 https://137.175.22.120:443,US,Unknown
@@ -647,33 +661,32 @@ https://3.104.149.52:443,AU,Sydney
 https://89.111.28.74:443,LV,Unknown
 https://194.249.231.22:443,SI,Lucija
 https://168.167.220.27:443,BW,Gaborone
+https://138.66.66.136:443,IT,Unknown
+https://95.153.31.66:443,EE,Tallinn
 https://200.133.218.122:443,BR,Piracicaba
 https://168.205.255.238:443,BR,Brasília
 https://49.50.72.246:443,IN,Unknown
 https://83.103.36.213:443,IT,Arcore
 https://192.126.96.110:443,US,Baltimore
 https://190.113.112.147:443,CR,Alajuela
-https://196.21.60.44:443,ZA,Durban
 https://37.203.35.26:443,LV,Unknown
-https://193.226.205.54:443,HU,Budapest
 https://134.1.7.9:443,DE,Bremerhaven
+https://103.87.68.50:9443,ID,Unknown
+https://152.233.20.206:9443,BR,Unknown
 https://92.119.176.4:443,GB,Poplar
 https://86.107.178.104:443,NL,Amsterdam
 https://92.119.176.5:443,GB,Poplar
 https://172.201.221.190:443,NL,Amsterdam
 https://92.119.176.6:443,GB,Poplar
 https://92.119.176.3:443,GB,Poplar
-https://204.48.31.203:443,US,North Bergen
-https://23.189.168.146:9443,US,Unknown
+https://198.44.142.43:9443,CA,Toronto
 https://196.40.61.78:443,CR,Unknown
-https://150.241.139.28:9443,ES,Bilbao
+https://133.9.6.9:443,JP,Sugao
 https://185.15.75.140:443,DK,Holte
-https://103.235.67.190:443,ID,Unknown
 https://2.228.224.4:443,IT,Tribiano
 https://203.31.65.32:443,AU,Melbourne
 https://207.5.30.9:443,US,Hilton Head Island
 https://3.133.140.176:8443,US,Columbus
-https://133.9.6.10:443,JP,Sugao
 https://80.66.87.95:8443,DE,Frankfurt am Main
 https://45.142.141.5:8443,FI,Unknown
 https://138.16.163.249:8443,US,Providence
@@ -681,8 +694,8 @@ https://8.212.178.252:8000,PH,Manila
 https://103.86.117.202:443,ID,Sumenep
 https://103.79.76.91:1234,US,Unknown
 https://118.184.140.90:1443,CN,Unknown
-https://116.254.118.180:443,ID,Bantul
 https://103.86.116.118:443,ID,Sumenep
+https://103.239.146.98:443,IN,Ahmedabad
 https://118.184.157.67:1443,CN,Unknown
 https://114.33.6.158:443,TW,Taichung
 https://82.197.69.128:443,GB,Unknown
@@ -695,8 +708,10 @@ https://65.109.179.56:8080,FI,Helsinki
 https://132.226.170.86:443,KR,Seoul
 https://45.91.210.78:1443,NL,Amsterdam
 https://45.154.87.153:1443,NL,Amsterdam
+https://135.136.3.98:9443,US,Unknown
 https://168.167.220.28:443,BW,Gaborone
 https://147.45.173.104:9443,RU,Unknown
+https://140.238.50.134:1234,JP,Unknown
 https://137.175.22.116:443,US,Unknown
 https://137.175.22.98:443,US,Unknown
 https://137.175.22.72:443,US,Unknown
@@ -714,23 +729,20 @@ https://154.26.139.29:443,US,Unknown
 https://4.188.2.252:443,IN,Pune
 https://193.32.2.11:1443,NL,Amsterdam
 https://3.72.183.91:443,DE,Frankfurt am Main
-https://205.178.137.163:8447,US,Unknown
 https://209.38.82.52:443,US,Unknown
 https://209.38.19.186:443,US,Unknown
 https://45.91.211.14:1443,US,Kennewick
-https://20.89.45.135:443,JP,Tokyo
-https://150.241.139.208:9443,ES,Bilbao
+https://150.241.139.22:9443,ES,Bilbao
+https://150.241.139.198:9443,ES,Bilbao
+https://150.241.139.200:9443,ES,Bilbao
 https://193.233.75.115:443,RU,Moscow
 https://195.85.197.44:1443,IL,Ashquelon
 https://176.102.64.4:443,CZ,Prague
 https://178.248.73.58:443,PL,Unknown
 https://162.191.226.246:9443,US,Unknown
-https://43.251.18.20:443,MY,Unknown
 https://5.2.73.112:443,NL,Unknown
 https://142.93.195.158:443,US,North Bergen
 https://185.121.13.55:443,ES,Unknown
-https://113.23.216.129:9088,MY,Petaling Jaya
-https://113.23.216.128:9088,MY,Petaling Jaya
 https://207.204.53.61:8447,US,Unknown
 https://107.175.24.166:8443,US,Unknown
 https://45.154.87.85:1443,NL,Amsterdam
@@ -740,50 +752,48 @@ https://217.210.129.243:443,SE,Jönköping
 https://190.211.102.2:443,CR,La Fortuna
 https://195.146.134.204:443,SK,Martin
 https://213.81.148.228:443,SK,Dolný Kubín
-https://120.232.204.58:40583,CN,Guangzhou
 https://193.87.1.47:443,SK,Bratislava
 https://193.87.1.71:443,SK,Bratislava
 https://120.232.204.58:31343,CN,Guangzhou
 https://154.72.198.149:443,UG,Unknown
 https://82.65.162.76:443,FR,Asnieres-sur-Seine
+https://15.152.38.117:1111,JP,Osaka
 https://205.185.125.136:8888,US,Las Vegas
 https://45.152.209.206:1443,NL,Amsterdam
-https://205.178.137.119:8447,US,Unknown
+https://207.204.53.44:8447,US,Unknown
 https://82.66.235.221:443,FR,Sainte-Geneviève-des-Bois
 https://83.211.198.117:443,IT,Rimini
-https://177.234.248.186:443,EC,Banos
 https://62.210.70.194:443,FR,Unknown
 https://128.84.46.176:443,US,Ithaca
 https://54.37.72.89:443,DE,Unknown
-https://107.167.18.122:443,US,Los Angeles
+https://47.129.130.0:9881,SG,Singapore
 https://45.136.230.174:1443,NL,Amsterdam
-https://206.188.212.210:8447,US,Bend
-https://205.178.137.27:8443,US,Unknown
-https://185.44.107.166:443,DE,Unknown
+https://69.161.223.61:8447,CA,Hastings
 https://45.152.209.206:443,NL,Amsterdam
 https://104.233.178.179:443,US,San Jose
+https://103.142.225.37:443,IN,Unknown
 https://154.202.118.108:443,US,Los Angeles
 https://45.152.211.206:443,NL,Amsterdam
 https://141.148.245.139:443,NL,Amsterdam
 https://213.35.107.110:443,SG,Unknown
 https://52.38.127.109:443,US,Boardman
 https://107.149.232.90:443,US,Unknown
-https://206.188.212.107:8447,US,Bend
+https://13.245.161.189:5504,ZA,Cape Town
 https://195.182.74.91:42443,LT,Trakai
 https://195.182.74.92:42443,LT,Trakai
-https://138.108.28.48:443,US,Unknown
+https://205.178.137.160:8443,US,Unknown
 https://35.184.225.44:443,US,Council Bluffs
 https://34.236.59.94:443,US,Ashburn
 https://79.72.36.217:443,SE,Unknown
+https://15.152.38.117:8177,JP,Osaka
 https://152.53.107.196:443,AT,Unknown
-https://159.195.110.240:8080,DK,Unknown
 https://47.243.181.85:42532,HK,Hong Kong
-https://206.188.212.162:8447,US,Bend
 https://104.36.250.48:443,US,Unknown
-https://205.178.186.237:8447,US,Unknown
-https://190.6.65.226:443,CU,Havana
+https://205.178.144.141:8447,US,Unknown
 https://207.180.228.55:443,DE,Nuremberg
-https://44.200.234.67:8120,US,Ashburn
+https://43.198.78.37:14840,HK,Unknown
+https://205.178.137.87:8447,US,Unknown
+https://205.178.144.210:8443,US,Unknown
 https://217.219.247.70:8443,IR,Yasuj
 https://148.135.10.80:443,US,Los Angeles
 https://107.167.191.95:8443,TW,Taipei
@@ -792,30 +802,31 @@ https://109.190.196.5:8090,FR,Beinheim
 https://35.84.133.236:8443,US,Boardman
 https://198.41.43.116:443,CL,Santiago
 https://110.173.188.221:443,IN,Unknown
+https://202.79.216.80:443,SG,Singapore
 https://157.180.98.233:443,DE,Unknown
 https://185.10.240.95:9443,LY,Unknown
 https://213.35.111.243:8443,SG,Unknown
 https://185.209.31.2:8443,RU,Moscow
-https://185.4.114.7:443,NL,Unknown
 https://157.180.98.232:443,DE,Unknown
 https://45.145.73.240:8443,US,Seattle
 https://37.203.35.28:443,LV,Unknown
 https://37.203.35.50:443,LV,Unknown
 https://37.203.35.53:443,LV,Unknown
-https://206.188.212.247:8443,US,Bend
 https://37.203.35.48:443,LV,Unknown
 https://108.60.228.210:443,BS,Nassau
 https://15.232.45.244:6617,US,Unknown
-https://47.129.130.0:33665,SG,Singapore
-https://69.161.223.66:8443,CA,Hastings
+https://51.17.99.135:56151,IL,Tel Aviv
 https://45.145.72.122:8443,US,Seattle
-https://205.178.186.36:8443,US,Unknown
+https://47.129.105.10:17435,SG,Singapore
+https://13.209.65.136:8781,KR,Incheon
+https://16.18.22.211:13149,US,Unknown
+https://207.204.53.153:8447,US,Unknown
 https://45.150.164.18:8443,US,Seattle
 https://65.109.179.56:4030,FI,Helsinki
 https://207.204.53.153:8443,US,Unknown
 https://35.183.131.26:443,CA,Montreal
 https://38.76.140.254:8443,US,Unknown
-https://205.178.144.210:8447,US,Unknown
+https://13.208.246.143:46420,JP,Osaka
 https://95.229.15.89:443,IT,Padova
 https://64.110.88.200:30000,KR,Seoul
 https://124.156.223.252:4433,JP,Tokyo
@@ -825,6 +836,7 @@ https://170.210.44.231:443,AR,Moron
 https://107.175.238.93:443,US,Los Angeles
 https://4.172.245.121:443,CA,Toronto
 https://44.246.42.117:443,US,Boardman
+https://16.176.232.186:19719,US,Unknown
 https://89.207.188.137:443,BE,Unknown
 https://221.120.177.43:443,HK,Unknown
 https://134.122.129.254:8443,HK,Shatin
@@ -835,20 +847,15 @@ https://49.51.180.61:8888,US,Unknown
 https://104.36.251.30:443,US,Unknown
 https://185.93.106.214:443,US,Chicago
 https://217.154.65.37:443,GB,Unknown
-https://47.243.181.85:42533,HK,Hong Kong
-https://205.178.137.141:8447,US,Unknown
 https://118.25.131.160:10001,CN,Unknown
 https://213.109.163.119:443,DE,Unknown
-https://189.204.255.4:8443,MX,Oaxaca City
 https://107.91.88.78:8443,US,Las Vegas
-https://207.204.53.240:8443,US,Unknown
 https://74.208.250.147:8443,US,Unknown
 https://217.237.171.227:443,DE,Frankfurt am Main
 https://196.43.240.49:9443,CG,Unknown
 https://129.205.246.123:443,BW,Gaborone
 https://190.213.55.167:443,TT,Tunapuna
 https://195.80.165.154:443,SK,Trenčín
-https://69.161.223.160:8447,CA,Hastings
 https://121.43.176.35:443,CN,Hangzhou
 https://122.165.229.173:443,IN,Coimbatore
 https://63.177.231.178:443,DE,Frankfurt am Main
@@ -861,7 +868,6 @@ https://18.153.67.185:443,DE,Frankfurt am Main
 https://3.76.116.233:443,DE,Frankfurt am Main
 https://3.76.105.51:443,DE,Frankfurt am Main
 https://3.76.35.76:443,DE,Frankfurt am Main
-https://66.210.50.131:443,US,Irvine
 https://3.66.18.237:443,DE,Frankfurt am Main
 https://3.66.164.156:443,DE,Frankfurt am Main
 https://3.124.190.50:443,DE,Frankfurt am Main
@@ -890,9 +896,11 @@ https://198.50.232.195:443,CA,Unknown
 https://45.150.164.14:8443,US,Seattle
 https://45.150.164.23:8443,US,Seattle
 https://45.150.164.38:8443,US,Seattle
+https://107.23.172.126:443,US,Ashburn
 https://54.93.245.157:443,DE,Frankfurt am Main
 https://54.93.207.87:443,DE,Frankfurt am Main
 https://54.93.63.111:443,DE,Frankfurt am Main
+https://118.25.131.160:10057,CN,Unknown
 https://83.224.155.229:443,IT,Merlino
 https://89.188.125.42:443,RU,Unknown
 https://119.28.65.31:3128,HK,Hong Kong
@@ -901,39 +909,54 @@ https://3.73.128.40:443,DE,Frankfurt am Main
 https://3.73.130.141:443,DE,Frankfurt am Main
 https://18.143.116.224:443,SG,Singapore
 https://116.62.216.155:443,CN,Hangzhou
+https://205.178.136.190:8443,US,Unknown
 https://89.33.44.23:443,RO,Unknown
-https://206.188.209.198:8447,US,Bend
-https://69.161.223.249:8443,CA,Hastings
-https://108.131.152.118:8082,IE,Dublin
-https://13.209.65.136:10919,KR,Incheon
-https://205.178.137.205:8447,US,Unknown
 https://23.106.56.19:7579,GB,London
-https://206.188.204.146:8447,US,Amarillo
+https://205.178.136.127:8447,US,Unknown
 https://185.53.129.141:9090,NL,Amsterdam
 https://162.210.194.10:443,US,Lanham
-https://206.188.208.246:8443,US,Bend
+https://63.180.203.233:47756,US,Unknown
 https://81.180.222.73:443,RO,Iasi
-https://3.231.160.150:52202,US,Ashburn
-https://63.180.203.233:10808,US,Unknown
-https://3.21.247.154:23942,US,Columbus
-https://3.134.245.77:4588,US,Columbus
-https://51.17.99.135:4879,IL,Tel Aviv
-https://35.78.212.217:14999,JP,Tokyo
+https://13.239.253.213:22654,AU,Sydney
+https://34.229.190.39:4308,US,Ashburn
+https://78.14.19.3:1976,US,Unknown
+https://16.52.81.236:11111,US,Unknown
+https://16.26.208.68:1256,US,Unknown
+https://16.18.22.211:30940,US,Unknown
+https://15.223.187.219:8104,CA,Montreal
+https://18.170.45.5:4707,GB,London
+https://51.16.4.39:40000,IL,Tel Aviv
+https://16.28.32.67:8088,US,Unknown
+https://40.177.104.199:8180,US,Unknown
 https://16.51.5.77:42540,AU,Melbourne
-https://16.18.22.211:40961,US,Unknown
+https://16.51.5.77:4443,AU,Melbourne
+https://43.198.78.37:8686,HK,Unknown
+https://18.230.23.72:2763,BR,São Paulo
+https://16.52.81.236:31613,US,Unknown
+https://3.134.245.77:59931,US,Columbus
+https://78.12.136.220:13022,US,Unknown
+https://18.175.170.244:13370,GB,London
+https://47.129.105.10:13506,SG,Singapore
+https://13.245.161.189:23913,ZA,Cape Town
 https://3.77.57.244:443,DE,Frankfurt am Main
+https://16.51.5.77:1415,AU,Melbourne
 https://3.77.53.69:443,DE,Frankfurt am Main
-https://108.137.124.195:398,ID,Jakarta
+https://13.38.27.183:19762,FR,Paris
+https://51.17.99.116:8310,IL,Tel Aviv
 https://118.25.131.160:10034,CN,Unknown
 https://81.172.178.145:8443,NL,De Lier
 https://118.25.131.160:10028,CN,Unknown
+https://54.255.249.161:48092,SG,Singapore
+https://13.239.253.213:38171,AU,Sydney
 https://18.192.42.113:443,DE,Frankfurt am Main
 https://18.192.58.181:443,DE,Frankfurt am Main
 https://18.192.123.135:443,DE,Frankfurt am Main
 https://18.192.63.3:443,DE,Frankfurt am Main
 https://18.192.240.194:443,DE,Frankfurt am Main
 https://18.192.100.176:443,DE,Frankfurt am Main
+https://40.192.70.191:5224,JP,Osaka
 https://156.232.13.24:8088,US,Unknown
+https://179.96.182.182:443,BR,Rio das Ostras
 https://212.38.166.169:443,GB,Unknown
 https://3.71.202.237:443,DE,Frankfurt am Main
 https://3.71.101.162:443,DE,Frankfurt am Main
@@ -963,6 +986,7 @@ https://3.79.232.117:443,DE,Frankfurt am Main
 https://3.79.238.213:443,DE,Frankfurt am Main
 https://3.79.153.144:443,DE,Frankfurt am Main
 https://3.79.98.234:443,DE,Frankfurt am Main
+https://13.126.183.60:4037,IN,Mumbai
 https://103.225.15.41:443,IN,Vijayawada
 https://147.224.43.246:443,US,Unknown
 https://31.77.158.162:443,GB,Unknown
@@ -971,11 +995,17 @@ https://63.178.2.79:443,DE,Frankfurt am Main
 https://63.178.14.246:443,DE,Frankfurt am Main
 https://3.69.234.3:443,DE,Frankfurt am Main
 https://194.58.46.198:443,TR,Ankara
+https://20.78.34.79:443,JP,Tokyo
 https://47.74.10.164:443,JP,Tokyo
-https://177.71.177.240:443,BR,São Paulo
 https://13.38.52.27:443,FR,Paris
 https://134.59.1.187:443,FR,Nice
 https://107.149.30.29:443,US,Unknown
 https://107.149.207.187:443,US,Unknown
+https://54.117.6.131:8103,US,Unknown
 https://43.153.104.3:443,US,Unknown
+https://13.208.246.143:50693,JP,Osaka
 https://195.231.110.164:443,IT,Ponte San Pietro
+https://78.14.19.3:40000,US,Unknown
+https://18.190.253.157:26781,US,Columbus
+https://51.16.4.39:50439,IL,Tel Aviv
+https://18.157.159.247:59,DE,Frankfurt am Main

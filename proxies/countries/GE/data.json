@@ -1,8 +1,21 @@
 [
   {
-    "proxy": "http://188.169.16.82:8080",
+    "proxy": "http://45.143.108.10:8080",
     "protocol": "http",
-    "ip": "188.169.16.82",
+    "ip": "45.143.108.10",
+    "port": 8080,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "GE",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "http://85.117.61.112:8080",
+    "protocol": "http",
+    "ip": "85.117.61.112",
     "port": 8080,
     "https": false,
     "anonymity": "transparent",
@@ -13,9 +26,9 @@
     }
   },
   {
-    "proxy": "http://94.43.164.242:8080",
+    "proxy": "http://85.117.63.207:8080",
     "protocol": "http",
-    "ip": "94.43.164.242",
+    "ip": "85.117.63.207",
     "port": 8080,
     "https": false,
     "anonymity": "transparent",
@@ -39,16 +52,16 @@
     }
   },
   {
-    "proxy": "http://92.51.122.174:8080",
+    "proxy": "http://45.143.108.114:8080",
     "protocol": "http",
-    "ip": "92.51.122.174",
+    "ip": "45.143.108.114",
     "port": 8080,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
     "geolocation": {
       "country": "GE",
-      "city": "Batumi"
+      "city": "Unknown"
     }
   },
   {
@@ -65,48 +78,9 @@
     }
   },
   {
-    "proxy": "http://45.143.108.13:8080",
+    "proxy": "http://188.169.16.82:8080",
     "protocol": "http",
-    "ip": "45.143.108.13",
-    "port": 8080,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "GE",
-      "city": "Unknown"
-    }
-  },
-  {
-    "proxy": "http://95.104.123.18:8080",
-    "protocol": "http",
-    "ip": "95.104.123.18",
-    "port": 8080,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "GE",
-      "city": "Unknown"
-    }
-  },
-  {
-    "proxy": "http://31.146.73.192:4153",
-    "protocol": "http",
-    "ip": "31.146.73.192",
-    "port": 4153,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "GE",
-      "city": "Tbilisi"
-    }
-  },
-  {
-    "proxy": "http://2.57.218.130:8080",
-    "protocol": "http",
-    "ip": "2.57.218.130",
+    "ip": "188.169.16.82",
     "port": 8080,
     "https": false,
     "anonymity": "transparent",
@@ -130,16 +104,16 @@
     }
   },
   {
-    "proxy": "http://45.143.108.114:8080",
+    "proxy": "http://2.57.218.130:8080",
     "protocol": "http",
-    "ip": "45.143.108.114",
+    "ip": "2.57.218.130",
     "port": 8080,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
     "geolocation": {
       "country": "GE",
-      "city": "Unknown"
+      "city": "Tbilisi"
     }
   }
 ]

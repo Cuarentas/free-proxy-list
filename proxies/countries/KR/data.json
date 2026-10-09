@@ -13,16 +13,16 @@
     }
   },
   {
-    "proxy": "socks5://150.109.246.234:1080",
+    "proxy": "socks5://220.121.193.144:1082",
     "protocol": "socks5",
-    "ip": "150.109.246.234",
-    "port": 1080,
+    "ip": "220.121.193.144",
+    "port": 1082,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
     "geolocation": {
       "country": "KR",
-      "city": "Seoul"
+      "city": "Seongnam-si"
     }
   },
   {
@@ -36,6 +36,19 @@
     "geolocation": {
       "country": "KR",
       "city": "Seoul"
+    }
+  },
+  {
+    "proxy": "https://58.120.141.74:443",
+    "protocol": "https",
+    "ip": "58.120.141.74",
+    "port": 443,
+    "https": true,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "KR",
+      "city": "Geumcheon-gu"
     }
   },
   {
@@ -104,23 +117,10 @@
     }
   },
   {
-    "proxy": "https://64.110.88.200:30000",
-    "protocol": "https",
-    "ip": "64.110.88.200",
-    "port": 30000,
-    "https": true,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "KR",
-      "city": "Seoul"
-    }
-  },
-  {
-    "proxy": "https://13.209.65.136:10919",
+    "proxy": "https://13.209.65.136:8781",
     "protocol": "https",
     "ip": "13.209.65.136",
-    "port": 10919,
+    "port": 8781,
     "https": true,
     "anonymity": "transparent",
     "score": 1,
@@ -130,11 +130,11 @@
     }
   },
   {
-    "proxy": "http://129.154.201.19:33128",
-    "protocol": "http",
-    "ip": "129.154.201.19",
-    "port": 33128,
-    "https": false,
+    "proxy": "https://64.110.88.200:30000",
+    "protocol": "https",
+    "ip": "64.110.88.200",
+    "port": 30000,
+    "https": true,
     "anonymity": "transparent",
     "score": 1,
     "geolocation": {
@@ -208,10 +208,49 @@
     }
   },
   {
-    "proxy": "socks4://119.28.233.187:1085",
+    "proxy": "http://183.110.216.159:8090",
+    "protocol": "http",
+    "ip": "183.110.216.159",
+    "port": 8090,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "KR",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "socks4://114.108.177.104:60984",
     "protocol": "socks4",
-    "ip": "119.28.233.187",
-    "port": 1085,
+    "ip": "114.108.177.104",
+    "port": 60984,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "KR",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "http://183.110.216.159:8091",
+    "protocol": "http",
+    "ip": "183.110.216.159",
+    "port": 8091,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "KR",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "http://140.238.14.161:8080",
+    "protocol": "http",
+    "ip": "140.238.14.161",
+    "port": 8080,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
@@ -234,23 +273,10 @@
     }
   },
   {
-    "proxy": "socks5://220.121.193.144:1082",
-    "protocol": "socks5",
-    "ip": "220.121.193.144",
-    "port": 1082,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "KR",
-      "city": "Seongnam-si"
-    }
-  },
-  {
-    "proxy": "http://140.238.14.161:8080",
-    "protocol": "http",
+    "proxy": "socks4://140.238.14.161:8082",
+    "protocol": "socks4",
     "ip": "140.238.14.161",
-    "port": 8080,
+    "port": 8082,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
@@ -273,6 +299,71 @@
     }
   },
   {
+    "proxy": "http://8.220.204.92:90",
+    "protocol": "http",
+    "ip": "8.220.204.92",
+    "port": 90,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "KR",
+      "city": "Seoul"
+    }
+  },
+  {
+    "proxy": "http://8.220.204.92:9999",
+    "protocol": "http",
+    "ip": "8.220.204.92",
+    "port": 9999,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "KR",
+      "city": "Seoul"
+    }
+  },
+  {
+    "proxy": "socks4://119.28.233.187:1085",
+    "protocol": "socks4",
+    "ip": "119.28.233.187",
+    "port": 1085,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "KR",
+      "city": "Seoul"
+    }
+  },
+  {
+    "proxy": "socks5://146.56.191.98:19422",
+    "protocol": "socks5",
+    "ip": "146.56.191.98",
+    "port": 19422,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "KR",
+      "city": "Seoul"
+    }
+  },
+  {
+    "proxy": "socks5://150.109.246.234:1080",
+    "protocol": "socks5",
+    "ip": "150.109.246.234",
+    "port": 1080,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "KR",
+      "city": "Seoul"
+    }
+  },
+  {
     "proxy": "socks5://152.70.237.238:3128",
     "protocol": "socks5",
     "ip": "152.70.237.238",
@@ -283,19 +374,6 @@
     "geolocation": {
       "country": "KR",
       "city": "Seoul"
-    }
-  },
-  {
-    "proxy": "http://183.110.216.159:8090",
-    "protocol": "http",
-    "ip": "183.110.216.159",
-    "port": 8090,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "KR",
-      "city": "Unknown"
     }
   },
   {
@@ -325,101 +403,10 @@
     }
   },
   {
-    "proxy": "socks4://121.139.218.165:43295",
-    "protocol": "socks4",
-    "ip": "121.139.218.165",
-    "port": 43295,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "KR",
-      "city": "Ansan-si"
-    }
-  },
-  {
-    "proxy": "http://158.179.162.1:80",
-    "protocol": "http",
-    "ip": "158.179.162.1",
-    "port": 80,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "KR",
-      "city": "Chuncheon"
-    }
-  },
-  {
-    "proxy": "socks4://140.238.14.161:8082",
-    "protocol": "socks4",
-    "ip": "140.238.14.161",
-    "port": 8082,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "KR",
-      "city": "Seoul"
-    }
-  },
-  {
     "proxy": "socks5://193.122.105.251:65535",
     "protocol": "socks5",
     "ip": "193.122.105.251",
     "port": 65535,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "KR",
-      "city": "Seoul"
-    }
-  },
-  {
-    "proxy": "http://112.216.54.226:12121",
-    "protocol": "http",
-    "ip": "112.216.54.226",
-    "port": 12121,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "KR",
-      "city": "Jung-gu"
-    }
-  },
-  {
-    "proxy": "http://221.164.102.22:8080",
-    "protocol": "http",
-    "ip": "221.164.102.22",
-    "port": 8080,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "KR",
-      "city": "Changwon"
-    }
-  },
-  {
-    "proxy": "http://27.255.80.167:8080",
-    "protocol": "http",
-    "ip": "27.255.80.167",
-    "port": 8080,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "KR",
-      "city": "Unknown"
-    }
-  },
-  {
-    "proxy": "socks5://146.56.191.98:19422",
-    "protocol": "socks5",
-    "ip": "146.56.191.98",
-    "port": 19422,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
@@ -1339,36 +1326,23 @@
     }
   },
   {
-    "proxy": "http://183.110.216.159:8091",
+    "proxy": "http://158.179.162.1:80",
     "protocol": "http",
-    "ip": "183.110.216.159",
-    "port": 8091,
+    "ip": "158.179.162.1",
+    "port": 80,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
     "geolocation": {
       "country": "KR",
-      "city": "Unknown"
+      "city": "Chuncheon"
     }
   },
   {
-    "proxy": "http://43.202.114.177:17446",
-    "protocol": "http",
-    "ip": "43.202.114.177",
-    "port": 17446,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "KR",
-      "city": "Incheon"
-    }
-  },
-  {
-    "proxy": "http://13.209.65.136:17787",
+    "proxy": "http://13.209.65.136:24259",
     "protocol": "http",
     "ip": "13.209.65.136",
-    "port": 17787,
+    "port": 24259,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
@@ -1391,36 +1365,127 @@
     }
   },
   {
-    "proxy": "http://121.126.126.199:23314",
+    "proxy": "http://43.200.174.95:20518",
     "protocol": "http",
-    "ip": "121.126.126.199",
-    "port": 23314,
+    "ip": "43.200.174.95",
+    "port": 20518,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
     "geolocation": {
       "country": "KR",
-      "city": "Pyeongtaek-si"
+      "city": "Incheon"
     }
   },
   {
-    "proxy": "http://221.157.45.249:80",
+    "proxy": "http://43.200.174.95:53667",
     "protocol": "http",
-    "ip": "221.157.45.249",
-    "port": 80,
+    "ip": "43.200.174.95",
+    "port": 53667,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
     "geolocation": {
       "country": "KR",
-      "city": "Dalseo-gu"
+      "city": "Incheon"
     }
   },
   {
-    "proxy": "http://49.254.177.66:5992",
+    "proxy": "http://8.220.204.215:18080",
     "protocol": "http",
-    "ip": "49.254.177.66",
-    "port": 5992,
+    "ip": "8.220.204.215",
+    "port": 18080,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "KR",
+      "city": "Seoul"
+    }
+  },
+  {
+    "proxy": "http://49.254.134.54:22495",
+    "protocol": "http",
+    "ip": "49.254.134.54",
+    "port": 22495,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "KR",
+      "city": "Seocho-gu"
+    }
+  },
+  {
+    "proxy": "http://49.254.104.49:23863",
+    "protocol": "http",
+    "ip": "49.254.104.49",
+    "port": 23863,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "KR",
+      "city": "Nam-gu"
+    }
+  },
+  {
+    "proxy": "http://112.216.54.226:12121",
+    "protocol": "http",
+    "ip": "112.216.54.226",
+    "port": 12121,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "KR",
+      "city": "Jung-gu"
+    }
+  },
+  {
+    "proxy": "http://114.108.177.104:60984",
+    "protocol": "http",
+    "ip": "114.108.177.104",
+    "port": 60984,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "KR",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "http://49.254.98.21:7399",
+    "protocol": "http",
+    "ip": "49.254.98.21",
+    "port": 7399,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "KR",
+      "city": "Nam-gu"
+    }
+  },
+  {
+    "proxy": "http://49.254.126.192:18896",
+    "protocol": "http",
+    "ip": "49.254.126.192",
+    "port": 18896,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "KR",
+      "city": "Sejong"
+    }
+  },
+  {
+    "proxy": "http://49.254.179.101:8077",
+    "protocol": "http",
+    "ip": "49.254.179.101",
+    "port": 8077,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
@@ -1430,10 +1495,140 @@
     }
   },
   {
-    "proxy": "http://8.220.205.172:1081",
+    "proxy": "http://115.144.45.113:5098",
     "protocol": "http",
-    "ip": "8.220.205.172",
-    "port": 1081,
+    "ip": "115.144.45.113",
+    "port": 5098,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "KR",
+      "city": "Geumcheon-gu"
+    }
+  },
+  {
+    "proxy": "http://124.198.57.103:5287",
+    "protocol": "http",
+    "ip": "124.198.57.103",
+    "port": 5287,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "KR",
+      "city": "Seongbuk-gu"
+    }
+  },
+  {
+    "proxy": "http://220.67.2.2:80",
+    "protocol": "http",
+    "ip": "220.67.2.2",
+    "port": 80,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "KR",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "http://124.198.67.117:19835",
+    "protocol": "http",
+    "ip": "124.198.67.117",
+    "port": 19835,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "KR",
+      "city": "Goyang-si"
+    }
+  },
+  {
+    "proxy": "http://121.126.13.83:23334",
+    "protocol": "http",
+    "ip": "121.126.13.83",
+    "port": 23334,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "KR",
+      "city": "Pyeongtaek-si"
+    }
+  },
+  {
+    "proxy": "http://220.116.142.217:80",
+    "protocol": "http",
+    "ip": "220.116.142.217",
+    "port": 80,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "KR",
+      "city": "Uijeongbu-si"
+    }
+  },
+  {
+    "proxy": "http://115.144.203.202:28703",
+    "protocol": "http",
+    "ip": "115.144.203.202",
+    "port": 28703,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "KR",
+      "city": "Ulju-gun"
+    }
+  },
+  {
+    "proxy": "http://8.220.204.92:80",
+    "protocol": "http",
+    "ip": "8.220.204.92",
+    "port": 80,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "KR",
+      "city": "Seoul"
+    }
+  },
+  {
+    "proxy": "http://125.7.154.140:24971",
+    "protocol": "http",
+    "ip": "125.7.154.140",
+    "port": 24971,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "KR",
+      "city": "Incheon"
+    }
+  },
+  {
+    "proxy": "http://49.254.73.198:10384",
+    "protocol": "http",
+    "ip": "49.254.73.198",
+    "port": 10384,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "KR",
+      "city": "Guro-gu"
+    }
+  },
+  {
+    "proxy": "http://8.220.204.92:4145",
+    "protocol": "http",
+    "ip": "8.220.204.92",
+    "port": 4145,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
@@ -1456,185 +1651,16 @@
     }
   },
   {
-    "proxy": "http://183.106.215.208:1080",
+    "proxy": "http://8.220.204.215:4145",
     "protocol": "http",
-    "ip": "183.106.215.208",
-    "port": 1080,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "KR",
-      "city": "Pohang"
-    }
-  },
-  {
-    "proxy": "http://220.121.193.144:1082",
-    "protocol": "http",
-    "ip": "220.121.193.144",
-    "port": 1082,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "KR",
-      "city": "Seongnam-si"
-    }
-  },
-  {
-    "proxy": "http://152.70.237.238:3128",
-    "protocol": "http",
-    "ip": "152.70.237.238",
-    "port": 3128,
+    "ip": "8.220.204.215",
+    "port": 4145,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
     "geolocation": {
       "country": "KR",
       "city": "Seoul"
-    }
-  },
-  {
-    "proxy": "http://220.67.2.2:80",
-    "protocol": "http",
-    "ip": "220.67.2.2",
-    "port": 80,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "KR",
-      "city": "Unknown"
-    }
-  },
-  {
-    "proxy": "http://49.254.67.33:6540",
-    "protocol": "http",
-    "ip": "49.254.67.33",
-    "port": 6540,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "KR",
-      "city": "Guro-gu"
-    }
-  },
-  {
-    "proxy": "http://49.254.27.160:21436",
-    "protocol": "http",
-    "ip": "49.254.27.160",
-    "port": 21436,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "KR",
-      "city": "Gangseo-gu"
-    }
-  },
-  {
-    "proxy": "http://14.46.231.109:8001",
-    "protocol": "http",
-    "ip": "14.46.231.109",
-    "port": 8001,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "KR",
-      "city": "Gumi"
-    }
-  },
-  {
-    "proxy": "http://152.67.222.114:8001",
-    "protocol": "http",
-    "ip": "152.67.222.114",
-    "port": 8001,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "KR",
-      "city": "Chuncheon"
-    }
-  },
-  {
-    "proxy": "http://146.56.191.98:14785",
-    "protocol": "http",
-    "ip": "146.56.191.98",
-    "port": 14785,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "KR",
-      "city": "Seoul"
-    }
-  },
-  {
-    "proxy": "http://125.7.157.21:26145",
-    "protocol": "http",
-    "ip": "125.7.157.21",
-    "port": 26145,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "KR",
-      "city": "Incheon"
-    }
-  },
-  {
-    "proxy": "http://210.95.145.226:3128",
-    "protocol": "http",
-    "ip": "210.95.145.226",
-    "port": 3128,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "KR",
-      "city": "Seongnam-si"
-    }
-  },
-  {
-    "proxy": "http://144.24.94.153:1080",
-    "protocol": "http",
-    "ip": "144.24.94.153",
-    "port": 1080,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "KR",
-      "city": "Chuncheon"
-    }
-  },
-  {
-    "proxy": "http://49.254.222.190:17727",
-    "protocol": "http",
-    "ip": "49.254.222.190",
-    "port": 17727,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "KR",
-      "city": "Yongsan-gu"
-    }
-  },
-  {
-    "proxy": "http://221.133.129.35:1080",
-    "protocol": "http",
-    "ip": "221.133.129.35",
-    "port": 1080,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "KR",
-      "city": "Gangbuk-gu"
     }
   },
   {
@@ -1651,10 +1677,10 @@
     }
   },
   {
-    "proxy": "http://52.79.107.158:8080",
+    "proxy": "http://125.7.157.19:26143",
     "protocol": "http",
-    "ip": "52.79.107.158",
-    "port": 8080,
+    "ip": "125.7.157.19",
+    "port": 26143,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
@@ -1664,49 +1690,10 @@
     }
   },
   {
-    "proxy": "http://49.254.47.100:17757",
+    "proxy": "http://146.56.191.98:14785",
     "protocol": "http",
-    "ip": "49.254.47.100",
-    "port": 17757,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "KR",
-      "city": "Seongbuk-gu"
-    }
-  },
-  {
-    "proxy": "http://115.144.123.98:24072",
-    "protocol": "http",
-    "ip": "115.144.123.98",
-    "port": 24072,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "KR",
-      "city": "Mapo-gu"
-    }
-  },
-  {
-    "proxy": "http://49.254.181.49:17682",
-    "protocol": "http",
-    "ip": "49.254.181.49",
-    "port": 17682,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "KR",
-      "city": "Jinju"
-    }
-  },
-  {
-    "proxy": "http://130.162.157.198:8118",
-    "protocol": "http",
-    "ip": "130.162.157.198",
-    "port": 8118,
+    "ip": "146.56.191.98",
+    "port": 14785,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
@@ -1716,16 +1703,484 @@
     }
   },
   {
-    "proxy": "http://121.169.46.116:1090",
+    "proxy": "http://121.126.190.148:17172",
     "protocol": "http",
-    "ip": "121.169.46.116",
-    "port": 1090,
+    "ip": "121.126.190.148",
+    "port": 17172,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
     "geolocation": {
       "country": "KR",
-      "city": "Bucheon-si"
+      "city": "Yongin-si"
+    }
+  },
+  {
+    "proxy": "http://121.126.229.31:28262",
+    "protocol": "http",
+    "ip": "121.126.229.31",
+    "port": 28262,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "KR",
+      "city": "Nowon-gu"
+    }
+  },
+  {
+    "proxy": "http://49.254.215.92:27823",
+    "protocol": "http",
+    "ip": "49.254.215.92",
+    "port": 27823,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "KR",
+      "city": "Yongsan-gu"
+    }
+  },
+  {
+    "proxy": "http://121.126.32.38:5222",
+    "protocol": "http",
+    "ip": "121.126.32.38",
+    "port": 5222,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "KR",
+      "city": "Goyang-si"
+    }
+  },
+  {
+    "proxy": "http://8.220.205.172:9098",
+    "protocol": "http",
+    "ip": "8.220.205.172",
+    "port": 9098,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "KR",
+      "city": "Seoul"
+    }
+  },
+  {
+    "proxy": "http://115.144.194.153:5536",
+    "protocol": "http",
+    "ip": "115.144.194.153",
+    "port": 5536,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "KR",
+      "city": "Ulju-gun"
+    }
+  },
+  {
+    "proxy": "http://115.144.42.93:28571",
+    "protocol": "http",
+    "ip": "115.144.42.93",
+    "port": 28571,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "KR",
+      "city": "Geumcheon-gu"
+    }
+  },
+  {
+    "proxy": "http://115.144.93.106:28472",
+    "protocol": "http",
+    "ip": "115.144.93.106",
+    "port": 28472,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "KR",
+      "city": "Areannamkwaengi"
+    }
+  },
+  {
+    "proxy": "http://115.144.145.61:5460",
+    "protocol": "http",
+    "ip": "115.144.145.61",
+    "port": 5460,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "KR",
+      "city": "Suwon"
+    }
+  },
+  {
+    "proxy": "http://118.34.200.206:1080",
+    "protocol": "http",
+    "ip": "118.34.200.206",
+    "port": 1080,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "KR",
+      "city": "Osan"
+    }
+  },
+  {
+    "proxy": "http://121.126.155.78:28396",
+    "protocol": "http",
+    "ip": "121.126.155.78",
+    "port": 28396,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "KR",
+      "city": "Jeonju"
+    }
+  },
+  {
+    "proxy": "http://8.220.204.215:9080",
+    "protocol": "http",
+    "ip": "8.220.204.215",
+    "port": 9080,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "KR",
+      "city": "Seoul"
+    }
+  },
+  {
+    "proxy": "http://124.198.115.79:12495",
+    "protocol": "http",
+    "ip": "124.198.115.79",
+    "port": 12495,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "KR",
+      "city": "Chungju"
+    }
+  },
+  {
+    "proxy": "http://125.7.167.96:25006",
+    "protocol": "http",
+    "ip": "125.7.167.96",
+    "port": 25006,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "KR",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "http://115.144.48.229:26787",
+    "protocol": "http",
+    "ip": "115.144.48.229",
+    "port": 26787,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "KR",
+      "city": "Yangcheon-gu"
+    }
+  },
+  {
+    "proxy": "http://49.254.226.136:5351",
+    "protocol": "http",
+    "ip": "49.254.226.136",
+    "port": 5351,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "KR",
+      "city": "Gyeyang-gu"
+    }
+  },
+  {
+    "proxy": "http://115.144.62.110:28540",
+    "protocol": "http",
+    "ip": "115.144.62.110",
+    "port": 28540,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "KR",
+      "city": "Yangcheon-gu"
+    }
+  },
+  {
+    "proxy": "http://8.220.204.92:9098",
+    "protocol": "http",
+    "ip": "8.220.204.92",
+    "port": 9098,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "KR",
+      "city": "Seoul"
+    }
+  },
+  {
+    "proxy": "http://8.220.205.172:80",
+    "protocol": "http",
+    "ip": "8.220.205.172",
+    "port": 80,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "KR",
+      "city": "Seoul"
+    }
+  },
+  {
+    "proxy": "http://125.7.190.174:6172",
+    "protocol": "http",
+    "ip": "125.7.190.174",
+    "port": 6172,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "KR",
+      "city": "Pyeongtaek-si"
+    }
+  },
+  {
+    "proxy": "http://8.220.205.172:9000",
+    "protocol": "http",
+    "ip": "8.220.205.172",
+    "port": 9000,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "KR",
+      "city": "Seoul"
+    }
+  },
+  {
+    "proxy": "http://115.144.138.57:5440",
+    "protocol": "http",
+    "ip": "115.144.138.57",
+    "port": 5440,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "KR",
+      "city": "Gwanak-gu"
+    }
+  },
+  {
+    "proxy": "http://124.198.99.104:24865",
+    "protocol": "http",
+    "ip": "124.198.99.104",
+    "port": 24865,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "KR",
+      "city": "Chungju"
+    }
+  },
+  {
+    "proxy": "http://49.254.73.195:10381",
+    "protocol": "http",
+    "ip": "49.254.73.195",
+    "port": 10381,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "KR",
+      "city": "Guro-gu"
+    }
+  },
+  {
+    "proxy": "http://183.78.138.201:6993",
+    "protocol": "http",
+    "ip": "183.78.138.201",
+    "port": 6993,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "KR",
+      "city": "Yangju"
+    }
+  },
+  {
+    "proxy": "http://124.198.67.114:19832",
+    "protocol": "http",
+    "ip": "124.198.67.114",
+    "port": 19832,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "KR",
+      "city": "Goyang-si"
+    }
+  },
+  {
+    "proxy": "http://49.254.224.166:27809",
+    "protocol": "http",
+    "ip": "49.254.224.166",
+    "port": 27809,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "KR",
+      "city": "Gyeyang-gu"
+    }
+  },
+  {
+    "proxy": "http://49.254.42.69:6480",
+    "protocol": "http",
+    "ip": "49.254.42.69",
+    "port": 6480,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "KR",
+      "city": "Seongbuk-gu"
+    }
+  },
+  {
+    "proxy": "http://49.254.69.150:10360",
+    "protocol": "http",
+    "ip": "49.254.69.150",
+    "port": 10360,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "KR",
+      "city": "Guro-gu"
+    }
+  },
+  {
+    "proxy": "http://8.220.205.172:4145",
+    "protocol": "http",
+    "ip": "8.220.205.172",
+    "port": 4145,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "KR",
+      "city": "Seoul"
+    }
+  },
+  {
+    "proxy": "http://8.220.204.92:1088",
+    "protocol": "http",
+    "ip": "8.220.204.92",
+    "port": 1088,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "KR",
+      "city": "Seoul"
+    }
+  },
+  {
+    "proxy": "http://121.126.69.84:20988",
+    "protocol": "http",
+    "ip": "121.126.69.84",
+    "port": 20988,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "KR",
+      "city": "Suwon"
+    }
+  },
+  {
+    "proxy": "http://8.220.204.92:9080",
+    "protocol": "http",
+    "ip": "8.220.204.92",
+    "port": 9080,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "KR",
+      "city": "Seoul"
+    }
+  },
+  {
+    "proxy": "http://121.126.80.41:27184",
+    "protocol": "http",
+    "ip": "121.126.80.41",
+    "port": 27184,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "KR",
+      "city": "Suwon"
+    }
+  },
+  {
+    "proxy": "http://210.95.145.226:3128",
+    "protocol": "http",
+    "ip": "210.95.145.226",
+    "port": 3128,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "KR",
+      "city": "Seongnam-si"
+    }
+  },
+  {
+    "proxy": "http://115.144.70.57:10838",
+    "protocol": "http",
+    "ip": "115.144.70.57",
+    "port": 10838,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "KR",
+      "city": "Suwon"
+    }
+  },
+  {
+    "proxy": "http://115.144.47.60:26778",
+    "protocol": "http",
+    "ip": "115.144.47.60",
+    "port": 26778,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "KR",
+      "city": "Geumcheon-gu"
     }
   },
   {
@@ -1742,68 +2197,16 @@
     }
   },
   {
-    "proxy": "http://49.254.235.234:26309",
+    "proxy": "http://49.254.153.205:5941",
     "protocol": "http",
-    "ip": "49.254.235.234",
-    "port": 26309,
+    "ip": "49.254.153.205",
+    "port": 5941,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
     "geolocation": {
       "country": "KR",
-      "city": "Hwaseong-si"
-    }
-  },
-  {
-    "proxy": "http://115.144.148.82:20413",
-    "protocol": "http",
-    "ip": "115.144.148.82",
-    "port": 20413,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "KR",
-      "city": "Suwon"
-    }
-  },
-  {
-    "proxy": "http://49.254.253.5:27776",
-    "protocol": "http",
-    "ip": "49.254.253.5",
-    "port": 27776,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "KR",
-      "city": "Unknown"
-    }
-  },
-  {
-    "proxy": "http://115.144.185.132:5515",
-    "protocol": "http",
-    "ip": "115.144.185.132",
-    "port": 5515,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "KR",
-      "city": "Dongdaemun-gu"
-    }
-  },
-  {
-    "proxy": "http://115.144.15.49:22957",
-    "protocol": "http",
-    "ip": "115.144.15.49",
-    "port": 22957,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "KR",
-      "city": "Yecheon-gun"
+      "city": "Seocho-gu"
     }
   },
   {
@@ -1820,29 +2223,731 @@
     }
   },
   {
-    "proxy": "http://121.126.248.92:28211",
+    "proxy": "http://49.254.188.133:18941",
     "protocol": "http",
-    "ip": "121.126.248.92",
-    "port": 28211,
+    "ip": "49.254.188.133",
+    "port": 18941,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
     "geolocation": {
       "country": "KR",
-      "city": "Jungnang-gu"
+      "city": "Dongjak-gu"
     }
   },
   {
-    "proxy": "http://8.220.204.92:9999",
+    "proxy": "http://115.144.111.152:5009",
     "protocol": "http",
-    "ip": "8.220.204.92",
-    "port": 9999,
+    "ip": "115.144.111.152",
+    "port": 5009,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "KR",
+      "city": "Mapo-gu"
+    }
+  },
+  {
+    "proxy": "http://59.6.191.48:1080",
+    "protocol": "http",
+    "ip": "59.6.191.48",
+    "port": 1080,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
     "geolocation": {
       "country": "KR",
       "city": "Seoul"
+    }
+  },
+  {
+    "proxy": "http://152.67.222.114:8001",
+    "protocol": "http",
+    "ip": "152.67.222.114",
+    "port": 8001,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "KR",
+      "city": "Chuncheon"
+    }
+  },
+  {
+    "proxy": "http://121.126.189.134:5191",
+    "protocol": "http",
+    "ip": "121.126.189.134",
+    "port": 5191,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "KR",
+      "city": "Yongin-si"
+    }
+  },
+  {
+    "proxy": "http://121.126.11.40:5775",
+    "protocol": "http",
+    "ip": "121.126.11.40",
+    "port": 5775,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "KR",
+      "city": "Pyeongtaek-si"
+    }
+  },
+  {
+    "proxy": "http://14.46.231.109:8001",
+    "protocol": "http",
+    "ip": "14.46.231.109",
+    "port": 8001,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "KR",
+      "city": "Gumi"
+    }
+  },
+  {
+    "proxy": "http://49.254.59.230:27738",
+    "protocol": "http",
+    "ip": "49.254.59.230",
+    "port": 27738,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "KR",
+      "city": "Seongbuk-gu"
+    }
+  },
+  {
+    "proxy": "http://125.7.153.243:24955",
+    "protocol": "http",
+    "ip": "125.7.153.243",
+    "port": 24955,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "KR",
+      "city": "Incheon"
+    }
+  },
+  {
+    "proxy": "http://8.220.205.172:8081",
+    "protocol": "http",
+    "ip": "8.220.205.172",
+    "port": 8081,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "KR",
+      "city": "Seoul"
+    }
+  },
+  {
+    "proxy": "http://49.254.165.91:8841",
+    "protocol": "http",
+    "ip": "49.254.165.91",
+    "port": 8841,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "KR",
+      "city": "Osan"
+    }
+  },
+  {
+    "proxy": "http://115.144.203.204:28705",
+    "protocol": "http",
+    "ip": "115.144.203.204",
+    "port": 28705,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "KR",
+      "city": "Ulju-gun"
+    }
+  },
+  {
+    "proxy": "http://121.126.128.15:28437",
+    "protocol": "http",
+    "ip": "121.126.128.15",
+    "port": 28437,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "KR",
+      "city": "Dalseo-gu"
+    }
+  },
+  {
+    "proxy": "http://8.220.205.172:3128",
+    "protocol": "http",
+    "ip": "8.220.205.172",
+    "port": 3128,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "KR",
+      "city": "Seoul"
+    }
+  },
+  {
+    "proxy": "http://121.126.120.96:23291",
+    "protocol": "http",
+    "ip": "121.126.120.96",
+    "port": 23291,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "KR",
+      "city": "Pyeongtaek-si"
+    }
+  },
+  {
+    "proxy": "http://49.254.79.1:6153",
+    "protocol": "http",
+    "ip": "49.254.79.1",
+    "port": 6153,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "KR",
+      "city": "Guro-gu"
+    }
+  },
+  {
+    "proxy": "http://49.254.251.40:6459",
+    "protocol": "http",
+    "ip": "49.254.251.40",
+    "port": 6459,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "KR",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "http://115.144.7.99:5698",
+    "protocol": "http",
+    "ip": "115.144.7.99",
+    "port": 5698,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "KR",
+      "city": "Yangp'yong"
+    }
+  },
+  {
+    "proxy": "http://49.254.89.109:9005",
+    "protocol": "http",
+    "ip": "49.254.89.109",
+    "port": 9005,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "KR",
+      "city": "Guro-gu"
+    }
+  },
+  {
+    "proxy": "http://130.162.157.198:8118",
+    "protocol": "http",
+    "ip": "130.162.157.198",
+    "port": 8118,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "KR",
+      "city": "Seoul"
+    }
+  },
+  {
+    "proxy": "http://115.144.48.224:26782",
+    "protocol": "http",
+    "ip": "115.144.48.224",
+    "port": 26782,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "KR",
+      "city": "Yangcheon-gu"
+    }
+  },
+  {
+    "proxy": "http://8.220.204.92:3128",
+    "protocol": "http",
+    "ip": "8.220.204.92",
+    "port": 3128,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "KR",
+      "city": "Seoul"
+    }
+  },
+  {
+    "proxy": "http://49.254.98.20:7398",
+    "protocol": "http",
+    "ip": "49.254.98.20",
+    "port": 7398,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "KR",
+      "city": "Nam-gu"
+    }
+  },
+  {
+    "proxy": "http://203.109.5.119:10122",
+    "protocol": "http",
+    "ip": "203.109.5.119",
+    "port": 10122,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "KR",
+      "city": "Goyang-si"
+    }
+  },
+  {
+    "proxy": "http://8.220.204.215:31433",
+    "protocol": "http",
+    "ip": "8.220.204.215",
+    "port": 31433,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "KR",
+      "city": "Seoul"
+    }
+  },
+  {
+    "proxy": "http://124.198.6.78:28063",
+    "protocol": "http",
+    "ip": "124.198.6.78",
+    "port": 28063,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "KR",
+      "city": "Yongin-si"
+    }
+  },
+  {
+    "proxy": "http://49.254.251.244:26335",
+    "protocol": "http",
+    "ip": "49.254.251.244",
+    "port": 26335,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "KR",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "http://221.164.102.22:8080",
+    "protocol": "http",
+    "ip": "221.164.102.22",
+    "port": 8080,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "KR",
+      "city": "Changwon"
+    }
+  },
+  {
+    "proxy": "http://115.144.154.140:5475",
+    "protocol": "http",
+    "ip": "115.144.154.140",
+    "port": 5475,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "KR",
+      "city": "Suwon"
+    }
+  },
+  {
+    "proxy": "http://49.254.189.39:17712",
+    "protocol": "http",
+    "ip": "49.254.189.39",
+    "port": 17712,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "KR",
+      "city": "Dongjak-gu"
+    }
+  },
+  {
+    "proxy": "http://203.109.29.29:7069",
+    "protocol": "http",
+    "ip": "203.109.29.29",
+    "port": 7069,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "KR",
+      "city": "Seoul"
+    }
+  },
+  {
+    "proxy": "http://52.79.107.158:8080",
+    "protocol": "http",
+    "ip": "52.79.107.158",
+    "port": 8080,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "KR",
+      "city": "Incheon"
+    }
+  },
+  {
+    "proxy": "http://49.254.95.1:27670",
+    "protocol": "http",
+    "ip": "49.254.95.1",
+    "port": 27670,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "KR",
+      "city": "Guro-gu"
+    }
+  },
+  {
+    "proxy": "http://121.126.61.236:5963",
+    "protocol": "http",
+    "ip": "121.126.61.236",
+    "port": 5963,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "KR",
+      "city": "Songpa-gu"
+    }
+  },
+  {
+    "proxy": "http://49.254.154.54:5948",
+    "protocol": "http",
+    "ip": "49.254.154.54",
+    "port": 5948,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "KR",
+      "city": "Seocho-gu"
+    }
+  },
+  {
+    "proxy": "http://8.220.205.172:9020",
+    "protocol": "http",
+    "ip": "8.220.205.172",
+    "port": 9020,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "KR",
+      "city": "Seoul"
+    }
+  },
+  {
+    "proxy": "http://49.254.175.101:7177",
+    "protocol": "http",
+    "ip": "49.254.175.101",
+    "port": 7177,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "KR",
+      "city": "Yeongdeungpo-gu"
+    }
+  },
+  {
+    "proxy": "http://8.220.204.215:18081",
+    "protocol": "http",
+    "ip": "8.220.204.215",
+    "port": 18081,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "KR",
+      "city": "Seoul"
+    }
+  },
+  {
+    "proxy": "http://124.198.40.25:24755",
+    "protocol": "http",
+    "ip": "124.198.40.25",
+    "port": 24755,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "KR",
+      "city": "Gimhae"
+    }
+  },
+  {
+    "proxy": "http://49.254.238.181:26320",
+    "protocol": "http",
+    "ip": "49.254.238.181",
+    "port": 26320,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "KR",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "http://193.122.105.251:65535",
+    "protocol": "http",
+    "ip": "193.122.105.251",
+    "port": 65535,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "KR",
+      "city": "Seoul"
+    }
+  },
+  {
+    "proxy": "http://49.254.126.166:17663",
+    "protocol": "http",
+    "ip": "49.254.126.166",
+    "port": 17663,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "KR",
+      "city": "Sejong"
+    }
+  },
+  {
+    "proxy": "http://115.144.185.200:5065",
+    "protocol": "http",
+    "ip": "115.144.185.200",
+    "port": 5065,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "KR",
+      "city": "Dongdaemun-gu"
+    }
+  },
+  {
+    "proxy": "http://115.144.138.58:5441",
+    "protocol": "http",
+    "ip": "115.144.138.58",
+    "port": 5441,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "KR",
+      "city": "Gwanak-gu"
+    }
+  },
+  {
+    "proxy": "http://115.144.136.16:5423",
+    "protocol": "http",
+    "ip": "115.144.136.16",
+    "port": 5423,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "KR",
+      "city": "Gwanak-gu"
+    }
+  },
+  {
+    "proxy": "http://203.109.5.116:10119",
+    "protocol": "http",
+    "ip": "203.109.5.116",
+    "port": 10119,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "KR",
+      "city": "Goyang-si"
+    }
+  },
+  {
+    "proxy": "http://121.126.155.145:28399",
+    "protocol": "http",
+    "ip": "121.126.155.145",
+    "port": 28399,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "KR",
+      "city": "Jeonju"
+    }
+  },
+  {
+    "proxy": "http://115.144.45.112:5097",
+    "protocol": "http",
+    "ip": "115.144.45.112",
+    "port": 5097,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "KR",
+      "city": "Geumcheon-gu"
+    }
+  },
+  {
+    "proxy": "http://115.144.104.59:23977",
+    "protocol": "http",
+    "ip": "115.144.104.59",
+    "port": 23977,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "KR",
+      "city": "Mapo-gu"
+    }
+  },
+  {
+    "proxy": "http://8.220.205.172:11443",
+    "protocol": "http",
+    "ip": "8.220.205.172",
+    "port": 11443,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "KR",
+      "city": "Seoul"
+    }
+  },
+  {
+    "proxy": "http://121.126.114.66:21920",
+    "protocol": "http",
+    "ip": "121.126.114.66",
+    "port": 21920,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "KR",
+      "city": "Pyeongtaek-si"
+    }
+  },
+  {
+    "proxy": "http://115.144.175.155:28800",
+    "protocol": "http",
+    "ip": "115.144.175.155",
+    "port": 28800,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "KR",
+      "city": "Gimpo-si"
+    }
+  },
+  {
+    "proxy": "http://115.144.22.127:28669",
+    "protocol": "http",
+    "ip": "115.144.22.127",
+    "port": 28669,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "KR",
+      "city": "Sejong"
+    }
+  },
+  {
+    "proxy": "http://49.254.210.27:25120",
+    "protocol": "http",
+    "ip": "49.254.210.27",
+    "port": 25120,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "KR",
+      "city": "Gyeyang-gu"
+    }
+  },
+  {
+    "proxy": "http://49.254.94.221:6175",
+    "protocol": "http",
+    "ip": "49.254.94.221",
+    "port": 6175,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "KR",
+      "city": "Guro-gu"
+    }
+  },
+  {
+    "proxy": "http://121.126.162.145:28375",
+    "protocol": "http",
+    "ip": "121.126.162.145",
+    "port": 28375,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "KR",
+      "city": "Gangdong-gu"
     }
   }
 ]
