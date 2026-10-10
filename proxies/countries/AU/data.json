@@ -1,18 +1,5 @@
 [
   {
-    "proxy": "socks4://108.61.185.188:1080",
-    "protocol": "socks4",
-    "ip": "108.61.185.188",
-    "port": 1080,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "AU",
-      "city": "Sydney"
-    }
-  },
-  {
     "proxy": "https://4.198.140.211:443",
     "protocol": "https",
     "ip": "4.198.140.211",
@@ -39,19 +26,6 @@
     }
   },
   {
-    "proxy": "https://103.108.95.226:9443",
-    "protocol": "https",
-    "ip": "103.108.95.226",
-    "port": 9443,
-    "https": true,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "AU",
-      "city": "Brisbane"
-    }
-  },
-  {
     "proxy": "https://150.230.14.159:443",
     "protocol": "https",
     "ip": "150.230.14.159",
@@ -62,6 +36,32 @@
     "geolocation": {
       "country": "AU",
       "city": "Bungarribee"
+    }
+  },
+  {
+    "proxy": "https://103.77.232.74:443",
+    "protocol": "https",
+    "ip": "103.77.232.74",
+    "port": 443,
+    "https": true,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "AU",
+      "city": "Sydney"
+    }
+  },
+  {
+    "proxy": "https://203.12.28.18:443",
+    "protocol": "https",
+    "ip": "203.12.28.18",
+    "port": 443,
+    "https": true,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "AU",
+      "city": "Unknown"
     }
   },
   {
@@ -117,19 +117,6 @@
     }
   },
   {
-    "proxy": "https://140.238.205.29:443",
-    "protocol": "https",
-    "ip": "140.238.205.29",
-    "port": 443,
-    "https": true,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "AU",
-      "city": "Bungarribee"
-    }
-  },
-  {
     "proxy": "http://202.133.88.173:80",
     "protocol": "http",
     "ip": "202.133.88.173",
@@ -182,10 +169,23 @@
     }
   },
   {
-    "proxy": "http://61.29.96.146:8000",
+    "proxy": "http://159.196.182.72:8080",
     "protocol": "http",
-    "ip": "61.29.96.146",
-    "port": 8000,
+    "ip": "159.196.182.72",
+    "port": 8080,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "AU",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "http://114.111.151.41:80",
+    "protocol": "http",
+    "ip": "114.111.151.41",
+    "port": 80,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
@@ -195,10 +195,10 @@
     }
   },
   {
-    "proxy": "http://114.111.151.41:80",
-    "protocol": "http",
-    "ip": "114.111.151.41",
-    "port": 80,
+    "proxy": "socks4://168.138.9.147:1080",
+    "protocol": "socks4",
+    "ip": "168.138.9.147",
+    "port": 1080,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
@@ -312,16 +312,16 @@
     }
   },
   {
-    "proxy": "http://203.31.199.68:8118",
+    "proxy": "http://180.181.215.232:3128",
     "protocol": "http",
-    "ip": "203.31.199.68",
-    "port": 8118,
+    "ip": "180.181.215.232",
+    "port": 3128,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
     "geolocation": {
       "country": "AU",
-      "city": "Unknown"
+      "city": "Melbourne"
     }
   },
   {
@@ -338,10 +338,10 @@
     }
   },
   {
-    "proxy": "http://3.26.199.107:9991",
+    "proxy": "http://13.239.253.213:3735",
     "protocol": "http",
-    "ip": "3.26.199.107",
-    "port": 9991,
+    "ip": "13.239.253.213",
+    "port": 3735,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
@@ -351,16 +351,42 @@
     }
   },
   {
-    "proxy": "http://152.67.99.80:80",
+    "proxy": "http://13.239.253.213:18710",
     "protocol": "http",
-    "ip": "152.67.99.80",
-    "port": 80,
+    "ip": "13.239.253.213",
+    "port": 18710,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
     "geolocation": {
       "country": "AU",
-      "city": "Bungarribee"
+      "city": "Sydney"
+    }
+  },
+  {
+    "proxy": "http://16.51.53.116:4059",
+    "protocol": "http",
+    "ip": "16.51.53.116",
+    "port": 4059,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "AU",
+      "city": "Melbourne"
+    }
+  },
+  {
+    "proxy": "http://168.138.9.147:1080",
+    "protocol": "http",
+    "ip": "168.138.9.147",
+    "port": 1080,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "AU",
+      "city": "Melbourne"
     }
   },
   {
@@ -390,6 +416,32 @@
     }
   },
   {
+    "proxy": "http://108.61.185.188:1080",
+    "protocol": "http",
+    "ip": "108.61.185.188",
+    "port": 1080,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "AU",
+      "city": "Sydney"
+    }
+  },
+  {
+    "proxy": "http://152.67.99.80:80",
+    "protocol": "http",
+    "ip": "152.67.99.80",
+    "port": 80,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "AU",
+      "city": "Bungarribee"
+    }
+  },
+  {
     "proxy": "http://172.105.166.114:31282",
     "protocol": "http",
     "ip": "172.105.166.114",
@@ -403,10 +455,10 @@
     }
   },
   {
-    "proxy": "http://168.138.9.147:1080",
+    "proxy": "http://61.29.96.146:80",
     "protocol": "http",
-    "ip": "168.138.9.147",
-    "port": 1080,
+    "ip": "61.29.96.146",
+    "port": 80,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
@@ -416,10 +468,10 @@
     }
   },
   {
-    "proxy": "http://61.29.96.146:80",
+    "proxy": "http://61.29.96.146:8000",
     "protocol": "http",
     "ip": "61.29.96.146",
-    "port": 80,
+    "port": 8000,
     "https": false,
     "anonymity": "transparent",
     "score": 1,

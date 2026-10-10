@@ -24,5 +24,18 @@
       "country": "MA",
       "city": "Casablanca"
     }
+  },
+  {
+    "proxy": "http://196.75.79.158:2020",
+    "protocol": "http",
+    "ip": "196.75.79.158",
+    "port": 2020,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "MA",
+      "city": "Rabat"
+    }
   }
 ]
