@@ -1,18 +1,5 @@
 [
   {
-    "proxy": "socks4://31.168.143.90:1080",
-    "protocol": "socks4",
-    "ip": "31.168.143.90",
-    "port": 1080,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "IL",
-      "city": "Bet Shemesh"
-    }
-  },
-  {
     "proxy": "https://62.90.77.30:443",
     "protocol": "https",
     "ip": "62.90.77.30",
@@ -49,58 +36,6 @@
     "geolocation": {
       "country": "IL",
       "city": "Ashquelon"
-    }
-  },
-  {
-    "proxy": "https://51.17.99.116:8181",
-    "protocol": "https",
-    "ip": "51.17.99.116",
-    "port": 8181,
-    "https": true,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "IL",
-      "city": "Tel Aviv"
-    }
-  },
-  {
-    "proxy": "https://51.17.99.135:4765",
-    "protocol": "https",
-    "ip": "51.17.99.135",
-    "port": 4765,
-    "https": true,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "IL",
-      "city": "Tel Aviv"
-    }
-  },
-  {
-    "proxy": "http://83.229.73.113:13554",
-    "protocol": "http",
-    "ip": "83.229.73.113",
-    "port": 13554,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "IL",
-      "city": "Haifa"
-    }
-  },
-  {
-    "proxy": "http://83.229.73.225:13554",
-    "protocol": "http",
-    "ip": "83.229.73.225",
-    "port": 13554,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "IL",
-      "city": "Haifa"
     }
   },
   {
@@ -182,23 +117,36 @@
     }
   },
   {
-    "proxy": "http://51.16.4.39:56089",
+    "proxy": "http://147.236.181.86:50009",
     "protocol": "http",
-    "ip": "51.16.4.39",
-    "port": 56089,
+    "ip": "147.236.181.86",
+    "port": 50009,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
     "geolocation": {
       "country": "IL",
-      "city": "Tel Aviv"
+      "city": "'Ezer"
     }
   },
   {
-    "proxy": "http://51.16.4.39:19016",
+    "proxy": "http://80.65.211.149:8888",
     "protocol": "http",
-    "ip": "51.16.4.39",
-    "port": 19016,
+    "ip": "80.65.211.149",
+    "port": 8888,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "IL",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "http://51.17.99.116:53951",
+    "protocol": "http",
+    "ip": "51.17.99.116",
+    "port": 53951,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
@@ -221,36 +169,10 @@
     }
   },
   {
-    "proxy": "http://51.16.4.39:9050",
+    "proxy": "http://51.16.4.39:1798",
     "protocol": "http",
     "ip": "51.16.4.39",
-    "port": 9050,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "IL",
-      "city": "Tel Aviv"
-    }
-  },
-  {
-    "proxy": "http://51.16.4.39:8983",
-    "protocol": "http",
-    "ip": "51.16.4.39",
-    "port": 8983,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "IL",
-      "city": "Tel Aviv"
-    }
-  },
-  {
-    "proxy": "http://51.17.99.116:44859",
-    "protocol": "http",
-    "ip": "51.17.99.116",
-    "port": 44859,
+    "port": 1798,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
@@ -270,19 +192,6 @@
     "geolocation": {
       "country": "IL",
       "city": "Unknown"
-    }
-  },
-  {
-    "proxy": "http://199.203.152.99:8111",
-    "protocol": "http",
-    "ip": "199.203.152.99",
-    "port": 8111,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "IL",
-      "city": "Ness Ziona"
     }
   }
 ]

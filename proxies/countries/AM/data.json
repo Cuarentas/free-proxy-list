@@ -273,19 +273,6 @@
     }
   },
   {
-    "proxy": "socks4://130.193.123.34:5678",
-    "protocol": "socks4",
-    "ip": "130.193.123.34",
-    "port": 5678,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "AM",
-      "city": "Yerevan"
-    }
-  },
-  {
     "proxy": "socks5://46.226.165.82:8443",
     "protocol": "socks5",
     "ip": "46.226.165.82",
@@ -296,32 +283,6 @@
     "geolocation": {
       "country": "AM",
       "city": "Unknown"
-    }
-  },
-  {
-    "proxy": "http://91.204.190.140:81",
-    "protocol": "http",
-    "ip": "91.204.190.140",
-    "port": 81,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "AM",
-      "city": "Unknown"
-    }
-  },
-  {
-    "proxy": "http://109.75.42.82:3629",
-    "protocol": "http",
-    "ip": "109.75.42.82",
-    "port": 3629,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "AM",
-      "city": "Yerevan"
     }
   },
   {
@@ -338,6 +299,32 @@
     }
   },
   {
+    "proxy": "http://89.249.195.92:6847",
+    "protocol": "http",
+    "ip": "89.249.195.92",
+    "port": 6847,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "AM",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "http://89.249.195.202:6957",
+    "protocol": "http",
+    "ip": "89.249.195.202",
+    "port": 6957,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "AM",
+      "city": "Unknown"
+    }
+  },
+  {
     "proxy": "http://195.250.92.58:8080",
     "protocol": "http",
     "ip": "195.250.92.58",
@@ -348,19 +335,6 @@
     "geolocation": {
       "country": "AM",
       "city": "Yerevan"
-    }
-  },
-  {
-    "proxy": "http://37.186.66.36:3629",
-    "protocol": "http",
-    "ip": "37.186.66.36",
-    "port": 3629,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "AM",
-      "city": "Unknown"
     }
   }
 ]
