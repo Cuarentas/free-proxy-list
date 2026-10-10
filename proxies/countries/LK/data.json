@@ -1,9 +1,9 @@
 [
   {
-    "proxy": "http://203.143.18.121:8080",
+    "proxy": "http://203.143.19.137:5050",
     "protocol": "http",
-    "ip": "203.143.18.121",
-    "port": 8080,
+    "ip": "203.143.19.137",
+    "port": 5050,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
