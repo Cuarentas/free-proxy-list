@@ -1,60 +1,8 @@
 [
   {
-    "proxy": "socks4://190.93.188.197:1080",
-    "protocol": "socks4",
-    "ip": "190.93.188.197",
-    "port": 1080,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "DO",
-      "city": "Santiago de los Caballeros"
-    }
-  },
-  {
-    "proxy": "http://38.156.238.32:999",
+    "proxy": "http://200.125.169.51:999",
     "protocol": "http",
-    "ip": "38.156.238.32",
-    "port": 999,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "DO",
-      "city": "Santo Domingo"
-    }
-  },
-  {
-    "proxy": "http://38.52.220.74:999",
-    "protocol": "http",
-    "ip": "38.52.220.74",
-    "port": 999,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "DO",
-      "city": "Santo Domingo"
-    }
-  },
-  {
-    "proxy": "http://38.156.233.173:999",
-    "protocol": "http",
-    "ip": "38.156.233.173",
-    "port": 999,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "DO",
-      "city": "Santo Domingo"
-    }
-  },
-  {
-    "proxy": "http://200.125.169.118:999",
-    "protocol": "http",
-    "ip": "200.125.169.118",
+    "ip": "200.125.169.51",
     "port": 999,
     "https": false,
     "anonymity": "transparent",
@@ -65,22 +13,22 @@
     }
   },
   {
-    "proxy": "http://200.125.169.117:999",
+    "proxy": "http://38.50.165.182:999",
     "protocol": "http",
-    "ip": "200.125.169.117",
+    "ip": "38.50.165.182",
     "port": 999,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
     "geolocation": {
       "country": "DO",
-      "city": "Mejia de Navarrete"
+      "city": "Dajabon"
     }
   },
   {
-    "proxy": "http://170.80.203.35:999",
+    "proxy": "http://190.110.36.184:999",
     "protocol": "http",
-    "ip": "170.80.203.35",
+    "ip": "190.110.36.184",
     "port": 999,
     "https": false,
     "anonymity": "transparent",
@@ -91,22 +39,9 @@
     }
   },
   {
-    "proxy": "http://38.159.223.159:999",
+    "proxy": "http://38.52.222.218:999",
     "protocol": "http",
-    "ip": "38.159.223.159",
-    "port": 999,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "DO",
-      "city": "Yamasa"
-    }
-  },
-  {
-    "proxy": "http://38.156.238.77:999",
-    "protocol": "http",
-    "ip": "38.156.238.77",
+    "ip": "38.52.222.218",
     "port": 999,
     "https": false,
     "anonymity": "transparent",
@@ -117,9 +52,9 @@
     }
   },
   {
-    "proxy": "http://38.156.23.26:999",
+    "proxy": "http://38.156.23.169:999",
     "protocol": "http",
-    "ip": "38.156.23.26",
+    "ip": "38.156.23.169",
     "port": 999,
     "https": false,
     "anonymity": "transparent",
@@ -130,49 +65,23 @@
     }
   },
   {
-    "proxy": "http://38.52.223.107:999",
+    "proxy": "http://168.196.126.226:999",
     "protocol": "http",
-    "ip": "38.52.223.107",
+    "ip": "168.196.126.226",
     "port": 999,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
     "geolocation": {
       "country": "DO",
-      "city": "Santo Domingo"
+      "city": "Santiago de los Caballeros"
     }
   },
   {
-    "proxy": "http://38.156.23.250:999",
+    "proxy": "http://201.229.250.21:8080",
     "protocol": "http",
-    "ip": "38.156.23.250",
-    "port": 999,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "DO",
-      "city": "Puerto Plata"
-    }
-  },
-  {
-    "proxy": "http://38.156.233.78:999",
-    "protocol": "http",
-    "ip": "38.156.233.78",
-    "port": 999,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "DO",
-      "city": "Santo Domingo"
-    }
-  },
-  {
-    "proxy": "http://45.229.32.147:999",
-    "protocol": "http",
-    "ip": "45.229.32.147",
-    "port": 999,
+    "ip": "201.229.250.21",
+    "port": 8080,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
@@ -182,22 +91,9 @@
     }
   },
   {
-    "proxy": "http://38.156.233.77:999",
+    "proxy": "http://38.52.178.255:999",
     "protocol": "http",
-    "ip": "38.156.233.77",
-    "port": 999,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "DO",
-      "city": "Santo Domingo"
-    }
-  },
-  {
-    "proxy": "http://168.196.126.226:999",
-    "protocol": "http",
-    "ip": "168.196.126.226",
+    "ip": "38.52.178.255",
     "port": 999,
     "https": false,
     "anonymity": "transparent",
@@ -221,45 +117,6 @@
     }
   },
   {
-    "proxy": "http://38.52.178.255:999",
-    "protocol": "http",
-    "ip": "38.52.178.255",
-    "port": 999,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "DO",
-      "city": "Santiago de los Caballeros"
-    }
-  },
-  {
-    "proxy": "http://38.156.235.171:999",
-    "protocol": "http",
-    "ip": "38.156.235.171",
-    "port": 999,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "DO",
-      "city": "Santo Domingo"
-    }
-  },
-  {
-    "proxy": "http://201.229.250.21:8080",
-    "protocol": "http",
-    "ip": "201.229.250.21",
-    "port": 8080,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "DO",
-      "city": "Santo Domingo Este"
-    }
-  },
-  {
     "proxy": "http://179.61.229.162:999",
     "protocol": "http",
     "ip": "179.61.229.162",
@@ -273,10 +130,10 @@
     }
   },
   {
-    "proxy": "http://152.0.45.48:8080",
+    "proxy": "http://148.255.136.169:999",
     "protocol": "http",
-    "ip": "152.0.45.48",
-    "port": 8080,
+    "ip": "148.255.136.169",
+    "port": 999,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
@@ -286,9 +143,9 @@
     }
   },
   {
-    "proxy": "http://177.52.221.6:999",
+    "proxy": "http://177.52.221.99:999",
     "protocol": "http",
-    "ip": "177.52.221.6",
+    "ip": "177.52.221.99",
     "port": 999,
     "https": false,
     "anonymity": "transparent",
@@ -296,6 +153,45 @@
     "geolocation": {
       "country": "DO",
       "city": "Santiago de los Caballeros"
+    }
+  },
+  {
+    "proxy": "http://170.80.200.246:999",
+    "protocol": "http",
+    "ip": "170.80.200.246",
+    "port": 999,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "DO",
+      "city": "Santiago de los Caballeros"
+    }
+  },
+  {
+    "proxy": "http://190.110.36.195:999",
+    "protocol": "http",
+    "ip": "190.110.36.195",
+    "port": 999,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "DO",
+      "city": "Santiago de los Caballeros"
+    }
+  },
+  {
+    "proxy": "http://38.159.223.159:999",
+    "protocol": "http",
+    "ip": "38.159.223.159",
+    "port": 999,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "DO",
+      "city": "Yamasa"
     }
   }
 ]

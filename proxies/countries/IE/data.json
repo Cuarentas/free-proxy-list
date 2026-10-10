@@ -403,6 +403,19 @@
     }
   },
   {
+    "proxy": "http://20.223.124.87:3128",
+    "protocol": "http",
+    "ip": "20.223.124.87",
+    "port": 3128,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "IE",
+      "city": "Dublin"
+    }
+  },
+  {
     "proxy": "socks4://89.124.81.186:1082",
     "protocol": "socks4",
     "ip": "89.124.81.186",

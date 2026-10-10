@@ -39,19 +39,6 @@
     }
   },
   {
-    "proxy": "socks5://87.71.154.56:9050",
-    "protocol": "socks5",
-    "ip": "87.71.154.56",
-    "port": 9050,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "IL",
-      "city": "Kfar Saba"
-    }
-  },
-  {
     "proxy": "socks5://80.65.211.149:8888",
     "protocol": "socks5",
     "ip": "80.65.211.149",
@@ -62,6 +49,32 @@
     "geolocation": {
       "country": "IL",
       "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "socks5://45.93.94.227:1080",
+    "protocol": "socks5",
+    "ip": "45.93.94.227",
+    "port": 1080,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "IL",
+      "city": "Tel Aviv"
+    }
+  },
+  {
+    "proxy": "socks5://87.71.154.56:9050",
+    "protocol": "socks5",
+    "ip": "87.71.154.56",
+    "port": 9050,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "IL",
+      "city": "Kfar Saba"
     }
   },
   {
@@ -130,16 +143,16 @@
     }
   },
   {
-    "proxy": "http://51.17.99.135:4713",
+    "proxy": "http://83.229.73.113:13554",
     "protocol": "http",
-    "ip": "51.17.99.135",
-    "port": 4713,
+    "ip": "83.229.73.113",
+    "port": 13554,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
     "geolocation": {
       "country": "IL",
-      "city": "Tel Aviv"
+      "city": "Haifa"
     }
   },
   {
@@ -156,16 +169,29 @@
     }
   },
   {
-    "proxy": "http://51.17.99.135:10000",
+    "proxy": "http://77.91.74.77:80",
     "protocol": "http",
-    "ip": "51.17.99.135",
-    "port": 10000,
+    "ip": "77.91.74.77",
+    "port": 80,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
     "geolocation": {
       "country": "IL",
-      "city": "Tel Aviv"
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "http://31.168.143.90:1080",
+    "protocol": "http",
+    "ip": "31.168.143.90",
+    "port": 1080,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "IL",
+      "city": "Bet Shemesh"
     }
   },
   {
@@ -182,16 +208,16 @@
     }
   },
   {
-    "proxy": "http://77.91.74.77:80",
+    "proxy": "http://83.229.73.225:13554",
     "protocol": "http",
-    "ip": "77.91.74.77",
-    "port": 80,
+    "ip": "83.229.73.225",
+    "port": 13554,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
     "geolocation": {
       "country": "IL",
-      "city": "Unknown"
+      "city": "Haifa"
     }
   }
 ]

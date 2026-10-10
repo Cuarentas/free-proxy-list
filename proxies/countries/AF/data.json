@@ -11,5 +11,18 @@
       "country": "AF",
       "city": "Unknown"
     }
+  },
+  {
+    "proxy": "http://116.206.188.190:5050",
+    "protocol": "http",
+    "ip": "116.206.188.190",
+    "port": 5050,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "AF",
+      "city": "Unknown"
+    }
   }
 ]

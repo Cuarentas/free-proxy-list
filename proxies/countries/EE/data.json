@@ -1,31 +1,5 @@
 [
   {
-    "proxy": "https://95.153.32.2:9443",
-    "protocol": "https",
-    "ip": "95.153.32.2",
-    "port": 9443,
-    "https": true,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "EE",
-      "city": "Tapa"
-    }
-  },
-  {
-    "proxy": "https://95.153.32.2:443",
-    "protocol": "https",
-    "ip": "95.153.32.2",
-    "port": 443,
-    "https": true,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "EE",
-      "city": "Tapa"
-    }
-  },
-  {
     "proxy": "socks5://80.79.123.97:9050",
     "protocol": "socks5",
     "ip": "80.79.123.97",
@@ -127,19 +101,6 @@
     "geolocation": {
       "country": "EE",
       "city": "Kanepi"
-    }
-  },
-  {
-    "proxy": "http://80.79.123.97:9050",
-    "protocol": "http",
-    "ip": "80.79.123.97",
-    "port": 9050,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "EE",
-      "city": "Unknown"
     }
   }
 ]

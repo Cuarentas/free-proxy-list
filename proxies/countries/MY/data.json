@@ -1,18 +1,5 @@
 [
   {
-    "proxy": "socks4://103.1.105.10:4153",
-    "protocol": "socks4",
-    "ip": "103.1.105.10",
-    "port": 4153,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "MY",
-      "city": "Unknown"
-    }
-  },
-  {
     "proxy": "https://210.48.154.99:443",
     "protocol": "https",
     "ip": "210.48.154.99",
@@ -91,16 +78,42 @@
     }
   },
   {
-    "proxy": "https://43.216.197.62:8447",
-    "protocol": "https",
-    "ip": "43.216.197.62",
-    "port": 8447,
-    "https": true,
+    "proxy": "http://111.90.143.197:60808",
+    "protocol": "http",
+    "ip": "111.90.143.197",
+    "port": 60808,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "MY",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "http://47.250.112.180:443",
+    "protocol": "http",
+    "ip": "47.250.112.180",
+    "port": 443,
+    "https": false,
     "anonymity": "transparent",
     "score": 1,
     "geolocation": {
       "country": "MY",
       "city": "Kuala Lumpur"
+    }
+  },
+  {
+    "proxy": "http://175.144.25.52:8081",
+    "protocol": "http",
+    "ip": "175.144.25.52",
+    "port": 8081,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "MY",
+      "city": "Simpang Empat Permatang Buluh"
     }
   },
   {
@@ -130,6 +143,19 @@
     }
   },
   {
+    "proxy": "http://175.136.209.251:8080",
+    "protocol": "http",
+    "ip": "175.136.209.251",
+    "port": 8080,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "MY",
+      "city": "Kuala Lumpur"
+    }
+  },
+  {
     "proxy": "http://219.93.101.62:80",
     "protocol": "http",
     "ip": "219.93.101.62",
@@ -143,36 +169,10 @@
     }
   },
   {
-    "proxy": "http://219.93.101.60:80",
-    "protocol": "http",
-    "ip": "219.93.101.60",
-    "port": 80,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "MY",
-      "city": "Kota Kinabalu"
-    }
-  },
-  {
-    "proxy": "http://115.135.156.28:8080",
-    "protocol": "http",
-    "ip": "115.135.156.28",
-    "port": 8080,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "MY",
-      "city": "Subang Jaya"
-    }
-  },
-  {
-    "proxy": "socks4://47.250.159.65:6969",
-    "protocol": "socks4",
-    "ip": "47.250.159.65",
-    "port": 6969,
+    "proxy": "socks5://47.250.155.254:45",
+    "protocol": "socks5",
+    "ip": "47.250.155.254",
+    "port": 45,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
@@ -1560,62 +1560,114 @@
     }
   },
   {
-    "proxy": "http://47.250.177.202:104",
+    "proxy": "http://113.23.230.90:8080",
     "protocol": "http",
-    "ip": "47.250.177.202",
-    "port": 104,
+    "ip": "113.23.230.90",
+    "port": 8080,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
     "geolocation": {
       "country": "MY",
-      "city": "Kuala Lumpur"
+      "city": "Sungai Petani"
     }
   },
   {
-    "proxy": "http://47.250.177.202:8081",
+    "proxy": "http://219.93.101.60:80",
     "protocol": "http",
-    "ip": "47.250.177.202",
-    "port": 8081,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "MY",
-      "city": "Kuala Lumpur"
-    }
-  },
-  {
-    "proxy": "http://58.84.16.214:1231",
-    "protocol": "http",
-    "ip": "58.84.16.214",
-    "port": 1231,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "MY",
-      "city": "Unknown"
-    }
-  },
-  {
-    "proxy": "http://47.250.11.111:80",
-    "protocol": "http",
-    "ip": "47.250.11.111",
+    "ip": "219.93.101.60",
     "port": 80,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
     "geolocation": {
       "country": "MY",
+      "city": "Kota Kinabalu"
+    }
+  },
+  {
+    "proxy": "http://175.138.75.83:8080",
+    "protocol": "http",
+    "ip": "175.138.75.83",
+    "port": 8080,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "MY",
+      "city": "Petaling Jaya"
+    }
+  },
+  {
+    "proxy": "http://175.145.9.218:8080",
+    "protocol": "http",
+    "ip": "175.145.9.218",
+    "port": 8080,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "MY",
       "city": "Kuala Lumpur"
     }
   },
   {
-    "proxy": "http://47.250.159.65:8080",
+    "proxy": "http://45.151.69.56:3128",
+    "protocol": "http",
+    "ip": "45.151.69.56",
+    "port": 3128,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "MY",
+      "city": "Kuala Lumpur"
+    }
+  },
+  {
+    "proxy": "http://47.250.177.202:5060",
+    "protocol": "http",
+    "ip": "47.250.177.202",
+    "port": 5060,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "MY",
+      "city": "Kuala Lumpur"
+    }
+  },
+  {
+    "proxy": "http://47.250.155.254:8004",
+    "protocol": "http",
+    "ip": "47.250.155.254",
+    "port": 8004,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "MY",
+      "city": "Kuala Lumpur"
+    }
+  },
+  {
+    "proxy": "http://115.133.22.97:6666",
+    "protocol": "http",
+    "ip": "115.133.22.97",
+    "port": 6666,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "MY",
+      "city": "Petaling Jaya"
+    }
+  },
+  {
+    "proxy": "http://47.250.159.65:11",
     "protocol": "http",
     "ip": "47.250.159.65",
-    "port": 8080,
+    "port": 11,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
@@ -1625,35 +1677,35 @@
     }
   },
   {
-    "proxy": "http://47.250.51.110:9098",
+    "proxy": "http://47.254.198.237:3128",
+    "protocol": "http",
+    "ip": "47.254.198.237",
+    "port": 3128,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "MY",
+      "city": "Kuala Lumpur"
+    }
+  },
+  {
+    "proxy": "http://60.51.41.211:1080",
+    "protocol": "http",
+    "ip": "60.51.41.211",
+    "port": 1080,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "MY",
+      "city": "Marabu"
+    }
+  },
+  {
+    "proxy": "http://47.250.51.110:8080",
     "protocol": "http",
     "ip": "47.250.51.110",
-    "port": 9098,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "MY",
-      "city": "Kuala Lumpur"
-    }
-  },
-  {
-    "proxy": "http://43.216.197.62:20482",
-    "protocol": "http",
-    "ip": "43.216.197.62",
-    "port": 20482,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "MY",
-      "city": "Kuala Lumpur"
-    }
-  },
-  {
-    "proxy": "http://45.195.249.146:8080",
-    "protocol": "http",
-    "ip": "45.195.249.146",
     "port": 8080,
     "https": false,
     "anonymity": "transparent",
@@ -1664,23 +1716,23 @@
     }
   },
   {
-    "proxy": "http://103.1.105.10:4153",
+    "proxy": "http://175.139.201.193:4153",
     "protocol": "http",
-    "ip": "103.1.105.10",
+    "ip": "175.139.201.193",
     "port": 4153,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
     "geolocation": {
       "country": "MY",
-      "city": "Unknown"
+      "city": "Ipoh"
     }
   },
   {
-    "proxy": "http://47.250.11.111:10000",
+    "proxy": "http://47.250.11.111:4002",
     "protocol": "http",
     "ip": "47.250.11.111",
-    "port": 10000,
+    "port": 4002,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
@@ -1703,49 +1755,10 @@
     }
   },
   {
-    "proxy": "http://175.139.233.78:80",
+    "proxy": "http://47.250.11.111:10000",
     "protocol": "http",
-    "ip": "175.139.233.78",
-    "port": 80,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "MY",
-      "city": "Kota Kinabalu"
-    }
-  },
-  {
-    "proxy": "http://175.139.233.79:80",
-    "protocol": "http",
-    "ip": "175.139.233.79",
-    "port": 80,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "MY",
-      "city": "Kota Kinabalu"
-    }
-  },
-  {
-    "proxy": "http://115.133.22.97:6666",
-    "protocol": "http",
-    "ip": "115.133.22.97",
-    "port": 6666,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "MY",
-      "city": "Petaling Jaya"
-    }
-  },
-  {
-    "proxy": "http://47.250.177.202:5060",
-    "protocol": "http",
-    "ip": "47.250.177.202",
-    "port": 5060,
+    "ip": "47.250.11.111",
+    "port": 10000,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
@@ -1755,23 +1768,23 @@
     }
   },
   {
-    "proxy": "http://47.250.11.111:8080",
+    "proxy": "http://115.135.156.28:8080",
     "protocol": "http",
-    "ip": "47.250.11.111",
+    "ip": "115.135.156.28",
     "port": 8080,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
     "geolocation": {
       "country": "MY",
-      "city": "Kuala Lumpur"
+      "city": "Subang Jaya"
     }
   },
   {
-    "proxy": "http://103.58.16.106:4145",
+    "proxy": "http://58.84.16.214:1231",
     "protocol": "http",
-    "ip": "103.58.16.106",
-    "port": 4145,
+    "ip": "58.84.16.214",
+    "port": 1231,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
@@ -1781,127 +1794,10 @@
     }
   },
   {
-    "proxy": "http://175.139.200.17:4153",
+    "proxy": "http://45.151.69.56:3129",
     "protocol": "http",
-    "ip": "175.139.200.17",
-    "port": 4153,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "MY",
-      "city": "Ipoh"
-    }
-  },
-  {
-    "proxy": "http://161.142.51.115:6080",
-    "protocol": "http",
-    "ip": "161.142.51.115",
-    "port": 6080,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "MY",
-      "city": "Shah Alam"
-    }
-  },
-  {
-    "proxy": "http://47.250.11.111:5060",
-    "protocol": "http",
-    "ip": "47.250.11.111",
-    "port": 5060,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "MY",
-      "city": "Kuala Lumpur"
-    }
-  },
-  {
-    "proxy": "http://175.139.233.76:80",
-    "protocol": "http",
-    "ip": "175.139.233.76",
-    "port": 80,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "MY",
-      "city": "Kota Kinabalu"
-    }
-  },
-  {
-    "proxy": "http://47.254.198.237:3128",
-    "protocol": "http",
-    "ip": "47.254.198.237",
-    "port": 3128,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "MY",
-      "city": "Kuala Lumpur"
-    }
-  },
-  {
-    "proxy": "http://1.32.57.85:5678",
-    "protocol": "http",
-    "ip": "1.32.57.85",
-    "port": 5678,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "MY",
-      "city": "Ipoh"
-    }
-  },
-  {
-    "proxy": "http://60.51.41.211:1080",
-    "protocol": "http",
-    "ip": "60.51.41.211",
-    "port": 1080,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "MY",
-      "city": "Marabu"
-    }
-  },
-  {
-    "proxy": "http://1.32.48.243:8081",
-    "protocol": "http",
-    "ip": "1.32.48.243",
-    "port": 8081,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "MY",
-      "city": "Johor Bahru"
-    }
-  },
-  {
-    "proxy": "http://115.132.248.246:8081",
-    "protocol": "http",
-    "ip": "115.132.248.246",
-    "port": 8081,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "MY",
-      "city": "Kuala Lumpur"
-    }
-  },
-  {
-    "proxy": "http://175.136.215.240:18080",
-    "protocol": "http",
-    "ip": "175.136.215.240",
-    "port": 18080,
+    "ip": "45.151.69.56",
+    "port": 3129,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
