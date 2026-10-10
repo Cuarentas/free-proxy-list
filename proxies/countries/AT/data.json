@@ -219,44 +219,5 @@
       "country": "AT",
       "city": "Vienna"
     }
-  },
-  {
-    "proxy": "http://152.53.183.107:8081",
-    "protocol": "http",
-    "ip": "152.53.183.107",
-    "port": 8081,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "AT",
-      "city": "Unknown"
-    }
-  },
-  {
-    "proxy": "http://78.153.130.53:9050",
-    "protocol": "http",
-    "ip": "78.153.130.53",
-    "port": 9050,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "AT",
-      "city": "Vienna"
-    }
-  },
-  {
-    "proxy": "http://178.189.56.158:4153",
-    "protocol": "http",
-    "ip": "178.189.56.158",
-    "port": 4153,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "AT",
-      "city": "Ramsau am Dachstein"
-    }
   }
 ]

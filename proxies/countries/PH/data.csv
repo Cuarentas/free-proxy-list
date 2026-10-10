@@ -1,36 +1,36 @@
-socks5://38.49.210.79:40000,PH,Manila
+socks4://161.49.100.131:1080,PH,Quiapo District
 https://202.183.37.129:443,PH,Unknown
 https://202.183.37.188:443,PH,Unknown
 https://202.183.37.189:443,PH,Unknown
 https://8.212.178.252:8000,PH,Manila
-http://222.127.206.145:8085,PH,Makati City
-http://122.3.127.68:8080,PH,Makati City
-http://222.127.232.128:9999,PH,Lahug
-http://139.135.141.12:8095,PH,Quezon City
-http://112.198.52.194:8080,PH,Unknown
-http://115.147.31.8:8080,PH,Cainta
-http://180.191.142.94:8081,PH,Unknown
-http://180.194.103.158:8082,PH,Cagayan de Oro
+http://180.191.52.90:5050,PH,Tarlac City
+http://112.208.167.183:8081,PH,Sucat
+http://180.191.121.186:8181,PH,Cagayan de Oro
 http://120.28.152.190:8082,PH,San Juan
-http://124.83.40.234:8080,PH,Makati City
-http://8.220.136.174:9098,PH,Manila
-http://122.53.48.41:8080,PH,Cabuyao
-http://112.198.22.122:80,PH,Unknown
-http://139.135.160.13:8083,PH,Taguig
-http://58.69.61.79:8082,PH,Cebu City
-http://180.191.143.185:8081,PH,Unknown
-socks4://119.93.82.236:1080,PH,Mandaluyong City
-http://8.220.136.174:5060,PH,Manila
-http://139.135.170.12:8082,PH,Taguig
+http://180.191.228.36:8082,PH,General Trias
+socks5://61.9.32.30:58765,PH,Unknown
 http://49.149.124.19:8081,PH,Cagayan de Oro
-http://180.194.14.117:8081,PH,Cagayan de Oro
-http://124.83.43.145:8080,PH,Makati City
+socks4://8.220.136.174:45,PH,Manila
+socks4://8.220.136.174:8008,PH,Manila
+http://139.135.160.13:8083,PH,Taguig
+socks4://8.220.136.174:5060,PH,Manila
+socks4://8.220.136.174:8443,PH,Manila
+http://112.198.22.122:80,PH,Unknown
+http://180.191.137.251:5050,PH,Unknown
 http://49.149.217.231:8082,PH,Ipil
 http://124.105.236.145:9090,PH,Tuguegarao City
+http://180.194.103.158:8082,PH,Cagayan de Oro
 http://112.198.134.143:8081,PH,Nasugbu
-http://49.146.229.170:5050,PH,Cebu City
-http://180.191.234.166:8080,PH,General Trias
-socks5://61.9.32.30:58765,PH,Unknown
+http://180.191.231.112:8082,PH,General Trias
+http://222.127.206.145:8085,PH,Makati City
+http://115.147.31.8:8080,PH,Cainta
+http://180.191.2.166:8081,PH,Cabanatuan City
+http://124.106.116.34:1337,PH,Tacloban City
+http://180.191.32.67:5050,PH,Cabanatuan City
+http://161.49.219.181:8082,PH,Minalin
+http://222.127.68.126:8080,PH,Lahug
+http://112.208.174.83:8080,PH,Sucat
+socks5://38.49.210.79:40000,PH,Manila
 socks5://61.9.34.22:58765,PH,Unknown
 socks5://103.239.201.50:58765,PH,Unknown
 socks5://8.212.151.166:51,PH,Manila
@@ -106,81 +106,65 @@ socks5://8.212.151.166:8018,PH,Manila
 socks5://8.212.165.164:4369,PH,Manila
 socks5://8.212.165.164:10000,PH,Manila
 socks5://8.212.165.164:5010,PH,Manila
-http://122.3.35.216:8081,PH,Quezon City
-http://119.93.170.95:8085,PH,Makati City
-http://124.217.5.100:5050,PH,Unknown
-http://112.203.56.161:8082,PH,Quezon City
+http://8.212.168.170:3128,PH,Manila
+http://8.212.168.170:20,PH,Manila
+http://180.191.235.27:5050,PH,General Trias
+http://180.191.49.73:8090,PH,Tarlac City
 http://180.191.127.7:8082,PH,Cagayan de Oro
-http://180.191.229.193:5050,PH,General Trias
-http://124.83.127.152:8082,PH,Tarlac City
 http://112.210.199.136:8080,PH,Lipa City
-http://124.105.246.161:8082,PH,Carigara
-http://139.135.77.166:8085,PH,Tarlac City
-http://180.191.14.210:8081,PH,Cabanatuan City
-http://49.148.17.137:9999,PH,Cebu City
-http://180.191.125.218:8081,PH,Cagayan de Oro
-http://119.93.64.216:8082,PH,Paranaque City
-http://180.190.187.41:5050,PH,Lahug
-http://49.151.120.81:8080,PH,Baguio City
-http://45.194.3.119:8080,PH,Makati City
-http://112.208.167.50:8082,PH,Sucat
-http://112.208.167.183:8081,PH,Sucat
-http://180.190.241.124:8082,PH,Iloilo City
-http://112.208.174.83:8080,PH,Sucat
-http://38.49.210.79:40000,PH,Manila
-http://58.69.201.117:8082,PH,Plaridel
-http://58.69.124.137:8080,PH,Bago City
-http://8.220.136.174:8888,PH,Manila
-http://180.191.22.153:8081,PH,Cabanatuan City
-http://123.253.137.3:8080,PH,Aroroy
-http://120.28.117.92:8081,PH,Quezon City
-http://8.220.136.174:3120,PH,Manila
-http://180.194.67.161:8082,PH,Bacolod City
-http://49.145.55.76:5050,PH,Mandaue City
-http://119.93.129.34:80,PH,Pembo
-http://161.49.215.28:10101,PH,Angeles City
-http://120.28.216.197:8082,PH,Cagayan de Oro
-http://45.194.3.132:8080,PH,Makati City
-http://143.44.191.108:8080,PH,Quezon
-http://161.49.219.181:8082,PH,Minalin
-http://180.191.255.109:8080,PH,General Trias
-http://122.3.77.180:8082,PH,Quezon City
-http://49.147.76.124:8082,PH,Los Banos
-http://8.220.136.174:8080,PH,Manila
-http://112.198.179.67:8080,PH,Carmona
+http://180.191.143.185:8081,PH,Unknown
+http://122.52.184.149:8082,PH,Makati City
+http://180.191.124.206:8081,PH,Cagayan de Oro
 http://49.147.104.23:8082,PH,Cebu City
-http://119.93.153.10:8087,PH,Cebu City
-http://103.152.9.150:80,PH,Talavera
+http://49.147.103.170:5050,PH,Cebu City
+http://124.106.223.156:9999,PH,Quezon City
+http://122.3.68.45:8082,PH,Manila
+http://120.28.194.248:8282,PH,Cagayan de Oro
+http://180.232.171.210:8080,PH,Taguig
+http://124.105.79.237:8080,PH,Calape
 http://119.93.83.106:8082,PH,Mandaluyong City
-http://112.202.40.128:8082,PH,Unknown
-http://161.49.90.70:1337,PH,Makati City
-http://161.49.91.13:1337,PH,Makati City
-http://61.245.9.167:5050,PH,Davao City
-http://49.151.189.78:8082,PH,San Fernando
-http://180.194.241.136:8080,PH,Unknown
-http://123.253.136.159:1256,PH,Aroroy
-http://180.191.229.72:5050,PH,General Trias
-http://180.191.23.171:8081,PH,Cabanatuan City
-http://122.54.226.216:8082,PH,Dulag
-http://112.208.173.248:8081,PH,Sucat
-http://115.147.254.250:6040,PH,Unknown
-http://119.93.87.65:8080,PH,Mandaluyong City
-http://180.191.120.247:5050,PH,Cagayan de Oro
-http://143.44.244.111:8081,PH,Olongapo City
-http://180.191.233.16:8085,PH,General Trias
-http://49.147.105.198:5050,PH,Cebu City
-http://122.54.139.32:5050,PH,Tagbilaran
-http://116.50.169.6:8088,PH,Quezon City
-http://124.107.173.219:8082,PH,Abuyog
-http://152.32.64.43:8095,PH,Mandaluyong City
-http://119.94.124.90:8081,PH,Santa Maria
-http://180.191.137.251:5050,PH,Unknown
-http://112.202.230.201:8082,PH,Quezon City
-http://49.149.193.129:8082,PH,Koronadal
-http://112.201.188.87:8080,PH,Pasig
+http://112.203.192.57:8082,PH,Quezon City
+http://115.147.32.198:8082,PH,Maasin
+http://124.83.43.145:8080,PH,Makati City
+http://8.220.141.8:3129,PH,Manila
+http://45.194.3.132:8080,PH,Makati City
+http://112.203.204.176:8082,PH,Quezon City
+http://112.211.38.208:8081,PH,Makati City
+http://180.191.142.94:8081,PH,Unknown
 http://124.217.77.233:8082,PH,Unknown
-http://180.190.186.161:8082,PH,Lahug
-http://124.83.118.156:8081,PH,Mabalacat
-http://8.220.141.8:8081,PH,Manila
-http://8.220.141.8:4145,PH,Manila
-http://122.52.234.54:8081,PH,San Pedro
+http://61.9.34.222:58765,PH,Unknown
+http://8.220.136.174:8091,PH,Manila
+http://180.191.255.109:8080,PH,General Trias
+http://49.147.76.124:8082,PH,Los Banos
+http://161.49.215.28:10101,PH,Angeles City
+http://122.54.226.216:8082,PH,Dulag
+http://119.93.123.229:4145,PH,Makati City
+http://58.69.201.117:8082,PH,Plaridel
+http://103.152.9.150:80,PH,Talavera
+http://45.194.3.119:8080,PH,Makati City
+http://123.253.137.3:8080,PH,Aroroy
+http://112.198.179.67:8080,PH,Carmona
+http://8.212.151.166:9050,PH,Manila
+http://143.44.191.108:8080,PH,Quezon
+http://8.220.189.51:8118,PH,Manila
+http://210.213.99.36:8081,PH,Catigbian
+http://180.191.22.50:4153,PH,Cabanatuan City
+http://119.93.151.254:8081,PH,Naga
+http://122.3.87.41:8080,PH,Plaridel
+http://112.198.138.29:8082,PH,General Trias
+http://112.208.162.30:8082,PH,Sucat
+http://119.93.129.34:80,PH,Pembo
+http://49.145.189.114:8081,PH,Cebu City
+http://8.212.165.164:999,PH,Manila
+http://161.49.91.13:1337,PH,Makati City
+http://112.203.56.161:8082,PH,Quezon City
+http://119.93.64.216:8082,PH,Paranaque City
+http://49.151.120.81:8080,PH,Baguio City
+http://122.2.79.174:8082,PH,Antipolo City
+http://124.106.88.13:5002,PH,Bacoor
+http://61.245.30.166:5050,PH,Unknown
+http://112.203.217.178:8082,PH,Quezon City
+http://124.217.78.107:8081,PH,Unknown
+http://112.202.247.125:8082,PH,Quezon City
+http://180.194.14.117:8081,PH,Cagayan de Oro
+http://112.202.40.128:8082,PH,Unknown

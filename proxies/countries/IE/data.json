@@ -403,16 +403,16 @@
     }
   },
   {
-    "proxy": "https://34.248.251.170:443",
-    "protocol": "https",
-    "ip": "34.248.251.170",
-    "port": 443,
-    "https": true,
+    "proxy": "socks4://89.124.81.186:1082",
+    "protocol": "socks4",
+    "ip": "89.124.81.186",
+    "port": 1082,
+    "https": false,
     "anonymity": "transparent",
     "score": 1,
     "geolocation": {
       "country": "IE",
-      "city": "Dublin"
+      "city": "Unknown"
     }
   },
   {
@@ -520,10 +520,10 @@
     }
   },
   {
-    "proxy": "http://212.147.232.251:80",
+    "proxy": "http://87.192.233.75:3128",
     "protocol": "http",
-    "ip": "212.147.232.251",
-    "port": 80,
+    "ip": "87.192.233.75",
+    "port": 3128,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
@@ -533,10 +533,10 @@
     }
   },
   {
-    "proxy": "http://87.192.231.122:3128",
+    "proxy": "http://89.124.81.186:1082",
     "protocol": "http",
-    "ip": "87.192.231.122",
-    "port": 3128,
+    "ip": "89.124.81.186",
+    "port": 1082,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
