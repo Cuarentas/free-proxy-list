@@ -1,5 +1,70 @@
 [
   {
+    "proxy": "socks4://134.35.237.180:1080",
+    "protocol": "socks4",
+    "ip": "134.35.237.180",
+    "port": 1080,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "YE",
+      "city": "Sanaa"
+    }
+  },
+  {
+    "proxy": "socks4://134.35.217.157:1080",
+    "protocol": "socks4",
+    "ip": "134.35.217.157",
+    "port": 1080,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "YE",
+      "city": "Sanaa Governorate"
+    }
+  },
+  {
+    "proxy": "socks4://213.246.8.19:1080",
+    "protocol": "socks4",
+    "ip": "213.246.8.19",
+    "port": 1080,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "YE",
+      "city": "Mafhaq"
+    }
+  },
+  {
+    "proxy": "socks4://134.35.234.101:1080",
+    "protocol": "socks4",
+    "ip": "134.35.234.101",
+    "port": 1080,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "YE",
+      "city": "Sanaa"
+    }
+  },
+  {
+    "proxy": "socks4://213.246.30.109:1080",
+    "protocol": "socks4",
+    "ip": "213.246.30.109",
+    "port": 1080,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "YE",
+      "city": "Sanaa"
+    }
+  },
+  {
     "proxy": "socks5://78.137.88.66:10800",
     "protocol": "socks5",
     "ip": "78.137.88.66",
@@ -13,16 +78,29 @@
     }
   },
   {
-    "proxy": "http://38.43.88.102:999",
+    "proxy": "http://134.35.201.158:1080",
     "protocol": "http",
-    "ip": "38.43.88.102",
-    "port": 999,
+    "ip": "134.35.201.158",
+    "port": 1080,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
     "geolocation": {
       "country": "YE",
-      "city": "Aden"
+      "city": "Sanaa"
+    }
+  },
+  {
+    "proxy": "http://134.35.204.17:1080",
+    "protocol": "http",
+    "ip": "134.35.204.17",
+    "port": 1080,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "YE",
+      "city": "Sanaa"
     }
   }
 ]
