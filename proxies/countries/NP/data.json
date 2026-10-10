@@ -13,6 +13,45 @@
     }
   },
   {
+    "proxy": "socks4://202.79.47.159:10800",
+    "protocol": "socks4",
+    "ip": "202.79.47.159",
+    "port": 10800,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "NP",
+      "city": "Kathmandu"
+    }
+  },
+  {
+    "proxy": "socks4://202.70.80.153:5678",
+    "protocol": "socks4",
+    "ip": "202.70.80.153",
+    "port": 5678,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "NP",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "socks4://202.79.35.12:1080",
+    "protocol": "socks4",
+    "ip": "202.79.35.12",
+    "port": 1080,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "NP",
+      "city": "Kathmandu"
+    }
+  },
+  {
     "proxy": "socks4://182.93.75.162:1080",
     "protocol": "socks4",
     "ip": "182.93.75.162",
@@ -23,6 +62,19 @@
     "geolocation": {
       "country": "NP",
       "city": "Madanpokhara"
+    }
+  },
+  {
+    "proxy": "socks4://103.154.47.205:1080",
+    "protocol": "socks4",
+    "ip": "103.154.47.205",
+    "port": 1080,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "NP",
+      "city": "Unknown"
     }
   },
   {
@@ -39,10 +91,36 @@
     }
   },
   {
-    "proxy": "socks4://202.166.219.80:4153",
-    "protocol": "socks4",
-    "ip": "202.166.219.80",
-    "port": 4153,
+    "proxy": "http://103.124.97.12:8080",
+    "protocol": "http",
+    "ip": "103.124.97.12",
+    "port": 8080,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "NP",
+      "city": "Kaski"
+    }
+  },
+  {
+    "proxy": "http://103.232.228.138:8080",
+    "protocol": "http",
+    "ip": "103.232.228.138",
+    "port": 8080,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "NP",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "http://110.34.1.180:32650",
+    "protocol": "http",
+    "ip": "110.34.1.180",
+    "port": 32650,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
@@ -52,22 +130,9 @@
     }
   },
   {
-    "proxy": "socks5://124.41.225.101:1080",
-    "protocol": "socks5",
-    "ip": "124.41.225.101",
-    "port": 1080,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "NP",
-      "city": "Jāwalākhel"
-    }
-  },
-  {
-    "proxy": "http://36.253.25.10:8181",
+    "proxy": "http://36.253.25.11:8181",
     "protocol": "http",
-    "ip": "36.253.25.10",
+    "ip": "36.253.25.11",
     "port": 8181,
     "https": false,
     "anonymity": "transparent",
@@ -78,23 +143,10 @@
     }
   },
   {
-    "proxy": "http://110.34.8.110:8080",
-    "protocol": "http",
-    "ip": "110.34.8.110",
-    "port": 8080,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "NP",
-      "city": "Kathmandu"
-    }
-  },
-  {
-    "proxy": "http://110.34.1.180:32650",
-    "protocol": "http",
-    "ip": "110.34.1.180",
-    "port": 32650,
+    "proxy": "socks4://202.166.219.80:4153",
+    "protocol": "socks4",
+    "ip": "202.166.219.80",
+    "port": 4153,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
@@ -117,10 +169,10 @@
     }
   },
   {
-    "proxy": "http://118.91.175.146:5678",
+    "proxy": "http://36.253.25.10:8181",
     "protocol": "http",
-    "ip": "118.91.175.146",
-    "port": 5678,
+    "ip": "36.253.25.10",
+    "port": 8181,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
@@ -130,10 +182,36 @@
     }
   },
   {
-    "proxy": "http://103.86.57.9:4145",
+    "proxy": "socks5://124.41.225.101:1080",
+    "protocol": "socks5",
+    "ip": "124.41.225.101",
+    "port": 1080,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "NP",
+      "city": "Jāwalākhel"
+    }
+  },
+  {
+    "proxy": "http://43.245.95.178:53805",
     "protocol": "http",
-    "ip": "103.86.57.9",
-    "port": 4145,
+    "ip": "43.245.95.178",
+    "port": 53805,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "NP",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "http://43.245.93.193:53805",
+    "protocol": "http",
+    "ip": "43.245.93.193",
+    "port": 53805,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
@@ -156,55 +234,29 @@
     }
   },
   {
-    "proxy": "http://202.70.80.153:5678",
+    "proxy": "http://124.41.225.101:1080",
     "protocol": "http",
-    "ip": "202.70.80.153",
-    "port": 5678,
+    "ip": "124.41.225.101",
+    "port": 1080,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
     "geolocation": {
       "country": "NP",
-      "city": "Unknown"
+      "city": "Jāwalākhel"
     }
   },
   {
-    "proxy": "http://202.166.196.105:48293",
+    "proxy": "http://202.79.35.143:4153",
     "protocol": "http",
-    "ip": "202.166.196.105",
-    "port": 48293,
+    "ip": "202.79.35.143",
+    "port": 4153,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
     "geolocation": {
       "country": "NP",
       "city": "Kathmandu"
-    }
-  },
-  {
-    "proxy": "http://139.5.75.83:8080",
-    "protocol": "http",
-    "ip": "139.5.75.83",
-    "port": 8080,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "NP",
-      "city": "Unknown"
-    }
-  },
-  {
-    "proxy": "http://116.90.234.106:8080",
-    "protocol": "http",
-    "ip": "116.90.234.106",
-    "port": 8080,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "NP",
-      "city": "Unknown"
     }
   }
 ]
