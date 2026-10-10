@@ -13,19 +13,6 @@
     }
   },
   {
-    "proxy": "socks4://45.163.207.18:1080",
-    "protocol": "socks4",
-    "ip": "45.163.207.18",
-    "port": 1080,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "EC",
-      "city": "Ventanas"
-    }
-  },
-  {
     "proxy": "https://186.46.220.117:443",
     "protocol": "https",
     "ip": "186.46.220.117",
@@ -52,6 +39,19 @@
     }
   },
   {
+    "proxy": "http://177.234.217.236:999",
+    "protocol": "http",
+    "ip": "177.234.217.236",
+    "port": 999,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "EC",
+      "city": "Quito"
+    }
+  },
+  {
     "proxy": "http://177.234.217.88:999",
     "protocol": "http",
     "ip": "177.234.217.88",
@@ -65,36 +65,10 @@
     }
   },
   {
-    "proxy": "http://177.234.199.88:999",
+    "proxy": "http://200.24.152.222:999",
     "protocol": "http",
-    "ip": "177.234.199.88",
+    "ip": "200.24.152.222",
     "port": 999,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "EC",
-      "city": "Shushufindi"
-    }
-  },
-  {
-    "proxy": "http://190.12.150.244:999",
-    "protocol": "http",
-    "ip": "190.12.150.244",
-    "port": 999,
-    "https": false,
-    "anonymity": "elite",
-    "score": 1,
-    "geolocation": {
-      "country": "EC",
-      "city": "Unknown"
-    }
-  },
-  {
-    "proxy": "http://200.24.153.79:8080",
-    "protocol": "http",
-    "ip": "200.24.153.79",
-    "port": 8080,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
@@ -104,35 +78,9 @@
     }
   },
   {
-    "proxy": "http://131.196.13.233:999",
+    "proxy": "http://177.234.221.203:999",
     "protocol": "http",
-    "ip": "131.196.13.233",
-    "port": 999,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "EC",
-      "city": "Quito"
-    }
-  },
-  {
-    "proxy": "http://177.53.215.196:1812",
-    "protocol": "http",
-    "ip": "177.53.215.196",
-    "port": 1812,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "EC",
-      "city": "Quito"
-    }
-  },
-  {
-    "proxy": "http://177.234.221.197:999",
-    "protocol": "http",
-    "ip": "177.234.221.197",
+    "ip": "177.234.221.203",
     "port": 999,
     "https": false,
     "anonymity": "transparent",
@@ -143,22 +91,9 @@
     }
   },
   {
-    "proxy": "http://181.78.195.137:999",
+    "proxy": "http://190.12.150.244:999",
     "protocol": "http",
-    "ip": "181.78.195.137",
-    "port": 999,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "EC",
-      "city": "Guayaquil"
-    }
-  },
-  {
-    "proxy": "http://181.224.175.200:999",
-    "protocol": "http",
-    "ip": "181.224.175.200",
+    "ip": "190.12.150.244",
     "port": 999,
     "https": false,
     "anonymity": "transparent",
@@ -166,6 +101,45 @@
     "geolocation": {
       "country": "EC",
       "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "http://181.198.66.34:999",
+    "protocol": "http",
+    "ip": "181.198.66.34",
+    "port": 999,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "EC",
+      "city": "Quito"
+    }
+  },
+  {
+    "proxy": "http://177.234.222.106:999",
+    "protocol": "http",
+    "ip": "177.234.222.106",
+    "port": 999,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "EC",
+      "city": "Portoviejo"
+    }
+  },
+  {
+    "proxy": "http://181.188.203.112:999",
+    "protocol": "http",
+    "ip": "181.188.203.112",
+    "port": 999,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "EC",
+      "city": "Guayaquil"
     }
   },
   {
@@ -182,42 +156,94 @@
     }
   },
   {
-    "proxy": "http://45.71.186.212:999",
+    "proxy": "http://181.78.195.137:999",
     "protocol": "http",
-    "ip": "45.71.186.212",
+    "ip": "181.78.195.137",
     "port": 999,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
     "geolocation": {
       "country": "EC",
-      "city": "Quevedo"
+      "city": "Guayaquil"
     }
   },
   {
-    "proxy": "http://177.234.236.133:8080",
+    "proxy": "http://186.101.251.197:8080",
     "protocol": "http",
-    "ip": "177.234.236.133",
+    "ip": "186.101.251.197",
     "port": 8080,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
     "geolocation": {
       "country": "EC",
-      "city": "Machala"
+      "city": "Guayaquil"
     }
   },
   {
-    "proxy": "http://177.234.208.111:999",
+    "proxy": "http://177.234.211.175:999",
     "protocol": "http",
-    "ip": "177.234.208.111",
+    "ip": "177.234.211.175",
     "port": 999,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
     "geolocation": {
       "country": "EC",
-      "city": "Samborondon"
+      "city": "Guayaquil"
+    }
+  },
+  {
+    "proxy": "http://177.234.217.43:999",
+    "protocol": "http",
+    "ip": "177.234.217.43",
+    "port": 999,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "EC",
+      "city": "Quito"
+    }
+  },
+  {
+    "proxy": "http://201.219.22.2:3128",
+    "protocol": "http",
+    "ip": "201.219.22.2",
+    "port": 3128,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "EC",
+      "city": "Quito"
+    }
+  },
+  {
+    "proxy": "http://186.5.94.216:999",
+    "protocol": "http",
+    "ip": "186.5.94.216",
+    "port": 999,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "EC",
+      "city": "Guayaquil"
+    }
+  },
+  {
+    "proxy": "http://186.5.94.207:999",
+    "protocol": "http",
+    "ip": "186.5.94.207",
+    "port": 999,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "EC",
+      "city": "Guayaquil"
     }
   },
   {
@@ -234,107 +260,16 @@
     }
   },
   {
-    "proxy": "http://177.234.217.45:999",
+    "proxy": "http://177.234.221.200:999",
     "protocol": "http",
-    "ip": "177.234.217.45",
+    "ip": "177.234.221.200",
     "port": 999,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
     "geolocation": {
       "country": "EC",
-      "city": "Quito"
-    }
-  },
-  {
-    "proxy": "http://181.198.75.186:999",
-    "protocol": "http",
-    "ip": "181.198.75.186",
-    "port": 999,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "EC",
-      "city": "Hacienda Santa Isabel"
-    }
-  },
-  {
-    "proxy": "http://45.71.186.210:999",
-    "protocol": "http",
-    "ip": "45.71.186.210",
-    "port": 999,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "EC",
-      "city": "Quevedo"
-    }
-  },
-  {
-    "proxy": "http://45.71.186.213:999",
-    "protocol": "http",
-    "ip": "45.71.186.213",
-    "port": 999,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "EC",
-      "city": "Quevedo"
-    }
-  },
-  {
-    "proxy": "http://157.100.12.149:999",
-    "protocol": "http",
-    "ip": "157.100.12.149",
-    "port": 999,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "EC",
-      "city": "Guayaquil"
-    }
-  },
-  {
-    "proxy": "http://45.4.202.147:999",
-    "protocol": "http",
-    "ip": "45.4.202.147",
-    "port": 999,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "EC",
-      "city": "Guayaquil"
-    }
-  },
-  {
-    "proxy": "http://177.234.234.251:999",
-    "protocol": "http",
-    "ip": "177.234.234.251",
-    "port": 999,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "EC",
-      "city": "Quito"
-    }
-  },
-  {
-    "proxy": "http://177.234.211.205:999",
-    "protocol": "http",
-    "ip": "177.234.211.205",
-    "port": 999,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "EC",
-      "city": "Guayaquil"
+      "city": "Huaquillas"
     }
   },
   {
@@ -351,22 +286,22 @@
     }
   },
   {
-    "proxy": "http://177.234.222.109:999",
+    "proxy": "http://200.24.148.21:999",
     "protocol": "http",
-    "ip": "177.234.222.109",
+    "ip": "200.24.148.21",
     "port": 999,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
     "geolocation": {
       "country": "EC",
-      "city": "Portoviejo"
+      "city": "Machala"
     }
   },
   {
-    "proxy": "http://181.78.207.50:999",
+    "proxy": "http://157.100.12.154:999",
     "protocol": "http",
-    "ip": "181.78.207.50",
+    "ip": "157.100.12.154",
     "port": 999,
     "https": false,
     "anonymity": "transparent",
@@ -377,22 +312,9 @@
     }
   },
   {
-    "proxy": "http://45.71.186.211:999",
+    "proxy": "http://200.107.206.115:999",
     "protocol": "http",
-    "ip": "45.71.186.211",
-    "port": 999,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "EC",
-      "city": "Quevedo"
-    }
-  },
-  {
-    "proxy": "http://200.107.206.112:999",
-    "protocol": "http",
-    "ip": "200.107.206.112",
+    "ip": "200.107.206.115",
     "port": 999,
     "https": false,
     "anonymity": "transparent",
@@ -403,9 +325,35 @@
     }
   },
   {
-    "proxy": "http://177.234.221.200:999",
+    "proxy": "http://200.24.147.66:999",
     "protocol": "http",
-    "ip": "177.234.221.200",
+    "ip": "200.24.147.66",
+    "port": 999,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "EC",
+      "city": "Esmeraldas"
+    }
+  },
+  {
+    "proxy": "http://45.185.163.235:999",
+    "protocol": "http",
+    "ip": "45.185.163.235",
+    "port": 999,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "EC",
+      "city": "Guayaquil"
+    }
+  },
+  {
+    "proxy": "http://177.234.221.197:999",
+    "protocol": "http",
+    "ip": "177.234.221.197",
     "port": 999,
     "https": false,
     "anonymity": "transparent",
@@ -416,9 +364,9 @@
     }
   },
   {
-    "proxy": "http://177.234.221.202:999",
+    "proxy": "http://177.234.221.204:999",
     "protocol": "http",
-    "ip": "177.234.221.202",
+    "ip": "177.234.221.204",
     "port": 999,
     "https": false,
     "anonymity": "transparent",
@@ -426,6 +374,58 @@
     "geolocation": {
       "country": "EC",
       "city": "Huaquillas"
+    }
+  },
+  {
+    "proxy": "http://177.234.217.235:999",
+    "protocol": "http",
+    "ip": "177.234.217.235",
+    "port": 999,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "EC",
+      "city": "Quito"
+    }
+  },
+  {
+    "proxy": "http://45.71.186.212:999",
+    "protocol": "http",
+    "ip": "45.71.186.212",
+    "port": 999,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "EC",
+      "city": "Quevedo"
+    }
+  },
+  {
+    "proxy": "http://200.107.206.113:999",
+    "protocol": "http",
+    "ip": "200.107.206.113",
+    "port": 999,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "EC",
+      "city": "Quito"
+    }
+  },
+  {
+    "proxy": "http://177.234.236.96:999",
+    "protocol": "http",
+    "ip": "177.234.236.96",
+    "port": 999,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "EC",
+      "city": "Machala"
     }
   },
   {
@@ -442,16 +442,29 @@
     }
   },
   {
-    "proxy": "http://200.24.152.222:999",
+    "proxy": "http://164.163.133.158:999",
     "protocol": "http",
-    "ip": "200.24.152.222",
+    "ip": "164.163.133.158",
     "port": 999,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
     "geolocation": {
       "country": "EC",
-      "city": "Portoviejo"
+      "city": "Esmeraldas"
+    }
+  },
+  {
+    "proxy": "http://177.53.215.196:1812",
+    "protocol": "http",
+    "ip": "177.53.215.196",
+    "port": 1812,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "EC",
+      "city": "Quito"
     }
   },
   {
@@ -491,6 +504,19 @@
     "geolocation": {
       "country": "EC",
       "city": "Loja"
+    }
+  },
+  {
+    "proxy": "http://177.234.236.133:8080",
+    "protocol": "http",
+    "ip": "177.234.236.133",
+    "port": 8080,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "EC",
+      "city": "Machala"
     }
   },
   {
@@ -536,6 +562,19 @@
     "proxy": "http://45.70.236.194:999",
     "protocol": "http",
     "ip": "45.70.236.194",
+    "port": 999,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "EC",
+      "city": "Quevedo"
+    }
+  },
+  {
+    "proxy": "http://45.71.186.213:999",
+    "protocol": "http",
+    "ip": "45.71.186.213",
     "port": 999,
     "https": false,
     "anonymity": "transparent",
@@ -611,19 +650,6 @@
     }
   },
   {
-    "proxy": "http://164.163.133.158:999",
-    "protocol": "http",
-    "ip": "164.163.133.158",
-    "port": 999,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "EC",
-      "city": "Esmeraldas"
-    }
-  },
-  {
     "proxy": "http://181.39.22.163:1994",
     "protocol": "http",
     "ip": "181.39.22.163",
@@ -650,16 +676,94 @@
     }
   },
   {
-    "proxy": "http://177.234.221.196:999",
+    "proxy": "http://177.234.217.45:999",
     "protocol": "http",
-    "ip": "177.234.221.196",
+    "ip": "177.234.217.45",
     "port": 999,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
     "geolocation": {
       "country": "EC",
-      "city": "Huaquillas"
+      "city": "Quito"
+    }
+  },
+  {
+    "proxy": "http://177.234.212.132:999",
+    "protocol": "http",
+    "ip": "177.234.212.132",
+    "port": 999,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "EC",
+      "city": "Pichincha"
+    }
+  },
+  {
+    "proxy": "http://177.234.192.68:999",
+    "protocol": "http",
+    "ip": "177.234.192.68",
+    "port": 999,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "EC",
+      "city": "Quevedo"
+    }
+  },
+  {
+    "proxy": "http://157.100.56.12:8080",
+    "protocol": "http",
+    "ip": "157.100.56.12",
+    "port": 8080,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "EC",
+      "city": "Loja"
+    }
+  },
+  {
+    "proxy": "http://181.78.205.7:999",
+    "protocol": "http",
+    "ip": "181.78.205.7",
+    "port": 999,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "EC",
+      "city": "Guayaquil"
+    }
+  },
+  {
+    "proxy": "http://186.5.121.106:999",
+    "protocol": "http",
+    "ip": "186.5.121.106",
+    "port": 999,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "EC",
+      "city": "Puerto Francisco de Orellana"
+    }
+  },
+  {
+    "proxy": "http://177.234.226.83:1994",
+    "protocol": "http",
+    "ip": "177.234.226.83",
+    "port": 1994,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "EC",
+      "city": "Manta"
     }
   },
   {
@@ -676,22 +780,22 @@
     }
   },
   {
-    "proxy": "http://181.188.203.40:999",
+    "proxy": "http://177.234.221.194:999",
     "protocol": "http",
-    "ip": "181.188.203.40",
+    "ip": "177.234.221.194",
     "port": 999,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
     "geolocation": {
       "country": "EC",
-      "city": "Guayaquil"
+      "city": "Huaquillas"
     }
   },
   {
-    "proxy": "http://177.234.217.235:999",
+    "proxy": "http://177.234.217.46:999",
     "protocol": "http",
-    "ip": "177.234.217.235",
+    "ip": "177.234.217.46",
     "port": 999,
     "https": false,
     "anonymity": "transparent",
@@ -699,6 +803,32 @@
     "geolocation": {
       "country": "EC",
       "city": "Quito"
+    }
+  },
+  {
+    "proxy": "http://45.71.186.214:999",
+    "protocol": "http",
+    "ip": "45.71.186.214",
+    "port": 999,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "EC",
+      "city": "Quevedo"
+    }
+  },
+  {
+    "proxy": "http://45.71.186.210:999",
+    "protocol": "http",
+    "ip": "45.71.186.210",
+    "port": 999,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "EC",
+      "city": "Quevedo"
     }
   }
 ]

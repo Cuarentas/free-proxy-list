@@ -1,9 +1,12 @@
 https://181.126.49.38:443,PY,Ita
 https://190.128.253.82:8444,PY,Asunción
+http://181.78.27.39:999,PY,Asunción
+socks4://190.104.143.94:4153,PY,Asunción
+http://201.222.50.218:80,PY,Asunción
 socks5://181.94.197.37:13049,PY,Asunción
 socks5://143.202.210.76:1080,PY,Asunción
-http://201.222.50.218:80,PY,Asunción
-http://181.233.100.100:8080,PY,Unknown
+http://181.78.94.23:9991,PY,Asunción
+http://160.238.185.192:999,PY,Santa Rita
 http://190.110.226.122:80,PY,Asunción
 http://138.186.63.138:80,PY,Asunción
 http://181.94.197.37:13049,PY,Asunción
