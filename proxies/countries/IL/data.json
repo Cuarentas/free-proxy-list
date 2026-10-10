@@ -130,45 +130,6 @@
     }
   },
   {
-    "proxy": "http://51.17.99.135:4713",
-    "protocol": "http",
-    "ip": "51.17.99.135",
-    "port": 4713,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "IL",
-      "city": "Tel Aviv"
-    }
-  },
-  {
-    "proxy": "http://147.236.181.86:50009",
-    "protocol": "http",
-    "ip": "147.236.181.86",
-    "port": 50009,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "IL",
-      "city": "'Ezer"
-    }
-  },
-  {
-    "proxy": "http://51.17.99.135:10000",
-    "protocol": "http",
-    "ip": "51.17.99.135",
-    "port": 10000,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "IL",
-      "city": "Tel Aviv"
-    }
-  },
-  {
     "proxy": "http://80.65.211.149:8888",
     "protocol": "http",
     "ip": "80.65.211.149",
@@ -192,6 +153,19 @@
     "geolocation": {
       "country": "IL",
       "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "http://31.168.143.90:1080",
+    "protocol": "http",
+    "ip": "31.168.143.90",
+    "port": 1080,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "IL",
+      "city": "Bet Shemesh"
     }
   }
 ]

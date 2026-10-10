@@ -1,28 +1,41 @@
 [
   {
-    "proxy": "https://95.153.32.2:9443",
+    "proxy": "socks4://185.157.111.3:5678",
+    "protocol": "socks4",
+    "ip": "185.157.111.3",
+    "port": 5678,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "EE",
+      "city": "Kanepi"
+    }
+  },
+  {
+    "proxy": "https://95.153.31.66:9443",
     "protocol": "https",
-    "ip": "95.153.32.2",
+    "ip": "95.153.31.66",
     "port": 9443,
     "https": true,
     "anonymity": "transparent",
     "score": 1,
     "geolocation": {
       "country": "EE",
-      "city": "Tapa"
+      "city": "Tallinn"
     }
   },
   {
-    "proxy": "https://95.153.32.2:443",
+    "proxy": "https://95.153.31.66:443",
     "protocol": "https",
-    "ip": "95.153.32.2",
+    "ip": "95.153.31.66",
     "port": 443,
     "https": true,
     "anonymity": "transparent",
     "score": 1,
     "geolocation": {
       "country": "EE",
-      "city": "Tapa"
+      "city": "Tallinn"
     }
   },
   {
@@ -36,19 +49,6 @@
     "geolocation": {
       "country": "EE",
       "city": "Unknown"
-    }
-  },
-  {
-    "proxy": "http://5.45.126.128:8080",
-    "protocol": "http",
-    "ip": "5.45.126.128",
-    "port": 8080,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "EE",
-      "city": "Jõhvi"
     }
   },
   {
@@ -117,6 +117,19 @@
     }
   },
   {
+    "proxy": "http://5.45.126.128:8080",
+    "protocol": "http",
+    "ip": "5.45.126.128",
+    "port": 8080,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "EE",
+      "city": "Jõhvi"
+    }
+  },
+  {
     "proxy": "http://185.157.111.3:5678",
     "protocol": "http",
     "ip": "185.157.111.3",
@@ -130,16 +143,16 @@
     }
   },
   {
-    "proxy": "http://80.79.123.97:9050",
+    "proxy": "http://193.42.112.26:8080",
     "protocol": "http",
-    "ip": "80.79.123.97",
-    "port": 9050,
+    "ip": "193.42.112.26",
+    "port": 8080,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
     "geolocation": {
       "country": "EE",
-      "city": "Unknown"
+      "city": "Tallinn"
     }
   }
 ]

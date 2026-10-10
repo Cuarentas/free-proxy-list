@@ -1,18 +1,5 @@
 [
   {
-    "proxy": "socks4://83.218.186.22:5678",
-    "protocol": "socks4",
-    "ip": "83.218.186.22",
-    "port": 5678,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "AT",
-      "city": "Unknown"
-    }
-  },
-  {
     "proxy": "https://195.192.209.130:443",
     "protocol": "https",
     "ip": "195.192.209.130",
@@ -205,6 +192,19 @@
     "geolocation": {
       "country": "AT",
       "city": "Vienna"
+    }
+  },
+  {
+    "proxy": "http://178.189.56.158:4153",
+    "protocol": "http",
+    "ip": "178.189.56.158",
+    "port": 4153,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "AT",
+      "city": "Ramsau am Dachstein"
     }
   },
   {
