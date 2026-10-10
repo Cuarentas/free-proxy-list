@@ -24,5 +24,31 @@
       "country": "MA",
       "city": "Casablanca"
     }
+  },
+  {
+    "proxy": "http://196.65.69.168:3129",
+    "protocol": "http",
+    "ip": "196.65.69.168",
+    "port": 3129,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "MA",
+      "city": "Beni Mellal"
+    }
+  },
+  {
+    "proxy": "http://105.154.100.80:5001",
+    "protocol": "http",
+    "ip": "105.154.100.80",
+    "port": 5001,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "MA",
+      "city": "Tissa"
+    }
   }
 ]

@@ -13,19 +13,6 @@
     }
   },
   {
-    "proxy": "socks4://81.12.157.98:5678",
-    "protocol": "socks4",
-    "ip": "81.12.157.98",
-    "port": 5678,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "RO",
-      "city": "Făgăraș"
-    }
-  },
-  {
     "proxy": "https://193.176.84.34:9002",
     "protocol": "https",
     "ip": "193.176.84.34",
@@ -663,10 +650,10 @@
     }
   },
   {
-    "proxy": "socks4://93.115.174.1:1080",
-    "protocol": "socks4",
-    "ip": "93.115.174.1",
-    "port": 1080,
+    "proxy": "http://45.80.151.33:3128",
+    "protocol": "http",
+    "ip": "45.80.151.33",
+    "port": 3128,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
@@ -689,10 +676,10 @@
     }
   },
   {
-    "proxy": "http://45.80.151.33:3128",
-    "protocol": "http",
-    "ip": "45.80.151.33",
-    "port": 3128,
+    "proxy": "socks5://217.156.65.66:11080",
+    "protocol": "socks5",
+    "ip": "217.156.65.66",
+    "port": 11080,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
@@ -706,32 +693,6 @@
     "protocol": "socks5",
     "ip": "217.156.65.66",
     "port": 1080,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "RO",
-      "city": "Unknown"
-    }
-  },
-  {
-    "proxy": "http://5.253.191.115:8090",
-    "protocol": "http",
-    "ip": "5.253.191.115",
-    "port": 8090,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "RO",
-      "city": "Mediaş"
-    }
-  },
-  {
-    "proxy": "socks5://217.156.65.66:11080",
-    "protocol": "socks5",
-    "ip": "217.156.65.66",
-    "port": 11080,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
@@ -962,36 +923,36 @@
     }
   },
   {
-    "proxy": "http://92.86.207.198:8080",
+    "proxy": "http://5.253.191.115:8080",
     "protocol": "http",
-    "ip": "92.86.207.198",
+    "ip": "5.253.191.115",
     "port": 8080,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
     "geolocation": {
       "country": "RO",
-      "city": "Giroc"
+      "city": "Mediaş"
     }
   },
   {
-    "proxy": "http://188.211.30.65:8787",
+    "proxy": "http://86.125.19.21:8080",
     "protocol": "http",
-    "ip": "188.211.30.65",
-    "port": 8787,
+    "ip": "86.125.19.21",
+    "port": 8080,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
     "geolocation": {
       "country": "RO",
-      "city": "Românești"
+      "city": "Craiova"
     }
   },
   {
-    "proxy": "http://81.12.169.254:4153",
+    "proxy": "http://154.6.127.236:5707",
     "protocol": "http",
-    "ip": "81.12.169.254",
-    "port": 4153,
+    "ip": "154.6.127.236",
+    "port": 5707,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
@@ -1001,16 +962,29 @@
     }
   },
   {
-    "proxy": "http://185.128.240.2:3129",
+    "proxy": "http://81.12.157.98:5678",
     "protocol": "http",
-    "ip": "185.128.240.2",
-    "port": 3129,
+    "ip": "81.12.157.98",
+    "port": 5678,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
     "geolocation": {
       "country": "RO",
-      "city": "Cerneți"
+      "city": "Făgăraș"
+    }
+  },
+  {
+    "proxy": "http://5.253.191.115:80",
+    "protocol": "http",
+    "ip": "5.253.191.115",
+    "port": 80,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "RO",
+      "city": "Mediaş"
     }
   }
 ]
