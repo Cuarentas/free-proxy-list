@@ -286,6 +286,19 @@
     }
   },
   {
+    "proxy": "socks4://130.193.123.34:5678",
+    "protocol": "socks4",
+    "ip": "130.193.123.34",
+    "port": 5678,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "AM",
+      "city": "Yerevan"
+    }
+  },
+  {
     "proxy": "socks5://46.226.165.82:8443",
     "protocol": "socks5",
     "ip": "46.226.165.82",
@@ -312,23 +325,10 @@
     }
   },
   {
-    "proxy": "http://130.193.123.34:5678",
+    "proxy": "http://89.249.192.245:6644",
     "protocol": "http",
-    "ip": "130.193.123.34",
-    "port": 5678,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "AM",
-      "city": "Yerevan"
-    }
-  },
-  {
-    "proxy": "http://89.249.193.43:5781",
-    "protocol": "http",
-    "ip": "89.249.193.43",
-    "port": 5781,
+    "ip": "89.249.192.245",
+    "port": 6644,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
@@ -351,10 +351,36 @@
     }
   },
   {
-    "proxy": "http://89.249.192.53:6452",
+    "proxy": "http://81.16.9.222:3629",
     "protocol": "http",
-    "ip": "89.249.192.53",
-    "port": 6452,
+    "ip": "81.16.9.222",
+    "port": 3629,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "AM",
+      "city": "Yerevan"
+    }
+  },
+  {
+    "proxy": "http://109.75.42.82:3629",
+    "protocol": "http",
+    "ip": "109.75.42.82",
+    "port": 3629,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "AM",
+      "city": "Yerevan"
+    }
+  },
+  {
+    "proxy": "http://45.133.107.238:81",
+    "protocol": "http",
+    "ip": "45.133.107.238",
+    "port": 81,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
